@@ -1,0 +1,36 @@
+{{Character
+| Title =[[File:Greyjoy.JPG|40px|left|link=House Greyjoy]] Wex [[File:Greyjoy.JPG|40px|right|link=House Greyjoy]]
+| Image= 
+| Season = [[Season 2|2]]
+| Appearances="[[Valar Morghulis]]"
+| Aka= 
+| Status= [[:Category:Status: Dead|Dead]]
+| Age=
+| Birth= 
+| Death= Flayed alive by [[Ramsay Snow]]
+| DeathEp= 
+| Place= The [[Iron Islands]]
+| Allegiance = [[House Greyjoy]]
+| Family=
+| Actor = }}
+{{Quote|Wex and Urzen....Ironborn warriors will call out our names as they leap onto the shores of Seagard and Bear Castle.|Theon's speech at Winterfell|Valar Morghulis}}
+
+'''Wex''' is a background character in the [[Season 2|second season]]. He is played by an unidentified extra and debuts in "[[Valar Morghulis]]". Wex is an [[ironborn]] raider and member of the ''[[Sea Bitch]]'' crew.
+
+==Biography==
+
+===[[Season 2]]===
+Wex is present when Theon gives a speech encouraging his crew to resist the Northmen led by [[Ramsay Snow]] and die a glorious death.<ref>"[[Valar Morghulis]]"</ref>
+
+==Appearances==
+{{Season Two Appearances|10=yes}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the only Wex is Wex Pyke, the bastard son of Lord Sargon Botley of [[Lordsport]]. He's twelve years old and born mute. He becomes Theon's squire as part of Theon's deal with Lord Botley to buy a horse from him. Wex goes with Theon on the raid of the [[Stony Shore]], the [[Fall of Winterfell|assault]] on Winterfell, and the hunt for Bran and Rickon. When Theon calls on his men to stand alongside him against the Northmen trying to retake the castle, Wex is the first to stand with him, shaming other men into agreeing to stay as well.
+
+==See also==
+* {{AWOIAF|Wex Pyke}} (MAJOR spoilers from the books)
+
+==References==
+{{Reflist}}
+{{Greyjoy navbox}}

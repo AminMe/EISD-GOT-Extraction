@@ -1,0 +1,113 @@
+{{Heraldry
+|leftimage=Gold Cloak shield icon.png
+|leftlink=City Watch
+|rightimage=Crow shield icon.png
+|rightlink=Night's Watch
+}}
+
+{{Character
+| Title=Janos Slynt
+| Image=S4 Slynt HD.png
+| Season=[[Season 1|1]], [[Season 2|2]], [[Season 4|4]], [[Season 5|5]]
+| First="[[Cripples, Bastards and Broken Things]]"
+| Last="[[High Sparrow (episode)|High Sparrow]]"
+| Appearances=15 episodes <small>([[#Appearances|see below]])</small>
+| Titles=[[Lord of Harrenhal]] (former) <br>[[Lord Commander]] of the [[City Watch]] (former)
+| Aka=
+| Status=[[:Category:Status: Dead|Deceased]]
+| Death=Beheaded for insubordination by [[Jon Snow]]
+| Place=[[King's Landing]]
+| Allegiance=[[House Baratheon of King's Landing]]<br>[[House Slynt]]<br>[[Night's Watch]]
+| Family=
+| Actor=[[Dominic Carter]]
+|DeathEp="[[High Sparrow (episode)|High Sparrow]]"}}
+
+{{Quote|I'm not questioning your honor, Lord Janos. I'm denying its existence.|[[Tyrion Lannister]]|The Night Lands}}
+
+'''Janos Slynt''' is a recurring character in the [[Season 1|first]], [[Season 2|second]], [[Season 4|fourth]] and [[Season 5|fifth]] seasons. He is played by guest star [[Dominic Carter]] and debuts in "[[Cripples, Bastards and Broken Things]]." Janos Slynt is the commander of the [[City Watch]] in [[King's Landing]]. He is named [[Lord of Harrenhal]] and becomes the founder of [[House Slynt]] for his service to King [[Joffrey Baratheon]] and the betrayal and arrest of [[Eddard Stark|Ned Stark]]. He is exiled to the [[Night's Watch]] by the acting [[Hand of the King]], [[Tyrion Lannister]], for leading the [[Massacre in King's Landing|massacre]] of King [[Robert Baratheon]]'s bastard children, but he is ultimately executed for insubordination by [[Jon Snow]].
+
+==Biography==
+===Background===
+Janos Slynt is the commander of the [[King's Landing]] [[City Watch]] (also called the "Gold Cloaks"), with almost two thousand men under his command. He is charged with keeping peace and order in the city and quelling unrest.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/jbaratheon/janos-slynt/ HBO viewers guide, season 2 guide to houses, House Baratheon of King's Landing - Janos Slynt entry]</ref>
+
+===[[Season 1]]===
+[[File:JanosSlynt.jpg|thumb|Slynt commanding the [[City Watch]] in the throne room in "[[You Win or You Die]]".]]
+Janos reports to the [[small council]] about the disruptions to the city caused by the [[tournament]] to celebrate Lord [[Eddard Stark]]'s appointment. Lord [[Renly Baratheon]] suggests dismissing Janos in favor of someone more competent, but Janos angrily replies he doesn't have enough resources. Eddard offers him twenty of his household guard and commands [[Littlefinger]] to find gold to pay for an expansion of the City Watch by another fifty men.<ref>"[[Cripples, Bastards and Broken Things]]"</ref>
+
+After Eddard resolves to expose [[Joffrey Baratheon]]'s true birth, he asks for the help of the City Watch. Littlefinger agrees to bribe them into supporting Eddard's plan. Janos tells Eddard that they are with him, but is then seen exchanging looks with Queen [[Cersei Lannister|Cersei]]. During the confrontation, the City Watch turns on Eddard and kills his men, allowing him to be taken prisoner.<ref>"[[You Win or You Die]]"</ref> Following Lord Stark's arrest, Janos is named the new Lord of [[Harrenhal]] and head of [[House Slynt]] by King Joffrey, as a reward for his loyalty.<ref>"[[The Pointy End]]"</ref> He also attends the execution of Lord Stark.
+
+=== [[Season 2]] ===
+[[File:JanosSlynt.png|thumb|left|Janos Slynt about to kill the baby [[Barra]] in "[[The North Remembers]]".]]
+Lord Janos has been given a place in the [[small council]]. During a session that coincides with King [[Joffrey Baratheon]]'s sixteenth nameday and the official announcement of the end of the longest summer in living memory, he expresses his concern with the influx of refugees fleeing the [[War of the Five Kings|civil war]]. He is ordered by Queen Regent [[Cersei Lannister]] to bar the city gates to peasants. Later, Janos oversees the [[Massacre in King's Landing|massacre]] of all of the late King [[Robert Baratheon]]'s bastard children. He personally murders the baby [[Barra]] before the eyes of her mother [[Mhaegen]], one of Littlefinger's prostitutes. He also interrogates [[Tobho Mott]], who is being tortured by one of the gold cloaks, about the whereabouts of [[Gendry]] and learns that he has left to join the [[Night's Watch]] and is heading to [[Castle Black]]. Janos sends a small party of men after Gendry.<ref>"[[The North Remembers]]"</ref>
+
+[[File:Janos_2x02.jpg|thumb|right|Lord Janos is told of his fate.]]
+Janos is present at a small council meeting when they receive a request for more men from Lord Commander [[Jeor Mormont]] of the [[Night's Watch]]. Tyrion later has Janos as a dinner guest in the [[Tower of the Hand]]. Tyrion dismisses his squire, [[Podrick Payne]], after Janos begins to chastise the boy for spilling wine on his hand. The two exchange compliments and jokes. Tyrion asks about the incident in Petyr's brothel, which Janos calls a nasty business, but necessary. Tyrion feigns agreement, saying that the peace must be kept. However, the discussion quickly turns sour when Tyrion brings up the subject of Janos's role in the murder of Robert's bastards, subtly accusing him of taking bribes from Cersei or Joffrey to carry out such a horrific crime, though Janos defends his position and hints that it was not Cersei who gave him the order. He also defends himself for betraying Eddard to the usurpers, claiming Eddard was a traitor who tried to buy him, though Tyrion counters that Slynt had already been bought by Littlefinger and the Lannisters, and accuses him outright of lacking in honor. At this point, Slynt stands up and threatens Tyrion, but is interrupted by [[Bronn]], whom Tyrion claims is the new Lord Commander of the City Watch. Over Slynt's protests and threats that he has friends at court who will not stand for this, Tyrion has four gold cloaks seize Slynt, informing him that he does not trust him and is sending him to [[Castle Black]] to join the [[Night's Watch]]. Slynt is dragged from the Red Keep to board a ship bound for [[Eastwatch-by-the-Sea]].<ref>"[[The Night Lands]]"</ref>
+
+=== [[Season 4]] ===
+{{Dialogue a-b|Janos Slynt|I commanded the City Watch of King's Landing, boy.|Jon Snow|And now you're [[Night's Watch|here]]: you must not have been very good at your job.|Janos Slynt and Jon Snow|Two Swords}}
+
+[[File:Aemon_part_of_jon_s_judging.png|thumb|Janos during Jon Snow's judging.]]
+
+Janos Slynt has arrived at [[Castle Black]] along with Ser [[Alliser Thorne]], who has taken temporary command of the castle. He joins Ser Alliser, [[Maester]] [[Aemon]] and two other black brothers to listen [[Jon Snow]]'s testimonies. Slynt is dismissive of Jon's claims, referring to Jon as "the [[bastard]] son of a [[Eddard Stark|traitor]]" and argues for his execution. When Jon asks him if he has ever been North of the Wall, he boasts that he commanded the City Watch of King's Landing and grows angered when Jon sarcastically retorts he must have been bad at his job to have been sent to the Wall. Slynt clearly does not believe Jon's report, but is somewhat mollified when he realizes that the other black brothers do.<ref>"[[Two Swords]]"</ref>
+
+Janos warns Ser Alliser Thorne that since Snow is popular amongst the Night's Watch, this will give him an edge over him when a new Lord Commander is elected. Slynt suggests sanctioning Jon Snow's expedition to Craster's Keep so the mutineers may kill Jon.<ref>"[[Oathkeeper]]"</ref>
+
+Much to his disappointment, Jon survives and returns to Castle Black. Janos is later present when Jon urges the Night's Watch to seal Castle Black's tunnel because of Mance Rayder's superior forces.<ref>"[[Mockingbird]]"</ref>
+
+During the [[Battle of Castle Black]], Janos accompanies Alliser Thorne atop the Wall and oversees the defenses. When Alliser leaves the Wall to help the black brothers under attack by wildlings from the south, he leaves Janos in charge of the Wall's defenses. Janos, having no true leadership experience, begins to break down at the sight of [[Giants]] and massive wildling army. [[Grenn]] steps in by falsely claiming that Alliser needs Janos back down in Castle Black. Janos either believes him or pretends to as a pretext to flee, allowing Jon to take command. Once down below, Janos locks himself in the kitchens, where he discovers [[Gilly]] and her [[Gilly's baby|son]]. When [[Samwell Tarly]] returns to Gilly, he discovers Janos still in hiding.<ref>"[[The Watchers on the Wall]]"</ref>
+
+Slynt is present in the courtyard of Castle Black when the dead of the Night's Watch are burned in the presence of the recently arrived [[Stannis Baratheon]].<ref>"[[The Children]]"</ref>
+
+===[[Season 5]]===
+Janos Slynt remains at Alliser Thorne's side, who has recovered from his wounds. He is later present when [[Mance Rayder]] is executed by Stannis Baratheon for refusing to bend the knee.<ref>"[[The Wars to Come]]"</ref>
+
+Janos supports Alliser Thorne during the choosing of the 998th Lord Commander of the Night's Watch. He is later laughed at by his fellow black brothers when [[Samwell Tarly]] reveals how he cowered in fear in the larder of Castle Black with [[Gilly]] and her [[Sam|baby]].<ref>"[[The House of Black and White]]"</ref>
+
+[[File:Janos before execution.png|thumb|Janos right before he is executed by Jon Snow.]]
+[[File:Small justice for Ned.png|thumb|Small justice for Ned Stark.]]
+During a meeting, Janos is assigned by Lord Commander Snow to take charge of rebuilding efforts at the castle of Greyguard. Slynt rudely refuses before Jon is even finished speaking. The Lord Commander clarifies that this is official command, not an offer. Janos further insults Jon, telling him that he can "stick [his] order up [his] bastard arse." Calmly, Jon orders Janos to be taken outside and calls for his sword. At first, Janos is dragged out to the courtyard believing that this is simply a scare tactic, but he realizes his mistake when he is forced down onto the chopping block. Terrified, Janos begs for Jon to give him another chance, admitting that he was wrong to question him and that he has been afraid for a long time, and breaks into tears. His pleas for mercy are ultimately futile and Jon beheads Janos with [[Longclaw]] - exacting small justice for the deceased Ned Stark, as well as Robert's murdered children.<ref>"[[High Sparrow (episode)]]"</ref>
+
+==Appearances==
+{{Season One Appearances|4=yes|7=yes|8=yes|9=yes}}
+{{Season Two Appearances|yes|yes}}
+{{Season Four Appearances|yes||yes|yes|||yes||yes|yes}}
+{{Season Five Appearances|yes|yes|yes}}
+
+==Quotes==
+{{Dialogue a-b-a-b|Jon Snow|Have you ever been beyond the Wall, Ser?|Janos Slynt|I commanded the City Watch of King's Landing, boy.|And now you're [[The Wall|here]]. You must not have been very good at your job.|How dare you?!|[[Jon Snow]] antagonizes Janos Slynt.|Two Swords}}
+{{Dialogue a-b-a-b-a|Janos Slynt|I was charged with the defense of King's Landing when you were soiling your swaddling clothes. Keep your [[Greyguard|ruin]].|Jon Snow|You mistake me, my Lord. That was a <u>command</u>, not an offer. Pack your arms and armor, say your farewells, and ride for Greyguard.|I will not go meekly off to freeze and die. Give it to one of the fools who cast a stone for you! I will not have it! do you hear me, boy?! I will ''not'' have it!|Are you refusing to obey my order?|You can stick your order up your bastard arse!|Janos shows his contempt for Jon despite his ascension to Lord Commander.|High Sparrow (episode)}}
+{{Dialogue a-b|Jon Snow|If you have any last words, my lord, now's the time.|Janos Slynt|I was wrong! You're the Lord Commander! We all serve you! I'm sorry! Not only for this, for all I've done and said! I was wrong! My lord, please, mercy! Mercy! I'll go, I will! Please.......I'm afraid........I've always been afraid.......|Janos Slynt's final words before he is executed by Jon Snow for insubordination.|High Sparrow (episode)}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Janos Slynt was a commoner, a butcher's son, who joined the City Watch and rose through the ranks first to captain of the Iron Gate and then to become its commander at the death of the former commander, Manly Stokeworth. The City Watch, or "Gold Cloaks," is one of the few institutions in Westeros to permit promotion of non-nobles from the ranks. He is a somewhat humorless man who is arrogant and proud of his achievements. He is bald, stout, and heavily jowled, often described as frog-faced and shaped like a keg. He is the father of Morros, Jothos, Danos, and a daughter.
+
+[[Arya Stark]] sees Janos Slynt at the Sept of Baelor throw her father down on his knees for Ser [[Ilyn Payne]] to behead him and later triumphantly holds Ned's head up for all to see. [[Tywin Lannister]] is indignant that he was raised to Lord of Harrenhal, due to his low birth and Harrenhal having been the seat of a King. He vows that Slynt will never take up his seat if he has any part in it. Slynt's elevation is one of the many questionable decisions by Cersei and Joffrey that prompts Tywin to send Tyrion to King's Landing to be acting Hand, and rein them in. When confronted about Slynt's appointment, Cersei admits to Tyrion that Slynt is not as competent as could be wished (as he was stupid enough to believe he could arrest as skilled a knight as [[Barristan Selmy]] with only two men, not thinking that Selmy might choose to fight rather than come quietly).
+
+The books also establish that Slynt had amassed wealth by taking bribes, selling positions, and selling promotions. By the end of his tenure, over half the officers were paying him part of their salaries. Jon Arryn discovered this and had two men who were willing to come forward to testify against Janos, but both were found dead a short time later. Jon still wanted to dismiss Slynt, but King Robert preferred a known thief over someone who might be worse. According to [[Stannis Baratheon]], these were Littlefinger's words, which Robert was merely repeating. Littlefinger managed to successfully convince Robert that Janos was no worse than past Commanders who took bribes now and again, when he was in fact one of the most corrupt in the history of the City Watch - according to Stannis, outright selling positions and promotions in the City Watch is actually ''very'' unusual, even in their jaded history. Stannis also believes that Littlefinger not only knew of Slynt's corruption, but also made sure the crown profited from it: Janos was probably on Littlefinger's direct payroll for years, though at what point he sided ''exclusively'' with Littlefinger is difficult to say. Stannis also comments that were he King, Slynt would have lost more than his position for such corruption. If Janos wasn't already an active agent for Littlefinger, as soon as Robert died he certainly sided with Littlefinger in the coup against Ned Stark, simply for more bribes - Littlefinger seems to have been laying the groundwork of his schemes for years, buying out men in positions of authority in the capital.
+
+Sansa deeply hates Slynt, remembering how he had thrown down her father for Ilyn Payne to behead. She wishes she could hurt him, or that some hero would throw him down and cut off his head. When she hears Tyrion sends him to the Wall, she carelessly says in Joffrey's presence "I hope [[White Walkers|the Others]] get him" and gets beaten.
+
+In ''A Clash of Kings'', Janos doesn't personally kill [[Barra]], but instead sends one of his subordinates, Allar Deem. Tyrion is still disgusted with Slynt (as he is in the TV series) because he happily passed on the orders to a man under his command, and was thus ultimately responsible for it. Deem is exiled to the Wall with Slynt, though Tyrion gives orders for Deem to be killed and thrown overboard before he arrives.
+
+In ''A Storm of Swords'' Lord Slynt is not present during most of the Battle of Castle Black. He arrives with his crony Alliser Thorne at very late stage of the battle, both of them contributing nothing to the battle, only interfering. They seize command on the castle and interrogate Jon roughly. They accuse him of oathbreaking, cowardice, and desertion. Maester Aemon assures them that Jon has already explained his deeds to him and Donal Noye, but they either do not believe or do not care. Jon repeats what he told before, that he was acting at Qhorin's orders, but his explanations are rejected. Slynt taunts Jon by claiming that Eddard Stark died a traitor. Hearing the lies about his father, Jon's patience runs out, and he attacks Thorne. The Eastwatch men pull Jon off Thorne and he is locked in an ice cell. Four days later, he is released (as Aemon in that time has rallied several senior members of the Night's Watch to testify to Jon's loyalty, preventing Slynt and Thorne from executing him). Slynt and Thorne order Jon Snow to go to [[Mance Rayder]] under the pretext of [[parley]] and assassinate him. Jon knows well that the wildlings will probably kill him on the spot, but he has no other choice but to do as told, knowing that a refusal will confirm the false accusations against him and give Thorne and Slynt an excuse to kill him. Jon also grudgingly acknowledges that the plan to assassinate Mance at the cost of his own life is the only viable plan they have left for saving the Night's Watch - though ultimately his meeting with Mance is interrupted by the arrival of Stannis Baratheon's army.
+
+Slynt puts himself forth as candidate to succeed Jeor Mormont as Lord Commander of the Night's Watch, with the support of Ser Alliser Thorne and later on of Bowen Marsh as well. Slynt also tries to persuade Stannis Baratheon to support him, but Stannis's personal dislike for Slynt over his corruption scandal and his distaste for the man's sycophantic flattery put an end to it. Tywin Lannister, angered by the Night's Watch's neutrality in the War of the Five Kings and wanting to bring them under his control, tries to interfere in the election by sending a veiled threat to the Watch that they would receive no more reinforcements from the Crown unless Slynt was elected. Due to the rivalry between Cotter Pyke and Ser Denys Mallister, Slynt's chances improve. In the end, he is defeated by the efforts of Samwell Tarly, who persuades Pyke and Mallister to support Jon Snow as a compromise candidate.
+
+Jon Snow executes Janos after he refuses his direct order, three times, to leave to take command of [[Greyguard]]. Initially Jon was going to have him hanged, but then commands his men to bring him down - only to reveal that he meant that ''hanging'' him was wrong, because his father taught him that "the man who passes the sentence must swing the sword". Jon then personally beheads Janos.
+
+Ned Stark's own son beheading Janos has one more layer of narrative resonance in the novels: though the TV show doesn't show it, in the books Janos not only betrayed Ned to his eventual death, but after [[Ilyn Payne]] beheaded Ned on the steps of the Great Sept, Janos personally lifted up Ned's severed head by the hair, and ''proudly'' held it up to display it to the crowd, even as Ned's blood splattered out of it onto the steps.
+
+==See also==
+*{{AWOIAF}}
+
+==References==
+{{Reflist|2}}
+{{Watch navbox}}
+{{SmallCouncil navbox}}
+{{DEFAULTSORT:Slynt, Janos}}
+
+[[de:Janos Slynt]]
+[[es:Janos Slynt]]
+[[it:Janos Slynt]]
+[[ru:Джанос Слинт]]
+[[zh:杰诺斯·史林特]]

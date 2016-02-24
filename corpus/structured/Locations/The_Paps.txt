@@ -1,0 +1,14 @@
+<p data-rte-fromparser="true"><b>The Paps</b> is an island located northeast of <a data-rte-meta="{"type":"internal","text":"the Fingers","link":"the Fingers","wasblank":true,"noforce":true,"wikitext":"[[the Fingers]]"}" data-rte-instance="130814-48110244256cca93b3abe9" href="/wiki/The_Fingers" title="The Fingers">the Fingers</a> in the <a data-rte-meta="{"type":"internal","text":"Narrow Sea","link":"Narrow Sea","wasblank":true,"noforce":true,"wikitext":"[[Narrow Sea]]"}" data-rte-instance="130814-48110244256cca93b3abe9" href="/wiki/Narrow_Sea" title="Narrow Sea">Narrow Sea</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>Season 2 Bluray: War of the Five Kings feature<\/ref>"}" data-rte-instance="130814-48110244256cca93b3abe9" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
+</p>
+<h2 data-rte-empty-lines-before="1">In the books</h2>
+<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-48110244256cca93b3abe9" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels the Paps is the seat of House Elesham, sworn to <a data-rte-meta="{"type":"internal","text":"the Eyrie","link":"the Eyrie","wasblank":true,"noforce":true,"wikitext":"[[the Eyrie]]"}" data-rte-instance="130814-48110244256cca93b3abe9" href="/wiki/The_Eyrie" title="The Eyrie">the Eyrie</a>.
+</p>
+<h2 data-rte-empty-lines-before="1">References</h2>
+<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-48110244256cca93b3abe9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+</p>
+<h2 data-rte-empty-lines-before="1">See also</h2>
+<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-48110244256cca93b3abe9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+</li></ul>
+<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Vale","placeholder":1,"wikitext":"{{The Vale}}"}" data-rte-instance="130814-48110244256cca93b3abe9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+</p>
+   Loading editor

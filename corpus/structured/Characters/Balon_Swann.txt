@@ -1,0 +1,51 @@
+{{Heraldry
+|leftimage=House-Swann-Shield-Icon.PNG
+|leftlink=House Swann
+|rightimage=Kingsguard-Main-Shield.PNG
+|rightlink=Kingsguard
+}}
+{{Character
+| Title=Balon Swann
+| Season=[[Season 2|2]], [[Season 3|3]],  [[Season 5|5]]
+| Mentioned="[[A Man Without Honor]]"
+| First="[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"
+| Status= [[:Category:Status: Alive|Alive]]
+| Allegiance=[[Kingsguard]]<br>[[House Swann]]}}
+{{Quote|I remember everything about that day: your helmet, your horse, the rake lines in the dirt along the lists, where the sun was in the sky when you knocked Balon Swann in the dirt.|Alton Lannister to Jaime|A Man Without Honor}}
+
+'''Balon Swann''' is an unseen character mentioned in the [[Season 2|second season]]. Ser Balon Swann is a knight of some renown.
+
+==Biography==
+===[[Season 2]]===
+Ser [[Alton Lannister]] recalls that Ser [[Jaime Lannister]] defeated Ser Balon in the tourney at [[Willem Frey]]'s wedding.<ref>"[[A Man Without Honor]]"</ref>
+
+===[[Season 3]]===
+Four members of the Kingsguard receive Tywin Lannister at the [[Great Hall (Red Keep)|throne room]], indicating one of the spots left by the death of Ser [[Mandon Moore]] and the desertion of [[Sandor Clegane]] has been filled.<ref>"[[The Bear and the Maiden Fair (episode)]]"</ref>
+
+===[[Season 5]]===
+Five members of the Kingsguard escort King [[Tommen Baratheon]] to the steps before the [[Great Sept of Baelor]] so the king can meet with the [[High Sparrow]]. Members of the [[Faith Militant]] block them.<ref>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"</ref>
+
+== Appearances ==
+{{Season Three Appearances|7=yes|8=yes}}
+{{Season Five Appearances|4=yes}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ser Balon is a highly regarded knight. He is the second son of Lord Gulian Swann, the head of House Swann. He is good with a lance, better with a morningstar and exceptional with a bow. He replaces Ser [[Preston Greenfield]] in the Kingsguard following his death in the [[Riot of King's Landing]].
+
+In the TV series, Ser Preston is mentioned as still being alive at the time of Joffrey's wedding in Season 4. Nevertheless, a new member of the Kingsguard is present in Season 3's "[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]". In the books, after Sandor Clegane deserted his post during the Battle of the Blackwater his place on the Kingsguard was filled by Ser Osmund Kettleblack, but because neither Ser Osmund nor his subplot have been introduced in the TV series, it is possible that it was Balon who replaced Sandor in the TV continuity.
+
+Ser Balon also previously competed against Ser [[Jaime Lannister|Jaime&nbsp;Lannister]] in the books. Jaime discusses Balon's renown as a tourney knight and melee fighter upon meeting him in the White Tower as a fellow Kingsguard, and the two share a common respect for each other, where Balon is eventually assigned by Jaime as the primary Kingsguard for the King.
+
+Ser Balon is the first to testify in the [[trial of Tyrion Lannister]]. Unlike the rest of the witnesses, his testimony is wholly true, objective and in favor of Tyrion: he praises Tyrion for his bravery in the [[Battle of the Blackwater]]; he claims that he thinks Tyrion is innocent; when describing how Tyrion beat Joffrey following the [[Riot of King's Landing]], he claims that it was only a fit of wroth. Tyrion wonders why offer a witness that believes him innocent, until Ser [[Meryn Trant]] comes to testify. Tyrion realizes then that [[Cersei Lannister|Cersei]] deliberately began with a man known to be honest, and milked him for all he would give, and every witness to follow will tell a worse tale.
+
+Ser Balon is the only of the current Kingsguard that Jaime, as the Lord Commander, has nothing negative to comment about, and does not need to put him in his place.
+
+In the books, Cersei also sends a Kingsguard to take her daughter Myrcella back from Dorne to King's Landing, but it is Balon Swann, not Jaime Lannister, who in turn is sent away to pacify the Riverlands. Contrary to Jaime's furtive mission in the TV series, Swann goes to Dorne in an official capacity.
+
+==See also==
+*{{AWOIAF}} (MAJOR spoilers from the books)
+
+==References==
+{{Reflist}}
+{{Kingsguard navbox}}
+{{DEFAULTSORT:Swann, Balon}}

@@ -1,0 +1,42 @@
+::''For other characters who share the same name, see "[[Aegon Targaryen (disambiguation)]]". ''
+{{Heraldry
+|image = Targaryen mini shield.png
+|link = House Targaryen
+}}
+{{Character
+| Title= Aegon Targaryen 
+| Image=Gregor_kills_Targaryens.jpg
+| Season=[[Season 1|1]]
+| First=
+| Last=
+| Mentioned=
+| Aka=
+| Status= [[:Category:Status: Dead|Deceased]]
+| Titles=
+| Death=[[Timeline#Robert's Rebellion|281 AL]]<br>Killed in the [[Sack of King's Landing]]
+| Place=[[King's Landing]]
+| Allegiance=[[House Targaryen]]
+| Family= {[[Rhaegar Targaryen]]} - father<br>{[[Elia Martell]]} - mother<br>{[[Rhaenys Targaryen (daughter of Rhaegar)|Rhaenys Targaryen]]} - sister <br>{[[Viserys Targaryen]]} - uncle<br>[[Daenerys Targaryen]] - aunt<br>[[Doran Martell]] - uncle<br>{[[Oberyn Martell]]} - uncle<br>[[Trystane Martell]] - cousin<br>[[Sand Snakes]] - cousins
+| Actor=}}
+{{Quote|House Clegane was built upon dead children. I saw them lay Prince Aegon and Princess Rhaenys before the [[Iron Throne]].|[[Thoros|Thoros of Myr]]|And Now His Watch is Ended}}
+'''Aegon Targaryen''', the son of Prince [[Rhaegar Targaryen]], is an unseen character in ''[[Game of Thrones]]''. He is deceased when the events of the series begin and is not expected to appear in the series.
+
+==Biography==
+===Background===
+[[File:Slaughter.png|thumb|left|Aegon is killed by Gregor Clegane]]Aegon Targaryen was the son of Prince Rhaegar Targaryen and [[Elia Martell]]. He had an older sister, [[Rhaenys Targaryen (daughter of Rhaegar)|Rhaenys Targaryen]].<ref>[http://viewers-guide.hbo.com/game-of-thrones/#!/guide/houses/targaryen/ HBO Viewers Guide House Targaryen Family Tree]</ref> [[House Targaryen]] was deposed as the ruling house of [[Westeros]] during [[Robert's Rebellion]]. Rhaegar was killed during the fighting and Elia and both their children were killed soon afterwards during the [[Sack of King's Landing]].<ref name="Elia viewers guide">[http://viewers-guide.hbo.com/game-ofthrones/season2/#!/guide/houses/targaryen/elia-targaryen/ HBO viewers guide, season 2 guide to houses, House Targaryen - Elia Targaryen entry]</ref>
+
+Had he lived and ascended the throne, he would have ruled as "Aegon VI".
+
+==Family tree==
+{{House Targaryen family tree}}
+
+==In the books==
+In ''[[A Song of Ice and Fire]]'', Aegon is the infant son of Prince Rhaegar Targaryen and Elia Martell and died in the Sack of King's Landing.
+
+==See also==
+* {{AWOIAF|Aegon Targaryen}} (MAJOR spoilers from the books)
+
+==References==
+{{Reflist}}
+{{Targaryen navbox}}
+{{DEFAULTSORT:Targaryen, Aegon}}

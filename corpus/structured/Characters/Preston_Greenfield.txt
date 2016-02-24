@@ -1,0 +1,51 @@
+{{Heraldry
+|image=Kingsguard-Main-Shield.PNG
+|link=Kingsguard
+}}
+
+{{Character
+| Title = Preston Greenfield
+| Season = [[Season 1|1]], [[Season 2|2]], [[Season 3|3]], [[Season 4|4]], [[Season 5|5]], [[Season 6|6]]
+| First = "[[Winter is Coming]]"
+| Status = [[:Category:Status: Alive|Alive]]
+| Allegiance = [[House Greenfield]]<br>The [[Kingsguard]]
+|Titles = [[Ser]]
+|Actor = [[:Category:Performer Unidentified|John Doe]]
+|Image = Kingsguard 1.jpg
+|Appearances = 15 episodes <small>([[#Appearances|see below]])</small>
+|Culture = [[Andals]]|Place = [[House Greenfield|Greenfield]]
+}}
+{{Quote|Ser Preston will be stationed here beside the... primary entertainment.|Ser [[Jaime Lannister]]|Two Swords}}
+
+'''Preston Greenfield''' is a recurring character in the [[Season 1|first]], [[Season 2|second]], [[Season 3|third]], [[Season 4|fourth]], [[Season 5|fifth]] and [[Season 6|sixth]] seasons. He is played by an unidentified extra and debuts in the [[Winter is Coming|series premiere]]. Ser Preston is a [[knight]] and a member of the [[Kingsguard]], defending King [[Joffrey Baratheon]] as he defended King [[Robert Baratheon]] before him.
+==Biography==
+===[[Season 1]]===
+When Arya Stark was brought before King Robert Baratheon to answer for her possible involvement in the injury of Prince Joffrey, Ser Preston stands guard besides the King.
+
+He was among the guards that attacked [[Eddard Stark]] when the [[Hand of the King]] attempts to arrest [[Cersei Lannister]], and take her children into his custody.<ref>"[[You Win or You Die]]"</ref>
+
+===[[Season 4]]===
+After [[Jaime Lannister]] returns to King's Landing, he goes over with Ser [[Meryn Trant]] the placement of the Kingsguard members in defensive positions during Joffrey's wedding, assigning Ser Preston a place close to the wedding feast "primary entertainment".<ref>"[[Two Swords]]"</ref>
+
+===[[Season 5]]===
+Five members of the Kingsguard escort King [[Tommen Baratheon]] to the steps before the [[Great Sept of Baelor]] so the king can meet with the [[High Sparrow]]. Members of the [[Faith Militant]] block them.<ref>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"</ref>
+
+==Appearances==
+{{Season One Appearances|7=yes|8=yes|yes|yes|4 = yes|5 = yes}}
+{{Season Three Appearances|7=yes|8=yes}}
+{{Season Five Appearances|4=yes|6 = yes|7 = yes}}
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Greenfield is a member of Robert Baratheon's Kingsguard. He is noted as the shortest member of the Kingsguard. He accompanied Robert on his boar hunting trip where he was mortally wounded. He pledges allegiance to Joffrey following Robert's death.
+
+Ser Preston is killed in the [[Riot of King's Landing]] and replaced by Ser [[Balon Swann]], who has been mentioned in the series but not as part of the Kingsguard. In the series no Kingsguard is shown to be killed by the rioters. Ser Preston is later mentioned as being alive at the time of Joffrey's wedding, meaning he survived the riots in TV continuity.
+
+==See also==
+* {{AWOIAF}}
+
+==References==
+{{Reflist|2}}
+{{Kingsguard navbox}}
+{{King's Landing Baratheon navbox}}
+{{DEFAULTSORT:Greenfield, Preston}}
+
+[[zh:普列斯顿·格林菲尔]]

@@ -1,0 +1,61 @@
+{{Character
+| Title=The three-eyed raven
+| Image=Three-Eyed Raven.png
+| Season=[[Season 1|1]], [[Season 3|3]], [[Season 4|4]], [[Season 6|6]]
+| First="[[Cripples, Bastards and Broken Things]]" (as a raven in dream-visions)<br>"[[The Children]]" (first true physical appearance)
+| Last=
+| Appearances=7 episodes <small>[[#Appearances|(see below)]]</small>
+| Titles=
+| Aka=
+| Status=[[:Category:Status: Alive|Alive]]
+| Death=
+| DeathEp=
+| Place=
+| Allegiance=
+| Family=
+| Actor=[[Struan Rodger]] (Season 4)<br>[[Max von Sydow]] (Season 6)
+| Religion = [[Old Gods of the Forest]]}}
+{{Quote|We watch, we listen, and we remember. The past is already written. The ink is dry.|Three-eyed raven|Season 6}}
+The '''three-eyed raven''' is a recurring character in the [[Season 1|first]], [[Season 3|third]], [[Season 4|fourth]] and [[Season 6|sixth]] seasons. He debuts in person in the fourth season, very briefly portrayed by [[Struan Rodger]], though [[Max von Sydow]] takes over the role when the character reappears in Season 6.<ref>[http://www.ew.com/article/2015/08/03/game-thrones-max-von-sydow Entertainment Weekly — Game of Thrones recasts Three-Eyed Raven with Exorcist star]</ref> Under the guise of a three-eyed [[Ravens|raven]], he appears in [[Bran Stark]]'s vision-dreams, following his fall and injury, prompting his quest [[beyond the Wall]] and guiding him to the [[Cave of the three-eyed raven|cave]] in which his real human body resides. 
+
+==Biography==
+===[[Season 1]]===
+[[File:Three-eyed_raven.png|thumb|left|The Three-eyed raven guides Bran to Winterfell's crypts.]]
+After his fall from the tower and awakening from the subsequent coma, the raven appears to [[Bran Stark]] multiple times in his dreams. In them, it appears as Bran is about to fire an arrow and causes him to stop before he shoots. Then, the raven lands on the head of a [[direwolf]] statue, cries once and then flies deep into the [[Stark]] family crypt.<ref>"[[Cripples, Bastards and Broken Things]]"</ref><ref>"[[A Golden Crown]]"</ref> After having the dream again, he becomes convinced the raven is guiding him to the crypts in order to somehow find [[Eddard Stark|his father]] there, even though he is supposed to be alive and well at [[King's Landing]]. Anxious to find out, he asks [[Osha]] to take him down to the crypts. There, they are surprised by [[Rickon Stark|Rickon]], who admits to having had the same dreams. Outside, Osha is still trying to tell Bran that it could be a coincidence when a saddened [[Maester Luwin]] appears, holding a letter announcing Eddard's death.<ref>"[[Fire and Blood]]"</ref>
+
+===[[Season 2]]===
+Bran asks [[Osha]] about the significance of the three-eyed raven but she does not divulge anything.<ref>"[[The Ghost of Harrenhal]]"</ref>
+
+===[[Season 3]]===
+[[File:Three-eyed_raven_on_a_tree.png|thumb|The Three-eyed raven guides Bran to a tree in his dreams.]]While traveling north, Bran dreams once again of the three-eyed raven. In the dream he's able to walk and attempts to shoot at him with a bow and arrow. A [[Jojen Reed|strange boy]] then appears in the dream, and tells Bran that he cannot kill the raven, because Bran is the raven.<ref>"[[Dark Wings, Dark Words]]"</ref> Another day, this same boy, Jojen, and his sister [[Meera Reed|Meera]] encounter Bran and his companions in real life, and Jojen explains the prophetic powers of [[greensight]] dreams to Bran. Jojen explains that he also saw the three-eyed raven and it was Jojen himself in the dream (not just a prophetic vision of him), as the power of greensight, conferred by the raven, allowed his mind to enter Bran's dreams.<ref>"[[And Now His Watch is Ended]]"</ref>
+
+===[[Season 4]]===
+When Bran touches a weirwood in the haunted forests beyond The Wall, he sees flashes of the three-eyed raven from his dreams at Winterfell, flying through the crypts. Among his other vision is a single giant weirwood on a hill, with a voice that whispers, "Look for me... beneath the tree... North!".<ref>"[[The Lion and the Rose]]"</ref>
+
+[[File:Game-of-thrones-season-4-finale-tree-man.jpg|thumb|left|Bran meets the Three-eyed raven in his real form.]]Bran and his group eventually reach the giant weirwood tree on the hill, but are attacked by a group of [[wights]]. Jojen is fatally stabbed and Meera attempts to save him, but Jojen tells her to leave him for dead. They are helped by a [[Leaf|child of the forest]], who leads them into a [[Cave of the three-eyed raven|cave]]. She explains that the wights cannot enter, as the magic that reanimates them has no power there. She then leads them deep into the cave to the three-eyed raven, who is revealed to not be a bird but a very old man whose body is fused to the roots of the weirwood tree. Bran states that he is the three-eyed raven, and the man tells them that he has been many things but is now what they see. Meera begins to tell him that Jojen has died and before she can finish the raven says that Jojen knew what would happen the moment he left, and went anyway. When Meera asks how he knows that, the raven says that he has been watching them for all of their lives with a thousand eyes and one. The raven tells Bran that the hour is late, and Bran replies that he did not want anyone to die for him. The raven states that Jojen died so that Bran could find what he lost. Bran asks if the raven will help him walk again. The raven answers that Bran will never walk again, but he will fly.<ref>"[[The Children]]"</ref>
+
+==Appearances==
+{{Template:Season One Appearances||||yes||yes||||yes}}
+{{Template:Season Three Appearances||yes||yes}}
+{{Template:Season Four Appearances||yes||||||||yes}}
+==Quotes==
+{{Quote|I have been watching you. All of you. All of your lives, with a thousand eyes and one.|Three-eyed raven|The Children}}
+{{Quote|Look for me...beneath the tree...North!|Three-eyed raven|The Lion and the Rose}}
+{{Quote|You will never walk again, but you will fly.|Three-eyed raven to [[Bran Stark]]|The Children}}
+
+==Behind the scenes==
+
+The overall design of the three-eyed raven was developed by [[William Simpson]]. There was considerable deliberation on where exactly the third eye should be located, as it wasn't specified in the books. For a time, Simpson considered actually putting it in the back of the head, to give it a full 360 degree field of vision. However, he later settled on putting it in the middle of the forehead. The three-eyed raven is played by a real-life raven, but its third eye is digitally added in post-production.<ref>[http://www.makinggameofthrones.com/production-diary/2013/4/17/behind-the-scenes-of-the-first-three-episodes.html Making Game of Thrones blog], April 17th, 2013</ref>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, the bird is a three-eyed crow rather than a raven. The crow is more active in Bran's dreams; it helps him wake from his coma. The crow speaks to Bran, telling him it can teach him how to fly, other times it screeches the words "fly or die".
+
+When Bran finally meets him in the cave beyond the Wall, the three-eyed crow is revealed to be a pale, skeletal man in rotted black clothing in a weirwood throne of tangled roots. His skin is white, aside from a red blotch on his neck and cheek. He has fine, white hair long enough to reach the earthen floor. He is missing one eye, while the other is red. Weirwood roots surround the man and grow through his body, including his leg and his empty eye socket. His voice is slow and dry, as if he had forgotten how to speak. It is also implied that he was once a man of the [[Night's Watch]], due to his tattered black cloak - which means that the "three-eyed crow" name is a double-meaning that was lost when the TV series chose to consistently refer to him as the "three-eyed raven".
+
+Within the books, there are numerous details that indicate who the three-eyed crow was before he entered the cave, but few of them have made it into the series. This doesn't necessarily mean that his identity is different, just that it will be dealt with in a different way.
+
+==See also==
+*{{AWOIAF|Three-eyed crow}} (MAJOR spoilers from the books)
+
+==References==
+{{reflist}}

@@ -1,0 +1,35 @@
+{{Noble house
+| Title=[[House Hetherspoon]]
+| Image=
+| Image size=
+| Sigil=
+| Words=
+| Titles=
+| Seat=
+| Region=[[The Westerlands]]
+| Lord=
+| Heir=
+| Allegiance=[[House Lannister]]
+| Vassals=
+| Cadets=
+| Date of founding=
+| Age=
+| Founder=
+| Weapon=
+}}
+
+[[File:Melara S5.jpg|thumb|100px|right|Melara Hetherspoon]]
+
+'''House Hetherspoon''' is a noble house of [[The Westerlands]]. They are vassals to [[House Lannister]].
+
+==Members==
+*[[Melara Hetherspoon]], [[Cersei Lannister]]'s childhood companion. 
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Hetherspoon is a house of landed knights sworn to [[Casterly Rock]]. The name of their seat and its location is unknown. Their sigil is an oak spoon within a white cartouche on orange and black lozengy.
+
+==See also==
+* {{AWOIAF}} (MAJOR spoilers from the books)
+{{Western Houses}}
+
+[[zh:赫斯班家族]]

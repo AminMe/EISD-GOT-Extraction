@@ -1,0 +1,74 @@
+{{Noble house
+| Title=[[House Mormont]]
+| Image=House-Mormont-Main-Shield.PNG
+| Sigil=A black bear in a green wood.
+| Words="Here We Stand"
+| Titles=[[Lord of Bear Island]]
+| Seat=[[Bear Island]]
+| Region=The [[North]]
+| Lord=Lady [[Lyanna Mormont]]
+| Heir=
+| Allegiance=[[House Stark]]
+| Vassals=
+| Age=
+| Founder=
+|ImageSize = 250px
+|Weapon = [[Longclaw]] (until "[[Baelor]]")}}
+
+'''House Mormont''' of [[Bear Island]] is a vassal house that holds fealty to [[House Stark]] of [[Winterfell]]. They rule Bear Island, an island far to the north-west of Winterfell. The head of the house is the [[Lord of Bear Island]]. The family possessed the Valyrian sword [[Longclaw]], which later was given to [[Jon Snow]].
+
+House Mormont's sigil is a black bear in a green wood. Their motto is '''"Here We Stand". '''
+
+==Members==
+* Lord Commander {[[Jeor Mormont]]}, the former head of the family who later served as commander of the [[Night's Watch]],
+** Ser [[Jorah Mormont]], called "Jorah the Andal" by the [[Dothraki]], the disgraced former lord who has fled to the [[Free Cities]] after attempting to sell poachers into slavery.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/targaryen/jorah-mormont/ HBO viewers guide, season 2 guide to houses, House Targaryen, Jorah Mormont entry]</ref>
+* Lady [[Maege Mormont]], Jeor's sister and the current head of the family and Lady of Bear Island following her nephew's disgrace.
+
+==Family tree==
+{{House Mormont family tree}}
+
+==Image gallery==
+<gallery>
+Maege.png|[[Maege Mormont]], current head of House Mormont.
+LordMormont.jpg|[[Jeor Mormont]], former head of House Mormont.
+Jorah 1x03.png|[[Jorah Mormont]], former head of House Mormont.
+House Mormont tourney.jpg|The banner of House Mormont at the [[Tournament|Tourney of the Hand]] in "[[Cripples, Bastards and Broken Things]]".
+House Mormont banner.jpg|The banner of House Mormont at the Stark camp in "[[Fire and Blood]]".
+Mormont-small.png|Small icon of House Mormont from the first season HBO viewers guide.
+Mormont-icon.png|Small icon of House Mormont from the second season HBO viewers guide.
+Mormont-map-marker.jpg|A map marker used to represent the forces of House Mormont.
+</gallery>
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, House Mormont is a stalwart supporter of the Starks. According to legend, King [[Rodrik Stark]] won the island in a wrestling match (presumably with the ironborn lord who held the island at the time) and appointed the Mormonts to rule there.
+
+Bear Island is beautiful, but also icy, cold and remote. The Mormont "castle" is a large, comfortable but still relatively primitive wooden longhouse (due to a lack of stone on the island). Bears still prowl the woods of the island, giving the Mormonts their sigil. The people of Bear Island are fierce, hardy and strong. Unlike most of [[Westeros]], the women of Bear Island are trained in the use of weapons and armor, as they are expected to defend hearth and home should [[wildling]] raiders from the Frozen Shore to the north attack.
+
+In the books, Lord Jeor Mormont ruled the house honorably and with distinction. He chose to 'retire' from the role of lord and took the black, joining the [[Night's Watch]] and rising rapidly through their ranks until he became Lord Commander, a rank he holds to this day. Jeor felt able to do this as his son [[Jorah Mormont|Jorah]] had proven to be a great warrior, winning immense honors during the [[Greyjoy Rebellion]] and the following tourney. Lord Jorah proved an effective ruler for several years, until he disgraced himself in an incident involving slavers. Lord [[Eddard Stark]] stripped him of his title and lands and Jorah fled to the [[Free Cities]] rather than face justice. Jeor's younger sister Maege became the ruling Lady of Bear Island the head of House Mormont, to Jeor's disquiet. However, as members of the Night's Watch serve for life he was unable to return to Bear Island to resume his former rule.
+
+Lady Maege Mormont has since proven to be a strong and effective ruler of the House.
+
+Dacey Mormont is the eldest of Maeger's five daughters and a proud warrior in her own right. She serves as one of Robb Stark's personal guard throughout the War of the Five Kings. Dacey is slain at the [[Red Wedding]]: she was one of the few Stark bannermen who survived the initial attack by the Frey crossbowmen, and managed to fend off another attacker by smashing a flagon of wine in his face. She ran across the hall to the door but just as she was about to reach the exit, a dozen Frey men-at-arms burst through the door in front of her led by Ryman Frey, who drove a longaxe into her belly.
+
+In the novels, it is unknown if Maege Mormont is still alive, because she was not at the Red Wedding but was sent ahead to the [[Crannogmen|crannogmen]] of [[House Reed]] beforehand to prepare them for an assault to retake [[Moat Cailin]]. Her fate is unknown.
+
+Lyanna Mormont's reply letter to Stannis is the same in the novels. Jon Snow himself wonders why the ten year old Lyanna wrote it, however, given that she has three surviving elder sisters (it is possible the Mormonts let her write it to scorn Stannis). Lyanna is apparently the ''acting'' "Lady of Bear Island", while her mother and sisters are away, similar to how [[Bran Stark]] was the acting "[[Lord of Winterfell]]" in Season 2 when his older brother Robb was not physically present to rule.
+
+===Members===
+
+*Lord Commander Jeor Mormont - former head of the House, who voluntarily abdicated his position to join the [[Night's Watch]].
+**Ser Jorah Mormont - his son. Exiled for selling poachers he caught on his lands to a passing slaver ship, fled to [[Essos]] to avoid execution.
+*Lady Maege Mormont - Jeor's sister, current ruler of the House. Despite having five daughters, it is unclear if she ever married, as all of her children carry the name Mormont.
+**Dacey Mormont - her eldest daughter. Slain at the [[Red Wedding]].
+**Alysane Mormont - her daughter. Alysane has two children, a daughter and a son, despite having never married and no one knows who the father is. She claims their father was a bear.
+**Lyra Mormont - her daughter.
+**Jorelle Mormont - her daughter.
+**Lyanna Mormont - her youngest daughter, seven years old in the first novel.
+
+==References==
+{{Reflist}}
+
+==See also==
+* {{AWOIAF}} (MAJOR spoilers from the books)
+{{Mormont navbox}}
+{{North Houses}}

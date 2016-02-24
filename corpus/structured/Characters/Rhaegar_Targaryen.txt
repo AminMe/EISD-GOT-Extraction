@@ -1,0 +1,96 @@
+{{Heraldry
+|image = House-Targaryen-Shield-Icon.PNG
+|link = House Targaryen
+}}
+
+{{Character
+| Title=Rhaegar Targaryen
+| Image=Rhaegar.jpg
+| Season=[[Season 1|1]], [[Season 3|3]], [[Season 4|4]], [[Season 5|5]]
+| First=
+| Last=
+| Mentioned = "[[Winter is Coming (episode)|Winter is Coming]]"<br>"[[Cripples, Bastards and Broken Things]]"<br>"[[Fire and Blood]]"<br>"[[Walk of Punishment]]"<br>"[[Two Swords]]"<br>"[[The Wars to Come]]"<br>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"
+| Aka=The Last Dragon
+| Titles=[[Prince of Dragonstone]]
+| Status= [[:Category:Status: Dead|Deceased]]
+| Death=[[Timeline#Robert's Rebellion|281 AL]]<br>Slain by [[Robert Baratheon]] at the [[Battle of the Trident]]
+| Place=[[King's Landing]]
+| Allegiance=[[House Targaryen]]
+| Family={[[Aerys II Targaryen]]} - father/uncle<br>{[[Rhaella Targaryen]]} - mother/aunt<br>{[[Aemon|Aemon Targaryen]]} - great-uncle<br>{[[Duncan Targaryen]]} - uncle<br>{[[Daeron Targaryen (son of Aegon V)|Daeron Targaryen]]} - uncle<br>{[[Viserys Targaryen]]} - brother/cousin<br>[[Daenerys Targaryen]] - sister/cousin<br>{[[Elia Martell]]} - wife<br>{[[Rhaenys Targaryen (daughter of Rhaegar)|Rhaenys Targaryen]]} - daughter<br>{[[Aegon Targaryen (Son of Rhaegar)|Aegon Targaryen]]} - son<br>{[[Rhaego]]} - nephew<br />[[Doran Martell]] - brother-in-law<br>{[[Oberyn Martell]]} - brother-in-law<br>{[[Drogo]]} - brother-in-law<br>[[Trystane Martell]] - nephew-by-marriage<br>[[Sand Snakes]] - nieces-by-marriage
+| Actor=
+|Culture = [[Valyrian]]}}
+
+{{Quote|Rhaegar fought valiantly, Rhaegar fought nobly. And Rhaegar died.|[[Jorah Mormont]]|Walk of Punishment}}
+
+'''Prince Rhaegar Targaryen''' is an unseen character in ''[[Game of Thrones (TV series)|Game of Thrones]]''. He is deceased when the events of the series commence. He was the son and heir of King [[Aerys II Targaryen]], holding the title of [[Prince of Dragonstone]]. Rhaegar was the older brother of [[Viserys Targaryen|Viserys]] and [[Daenerys Targaryen|Daenerys]], though Daenerys was born after he died. He was the last great champion of [[House Targaryen]].
+
+Rhaegar is blamed for starting [[Robert's Rebellion]] by [[Abduction of Lyanna Stark|abducting]] [[Lyanna Stark]]. He was killed by [[Robert Baratheon]] at the [[Battle of the Trident|climax]] of the war.
+
+==Biography==
+===Background===
+[[File:Abduction of Lyanna Stark.png|thumb|Rhaegar's abduction of Lyanna Stark]]Prince Rhaegar Targaryen was the eldest son and heir to the Mad King, [[Aerys II Targaryen]], by his wife and sister Queen [[Rhaella Targaryen]]. [[Tywin Lannister]] desired for his daughter [[Cersei Lannister|Cersei]] to marry Rhaegar, but King Aerys II insulted Tywin by indicating that such a match would be beneath Rhaegar.<ref>"[[Mad King Aerys (Complete Guide to Westeros)#Tywin Lannister's perspective]]"</ref> Instead, Rhaegar was married to Princess [[Elia Martell]] of [[Dorne]], with whom he had a daughter named [[Rhaenys Targaryen|Rhaenys]] and then a son named [[Aegon Targaryen (Son of Rhaegar)|Aegon]]. In spite of Elia's love and loyalty to him, Rhaegar [[Abduction of Lyanna Stark|abducted]] [[Lyanna Stark]] of [[Winterfell]] for unknown reasons.<ref>"[[Robert's Rebellion#Oberyn Martell's perspective]]"</ref>
+
+After the Mad King had Lyanna Stark's father [[Rickard Stark]] and oldest brother [[Brandon Stark (Son of Rickard)|Brandon Stark]] executed for demanding Rhaegar release Lyanna, her other brother, [[Eddard Stark]], and her betrothed, [[Robert Baratheon]], joined forces with several other houses to overthrow the [[House Targaryen|Targaryen]] dynasty.<ref>"[[The Sack of King's Landing (Complete Guide to Westeros)#Luwin]]"</ref> This war became known as the War of the Usurper or [[Robert's Rebellion]]. After initially remaining away from the fighting in Dorne, Rhaegar was summoned to lead the Royalist forces in what would be the [[Battle of the Trident]].<ref>"[[Robert's Rebellion (Complete Guide to Westeros)#Robert Baratheon's perspective]]"</ref> During the Battle, Rhaegar was killed in single combat with Lyanna's betrothed [[Robert Baratheon]].<ref>"[[Robert's Rebellion (Complete Guide to Westeros)#Viserys Targaryen's perspective]]"</ref> Rhaegar was struck down with a massive blow from Robert's warhammer, which scattered the rubies encrusted in Rhaegar's armor under the water. That location was named the "[[Ruby Ford]]" thereafter.<ref>"[[Robert's Rebellion (Complete Guide to Westeros)#Robert Baratheon's perspective]]"</ref>
+
+His father was killed shortly afterwards by Ser [[Jaime Lannister]] during the [[Sack of King's Landing]]<ref>"[[The Sack of King's Landing (Complete Guide to Westeros)#Luwin]]"</ref> and his mother died in childbirth at [[Dragonstone (castle)|Dragonstone]].<ref>"[[Robert's Rebellion (Complete Guide to Westeros)#Viserys Targaryen's perspective]]"</ref> His younger brother [[Viserys]] and sister [[Daenerys]] (who was born after Rhaegar's death) survived in exile in the [[Free Cities]] across the sea.<ref>"[[Winter is Coming (episode)|Winter is Coming]]"</ref> Lyanna also died during the war.<ref>"[[Fire and Blood]]"</ref> Rhaenys and Aegon were killed in front of Elia by Ser [[Gregor Clegane]] better known as 'The Mountain' and afterwards raped Elia and fatally stabbed her with his sword.
+
+===[[Season 1]]===
+When King [[Robert Baratheon]] arrives at [[Winterfell]], he immediately goes with Lord [[Eddard Stark]] to see [[Lyanna Stark]]'s grave in the crypts beneath the castle. Robert tells Eddard that he kills Rhaegar every night in his dreams.<ref>"[[Winter is Coming]]"</ref>
+
+===[[Season 3]]===
+[[File:Dead-Rhaegar.jpg|thumb|left|240px|Rhaegar lies dead in the Ruby Ford.]]
+When Daenerys Targaryen considers the possibility of buying [[Unsullied]] to employ as her army in her quest to win the [[Iron Throne]], Ser [[Barristan Selmy]] pleads her not to do it, mentioning Rhaegar [[Battle of the Trident|fighting]] with men that believed in his cause at [[the Trident]]. Ser [[Jorah Mormont]] counters that Rhaegar fought bravely and honorably, but perished nevertheless.<ref>"[[Walk of Punishment]]"</ref>
+
+===[[Season 5]]===
+On her way to her father's funeral at the [[Great Sept of Baelor]], Cersei recalls visiting a [[maegi]] known as [[Maggy]] to predict her future. Young Cersei asks Maggy if she will the Prince as her father desired,<ref>"[[Mad King Aerys (Complete Guide to Westeros)#Tywin Lannister's perspective]]"</ref> but Maggy answers that she will not, but she will marry [[Robert Baratheon|the King]].<ref>"[[The Wars to Come]]"</ref>
+
+[[Barristan Selmy]] shares some of his memories of Rhaegar with [[Daenerys Targaryen|his sister]]. Dany is pleasantly surprised to discover that Rhaegar was more than the great killer that Viserys made him out to be. Selmy tells her how Rhaegar used to disguise himself as a minstrel and play on the streets of King's Landing while Ser Barristan stood guard. Rhaegar made quite a tidy profit on these excursions, and although he once spent the money on getting himself and Selmy very, very drunk, he usually gave the money away to other minstrels or to orphanages. Barristan mentions that Rhaegar never liked killing but instead loved singing.
+
+Around the same time, [[Petyr Baelish]] explains the events of the Tourney at Harrenhal to [[Sansa Stark]] when she accuses Rhaegar of kidnapping and raping Lyanna. Baelish gives Sansa a simple account of what everyone saw happen, rather than interpret the events that followed.<ref>"[[Sons of the Harpy (episode)|Sons of the Harpy]]"</ref>
+
+==Quotes==
+{{Quote|In my dreams, I kill him every night.|[[Robert Baratheon]] to [[Eddard Stark]]|Winter is Coming}}
+
+{{Quote|Your brother Rhaegar was the last dragon.|[[Jorah Mormont]] to [[Daenerys Targaryen]]|Cripples, Bastards and Broken Things}}
+
+{{Quote|When your brother Rhaegar led his army into battle at the Trident, men died for him because they believed in him, because they loved him.  I fought beside the last dragon on that day, your Grace.  I bled beside him.|Ser [[Barristan Selmy]] to Daenerys|Walk of Punishment}}
+
+{{Dialogue a-b-a|Daenerys Targaryen|Did you know him well, Ser Barristan?|Barristan Selmy|I did, your Grace. Finest man I ever met.|I wish I had known him, but he was not the last dragon.|Rhaegar Targaryen remembered.|Walk of Punishment}}
+
+{{Dialogue a-b|Petyr Baelish|The last two riders were Barristan Selmy and Rhaegar Targaryen. When Rhaegar won, everyone cheered for their prince. I remember the girls laughing when he took off his helmet and saw that silver hair. How handsome he was. Until he rode right past his wife Elia Martell, and all the smiles died. I've never seen so many people so quiet. He rode past his wife and he lay a crown of winter roses in Lyanna's lap. Blue with frost. How many tens of thousands had to die because Rhaegar chose your aunt?|Sansa Stark|Yes he chose her. And then he kidnapped her and raped her.|[[Petyr Baelish]] and [[Sansa Stark]] discuss Rhaegar.}}
+
+{{Dialogue a-b-a|Barristan Selmy|Viserys never told you?|Daenerys Targaryen|He told me Rhaegar was good at killing people.|Rhaegar never liked killing. He loved singing.|Ser Barristan recounts his time with Rhaegar|Sons of the Harpy (episode)}}
+
+==Family tree==
+{{House Targaryen family tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Rhaegar is depicted as a chivalrous, honorable, and just warrior well loved by the smallfolk, albeit one often distracted by other concerns and apparently unable or unwilling to restrain the worst excesses of his father. He had a strained relationship with his father, which was helped along by the king's paranoia, and lords who spoke ill of the Crown Prince and claimed he was plotting to overthrow Aerys.
+
+Rhaegar had silver-gold hair and dark lilac eyes. He was considered to be tall and handsome. [[Cersei Lannister]], who was infatuated with him, remembers Rhaegar as the most beautiful man she had ever seen. Rhaegar was very bookish in his youth, such that people jested that the Queen swallowed some books and a candle while he was in her wombs. As a boy he was able to impress the maesters with his wit. He only became a warrior after reading something that changed his outlook, and thence pursued his martial training with as much dedication as his studies.
+
+Rhaegar's reasons for taking [[Lyanna Stark]] remain a mystery to both his supporters and his detractors, but the entire realm knows that they had met at a great tourney at [[Harrenhal]]. Rhaegar had crowned her Queen of Love and Beauty, passing over his wife [[Elia Martell]].
+
+A year after the tourney, Rhaegar and two knights of the [[Kingsguard]] fell upon Lyanna in [[the Riverlands]] and took her to a secure location (eventually revealed to be a hidden redoubt in the Red Mountains of [[Dorne]]). This event is cited as the catalyst for Robert's Rebellion, although strictly speaking it was Aerys whose paranoia and brutal reaction when he executed [[Rickard Stark|Rickard]] and [[Brandon Stark (Son of Rickard)|Brandon Stark]], Lyanna's father and brother, that finally prompted the [[House Stark|Starks]], [[House Baratheon|Baratheons]], [[House Arryn|Arryns]], and [[House Tully|Tullies]] to rise in rebellion.
+
+When Rhaegar returned to the capital to take command of the royal army and lead them into battle, [[Jaime Lannister]] - who had become quite appalled by the Mad King's actions - begged Rhaegar to take him along. Rhaegar refused but promised Jaime that changes would be made once the rebellion had been crushed. However, Rhaegar ultimately perished at the hands of [[Robert Baratheon]] at the [[Battle of the Trident]].
+
+With Rhaegar's death and the loss of the Battle of Trident, the Royalist cause was seen as doomed. With this decisive rebel victory, the Lannisters and Greyjoys, who had stayed out of the conflict, joined the war on the rebels' side. This led to the Greyjoy raid of the Reach, as well as the Lannister Sack of King's Landing and the death of Aerys.
+
+When [[Daenerys Targaryen]] was in the [[House of the Undying]], one of the visions she saw was a man resembling [[Viserys Targaryen|Viserys]] but taller than him, with dark indigo eyes, and a woman nursing a newborn babe in a great wooden bed. They were confirmed by [[George R.R. Martin]] to be Rhaegar, Elia, and their infant son Aegon.<ref>[http://www.westeros.org/Citadel/Prophecies/Entry/1811 The Citadel: Prophecies - Westeros.org]</ref>
+
+==See also==
+*{{AWOIAF}} (spoilers from the books)
+
+==References==
+{{Reflist|2}}
+{{Targaryen navbox}}
+{{DEFAULTSORT:Targaryen, Rhaegar}}
+
+
+[[de:Rhaegar Targaryen]]
+[[es:Rhaegar Targaryen]]
+[[it:Rhaegar Targaryen]]
+[[pl:Rhaegar Targaryen]]
+[[ru:Рэйгар Таргариен]]
+[[zh:雷加·坦格利安]]

@@ -1,0 +1,18 @@
+<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:Character\n","placeholder":1,"wikitext":"{{Template:Character\n|Title = Brothel child 2\n|Season = [[Season 5|5]]\n|First = \n|Appearances = \"[[Mother's Mercy]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Place = [[Braavos]]\n|Allegiance =\n|Culture = \n|Actor = [[Isabelle Jones]]\n|Aka = \n|Image = 5x10 Brothel child 2.jpg}}"}" data-rte-instance="130814-96220368856cca76ca37c2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>Brothel child</b> is a character in <a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-96220368856cca76ca37c2" href="/wiki/Season_5" title="Season 5">Season 5</a>.
+</p>
+<h2 data-rte-empty-lines-before="1">Biography</h2>
+<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
+<p data-rte-fromparser="true">She is a child who serves in a brothel in <a data-rte-meta="{"type":"internal","text":"Braavos","link":"Braavos","wasblank":true,"noforce":true,"wikitext":"[[Braavos]]"}" data-rte-instance="130814-96220368856cca76ca37c2" href="/wiki/Braavos" title="Braavos">Braavos</a>.
+</p>
+<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-96220368856cca76ca37c2" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
+<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Meryn Trant","link":"Meryn Trant","wasblank":true,"noforce":true,"wikitext":"[[Meryn Trant]]"}" data-rte-instance="130814-96220368856cca76ca37c2" href="/wiki/Meryn_Trant" title="Meryn Trant">Meryn Trant</a> hits <a data-rte-meta="{"type":"internal","text":"both","link":"Brothel child 1","wasblank":false,"noforce":true,"wikitext":"[[Brothel child 1|both]]"}" data-rte-instance="130814-96220368856cca76ca37c2" href="/wiki/Brothel_child_1" title="Brothel child 1">both</a> of the Brothel children with a stick. When Meryn attempts to hit <a data-rte-meta="{"type":"internal","text":"Arya","link":"Arya","wasblank":true,"noforce":true,"wikitext":"[[Arya]]"}" data-rte-instance="130814-96220368856cca76ca37c2" href="/wiki/Arya" title="Arya" class="mw-redirect">Arya</a> she does not flinch, unlike the other girls who cry in agony.
+</p>
+<h2 data-rte-empty-lines-before="1">Appearances</h2>
+<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Five Appearances","placeholder":1,"wikitext":"{{Template:Season Five Appearances||||||||||yes|}}"}" data-rte-instance="130814-96220368856cca76ca37c2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+</p><p data-rte-fromparser="true"><br />
+</p>
+<h2 data-rte-empty-lines-before="3">References</h2>
+<p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-96220368856cca76ca37c2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+</p>
+   Loading editor

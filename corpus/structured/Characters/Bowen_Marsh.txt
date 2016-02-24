@@ -1,0 +1,66 @@
+{{Heraldry
+|image=Night's-Watch-Main-Shield.PNG
+|link=Night's Watch
+}}{{Character
+| Title=Bowen Marsh
+| Image= Marsh promo.png
+| Season=[[Season 5|5]]
+| First="[[The Wars to Come]]"
+| Last=
+| Appearances=7 episodes <small>[[#Appearances|(see below)]]</small>
+| Titles=First Steward of the [[Night's Watch]]
+| Mentioned="[[You Win or You Die]]"
+| Status= [[:Category:Status: Alive|Alive]]
+| Death=
+| Place=
+| Allegiance=The [[Night's Watch]] (by oath)<br>[[House Marsh]] (by birth)
+| Family=
+| Actor=[[Michael Condron]]
+| Culture = [[Crannogmen]]}}{{Quote|And why do you think the farmers abandoned those [[The Gift|villages]]? Because the [[Free Folk|wildlings]] raided them for years, cut them down! Just like they did this [[Olly|boy's]] people!|Bowen Marsh to [[Samwell Tarly]]|Kill the Boy}}'''Bowen Marsh''' is a recurring character in the [[Season 5|fifth season]] who had already been mentioned in the [[Season 1|first season]]. He is played by [[Michael Condron]]. Bowen Marsh is the First Steward of the [[Night's Watch]].
+
+==Biography==
+===Background===
+Bowen Marsh is the First Steward of the [[Night's Watch]], based at [[Castle Black]]. He is in charge of the day-to-day running of the Night's Watch, dealing with issues of supplies, funding, logistics and communications. He hails from [[House Marsh]], a noble [[crannogmen]] family of [[the Neck]] sworn to [[House Reed]].
+
+===[[Season 1]]===
+After the assignment ceremony, [[Maester]] [[Aemon]] orders [[Pypar|Pyp]] to report to Bowen Marsh in the kitchens.<ref>"[[You Win or You Die]]"</ref>
+
+===[[Season 5]]===
+Marsh is present when [[Mance Rayder]] is executed by [[Stannis Baratheon]] for refusing to bend the knee.<ref>"[[The Wars to Come]]"</ref>
+
+Marsh participates in the [[Choosing]] of the 998th [[Lord Commander of the Night's Watch]]. He stands among [[Alliser Thorne]]'s supporters, and fails to applaud or cheer when Jon Snow is elected.<ref>"[[The House of Black and White]]"</ref>
+
+At a later meeting in the Night's Watch, Marsh sits alongside Jon, Thorne and First Builder [[Othell Yarwyck]] and openly opposes Jon's proposal to allow the wildlings access through the Wall to settle in the Seven Kingdoms or even join the Watch itself. [[Samwell Tarly]] cites [[The Gift]] as a good place for the wildlings to settle because much of the farmland there is deserted, but Marsh reminds him that this is because the wildlings frequently targeted the lands of the Gift in their raids of the North, citing [[Olly]]'s village as an example.<ref>"[[Kill the Boy]]"</ref>
+
+When Jon Snow returns from [[Hardhome]] with thousands of wildlings and lets them in through the Wall, Bowen Marsh is among the many black brothers who look at the wildlings and even their Lord Commander with disgust.<ref>"[[The Dance of Dragons]]"</ref>
+[[File:Bowen Marsh stabs Jon.jpg|thumb|180x180px|Bowen Marsh stabs Jon during the mutiny at Castle Black.]]
+Marsh later takes part in and helps organize a mutiny against Jon Snow, as many Black brothers feel that he has forsaked the Night's Watch for the wildlings. After tricking Jon into being trapped in a corner, Marsh is the third to stab Jon, after [[Alliser Thorne]] and [[Othell Yarwyck]], though he looks somewhat remorseful while uttering "For the Watch". He and the mutineers then leave Jon for dead as the sun rises.<ref>"[[Mother's Mercy]]"</ref>
+
+==Appearances==
+{{Season Five Appearances|yes|yes|yes||yes||yes||yes|yes|yes}}
+
+==Quotes==
+{{Quote|For the Watch.|Bowen Marsh after stabbing [[Jon Snow]] during the [[mutiny at Castle Black]].|Mother's Mercy}}
+
+==Behind the scenes==
+During the first season it was believed [[Brian Fortune]] was playing Marsh, and [[Dennis McKeever]] was playing [[Othell Yarwyck]], based on comments made by Fortune and McKeever's character delivering one of Yarwyck's lines from the books. However, this assumption was then dispelled: McKeever reappeared in Seasons [[Season 2|2]] and [[Season 3|3]] in the [[Great Ranging]], even though Yarwyck didn't participate in the books; in [[Season 4]], Fortune's character was identified as Yarwyck; and [[Michael Condron]] was subsequently cast as Marsh for the fifth season, which means Fortune's character was always Yarwyck, while McKeever was simply playing [[Night's Watch Officer 2|an unnamed Night's Watch officer]].
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Bowen Marsh is described as being red and round, leading [[Dolorous Edd]] to nickname him "the Old Pomegranate". He is is an important senior figure in the Watch, reporting directly to Lord Commander [[Jeor Mormont]] and is just below him in the command hierarchy of the Watch. When Mormont and the rest of the Night's Watch ride out to investigate the [[wildling]] menace in the so-called "[[Great Ranging]]", he remains in command at Castle Black. Though not explicitly stated, Bowen Marsh hails from House Marsh, a noble house from [[the Neck]] sworn to [[House Reed]].
+
+As the [[wildling]]s advance to Castle Black, [[Mance Rayder]] sends raiding parties the to attack several areas of the Wall, in order to draw attention away from the main host and to draw away the defenders. Unfortunately, Marsh falls for the trick and takes most of the garrison from Castle Black. When [[Jon Snow]] returns, he finds that only forty-one men are left in the castle, most of them old, crippled, or inexperienced.
+
+In the novels, Marsh is friends with Jon Snow and staunchly supports him when he is elected as the new Lord Commander, but slowly becomes disillusioned with him when he proposes an alliance with the wildlings. When Jon decides to leave Castle Black to confront [[Ramsay Bolton]], it is Marsh who starts the Mutiny at Castle Black instead of Alliser Thorne. He is the second to stab Jon, with tears in his eyes (unlike in the TV show, where he merely shows anger while stabbing Jon).
+
+==See also==
+* {{AWOIAF}} (MAJOR spoilers from the books)
+
+==References==
+{{Reflist|2}}
+{{Watch navbox}}
+{{DEFAULTSORT:Marsh, Bowen}}
+
+[[de:Bowen Marsh]]
+[[es:Bowen Marsh]]
+[[ru:Боуэн Марш]]
+[[zh:波文·马尔锡]]

@@ -1,0 +1,18 @@
+<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:Character\n","placeholder":1,"wikitext":"{{Template:Character\n|Title = Braavosi Captain\n|Season = [[Season 5|5]]\n|First = \n|Appearances = \"[[Hardhome (episode)|Hardhome]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Place = [[Braavos]]\n|Allegiance =\n|Culture = \n|Actor = [[Morgan C. Jones]]\n|Aka = \n|Image = 5x08 Braavosi Captain.jpg}}"}" data-rte-instance="130814-185544696656cca7d084df9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>Braavosi Captain</b> is a character in <a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-185544696656cca7d084df9" href="/wiki/Season_5" title="Season 5">Season 5</a>.
+</p>
+<h2 data-rte-empty-lines-before="1">Biography</h2>
+<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
+<p data-rte-fromparser="true">He's a Braavosi captain.
+</p>
+<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-185544696656cca7d084df9" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
+<p data-rte-fromparser="true">The captains tries to insure his ship with the <a data-rte-meta="{"type":"internal","text":"thin man","link":"thin man","wasblank":true,"noforce":true,"wikitext":"[[thin man]]"}" data-rte-instance="130814-185544696656cca7d084df9" href="/wiki/Thin_man" title="Thin man">thin man</a>, but he refuses so the captain is taken away by the thin man's guards.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[[Hardhome (episode)]]<\/ref>"}" data-rte-instance="130814-185544696656cca7d084df9" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
+</p>
+<h2 data-rte-empty-lines-before="1">Appearances</h2>
+<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Five Appearances","placeholder":1,"wikitext":"{{Template:Season Five Appearances||||||||yes|}}"}" data-rte-instance="130814-185544696656cca7d084df9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+</p><p data-rte-fromparser="true"><br />
+</p>
+<h2 data-rte-empty-lines-before="3">References</h2>
+<p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-185544696656cca7d084df9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+</p>
+   Loading editor

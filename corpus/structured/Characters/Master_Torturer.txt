@@ -1,0 +1,40 @@
+{{Heraldry
+|image=House-Bolton-Shield-Icon.PNG
+|link=House Bolton
+}}
+{{Character
+| Title = Master Torturer
+| Image = Skinner-3x02.jpg
+| Season = [[Season 3|3]]
+| First="[[Dark Wings, Dark Words]]"
+| Last="[[Walk of Punishment]]"
+| Appearances=2 episodes <small>[[#Appearances|(see below)]]</small>
+| Status= [[:Category:Status: Dead|Deceased]]
+| Titles=
+| Aka=
+| Place =
+| Allegiance = [[House Bolton]]
+| Culture = [[Northmen]]
+| Actor = [[Michael Shelford]]
+|Family = |Death = Shot with arrows by [[Ramsay Bolton|Ramsay Snow]]
+|DeathEp = "[[Walk of Punishment]]"}}{{Quote|Know what we do with runaways here, do you? Take off his pants. I'm gonna fuck you into the dirt!|The Master Torturer to Theon Greyjoy|Walk of Punishment}}
+The '''Master Torturer''' is the apparent leader of the men holding [[Theon Greyjoy]] prisoner. He's a torturer serving [[House Bolton]] under the command of [[Ramsay Bolton|Ramsay Snow]], the [[Bastardy|bastard]] son of [[Roose Bolton]], and [[castellan]] of [[the Dreadfort]].
+==Biography==
+===[[Season 3]]===
+At the Dreadfort, Theon Greyjoy has been chained up in a dungeon after being knocked out before the [[Sack of Winterfell]]. Men come in, some wearing [[ironborn]] clothing, and interrogate him. When he asks what they want, the Master Torturer simply says "this" and starts prying his fingernail off with a knife. Later they use a foot press to torture him, slowly turning a screw into his foot until it is bleeding freely, repeatedly asking him why he captured [[Winterfell]], but apparently not caring about the answers he desperately gives. Theon, for his part, at first tells them the simple truth (that he wanted to take and hold Winterfell while [[the North]] was vunerable to impress [[Balon Greyjoy|his father]]), then starts frantically lying (saying he hates [[House Stark|the Starks]] and is their enemy), desperately trying to figure out what his captors want him to tell them. When the guards leave they put a bag over his head. Ramsay Snow then approaches Theon disguised as a servant boy and unwinds the foot press, and tells him that he has been sent by his sister [[Yara Greyjoy|Yara]] to rescue him. However, he must wait until nightfall when the castle is asleep, so he puts the bag back on and the desperate Theon is left alone crying for help.<ref>"[[Dark Wings, Dark Words]]"</ref>
+
+Ramsay later helps Theon escape and gives him a horse and tells him to ride east. Theon thanks him and says he'll make him a lord of the [[Iron Islands]] for this, but Ramsay says that they aren't in the Iron Islands now. Theon is later hunted down by his captors in a prolonged chase on horseback through the woods. Ultimately his pursuers split into two groups and trap Theon between them, and he is knocked off his horse with a flail. Theon's captors pin him to the ground, and pull down his pants: the Master Torturer declares that he intends to rape Theon as punishment for trying to run away. However, Ramsay returns and snipes all of the captors from afar using his bow, rescuing him at the last minute. Realizing that Ramsay merely used him as a pawn for his great scheme to fool Theon, the Master Torturer's final words are "''you little bastard''" before Ramsay shoots him in the head.<ref>"[[Walk of Punishment]]"</ref>
+
+==Appearances==
+{{Season Three Appearances|2=yes|3=yes}}
+
+==Quotes==
+{{Quote|I want the truth.|The Master Torturer to Theon.|Dark Wings, Dark Words}}
+
+{{Quote|You little bastard......|The Master Torturer's final words before he is slain by Ramsay Snow.|Walk of Punishment}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]]'' novels, Ramsay Snow surrounds himself with a group of sadistic men referred to as the "Bastard's Boys". There is no mention of Ramsay ever killing one of his favorites during his mind games with Theon.
+
+==References==
+{{Template:Reflist}}

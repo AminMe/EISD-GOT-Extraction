@@ -1,0 +1,76 @@
+{{Heraldry
+|image = 
+|link = 
+|leftimage = House-Stark-Main-Shield.PNG
+|leftlink = House Stark
+|rightimage = Night's-Watch-Main-Shield.PNG
+|rightlink = Night's Watch}}
+{{Character
+| Title=Benjen Stark
+| Image=BenjenStarkheadshotpromo.jpg
+| Season=[[Season 1|1]], [[Season 6|6]]
+| First="[[Winter is Coming (episode)|Winter is Coming]]"
+| Last="[[Lord Snow]]"
+| Appearances=3 episodes <small>([[#Appearances|see below]])</small>
+| Titles=[[First Ranger]] of the [[Night's Watch]]
+| Status=[[:Category:Status: Uncertain|Uncertain]]; Disappeared on a ranging
+| Death=
+| Place=
+| Allegiance=The [[Night's Watch]]<br>[[House Stark]]
+| Family={[[Rickard Stark]]} - father<br>{[[Brandon Stark (Son of Rickard)|Brandon Stark]]} - brother<br>{[[Lyanna Stark]]} - sister<br>{[[Eddard Stark]]} - brother<br>{[[Catelyn Stark]]} - sister-in-law<br>{[[Robb Stark]]} - nephew<br>[[Sansa Stark]] - niece<br>[[Arya Stark]] - niece<br>[[Bran Stark]] - nephew<br>[[Rickon Stark]] - nephew<br>[[Jon Snow]] - nephew
+| Actor=[[Joseph Mawle]]<br>Unconfirmed actor (Season 6 flashbacks)|Culture = [[Northmen]]
+|Religion = [[Old Gods of the Forest]]|Mentioned ="[[The Wolf and the Lion]]" <br>"[[You Win or You Die]]"<br>"[[The Pointy End]]"<br>"[[Fire and Blood]]"<br>"[[The North Remembers]]"}}
+{{Quote|[[The Wall|Here]], a man gets what he earns, when he earns it.|Benjen Stark to [[Jon Snow]]|Lord Snow}}
+
+'''Benjen Stark''' is a recurring character in the [[Season 1|first season]]. He is played by guest star [[Joseph Mawle]] and debuts in the [[Winter is Coming (episode)|series premiere]]. He will reappear in the [[Season 6|sixth season]], in a flashback. Benjen Stark is the [[First Ranger]] of the [[Night's Watch]]. He embarks on a ranging north of [[the Wall]], and does not return.
+
+==Biography==
+===Background===
+Benjen Stark is the youngest son of Lord [[Rickard Stark]]. Rickard was the head of [[House Stark]] and [[Lord Paramount of the North]]. [[The North]] is one of the constituent regions of the [[Seven Kingdoms]] and House Stark is one of the [[Great Houses]] of the realm. House Stark rule the region from their seat of [[Winterfell]] and Rickard also held the title [[Lord of Winterfell]].<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/ HBO viewers guide, season 2 guide to houses, House Stark entry]</ref>
+
+Benjen is the younger brother of [[Brandon Stark (Son of Rickard)|Brandon]], [[Eddard Stark|Eddard]] and [[Lyanna Stark|Lyanna]]. Rickard, Brandon and Lyanna were all killed in the civil war known as [[Robert's Rebellion]]. Eddard inherited his father's titles and responsibilities.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/rickard-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Rickard Stark entry]</ref><ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/brandon-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Brandon Stark entry]</ref><ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/lyanna-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Lyanna Stark entry]</ref>
+
+Benjen joined the [[Night's Watch]], the military force which patrols [[the Wall]] and guards the northern border of the [[Seven Kingdoms]]. He earned the rank of [[First Ranger]]. Benjen is a hero to Eddard's bastard son [[Jon Snow]].<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/benjen-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Benjen Stark entry]</ref>
+
+===[[Season 1]]===
+[[Image:Benjen Stark.jpg|thumb|250px|right|[[Eddard Stark]] talking to his brother in [[Winterfell]]'s great hall.]]
+Benjen travels south from the Wall to join in the feast welcoming King [[Robert Baratheon]] to Winterfell. He brings news about ill omens from beyond the Wall. Benjen tells Eddard that the [[Will|young deserter]] he executed was a good and loyal man, a true ranger who would not desert his post lightly. He invites his nephew [[Jon Snow]] to join the Night's Watch; Jon agrees despite Benjen's warning that it is a hard life.<ref>"[[Winter is Coming (episode)|Winter is Coming]]"</ref> Eddard agrees to become the [[Hand of the King]]. A few days later, the royal party heads south. Benjen accompanies them to the Kingsroad and then escorts Jon and [[Tyrion Lannister]] north to [[Castle Black]]. Along the way they are joined by fresh recruits, including a rapist named [[Rast]]. Jon begins to realize that the Watch may not be the noble institution he thought it was.<ref>"[[The Kingsroad]]"</ref>
+
+[[Image:Jon and Benjen 1x03.png|thumb|250px|right|Benjen says goodbye to his nephew [[Jon Snow]] atop the Wall.]]
+Upon arriving at Castle Black Jon begins his training. Benjen tells Jon that he is going north of the Wall on a ranging. Jon asks to go with him, but Benjen tells him that he is not ready and cautions that on the Wall a man only gets what he earns, not what his birth entitles him to. Benjen says farewell to his friend [[Yoren]], a recruiter for the Watch. He also exchanges words with Tyrion, who is about to head south with Yoren. Benjen feels that Tyrion holds the Watch in disregard despite Tyrion's protests to the contrary.<ref>"[[Lord Snow]]"</ref>
+
+[[Catelyn Stark]] takes Tyrion prisoner at the [[Crossroads Inn]] believing he attempted to kill her son, [[Bran Stark|Bran]].<ref>"[[Cripples, Bastards and Broken Things]]"</ref> Because of his friendship with Benjen, Yoren rides on to [[King's Landing]] and reports Catelyn's actions to Eddard.<ref>"[[The Wolf and the Lion]]"</ref>
+
+Benjen's horse returns to Castle Black, but there is no sign of Benjen himself.<ref>"[[You Win or You Die]]"</ref> Shortly afterwards, two of the rangers who accompanied Benjen, [[Othor]] and [[Jafer Flowers]], are found dead in the forest beyond the Wall. They are brought back to Castle Black for Maester [[Aemon]] to study, but in the middle of the night they reanimate as [[wights]]. Both are killed again and their bodies are burned.<ref>"[[The Pointy End]]"</ref> Lord Commander [[Jeor Mormont]] vows to take the Watch beyond the Wall in force to investigate what's going on and promises Jon that they will find Benjen alive or dead.<ref>"[[Fire and Blood]]"</ref>
+
+==Appearances==
+{{Season One Appearances|yes|yes|yes}}
+
+==Gallery==
+<gallery captionalign="left">
+Jon and Benjen.jpg|Jon and Benjen atop the Wall
+Benjen Tree.jpg
+</gallery>
+
+==Family tree==
+{{House Stark family tree}}
+
+==In the books==
+In the ''[[A Song of Ice and Fire]] ''​novels, Benjen is the First Ranger of the Night's Watch, a position of high honor and achievement. It is rumored he took the black to escape from Winterfell because his home reminded him of his lost family (Rickard, Brandon, and Lyanna). He is a noted tracker and fighter. Benjen attends King Robert Baratheon's visit to Winterfell and Jon approaches him at the feast about joining the Night's Watch. Benjen tries to talk him out of making such a permanent decision at such a young age, but Jon's mind is made up. Benjen later tells Maester Luwin of Jon's decision, who in turn notifies Ned and Catelyn.
+
+As with the TV series, Benjen goes on a mission to assess the situation in the Haunted Forest, but disappears and is never heard from again. The [[Great Ranging]] led by [[Lord Commander]] [[Jeor Mormont]] is organized partly in response to Benjen's disappearance.
+
+According to the TV series official [[pronunciation guide]] developed for the cast and crew, "Benjen" is pronounced "BEN-jin", as opposed to "Ben-JENN" (the second syllable is short and not stressed).
+
+==See also==
+*{{AWOIAF}} (spoilers from the books)
+
+==References==
+{{Reflist|2}}
+{{Stark navbox}}
+{{Watch navbox}}
+{{DEFAULTSORT:Stark, Benjen}}
+
+[[de:Benjen Stark]]
+[[es:Benjen Stark]]
+[[ru:Бенджен Старк]]

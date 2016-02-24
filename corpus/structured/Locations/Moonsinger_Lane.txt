@@ -1,0 +1,11 @@
+<p data-rte-fromparser="true"><b>Moonsinger Lane</b> is a lane in the city of <a data-rte-meta="{"type":"internal","text":"Braavos","link":"Braavos","wasblank":true,"noforce":true,"wikitext":"[[Braavos]]"}" data-rte-instance="130814-171484984856cca9335e2a3" href="/wiki/Braavos" title="Braavos">Braavos</a>.
+</p>
+<h2 data-rte-empty-lines-before="1">History</h2>
+<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-171484984856cca9335e2a3" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
+<p data-rte-fromparser="true" data-rte-filler="true"></p><h2 data-rte-empty-lines-before="1">In the books</h2>
+<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-171484984856cca9335e2a3" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no mention of a Moonsinger Lane in Braavos or any other location. Nevertheless, the name is a reference to the Moonsingers, priestesses of the Jogos Nhai. Moonsingers were among the slaves that fled bondage under the <a data-rte-meta="{"type":"internal","text":"Valyrian Freehold","link":"Valyrian Freehold","wasblank":true,"noforce":true,"wikitext":"[[Valyrian Freehold]]"}" data-rte-instance="130814-171484984856cca9335e2a3" href="/wiki/Valyrian_Freehold" title="Valyrian Freehold">Valyrian Freehold</a> and led the way to the place where Braavos would be founded.
+</p>
+<h2 data-rte-empty-lines-before="1">References</h2>
+<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-171484984856cca9335e2a3" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
+</p>
+   Loading editor
