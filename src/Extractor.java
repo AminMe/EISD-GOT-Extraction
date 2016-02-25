@@ -1,12 +1,8 @@
 import java.io.File;
 import java.io.IOException;
-import java.io.UnsupportedEncodingException;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
-
-import org.apache.commons.codec.DecoderException;
-import org.apache.commons.codec.binary.Hex;
 import org.apache.commons.io.FileUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -78,6 +74,7 @@ public class Extractor {
      */
     private static String extractStructuredEditNotSource(Document doc)
     {
+        //TODO eux juste retirer HTML ??
         System.out.println("Je suis dans le cas Daenerys");
         Elements textarea = doc.select("textarea#wpTextbox1");
         return textarea.text();
@@ -119,23 +116,81 @@ public class Extractor {
         return links;
     }
 
-
-    public static void cleanFile(String filename) throws IOException {
-        //System.out.println("Cleaning "+filename);
-
-        File html = new File(filename);
-
-        Document doc = Jsoup.parse(html, "UTF-8");
-        doc.outputSettings(new Document.OutputSettings().prettyPrint(false));//makes html() preserve linebreaks and spacing
-        //doc.select("br").append("\\n");
-        //doc.select("p").prepend("\\n\\n");
-
-        if(doc.select("p").isEmpty())
+    public static void relationshipsRecursif(Element ulli, int profondeur, ArrayList<String> relationships)
+    {
+        if(ulli.children().size()==0)
         {
+            //System.out.println("Profondeur fin " + profondeur + " - " + ulli.text());
+            relationships.add(generateStars(profondeur)+" "+ulli.text());
             return;
         }
-        //System.out.println("Opening ... "+html.getName());
+        if(ulli.tagName().equals("ul"))
+        {
+            profondeur++;
+            for(int i = 0; i<ulli.children().size(); i++)
+            {
+                relationshipsRecursif(ulli.child(i),profondeur,relationships);
+            }
+        }
+        else if(ulli.tagName().equals("li"))
+        {
+            String myContent = "";
+            for(int i = 0; i<ulli.children().size(); i++)
+            {
+                if(ulli.child(i).tagName().equals("a"))
+                {
+                    Element tmp = ulli.clone();
+                    tmp.select("ul").remove();
 
+                    if(myContent.isEmpty())
+                    {
+                        relationships.add(generateStars(profondeur)+" "+tmp.select("li").first().text());
+                        myContent += tmp.select("li").first().text();
+                    }
+                }
+                else {
+                    relationshipsRecursif(ulli.child(i),profondeur,relationships);
+                    break;
+                }
+            }
+            //System.out.println(generateStars(profondeur)+" "+myContent);
+        }
+
+        //System.out.println("\n");
+    }
+
+    public static String generateStars(int howMuch)
+    {
+        if(howMuch<=0)
+            return "";
+        String stars = "";
+
+        for(int i = 0; i<howMuch; i++)
+        {
+            stars+="*";
+        }
+
+        return stars;
+    }
+
+    /**
+     * Gere le cas des fichiers ou le source est deja en bon format
+     * @return
+     */
+    public static String handleFileSourceEasy(Document doc)
+    {
+        return Jsoup.clean(doc.toString().replaceAll("\\\\n", "\n")
+            , "", Whitelist.none(), new Document.OutputSettings().prettyPrint(false));
+    }
+
+    /**
+     * Gere le cas des fichiers ou le sources n'est pas dans le bon
+     * format
+     * @param doc
+     * @return
+     */
+    public static String handleFileSourceHard(Document doc)
+    {
         Pattern pattern;
         Matcher matcher;
         String regex = "\\|\\s*([t|T]itle.*?)\\s*data";
@@ -155,7 +210,40 @@ public class Extractor {
             //System.out.println("Matcher.find() : "+matcher.find());
             if(matcher.find())
             {
-               // System.out.println("Group " +matcher.group(1)); // Prints String I want to extract
+                // System.out.println("Group " +matcher.group(1)); // Prints String I want to extract
+
+                Elements h2 = doc.select("h2");
+
+                Element h2RelationShips = null;
+
+                for(Element elem : h2)
+                {
+                    if(elem.text().equals("Relationships"))
+                    {
+                        h2RelationShips = elem;
+                    }
+                }
+
+                String relationshipsS = "";
+                if(h2RelationShips!=null)
+                {
+                    //System.out.println("h2 : "+h2RelationShips);
+                    Element ul = h2RelationShips.nextElementSibling();
+                    while(!ul.tagName().equals("ul"))
+                    {
+                        ul = ul.nextElementSibling();
+                    }
+                    //System.out.println(ul);
+                    ArrayList<String> relationships = new ArrayList<>();
+                    relationshipsRecursif(ul,0,relationships);
+
+
+                    for (String r : relationships)
+                    {
+                        relationshipsS+=r+"\n";
+                    }
+                }
+
 
 
                 doc.select("br").append("\\n");
@@ -166,10 +254,10 @@ public class Extractor {
                         .replaceAll("\\&nbsp;", "")
                         .replaceAll("\\{*\\[\\[", "")
                         .replaceAll("\\]\\]\\}*", "");
-                String update = matcher.group(1) + docString;
-                System.out.println(update);
+                String update = matcher.group(1) + relationshipsS +  docString;
+                //System.out.println(update);
 
-
+                return update;
 
 
                 //TODO : nettoyer HTML, prendre le contenu fichier + match (regex) => ecraser le contenu du fichier
@@ -178,14 +266,40 @@ public class Extractor {
             {
                 //TODO : rm cest fichiers???
                 //System.out.println("NTM : "+filename);
+                return handleFileSourceEasy(doc);
             }
 
         }
 
         else
         {
-            System.out.println("OULAAA _______________ " + filename);
+            return handleFileSourceEasy(doc);
         }
+    }
+
+    /**
+     * Nettoie le contenu d'un fichier et retourne le nouveau contenu
+     * @param filename
+     * @return
+     * @throws IOException
+     */
+    public static String cleanFile(String filename) throws IOException {
+        //System.out.println("Cleaning "+filename);
+
+        File html = new File(filename);
+
+        Document doc = Jsoup.parse(html, "UTF-8");
+        doc.outputSettings(new Document.OutputSettings().prettyPrint(false));//makes html() preserve linebreaks and spacing
+        //doc.select("br").append("\\n");
+        //doc.select("p").prepend("\\n\\n");
+
+        if(doc.select("p").isEmpty())
+        {
+            return handleFileSourceEasy(doc);
+        }
+        //System.out.println("Opening ... "+html.getName());
+
+        return handleFileSourceHard(doc);
     }
 
     public static void cleanDir(String dir) throws IOException {
@@ -193,16 +307,17 @@ public class Extractor {
         while(it.hasNext()){
             //System.out.println(((File) it.next()).getName());
             String filename = ((File) it.next()).getName();
-            if((filename.equals("House_Stark.txt")))
+            /*if((filename.equals("House_Targaryen.txt")))
             {
-                cleanFile(dir+"/"+filename);
-            }
+                String content = cleanFile(dir+"/"+filename);
+                System.out.println(content);
+            }*/
 
-           // cleanFile(dir+"/"+filename);
+            String content = cleanFile(dir+"/"+filename);
         }
     }
 
-    public static void main(String[] args) throws DecoderException, IOException {
+    public static void main(String[] args) throws IOException {
 
         cleanDir("corpus/structured/Characters");
         cleanDir("corpus/structured/Locations");
@@ -210,6 +325,8 @@ public class Extractor {
 
 
         System.exit(0);
+
+        //TODO faire un menu
 
         ArrayList<String> categories = new ArrayList<>(Arrays.asList("Characters","Locations","Noble_houses"));
         ArrayList<Integer> limits = new ArrayList<>(Arrays.asList(58,21,10));
