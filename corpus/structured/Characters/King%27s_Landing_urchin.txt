@@ -1,14 +1,19 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = King&#39;s Landing urchin\n|Season = [[Season 1|1]]\n|Image=King&#39;s Landing urchin.jpg\n|Appearances = \"[[Baelor]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance =\n|Actor = [[Stephen Grech]]}}"}" data-rte-instance="130814-97332786556cca7d56e397" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>King<span data-rte-entity="#39">&#39;</span>s Landing urchin</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/Season_1" title="Season 1">first season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Stephen Grech","link":"Stephen Grech","wasblank":true,"noforce":true,"wikitext":"[[Stephen Grech]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/Stephen_Grech" title="Stephen Grech">Stephen Grech</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"Baelor","link":"Baelor","wasblank":true,"noforce":true,"wikitext":"[[Baelor]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/Baelor" title="Baelor">Baelor</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">While <a data-rte-meta="{"type":"internal","text":"Arya Stark","link":"Arya Stark","wasblank":true,"noforce":true,"wikitext":"[[Arya Stark]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> is in <a data-rte-meta="{"type":"internal","text":"Flea Bottom","link":"Flea Bottom","wasblank":true,"noforce":true,"wikitext":"[[Flea Bottom]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/Flea_Bottom" title="Flea Bottom">Flea Bottom</a>, she hears a commotion and sees people starting to run past. She calls to a small ragged child and asks him where the crowds are going. As he is running past her, he tells her that <a data-rte-meta="{"type":"internal","text":"they","link":"City Watch","wasblank":false,"noforce":true,"wikitext":"[[City Watch|they]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/City_Watch" title="City Watch">they</a> are taking "<a data-rte-meta="{"type":"internal","text":"him","link":"Eddard Stark","wasblank":false,"noforce":true,"wikitext":"[[Eddard Stark|him]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/Eddard_Stark" title="Eddard Stark">him</a>" to the <a data-rte-meta="{"type":"internal","text":"Great Sept of Baelor","link":"Great Sept of Baelor","wasblank":true,"noforce":true,"wikitext":"[[Great Sept of Baelor]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/Great_Sept_of_Baelor" title="Great Sept of Baelor">Great Sept of Baelor</a>. When she asks who, he looks back over his shoulder and says, "The <a data-rte-meta="{"type":"internal","text":"Hand of the King","link":"Hand of the King","wasblank":true,"noforce":true,"wikitext":"[[Hand of the King]]"}" data-rte-instance="130814-97332786556cca7d56e397" href="/wiki/Hand_of_the_King" title="Hand of the King">Hand of the King</a>".<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Baelor]]\"<\/ref>"}" data-rte-instance="130814-97332786556cca7d56e397" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|9=yes}}"}" data-rte-instance="130814-97332786556cca7d56e397" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-97332786556cca7d56e397" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=King's landing urchin
+|season=1
+|image=King's urchin.jpg
+|appearances=\Baelor\
+|Status = alive
+|allegiance=
+|Actor stephen grech}}}
+
+ 
+
+A King's Landing urchin is an unnamed minor character in the first season. He is played by guest star Stephen Grech and only appears in Baelor. Biography 
+
+ Season 1 
+
+While Arya Stark is in Flea Bottom, she hears a commotion and sees people starting to run past. She calls to a small ragged child and asks him where the crowds are going. As he is running past her, he tells her that they are taking him to the Great Sept of Baelor. When she asks who, he looks back over his shoulder and says, The Hand of the King.\Baelor\\/ref} data-rte-instance130814-97332786556cca7d56e397 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ References 
+
+  Loading editor

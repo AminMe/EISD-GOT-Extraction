@@ -1,27 +1,45 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Forrester-Main-Shield.PNG\n|link = House Forrester\n}}"}" data-rte-instance="130814-204210726356cca6db66979" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Amaya\n|Image = TID Amaya Fighting.png\n|Season = ''[[Game of Thrones: A Telltale Games Series]]''\n|First = \"[[A Nest of Vipers]]\"\n|Appearances = 2 episodes\n|Status = [[:Category: Status: Dead|Deceased]]\n|Allegiance = [[House Forrester]]\n|Actor = [[Jaye Jacobs]]\n|Death = Shot in the head with an arrow during the [[Battle of Ironrath]]\n|DeathEp = \"[[The Ice Dragon]]\"\n|Last = \"[[The Ice Dragon]]\"\n}}"}" data-rte-instance="130814-204210726356cca6db66979" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|We are pit fighters! Artists, who paint in blood!|Amaya to [[Asher Forrester]]|A Nest of Vipers}}"}" data-rte-instance="130814-204210726356cca6db66979" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Amaya</b> is a recently freed slave and former partner of <a data-rte-meta="{"type":"internal","text":"Beskha","link":"Beskha","wasblank":true,"noforce":true,"wikitext":"[[Beskha]]"}" data-rte-instance="130814-204210726356cca6db66979" href="/wiki/Beskha" title="Beskha">Beskha</a>. Following <a data-rte-meta="{"type":"internal","text":"Daenerys Targaryen","link":"Daenerys Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Daenerys Targaryen]]"}" data-rte-instance="130814-204210726356cca6db66979" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>'s liberation of the city, she is the de facto leader of a group of pit fighters in <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-204210726356cca6db66979" href="/wiki/Meereen" title="Meereen">Meereen</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">When Beskha was still a slave, she and Amaya were very successful pit fighters, often working together. However, that friendship ended when Beskha won her freedom, which led Amaya to hold a grudge against Beskha for leaving her behind. 
-</p>
-<h3 data-rte-empty-lines-before="1">"<a data-rte-meta="{"type":"internal","text":"A Nest of Vipers","link":"A Nest of Vipers","wasblank":true,"noforce":true,"wikitext":"[[A Nest of Vipers]]"}" data-rte-instance="130814-204210726356cca6db66979" href="/wiki/A_Nest_of_Vipers" title="A Nest of Vipers">A Nest of Vipers</a>"</h3>
-<p data-rte-fromparser="true">When Amaya first sees Beskha she tells the Pit Fighters to restrain her, and tells Asher that he must want something pretty bad to come to them for it, but if he wanted her interest he wouldn't have come with Beskha.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">She believes Beskha abandoned her by escaping from their Master. Amaya notices that Asher caught the Pit Fighters' attention and says if he wants to lead them he must first earn their respect and must defeat Bloodsong to do just that.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Amaya says that he must fight with the weapons they give him. When Asher puts Bloodsong down she throws Asher's sword so he can finish Bloodsong. If he kills him Amaya and the Pit Fighters are impressed.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">When Asher and Beskha wait at the ship for any pit fighters to join them, Amaya shows up along with the Beast, Bloodsong (if spared) and several other nameless pit fighters.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">When they reach Westeros, Beast complains that it is ugly and small, Amaya adds that it's freezing too. She manages to get out of the courtyard before the Whitehill soldier sabotages the gate, and after one of the Forrester brothers stayed behind she is seen going with the others to Ironrath.
-</p>
-<h3 data-rte-empty-lines-before="1">"<a data-rte-meta="{"type":"internal","text":"The Ice Dragon","link":"The Ice Dragon","wasblank":true,"noforce":true,"wikitext":"[[The Ice Dragon]]"}" data-rte-instance="130814-204210726356cca6db66979" href="/wiki/The_Ice_Dragon" title="The Ice Dragon">The Ice Dragon</a>"</h3>
-<p data-rte-fromparser="true">In the event Rodrik was rescued from the <a data-rte-meta="{"type":"internal","text":"Ambush at the Harbor","link":"Ambush at the Harbor","wasblank":true,"noforce":true,"wikitext":"[[Ambush at the Harbor]]"}" data-rte-instance="130814-204210726356cca6db66979" href="/wiki/Ambush_at_the_Harbor" title="Ambush at the Harbor">Ambush at the Harbor</a>, Amaya and her pit fighters begin to openly show distrust to Rodrik and doubt over what was promised to them by Asher in <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-204210726356cca6db66979" href="/wiki/Meereen" title="Meereen">Meereen</a>. The situation worsens when Amaya and her group appears in Ironrath, who not only considers on sacking the castle but even warns Rodrik that the house was too unprepared for the coming battle. Despite initial shortcomings, Amaya leads the pit fighters during the <a data-rte-meta="{"type":"internal","text":"Battle of Ironrath","link":"Battle of Ironrath","wasblank":true,"noforce":true,"wikitext":"[[Battle of Ironrath]]"}" data-rte-instance="130814-204210726356cca6db66979" href="/wiki/Battle_of_Ironrath" title="Battle of Ironrath">Battle of Ironrath</a>, where she assaults the Whitehill camp as Rodrik and Beshka go after Lord Whitehill and/or Gryff. As Rodrik returns to the meeting location, Beskha does not return and Amaya explains that "Basilisk" will have to take care of herself. 
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Upon returning to Ironrath, Amaya leads a charge against the Whitehill army and is pleased that her group was finally fighting the battle as Asher had mentioned. But as the battle wages on, Amaya is killed by Whitehill archers that infiltrated the walls, along with other pit fighters
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Telltale Game Series Appearances","placeholder":1,"wikitext":"{{Telltale Game Series Appearances|||||yes|yes}}"}" data-rte-instance="130814-204210726356cca6db66979" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">Image Gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"ad83aa934745ab031a1d162fe12aa805","id":0,"images":[{"name":"NOV Amaya Stern.png","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"ForresterArmyMarch.jpg","caption":"","link":"","linktext":"","shorttext":"","data-caption":""}],"imagesShown":[{"name":"NOV Amaya Stern.png","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"ForresterArmyMarch.jpg","caption":"","link":"","linktext":"","shorttext":"","data-caption":""}],"params":{},"type":1,"wikitext":"<gallery>\nNOV Amaya Stern.png\nForresterArmyMarch.jpg\n<\/gallery>"}" data-rte-instance="130814-204210726356cca6db66979" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-   Loading editor
+title=Amaya
+|Image = tid amaya fighting.png
+|season= game of thrones: a telltale games series
+|first=\A nest vipers\
+|appearances=2 episodes
+|status=deceased
+|allegiance=House forrester
+|actor=Jaye jacobs
+|death=Shot in the head with an arrow during battle ironrath
+|deathep=\The ice dragon\
+|last=\The dragon\
+}}}
+
+ 
+
+ 
+
+ 
+
+Amaya is a recently freed slave and former partner of Beskha. Following Daenerys Targaryen's liberation of the city,she is the de facto leader of a group of pit fighters in Meereen. Biography 
+
+ Background 
+
+When Beskha was still a slave, she and Amaya were very successful pit fighters, often working together. However, that friendship ended when Beskha won her freedom, which led Amaya to hold a grudge against Beskha for leaving her behind. A Nest of Vipers 
+
+When Amaya first sees Beskha she tells the Pit Fighters to restrain her, and tells Asher that he must want something pretty bad to come to them for it, but if he wanted her interest he wouldn't have come with Beskha. 
+
+She believes Beskha abandoned her by escaping from their Master. Amaya notices that Asher caught the Pit Fighters' attention and says if he wants to lead them he must first earn their respect and must defeat Bloodsong to do just that. 
+
+Amaya says that he must fight with the weapons they give him. When Asher puts Bloodsong down she throws Asher's sword so he can finish Bloodsong. If he kills him Amaya and the Pit Fighters are impressed. 
+
+When Asher and Beskha wait at the ship for any pit fighters to join them, Amaya shows up along with the Beast, Bloodsong (if spared) and several other nameless pit fighters. 
+
+When they reach Westeros, Beast complains that it is ugly and small, Amaya adds that it's freezing too. She manages to get out of the courtyard before the Whitehill soldier sabotages the gate, and after one of the Forrester brothers stayed behind she is seen going with the others to Ironrath. The Ice Dragon 
+
+In the event Rodrik was rescued from the Ambush at the Harbor, Amaya and her pit fighters begin to openly show distrust to Rodrik and doubt over what was promised to them by Asher in Meereen. The situation worsens when Amaya and her group appears in Ironrath, who not only considers on sacking the castle but even warns Rodrik that the house was too unprepared for the coming battle. Despite initial shortcomings, Amaya leads the pit fighters during the Battle of Ironrath, where she assaults the Whitehill camp as Rodrik and Beshka go after Lord Whitehill and/or Gryff. As Rodrik returns to the meeting location, Beskha does not return and Amaya explains that Basilisk will have to take care of herself. 
+
+Upon returning to Ironrath, Amaya leads a charge against the Whitehill army and is pleased that her group was finally fighting the battle as Asher had mentioned. But as the battle wages on, Amaya is killed by Whitehill archers that infiltrated the walls, along with other pit fighters Appearances 
+
+ Image Gallery 
+
+
+NOV Amaya Stern.png
+ForresterArmyMarch.jpg
+\/gallery} data-rte-instance130814-204210726356cca6db66979 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 /  Loading editor

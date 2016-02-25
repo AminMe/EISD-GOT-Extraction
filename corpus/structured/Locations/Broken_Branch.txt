@@ -1,17 +1,17 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[Image:Broken Branch.png|thumb|right|200px|A map showing the location of the Broken Branch on the continent of Westeros.]]","title":"Broken_Branch.png","params":{"thumbnail":true,"alt":"Broken Branch","align":"right","caption":"A map showing the location of the Broken Branch on the continent of Westeros.","width":200,"captionParsed":"A map showing the location of the Broken Branch on the continent of Westeros."}}" data-rte-instance="130814-106468427056cca90a34a54" alt="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/f/f2/Broken_Branch.png/revision/latest/scale-to-width-down/200?cb=20120415133033" width="200" height="516" class="image thumb alignRight withCaption" data-image-name="Broken Branch.png" data-image-key="Broken_Branch.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->The <b>Broken Branch</b> is a river in <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-106468427056cca90a34a54" href="/wiki/The_North" title="The North">the North</a>. The river is so-called for its winding and branching nature. It flows out of the forests and hills near <a data-rte-meta="{"type":"internal","text":"Hornwood","link":"Hornwood","wasblank":true,"noforce":true,"wikitext":"[[Hornwood]]"}" data-rte-instance="130814-106468427056cca90a34a54" href="/wiki/Hornwood" title="Hornwood">Hornwood</a> into <a data-rte-meta="{"type":"internal","text":"the Bite","link":"the Bite","wasblank":true,"noforce":true,"wikitext":"[[the Bite]]"}" data-rte-instance="130814-106468427056cca90a34a54" href="/wiki/The_Bite" title="The Bite">the Bite</a>. The castle of <a data-rte-meta="{"type":"internal","text":"Ramsgate","link":"Ramsgate","wasblank":true,"noforce":true,"wikitext":"[[Ramsgate]]"}" data-rte-instance="130814-106468427056cca90a34a54" href="/wiki/Ramsgate" title="Ramsgate">Ramsgate</a> sits near its mouth.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/Moat_Cailin\/ HBO viewers guide, season 2 map, Moat Cailin entry]<\/ref>"}" data-rte-instance="130814-106468427056cca90a34a54" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" /><img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/dreadfort\/ HBO viewers guide, season 2 map, Dreadfort entry]<\/ref>"}" data-rte-instance="130814-106468427056cca90a34a54" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-106468427056cca90a34a54" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Broken Branch's headwaters are in the Sheepshead Hills.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-106468427056cca90a34a54" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-106468427056cca90a34a54" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The North","placeholder":1,"wikitext":"{{The North}}"}" data-rte-instance="130814-106468427056cca90a34a54" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u043b\u043e\u043c\u0430\u043d\u043d\u0430\u044f \u0412\u0435\u0442\u043a\u0430","link":"ru:\u0421\u043b\u043e\u043c\u0430\u043d\u043d\u0430\u044f \u0412\u0435\u0442\u043a\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u043b\u043e\u043c\u0430\u043d\u043d\u0430\u044f \u0412\u0435\u0442\u043a\u0430]]"}" data-rte-instance="130814-106468427056cca90a34a54" href="http://ru.gameofthrones.wikia.com/wiki/Сломанная_Ветка" class="extiw" title="ru:Сломанная Ветка">ru:Сломанная Ветка</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u65ad\u679d\u6cb3","link":"zh:\u65ad\u679d\u6cb3","wasblank":true,"noforce":true,"wikitext":"[[zh:\u65ad\u679d\u6cb3]]"}" data-rte-instance="130814-106468427056cca90a34a54" href="http://zh.asoiaf.wikia.com/wiki/断枝河" class="extiw" title="zh:断枝河">zh:断枝河</a>
-</p>
-   Loading editor
+
+The Broken Branch is a river in the North. The river is so-called for its winding and branching nature. It flows out of the forests and hills near Hornwood into the Bite. The castle of Ramsgate sits near its mouth.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/Moat_Cailin\/ HBO viewers guide, season 2 map, Moat Cailin entry\/ref} data-rte-instance130814-106468427056cca90a34a54 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/dreadfort\/ HBO viewers guide, season 2 map, Dreadfort entry\/ref} data-rte-instance130814-106468427056cca90a34a54 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+In the books
+In the A Song of Ice and Fire novels, the Broken Branch's headwaters are in the Sheepshead Hills.
+
+References
+
+
+See also
+
+
+
+ru:Сломанная Ветка
+zh:断枝河
+
+ &nbsp; Loading editor

@@ -1,18 +1,20 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Stark-Main-Shield.PNG\n|link = House Stark}}"}" data-rte-instance="130814-105534555256cca7fc5986c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Dorren Stark\n|Image =  \n|Season = [[Season 5|5]]\n|Mentioned = \"[[Kill the Boy]]\"\n|Titles = [[King in the North]]\n|Status = [[:Category: Status: Dead|Deceased]]\n|Place = [[Winterfell]]\n|Allegiance = [[House Stark]]\n|Culture = [[Northmen]]\n|Religion = [[Old Gods of the Forest]]}}"}" data-rte-instance="130814-105534555256cca7fc5986c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />King <b>Dorren Stark</b> is an unseen character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/Game_of_Thrones" title="Game of Thrones" class="mw-redirect">Game of Thrones</a></i>. He is long dead by the time in which the show takes place. He was a <a data-rte-meta="{"type":"internal","text":"King in the North","link":"King in the North","wasblank":true,"noforce":true,"wikitext":"[[King in the North]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/King_in_the_North" title="King in the North">King in the North</a> before the <a data-rte-meta="{"type":"internal","text":"Targaryen Conquest","link":"War of Conquest","wasblank":false,"noforce":true,"wikitext":"[[War of Conquest|Targaryen Conquest]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/War_of_Conquest" title="War of Conquest">Targaryen Conquest</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Shireen Baratheon","link":"Shireen Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Shireen Baratheon]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/Shireen_Baratheon" title="Shireen Baratheon">Shireen Baratheon</a> mentions that Dorren's tomb is in the ancient crypts underneath <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/Winterfell" title="Winterfell">Winterfell</a>, along with <a data-rte-meta="{"type":"internal","text":"Brandon the Builder","link":"Brandon Stark (the Builder)","wasblank":false,"noforce":true,"wikitext":"[[Brandon Stark (the Builder)|Brandon the Builder]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/Brandon_Stark_(the_Builder)" title="Brandon Stark (the Builder)">Brandon the Builder</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Kill the Boy]]\"<\/ref>"}" data-rte-instance="130814-105534555256cca7fc5986c" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Dorren Stark is mentioned only in passing. According to legend, during the time of his rule the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a> fought <a data-rte-meta="{"type":"internal","text":"Giants","link":"Giants","wasblank":true,"noforce":true,"wikitext":"[[Giants]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/Giants" title="Giants">Giants</a> and actively traded with the <a data-rte-meta="{"type":"internal","text":"Children of the Forest","link":"Children of the Forest","wasblank":true,"noforce":true,"wikitext":"[[Children of the Forest]]"}" data-rte-instance="130814-105534555256cca7fc5986c" href="/wiki/Children_of_the_Forest" title="Children of the Forest">Children of the Forest</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-105534555256cca7fc5986c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-105534555256cca7fc5986c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Stark navbox","placeholder":1,"wikitext":"{{Stark navbox}}"}" data-rte-instance="130814-105534555256cca7fc5986c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Dorren stark
+|image=
+|Season = 5
+|mentioned=\Kill the boy\
+|titles=King in north
+|status=deceased
+|place=Winterfell
+|Allegiance house stark
+|culture=Northmen
+|Religion old gods of forest}}}
+
+ King Dorren Stark is an unseen character in Game of Thrones. He is long dead by the time in which the show takes place. He was a King in the North before the Targaryen Conquest. Biography 
+
+ Season 5 
+
+Shireen Baratheon mentions that Dorren's tomb is in the ancient crypts underneath Winterfell, along with Brandon the Builder.\Kill the Boy\\/ref} data-rte-instance130814-105534555256cca7fc5986c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, Dorren Stark is mentioned only in passing. According to legend, during the time of his rule the Night's Watch fought Giants and actively traded with the Children of the Forest. See also References 
+
+  Loading editor

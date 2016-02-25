@@ -1,14 +1,14 @@
-<p data-rte-fromparser="true">The <b>Saltspear</b> is an inlet in <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-58023645556cca9186f965" href="/wiki/The_North" title="The North">the North</a>. It is located in <a data-rte-meta="{"type":"internal","text":"Blazewater Bay","link":"Blazewater Bay","wasblank":true,"noforce":true,"wikitext":"[[Blazewater Bay]]"}" data-rte-instance="130814-58023645556cca9186f965" href="/wiki/Blazewater_Bay" title="Blazewater Bay">Blazewater Bay</a> and west of <a data-rte-meta="{"type":"internal","text":"Moat Cailin","link":"Moat Cailin","wasblank":true,"noforce":true,"wikitext":"[[Moat Cailin]]"}" data-rte-instance="130814-58023645556cca9186f965" href="/wiki/Moat_Cailin" title="Moat Cailin">Moat Cailin</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>Season 2 Bluray: War of the Five Kings feature<\/ref>"}" data-rte-instance="130814-58023645556cca9186f965" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-58023645556cca9186f965" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Saltspear is fed by the Fever River, a river in <a data-rte-meta="{"type":"internal","text":"the Neck","link":"the Neck","wasblank":true,"noforce":true,"wikitext":"[[the Neck]]"}" data-rte-instance="130814-58023645556cca9186f965" href="/wiki/The_Neck" title="The Neck">the Neck</a>. It opens into Blazewater Bay.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-58023645556cca9186f965" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-58023645556cca9186f965" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The North","placeholder":1,"wikitext":"{{The North}}"}" data-rte-instance="130814-58023645556cca9186f965" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u043e\u043b\u0451\u043d\u043e\u0435 \u041a\u043e\u043f\u044c\u0451","link":"ru:\u0421\u043e\u043b\u0451\u043d\u043e\u0435 \u041a\u043e\u043f\u044c\u0451","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u043e\u043b\u0451\u043d\u043e\u0435 \u041a\u043e\u043f\u044c\u0451]]"}" data-rte-instance="130814-58023645556cca9186f965" href="http://ru.gameofthrones.wikia.com/wiki/Солёное_Копьё" class="extiw" title="ru:Солёное Копьё">ru:Солёное Копьё</a>
-</p>
-   Loading editor
+The Saltspear is an inlet in the North. It is located in Blazewater Bay and west of Moat Cailin.Season 2 Bluray: War of the Five Kings feature\/ref} data-rte-instance130814-58023645556cca9186f965 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+In the books
+In the A Song of Ice and Fire novels, Saltspear is fed by the Fever River, a river in the Neck. It opens into Blazewater Bay.
+
+See also
+
+
+References
+
+
+ru:Солёное Копьё
+
+ &nbsp; Loading editor

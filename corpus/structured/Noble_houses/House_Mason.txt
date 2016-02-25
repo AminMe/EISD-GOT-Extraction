@@ -1,16 +1,16 @@
-<p data-rte-fromparser="true"><b>House Mason</b> is a noble house from <a data-rte-meta="{"type":"internal","text":"Westeros","link":"Westeros","wasblank":true,"noforce":true,"wikitext":"[[Westeros]]"}" data-rte-instance="130814-112476505156cca9b3034e6" href="/wiki/Westeros" title="Westeros">Westeros</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-112476505156cca9b3034e6" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Lord Mason","link":"Mason (Lord)","wasblank":false,"noforce":true,"wikitext":"[[Mason (Lord)|Lord Mason]]"}" data-rte-instance="130814-112476505156cca9b3034e6" href="/wiki/Mason_(Lord)" title="Mason (Lord)">Lord Mason</a> sends a message to Lord Commander <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-112476505156cca9b3034e6" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> in which he agrees to send men to join the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-112476505156cca9b3034e6" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"<\/ref>"}" data-rte-instance="130814-112476505156cca9b3034e6" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<ul><li><a data-rte-meta="{"type":"internal","text":"Lord Mason","link":"Mason (Lord)","wasblank":false,"noforce":true,"wikitext":"[[Mason (Lord)|Lord Mason]]"}" data-rte-instance="130814-112476505156cca9b3034e6" href="/wiki/Mason_(Lord)" title="Mason (Lord)">Lord Mason</a>, head of the house.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-112476505156cca9b3034e6" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no mention of any House Mason.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-112476505156cca9b3034e6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+House Mason is a noble house from Westeros.
+
+History
+Season 5
+Lord Mason sends a message to Lord Commander Jon Snow in which he agrees to send men to join the Night's Watch.\Sons of the Harpy\\/ref} data-rte-instance130814-112476505156cca9b3034e6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+Members
+Lord Mason, head of the house.
+
+In the books
+In the A Song of Ice and Fire novels, there is no mention of any House Mason.
+
+References
+
+
+ &nbsp; Loading editor

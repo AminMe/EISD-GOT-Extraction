@@ -1,10 +1,10 @@
-<p data-rte-fromparser="true">The <b>Wendwater</b> River flows from the northeast of <a data-rte-meta="{"type":"internal","text":"the Stormlands","link":"the Stormlands","wasblank":true,"noforce":true,"wikitext":"[[the Stormlands]]"}" data-rte-instance="130814-92851661456cca93d8a6fa" href="/wiki/The_Stormlands" title="The Stormlands">the Stormlands</a> through the <a data-rte-meta="{"type":"internal","text":"Kingswood","link":"Kingswood","wasblank":true,"noforce":true,"wikitext":"[[Kingswood]]"}" data-rte-instance="130814-92851661456cca93d8a6fa" href="/wiki/Kingswood" title="Kingswood">Kingswood</a> and <a data-rte-meta="{"type":"internal","text":"the Crownlands","link":"the Crownlands","wasblank":true,"noforce":true,"wikitext":"[[the Crownlands]]"}" data-rte-instance="130814-92851661456cca93d8a6fa" href="/wiki/The_Crownlands" title="The Crownlands">the Crownlands</a> to empty into the south of <a data-rte-meta="{"type":"internal","text":"Blackwater Bay","link":"Blackwater Bay","wasblank":true,"noforce":true,"wikitext":"[[Blackwater Bay]]"}" data-rte-instance="130814-92851661456cca93d8a6fa" href="/wiki/Blackwater_Bay" title="Blackwater Bay">Blackwater Bay</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[[Complete Guide to Westeros]]:  Robert's Rebellion - Stannis Baratheon<\/ref>"}" data-rte-instance="130814-92851661456cca93d8a6fa" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-92851661456cca93d8a6fa" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-92851661456cca93d8a6fa" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Stormlands","placeholder":1,"wikitext":"{{The Stormlands}}"}" data-rte-instance="130814-92851661456cca93d8a6fa" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+The Wendwater River flows from the northeast of the Stormlands through the Kingswood and the Crownlands to empty into the south of Blackwater Bay.Complete Guide to Westeros:  Robert's Rebellion - Stannis Baratheon\/ref} data-rte-instance130814-92851661456cca93d8a6fa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+See also
+
+
+References
+
+
+
+ &nbsp; Loading editor

@@ -1,16 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Sharp Point\n| Image=\n| Image size=\n| Location=The [[Crownlands]], [[Westeros]] \n| Type=Castle\n| Population=\n| Rulers=\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-83178605956cca90de11db" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Sharp Point</b> is a castle in <a data-rte-meta="{"type":"internal","text":"the Crownlands","link":"the Crownlands","wasblank":true,"noforce":true,"wikitext":"[[the Crownlands]]"}" data-rte-instance="130814-83178605956cca90de11db" href="/wiki/The_Crownlands" title="The Crownlands">the Crownlands</a>, the region controlled directly by the <a data-rte-meta="{"type":"internal","text":"Iron Throne","link":"Iron Throne","wasblank":true,"noforce":true,"wikitext":"[[Iron Throne]]"}" data-rte-instance="130814-83178605956cca90de11db" href="/wiki/Iron_Throne" title="Iron Throne">Iron Throne</a> in <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-83178605956cca90de11db" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a>. The castle is located north of <a data-rte-meta="{"type":"internal","text":"Stonedance","link":"Stonedance","wasblank":true,"noforce":true,"wikitext":"[[Stonedance]]"}" data-rte-instance="130814-83178605956cca90de11db" href="/wiki/Stonedance" title="Stonedance">Stonedance</a>, at the end of a peninsula where the southern portion of <a data-rte-meta="{"type":"internal","text":"Blackwater Bay","link":"Blackwater Bay","wasblank":true,"noforce":true,"wikitext":"[[Blackwater Bay]]"}" data-rte-instance="130814-83178605956cca90de11db" href="/wiki/Blackwater_Bay" title="Blackwater Bay">Blackwater Bay</a> meets <a data-rte-meta="{"type":"internal","text":"the Narrow Sea","link":"the Narrow Sea","wasblank":true,"noforce":true,"wikitext":"[[the Narrow Sea]]"}" data-rte-instance="130814-83178605956cca90de11db" href="/wiki/The_Narrow_Sea" title="The Narrow Sea" class="mw-redirect">the Narrow Sea</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Wolf and the Lion]]\"<\/ref>"}" data-rte-instance="130814-83178605956cca90de11db" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-83178605956cca90de11db" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels Sharp Point is located at the end of Massey's Hook and is the seat of House Bar Emmon, a noble house sworn to <a data-rte-meta="{"type":"internal","text":"Dragonstone","link":"Dragonstone (castle)","wasblank":false,"noforce":true,"wikitext":"[[Dragonstone (castle)|Dragonstone]]"}" data-rte-instance="130814-83178605956cca90de11db" href="/wiki/Dragonstone_(castle)" title="Dragonstone (castle)">Dragonstone</a>. The castle is a large watchtower upon which a great fire burns atop.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-83178605956cca90de11db" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-83178605956cca90de11db" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Crownlands","placeholder":1,"wikitext":"{{The Crownlands}}"}" data-rte-instance="130814-83178605956cca90de11db" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"zh:\u5c16\u89d2","link":"zh:\u5c16\u89d2","wasblank":true,"noforce":true,"wikitext":"[[zh:\u5c16\u89d2]]"}" data-rte-instance="130814-83178605956cca90de11db" href="http://zh.asoiaf.wikia.com/wiki/尖角" class="extiw" title="zh:尖角">zh:尖角</a>
-</p>
-   Loading editor
+title=Sharp point
+| image size=
+| location=The crownlands, westeros 
+| typedouble-brackets population
+| rulers=
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ Sharp Point is a castle in the Crownlands, the region controlled directly by the Iron Throne in King's Landing. The castle is located north of Stonedance, at the end of a peninsula where the southern portion of Blackwater Bay meets the Narrow Sea.\The Wolf and the Lion\\/ref} data-rte-instance130814-83178605956cca90de11db classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels Sharp Point is located at the end of Massey's Hook and is the seat of House Bar Emmon, a noble house sworn to Dragonstone. The castle is a large watchtower upon which a great fire burns atop. References 
+
+ See also 
+
+ 
+
+zh:尖角  Loading editor

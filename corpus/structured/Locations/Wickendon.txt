@@ -1,15 +1,19 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Wickendon\n| Image=\n| Image size=\n| Location=[[Westeros]], the [[Vale of Arryn]]\n| Type=Town\n| Population=\n| Rulers=\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-72723932656cca9135cd63" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[Image:Wickendon Pin.png|thumb|right|200px|A map showing the location of Wickendon on the continent of Westeros.]]","title":"Wickendon_Pin.png","params":{"thumbnail":true,"alt":"Wickendon Pin","align":"right","caption":"A map showing the location of Wickendon on the continent of Westeros.","width":200,"captionParsed":"A map showing the location of Wickendon on the continent of Westeros."}}" data-rte-instance="130814-72723932656cca9135cd63" alt="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/9/95/Wickendon_Pin.png/revision/latest/scale-to-width-down/200?cb=20120708155817" width="200" height="516" class="image thumb alignRight withCaption" data-image-name="Wickendon Pin.png" data-image-key="Wickendon_Pin.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Wickendon</b> is a town in the <a data-rte-meta="{"type":"internal","text":"Vale of Arryn","link":"Vale of Arryn","wasblank":true,"noforce":true,"wikitext":"[[Vale of Arryn]]"}" data-rte-instance="130814-72723932656cca9135cd63" href="/wiki/Vale_of_Arryn" title="Vale of Arryn" class="mw-redirect">Vale of Arryn</a>, the region controlled by <a data-rte-meta="{"type":"internal","text":"House Arryn","link":"House Arryn","wasblank":true,"noforce":true,"wikitext":"[[House Arryn]]"}" data-rte-instance="130814-72723932656cca9135cd63" href="/wiki/House_Arryn" title="House Arryn">House Arryn</a> of <a data-rte-meta="{"type":"internal","text":"the Eyrie","link":"the Eyrie","wasblank":true,"noforce":true,"wikitext":"[[the Eyrie]]"}" data-rte-instance="130814-72723932656cca9135cd63" href="/wiki/The_Eyrie" title="The Eyrie">the Eyrie</a>. The town is on the southern coast of the Vale, just across the bay from <a data-rte-meta="{"type":"internal","text":"Maidenpool","link":"Maidenpool","wasblank":true,"noforce":true,"wikitext":"[[Maidenpool]]"}" data-rte-instance="130814-72723932656cca9135cd63" href="/wiki/Maidenpool" title="Maidenpool">Maidenpool</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/the-eyrie\/ HBO viewers guide, season 1 map, the Eyrie entry]<\/ref>"}" data-rte-instance="130814-72723932656cca9135cd63" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" /><img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-vale-of-arryn\/ HBO viewers guide, season 2 map, The Vale of Arryn entry]<\/ref>"}" data-rte-instance="130814-72723932656cca9135cd63" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-72723932656cca9135cd63" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the town's name is spelled Wickenden. It is the seat of House Waxley and is on the northern edge of the Bay of Crabs.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Wickenden}}"}" data-rte-instance="130814-72723932656cca9135cd63" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />(spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-72723932656cca9135cd63" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Vale","placeholder":1,"wikitext":"{{The Vale}}"}" data-rte-instance="130814-72723932656cca9135cd63" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Wickendon
+| image size=
+| location=Westeros, the vale of arryn
+| typedouble-brackets population
+| rulers=
+| religion=The faith seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ Wickendon is a town in the Vale of Arryn, the region controlled by House Arryn of the Eyrie. The town is on the southern coast of the Vale, just across the bay from Maidenpool.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/the-eyrie\/ HBO viewers guide, season 1 map, the Eyrie entry\/ref} data-rte-instance130814-72723932656cca9135cd63 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-vale-of-arryn\/ HBO viewers guide, season 2 map, The Vale of Arryn entry\/ref} data-rte-instance130814-72723932656cca9135cd63 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, the town's name is spelled Wickenden. It is the seat of House Waxley and is on the northern edge of the Bay of Crabs. See also (spoilers from the books) References 
+
+  Loading editor

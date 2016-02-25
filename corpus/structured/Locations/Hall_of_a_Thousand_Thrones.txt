@@ -1,19 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Hall of a Thousand Thrones\n| Image=The Thirteen 2x07.jpg\n| Image size=250px\n| Location=[[Qarth]]\n| Type=Government headquarters\n| Population=\n| Rulers=[[The Thirteen]]\n| Religion=\n| Military=[[Civic Guard]]\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=[[Pureborn]]\n}}"}" data-rte-instance="130814-209771137156cca8ef5fec8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->The <b>Hall of a Thousand Thrones</b> is the seat of government in <a data-rte-meta="{"type":"internal","text":"Qarth","link":"Qarth","wasblank":true,"noforce":true,"wikitext":"[[Qarth]]"}" data-rte-instance="130814-209771137156cca8ef5fec8" href="/wiki/Qarth" title="Qarth">Qarth</a> and the meeting place of <a data-rte-meta="{"type":"internal","text":"The Thirteen","link":"The Thirteen","wasblank":true,"noforce":true,"wikitext":"[[The Thirteen]]"}" data-rte-instance="130814-209771137156cca8ef5fec8" href="/wiki/The_Thirteen" title="The Thirteen">The Thirteen</a>. 
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> History </h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3 data-rte-spaces-before="1" data-rte-spaces-after="1"> <a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-209771137156cca8ef5fec8" href="/wiki/Season_2" title="Season 2">Season 2</a> </h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Daenerys Targaryen","link":"Daenerys Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Daenerys Targaryen]]"}" data-rte-instance="130814-209771137156cca8ef5fec8" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>, accompanied by <a data-rte-meta="{"type":"internal","text":"Xaro Xhoan Daxos","link":"Xaro Xhoan Daxos","wasblank":true,"noforce":true,"wikitext":"[[Xaro Xhoan Daxos]]"}" data-rte-instance="130814-209771137156cca8ef5fec8" href="/wiki/Xaro_Xhoan_Daxos" title="Xaro Xhoan Daxos">Xaro Xhoan Daxos</a> and <a data-rte-meta="{"type":"internal","text":"Kovarro","link":"Kovarro","wasblank":true,"noforce":true,"wikitext":"[[Kovarro]]"}" data-rte-instance="130814-209771137156cca8ef5fec8" href="/wiki/Kovarro" title="Kovarro">Kovarro</a>, meets with the Thirteen here after her <a data-rte-meta="{"type":"internal","text":"dragons","link":"dragons","wasblank":true,"noforce":true,"wikitext":"[[dragons]]"}" data-rte-instance="130814-209771137156cca8ef5fec8" href="/wiki/Dragons" title="Dragons">dragons</a> are stolen, convinced that a member of the council perpetrated the deed.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Man Without Honor]]\"<\/ref>"}" data-rte-instance="130814-209771137156cca8ef5fec8" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> In the books </h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-209771137156cca8ef5fec8" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Hall of a Thousand Thrones is the seat of power of the <a data-rte-meta="{"type":"internal","text":"Pureborn","link":"Pureborn","wasblank":true,"noforce":true,"wikitext":"[[Pureborn]]"}" data-rte-instance="130814-209771137156cca8ef5fec8" href="/wiki/Pureborn" title="Pureborn">Pureborn</a>, the oligarch rulers of Qarth. Gaining access to the Hall and an audience with the Pureborn is a complicated process: To be allowed entrance, petitioners must make the traditional sacrifice in the Temple of Memory, offer the traditional bribe to the Keeper of the Long List, and send the traditional persimmon to the Opener of the Door. Finally, the petitioner will receive the traditional blue silk slippers summoning him or her to the Hall of a Thousand Thrones.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Inside, the Pureborn sit on great wooden chairs of their ancestors, which rise in curved tiers from a marble floor to a high domed ceiling. The chairs are immense, fantastically carved, bright with gold work, and studded with amber, onyx, lapis and jade. Each one is different from all the others, and each one strives to be the most fabulous. The domed ceiling is painted with scenes of Qarth's vanquished glory.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> See also </h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-209771137156cca8ef5fec8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<references\/>"}" data-rte-instance="130814-209771137156cca8ef5fec8" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Qarth","placeholder":1,"wikitext":"{{Qarth}}"}" data-rte-instance="130814-209771137156cca8ef5fec8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Hall of a thousand thrones
+| image thirteen 2x07.jpg
+| size=250px
+| location=Qarth
+| type=double-brackets headquarters
+| population=
+| rulers=The thirteen
+| religion=
+| military=Civic guard
+| institutions=
+| places=
+| founding=
+| age=
+| founder=Pureborn
+}}}
+
+ The Hall of a Thousand Thrones is the seat of government in Qarth and the meeting place of The Thirteen. History 
+
+ Season 2 
+
+Daenerys Targaryen, accompanied by Xaro Xhoan Daxos and Kovarro, meets with the Thirteen here after her dragons are stolen, convinced that a member of the council perpetrated the deed.\A Man Without Honor\\/ref} data-rte-instance130814-209771137156cca8ef5fec8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, the Hall of a Thousand Thrones is the seat of power of the Pureborn, the oligarch rulers of Qarth. Gaining access to the Hall and an audience with the Pureborn is a complicated process: To be allowed entrance, petitioners must make the traditional sacrifice in the Temple of Memory, offer the traditional bribe to the Keeper of the Long List, and send the traditional persimmon to the Opener of the Door. Finally, the petitioner will receive the traditional blue silk slippers summoning him or her to the Hall of a Thousand Thrones. 
+
+Inside, the Pureborn sit on great wooden chairs of their ancestors, which rise in curved tiers from a marble floor to a high domed ceiling. The chairs are immense, fantastically carved, bright with gold work, and studded with amber, onyx, lapis and jade. Each one is different from all the others, and each one strives to be the most fabulous. The domed ceiling is painted with scenes of Qarth's vanquished glory. See also (spoilers from the books) References 
+
+} data-rte-instance130814-209771137156cca8ef5fec8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /  Loading editor

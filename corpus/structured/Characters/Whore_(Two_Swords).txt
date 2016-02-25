@@ -1,13 +1,17 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Whore\n|Image = Whore Two Swords.jpg\n|Season = [[Season 4|4]]\n|Appearances = \"[[Two Swords]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[Petyr Baelish]]\n|Actor = Uncredited}}"}" data-rte-instance="130814-203439733056cca70c19427" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:Dialogue a-b","placeholder":1,"wikitext":"{{Template:Dialogue a-b|Oberyn|You like her?|Ellaria|Timid. Timid bores me|[[Oberyn Martell]] and [[Ellaria Sand]] discuss her.|Two Swords}}"}" data-rte-instance="130814-203439733056cca70c19427" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />A <b>whore </b>​is a minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-203439733056cca70c19427" href="/wiki/Season_4" title="Season 4">fourth season</a>. She is played by an uncredited actress and only appears in "<a data-rte-meta="{"type":"internal","text":"Two Swords","link":"Two Swords","wasblank":true,"noforce":true,"wikitext":"[[Two Swords]]"}" data-rte-instance="130814-203439733056cca70c19427" href="/wiki/Two_Swords" title="Two Swords">Two Swords</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-203439733056cca70c19427" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">She is among the prostitutes presented by <a data-rte-meta="{"type":"internal","text":"Olyvar","link":"Olyvar","wasblank":true,"noforce":true,"wikitext":"[[Olyvar]]"}" data-rte-instance="130814-203439733056cca70c19427" href="/wiki/Olyvar" title="Olyvar">Olyvar</a> to Prince <a data-rte-meta="{"type":"internal","text":"Oberyn Martell","link":"Oberyn Martell","wasblank":true,"noforce":true,"wikitext":"[[Oberyn Martell]]"}" data-rte-instance="130814-203439733056cca70c19427" href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a> and <a data-rte-meta="{"type":"internal","text":"Ellaria Sand","link":"Ellaria Sand","wasblank":true,"noforce":true,"wikitext":"[[Ellaria Sand]]"}" data-rte-instance="130814-203439733056cca70c19427" href="/wiki/Ellaria_Sand" title="Ellaria Sand">Ellaria Sand</a>. She is the first considered, but passed over due to her timidness.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Two Swords]]\"<\/ref>"}" data-rte-instance="130814-203439733056cca70c19427" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Four Appearances","placeholder":1,"wikitext":"{{Template:Season Four Appearances|yes}}"}" data-rte-instance="130814-203439733056cca70c19427" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-203439733056cca70c19427" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Whore
+|Image = whore two swords.jpg
+|season=4
+|appearances=\Two swords\
+|status=alive
+|allegiance=Petyr baelish
+|actor=Uncredited}}}
+
+Awhore​is a minor character in thefourth season. She is played by an uncredited actress and only appears in Two Swords. Biography 
+
+ Season 4 
+
+She is among the prostitutes presented by Olyvar to Prince Oberyn Martell and Ellaria Sand. She is the first considered, but passed over due to her timidness.\Two Swords\\/ref} data-rte-instance130814-203439733056cca70c19427 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ References 
+
+  Loading editor

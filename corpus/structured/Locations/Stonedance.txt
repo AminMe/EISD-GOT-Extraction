@@ -1,15 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Stonedance\n| Image=\n| Image size=\n| Location=The [[Crownlands]], [[Westeros]]\n| Type=Castle\n| Population=\n| Rulers=\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-79027277856cca93a7eada" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Stonedance</b> is a castle in <a data-rte-meta="{"type":"internal","text":"the Crownlands","link":"the Crownlands","wasblank":true,"noforce":true,"wikitext":"[[the Crownlands]]"}" data-rte-instance="130814-79027277856cca93a7eada" href="/wiki/The_Crownlands" title="The Crownlands">the Crownlands</a>, the region controlled directly by the <a data-rte-meta="{"type":"internal","text":"Iron Throne","link":"Iron Throne","wasblank":true,"noforce":true,"wikitext":"[[Iron Throne]]"}" data-rte-instance="130814-79027277856cca93a7eada" href="/wiki/Iron_Throne" title="Iron Throne">Iron Throne</a> in <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-79027277856cca93a7eada" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a>. The castle is located south of <a data-rte-meta="{"type":"internal","text":"Sharp Point","link":"Sharp Point","wasblank":true,"noforce":true,"wikitext":"[[Sharp Point]]"}" data-rte-instance="130814-79027277856cca93a7eada" href="/wiki/Sharp_Point" title="Sharp Point">Sharp Point</a>, on the peninsula south of <a data-rte-meta="{"type":"internal","text":"Blackwater Bay","link":"Blackwater Bay","wasblank":true,"noforce":true,"wikitext":"[[Blackwater Bay]]"}" data-rte-instance="130814-79027277856cca93a7eada" href="/wiki/Blackwater_Bay" title="Blackwater Bay">Blackwater Bay</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[[The Wolf and the Lion]]<\/ref>"}" data-rte-instance="130814-79027277856cca93a7eada" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2>In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-79027277856cca93a7eada" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels Stonedance is the seat of House Massey, which gives the peninsula its name of Massey's Hook.
-</p>
-<h2>See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-79027277856cca93a7eada" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-79027277856cca93a7eada" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Crownlands","placeholder":1,"wikitext":"{{The Crownlands}}"}" data-rte-instance="130814-79027277856cca93a7eada" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"zh:\u77f3\u821e\u57ce","link":"zh:\u77f3\u821e\u57ce","wasblank":true,"noforce":true,"wikitext":"[[zh:\u77f3\u821e\u57ce]]"}" data-rte-instance="130814-79027277856cca93a7eada" href="http://zh.asoiaf.wikia.com/wiki/石舞城" class="extiw" title="zh:石舞城">zh:石舞城</a>
-</p>
-   Loading editor
+title=Stonedance
+| image size=
+| location=The crownlands, westeros
+| typedouble-brackets population
+| rulers=
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ Stonedance is a castle in the Crownlands, the region controlled directly by the Iron Throne in King's Landing. The castle is located south of Sharp Point, on the peninsula south of Blackwater Bay.The Wolf and the Lion\/ref} data-rte-instance130814-79027277856cca93a7eada classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels Stonedance is the seat of House Massey, which gives the peninsula its name of Massey's Hook. See also References 
+
+ 
+
+zh:石舞城  Loading editor

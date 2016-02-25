@@ -5,52 +5,52 @@
 {{Character
 | Title=Aeron Greyjoy
 | Image=
-| Season=[[Season 6|6]]
+| Season=6
 | First=
 | Last=
 | Mentioned=
 | Aka=
-| Status= [[:Category:Status: Alive|Alive]]
+| Status= Alive
 | Titles=
 | Death=
-| Place=[[Pyke (castle)|Pyke]]
-| Allegiance=[[House Greyjoy]]
-| Family= [[Balon Greyjoy]] - brother<br>[[Euron Greyjoy]] - brother<br>[[Victarion Greyjoy]] - brother<br>[[Alannys Greyjoy]] - sister-in-law<br>{[[Rodrik Greyjoy]]} - nephew<br>{[[Maron Greyjoy]]} - nephew<br>[[Yara Greyjoy]] - niece<br>[[Theon Greyjoy]] - nephew
-| Religion=[[Drowned God]]
+| Place=Pyke
+| Allegiance=House Greyjoy
+| Family= Balon Greyjoy - brotherEuron Greyjoy - brotherVictarion Greyjoy - brotherAlannys Greyjoy - sister-in-lawRodrik Greyjoy - nephewMaron Greyjoy - nephewYara Greyjoy - nieceTheon Greyjoy - nephew
+| Religion=Drowned God
 | Actor=}}
 
-'''Aeron Greyjoy''' is a character in the [[Season 6|sixth season]].<ref>http://watchersonthewall.com/sources-report-euron-cast-major-scene-filmed-today-in-ballintoy-harbour/</ref>  His appearance in Season 6 is confirmed but the actor portraying him is not yet known.  
+Aeron Greyjoy is a character in the sixth season.http://watchersonthewall.com/sources-report-euron-cast-major-scene-filmed-today-in-ballintoy-harbour/  His appearance in Season 6 is confirmed but the actor portraying him is not yet known.  
 
-==Biography==
-===Background===
-Aeron Greyjoy is the youngest brother of [[Balon Greyjoy]], head of [[House Greyjoy]] and the [[Lord Reaper of Pyke]]. He is also the younger brother of [[Euron Greyjoy|Euron]] and an uncle of [[Yara Greyjoy|Yara]] and [[Theon Greyjoy]]. He is a [[Drowned Priest]] in service to the [[Drowned God]].<ref>http://viewers-guide.hbo.com/game-of-thrones/#!/guide/houses/greyjoy/</ref>
+Biography
+Background
+Aeron Greyjoy is the youngest brother of Balon Greyjoy, head of House Greyjoy and the Lord Reaper of Pyke. He is also the younger brother of Euron&nbsp;and an uncle of Yara and Theon Greyjoy. He is a Drowned Priest in service to the Drowned God.http://viewers-guide.hbo.com/game-of-thrones/#!/guide/houses/greyjoy/
 
-==Family tree==
-{{House Greyjoy family tree}}
+Family tree
+House Greyjoy family tree
 
-==Behind the scenes==
-A [[Drowned Priest]] appears in the [[Season 2|second season]] but has been confirmed as not being Aeron.<ref>[http://winteriscoming.net/2011/09/character-cuts-whos-in-and-whos-out-of-season-two/ Winter is Coming article on season 2 casting cuts]</ref>
+Behind the scenes
+A Drowned Priest appears in the second season but has been confirmed as not being Aeron.http://winteriscoming.net/2011/09/character-cuts-whos-in-and-whos-out-of-season-two/ Winter is Coming article on season 2 casting cuts
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, Aeron is known as Damphair and is a [[Drowned Men|priest]] of the Drowned God. He is tall and thin with fierce black eyes and a beak of a nose. He garbs himself in roughspun robes dyed in the green, grey, and blue of the Drowned God. He never cuts his hair, which falls to his waist and he weaves seaweed into it.
+In the books
+In the A Song of Ice and Fire novels, Aeron is known as Damphair and is a priest of the Drowned God. He is tall and thin with fierce black eyes and a beak of a nose. He garbs himself in roughspun robes dyed in the green, grey, and blue of the Drowned God. He never cuts his hair, which falls to his waist and he weaves seaweed into it.
 
-In his youth, Aeron was an unruly ribald drunk who often came at odds with his brother Balon. During the [[Greyjoy Rebellion]], he nearly drowned when his ship was sunk by [[Stannis Baratheon]]. He washed ashore and was imprisoned at [[Lannisport]]. After being released, he had changed significantly due to his near-death experience, and became very pious and devoted to the worship of the [[Drowned God]]. He is well respected and has great influence among the [[ironborn]].
+In his youth, Aeron was an unruly ribald drunk who often came at odds with his brother Balon. During the Greyjoy Rebellion, he nearly drowned when his ship was sunk by Stannis Baratheon. He washed ashore and was imprisoned at Lannisport. After being released, he had changed significantly due to his near-death experience, and became very pious and devoted to the worship of the Drowned God. He is well respected and has great influence among the ironborn.
 
-Aeron sometimes has nightmares about a door with screeching hinges, which he associates with his brother [[Euron Greyjoy|Euron]].
+Aeron sometimes has nightmares about a door with screeching hinges, which he associates with his brother Euron.
 
-In the novel, when Theon returns to the Pyke from the North, it is Aeron who greets him first and almost immediately baptizes him at his arrival.
+In the novel, when Theon returns to the Pyke&nbsp;from the North, it is Aeron who greets him first and almost immediately baptizes him at his arrival.
 
-Martin repeatedly gets asked in Q&A sessions how "Damphair" is pronounced, to which he has repeatedly had to explain that it is simply "damp hair" because he has long hair and wades into the sea much of the time (a surprisingly large number of people for some reason assumed that the "ph" that happens to be next to each other are meant to be pronounced as an "F").
+Martin repeatedly gets asked in Q&amp;A sessions how Damphair is pronounced, to which he has repeatedly had to explain that it is simply damp hair because he has long hair and wades into the sea much of the time (a surprisingly large number of people for some reason assumed that the ph that happens to be next to each other are meant to be pronounced as an F).
 
-==See also==
-* {{AWOIAF}} (MAJOR spoilers from the books)
+See also
+* AWOIAF (MAJOR spoilers from the books)
 
-==References==
-{{Reflist}}
-{{Greyjoy navbox}}
-{{DEFAULTSORT:Greyjoy, Aeron}}
+References
+Reflist
+Greyjoy navbox
+DEFAULTSORT:Greyjoy, Aeron
 
-[[es:Aeron Greyjoy]]
-[[it:Aeron Greyjoy]]
-[[pl:Aeron Greyjoy]]
-[[zh:伊伦·葛雷乔伊]]
+es:Aeron Greyjoy
+it:Aeron Greyjoy
+pl:Aeron Greyjoy
+zh:伊伦·葛雷乔伊

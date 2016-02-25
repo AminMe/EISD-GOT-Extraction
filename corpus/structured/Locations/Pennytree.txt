@@ -1,16 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Pennytree\n| Image=\n| Image size=\n| Location=[[The Riverlands]], [[Westeros]]\n| Type=Town\n| Population=\n| Rulers=\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-155355397056cca934c4fd0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Pennytree is a settlement in the <a data-rte-meta="{"type":"internal","text":"Riverlands","link":"Riverlands","wasblank":true,"noforce":true,"wikitext":"[[Riverlands]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/Riverlands" title="Riverlands" class="mw-redirect">Riverlands</a>, the region controlled by <a data-rte-meta="{"type":"internal","text":"House Tully","link":"House Tully","wasblank":true,"noforce":true,"wikitext":"[[House Tully]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/House_Tully" title="House Tully">House Tully</a> of <a data-rte-meta="{"type":"internal","text":"Riverrun","link":"Riverrun","wasblank":true,"noforce":true,"wikitext":"[[Riverrun]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/Riverrun" title="Riverrun">Riverrun</a>. It is located northeast of Riverrun, in between <a data-rte-meta="{"type":"internal","text":"Stone Hedge","link":"Stone Hedge","wasblank":true,"noforce":true,"wikitext":"[[Stone Hedge]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/Stone_Hedge" title="Stone Hedge">Stone Hedge</a>, seat of <a data-rte-meta="{"type":"internal","text":"House Bracken","link":"House Bracken","wasblank":true,"noforce":true,"wikitext":"[[House Bracken]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/House_Bracken" title="House Bracken">House Bracken</a> and <a data-rte-meta="{"type":"internal","text":"Raventree Hall","link":"Raventree Hall","wasblank":true,"noforce":true,"wikitext":"[[Raventree Hall]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/Raventree_Hall" title="Raventree Hall">Raventree Hall</a>, seat of <a data-rte-meta="{"type":"internal","text":"House Blackwood","link":"House Blackwood","wasblank":true,"noforce":true,"wikitext":"[[House Blackwood]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/House_Blackwood" title="House Blackwood">House Blackwood</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the Books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Pennytree lies in the frontline of frequent border disputes between the Blackwoods and Brackens and possession of the town has changed a lot over the centuries. It is named for a huge old oak tree, to which hundreds of copper pennies have been nailed.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Duncan the Tall","link":"Duncan the Tall","wasblank":true,"noforce":true,"wikitext":"[[Duncan the Tall]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/Duncan_the_Tall" title="Duncan the Tall">Duncan the Tall</a>, as a young boy born in <a data-rte-meta="{"type":"internal","text":"Flea Bottom","link":"Flea Bottom","wasblank":true,"noforce":true,"wikitext":"[[Flea Bottom]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="/wiki/Flea_Bottom" title="Flea Bottom">Flea Bottom</a>, once squired for a hedge knight called Ser Arlan, hailing from Pennytree.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-155355397056cca934c4fd0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-155355397056cca934c4fd0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Riverlands","placeholder":1,"wikitext":"{{The Riverlands}}"}" data-rte-instance="130814-155355397056cca934c4fd0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"zh:\u94dc\u5206\u6811\u6751","link":"zh:\u94dc\u5206\u6811\u6751","wasblank":true,"noforce":true,"wikitext":"[[zh:\u94dc\u5206\u6811\u6751]]"}" data-rte-instance="130814-155355397056cca934c4fd0" href="http://zh.asoiaf.wikia.com/wiki/铜分树村" class="extiw" title="zh:铜分树村">zh:铜分树村</a>
-</p>
-   Loading editor
+title=Pennytree
+| image size=
+| location=The riverlands, westeros
+| typedouble-brackets population
+| rulers=
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ 
+
+Pennytree is a settlement in the Riverlands, the region controlled by House Tully of Riverrun. It is located northeast of Riverrun, in between Stone Hedge, seat of House Bracken and Raventree Hall, seat of House Blackwood. In the Books 
+
+In the A Song of Ice and Fire novels, Pennytree lies in the frontline of frequent border disputes between the Blackwoods and Brackens and possession of the town has changed a lot over the centuries. It is named for a huge old oak tree, to which hundreds of copper pennies have been nailed. 
+
+Duncan the Tall, as a young boy born in Flea Bottom, once squired for a hedge knight called Ser Arlan, hailing from Pennytree. See also (spoilers from the books) References 
+
+ 
+
+zh:铜分树村  Loading editor

@@ -1,26 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Dwarf 2\n|Image = Stannis dwarf.jpg\n|Season = [[Season 4|4]]\n|Appearances = \"[[The Lion and the Rose]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = For hire\n|Actor = [[Max Laird]]}}"}" data-rte-instance="130814-65760016856cca70da6e9e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|I'm the rightful king!|The dwarf as \"Stannis Baratheon\"|The Lion and the Rose}}"}" data-rte-instance="130814-65760016856cca70da6e9e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>dwarf</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Max Laird","link":"Max Laird","wasblank":true,"noforce":true,"wikitext":"[[Max Laird]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Max_Laird" title="Max Laird">Max Laird</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"The Lion and the Rose","link":"The Lion and the Rose","wasblank":true,"noforce":true,"wikitext":"[[The Lion and the Rose]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>".
-</p>
-<h2>Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">A <a data-rte-meta="{"type":"internal","text":"dwarf","link":"Dwarfism","wasblank":false,"noforce":true,"wikitext":"[[Dwarfism|dwarf]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Dwarfism" title="Dwarfism">dwarf</a>, he makes a living by performing for other peoples' amusement.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">He is one of five dwarfs hired by King <a data-rte-meta="{"type":"internal","text":"Joffrey","link":"Joffrey","wasblank":true,"noforce":true,"wikitext":"[[Joffrey]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Joffrey" title="Joffrey" class="mw-redirect">Joffrey</a> to re-enact the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a> during the <a data-rte-meta="{"type":"internal","text":"Purple Wedding","link":"Purple Wedding","wasblank":true,"noforce":true,"wikitext":"[[Purple Wedding]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Purple_Wedding" title="Purple Wedding">Purple Wedding</a>. He dresses as <a data-rte-meta="{"type":"internal","text":"Stannis Baratheon","link":"Stannis Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Stannis Baratheon]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> and rides a mount resembling <a data-rte-meta="{"type":"internal","text":"Melisandre","link":"Melisandre","wasblank":true,"noforce":true,"wikitext":"[[Melisandre]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Melisandre" title="Melisandre">Melisandre</a>. <a data-rte-meta="{"type":"internal","text":"Tyrion Lannister","link":"Tyrion Lannister","wasblank":true,"noforce":true,"wikitext":"[[Tyrion Lannister]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> and many other guests find the spectacle in poor taste, and he instructs his squire <a data-rte-meta="{"type":"internal","text":"Podrick Payne","link":"Podrick Payne","wasblank":true,"noforce":true,"wikitext":"[[Podrick Payne]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Podrick_Payne" title="Podrick Payne">Podrick Payne</a> to pay each of the dwarves 20 Gold Dragons afterwards.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Lion and the Rose]]\"<\/ref>"}" data-rte-instance="130814-65760016856cca70da6e9e" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Four Appearances","placeholder":1,"wikitext":"{{Template:Season Four Appearances||yes}}"}" data-rte-instance="130814-65760016856cca70da6e9e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2>In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there are only two dwarfs jousting. They ride live animals, a dog and a sow. The one meant as a mockery of Stannis bears a shield depicting the black stag on yellow of House Baratheon. Stannis is also vilified in a song by Galyeon of Cuy, which depicts Stannis as an envious and evil man, bordering on an stereotypical fantasy evil overlord, planning on usurping the <a data-rte-meta="{"type":"internal","text":"Seven Kingdoms","link":"Seven Kingdoms","wasblank":true,"noforce":true,"wikitext":"[[Seven Kingdoms]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="/wiki/Seven_Kingdoms" title="Seven Kingdoms">Seven Kingdoms</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Oppo}}"}" data-rte-instance="130814-65760016856cca70da6e9e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Penny}}"}" data-rte-instance="130814-65760016856cca70da6e9e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-65760016856cca70da6e9e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041a\u0430\u0440\u043b\u0438\u043a 2","link":"ru:\u041a\u0430\u0440\u043b\u0438\u043a 2","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041a\u0430\u0440\u043b\u0438\u043a 2]]"}" data-rte-instance="130814-65760016856cca70da6e9e" href="http://ru.gameofthrones.wikia.com/wiki/Карлик_2" class="extiw" title="ru:Карлик 2">ru:Карлик 2</a>
-</p>
-   Loading editor
+title=Dwarf 2
+|image=Stannis dwarf.jpg
+|season=4
+|appearances=\The lion and the rose\
+|status=alive
+|allegiance=For hire
+|actor=Max laird}}}
+
+ Adwarf is an unnamed minor character in the fourth season. He is played by guest star Max Laird andonly appears in The Lion and the Rose. Biography 
+
+ Background 
+
+A dwarf, he makes a living by performing for other peoples' amusement. Season 4 
+
+He is one of five dwarfs hired by King Joffrey to re-enact the War of the Five Kings during the Purple Wedding. He dresses as Stannis Baratheon and rides a mount resembling Melisandre. Tyrion Lannister and many other guests find the spectacle in poor taste, and he instructs his squire Podrick Payne to pay each of the dwarves 20 Gold Dragons afterwards.\The Lion and the Rose\\/ref} data-rte-instance130814-65760016856cca70da6e9e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, there are only two dwarfs jousting. They ride live animals, a dog and a sow. The one meant as a mockery of Stannis bears a shield depicting the black stag on yellow of House Baratheon. Stannis is also vilified in a song by Galyeon of Cuy, which depicts Stannis as an envious and evil man, bordering on an stereotypical fantasy evil overlord, planning on usurping the Seven Kingdoms. See also (spoilers from the books) (MAJOR spoilers from the books) References 
+
+ 
+
+ru:Карлик 2  Loading editor

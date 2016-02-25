@@ -1,33 +1,41 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Targaryen-Shield-Icon.PNG\n|link = House Targaryen\n}}"}" data-rte-instance="130814-71225969656cca68b52495" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Aggo\n| Image=Aggo.jpg\n| Season=[[Season 2|2]]\n| First=\n| Last=\n| Appearances=\"[[The North Remembers]]\"\n| Aka=\n| Status= [[:Category:Status: Uncertain|Uncertain]]\n| Death=\n| Titles=[[Bloodrider]]\n| Place=The [[Dothraki sea]]\n| Allegiance=[[House Targaryen]]\n| Family=\n| Actor=[[Niccolai McKinsky]]|Religion = [[Great Stallion]]}}"}" data-rte-instance="130814-71225969656cca68b52495" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Rakharo, Aggo, Kovarro. Take our remaining horses. You will ride east, you southeast, you northeast.|[[Daenerys Targaryen]], addressing her three bloodriders in turn|The North Remembers}}"}" data-rte-instance="130814-71225969656cca68b52495" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Aggo</b> is a minor character in the <a data-rte-meta="{"type":"internal","text":"second season","link":"Season 2","wasblank":false,"noforce":true,"wikitext":"[[Season 2|second season]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Season_2" title="Season 2">second season</a>. He is played by an unidentified extra and only appears in "<a data-rte-meta="{"type":"internal","text":"The North Remembers","link":"The North Remembers","wasblank":true,"noforce":true,"wikitext":"[[The North Remembers]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>." Aggo is a <a data-rte-meta="{"type":"internal","text":"Dothraki","link":"Dothraki","wasblank":true,"noforce":true,"wikitext":"[[Dothraki]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Dothraki" title="Dothraki">Dothraki</a> warrior sworn to <a data-rte-meta="{"type":"internal","text":"Khaleesi","link":"Khaleesi","wasblank":true,"noforce":true,"wikitext":"[[Khaleesi]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Khaleesi" title="Khaleesi">Khaleesi</a> <a data-rte-meta="{"type":"internal","text":"Daenerys Targaryen","link":"Daenerys Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Daenerys Targaryen]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>. He is one of her <a data-rte-meta="{"type":"internal","text":"bloodrider","link":"bloodrider","wasblank":true,"noforce":true,"wikitext":"[[bloodrider]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Bloodrider" title="Bloodrider">bloodriders</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Aggo was a member of <a data-rte-meta="{"type":"internal","text":"Khal","link":"Khal","wasblank":true,"noforce":true,"wikitext":"[[Khal]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Khal" title="Khal">Khal</a> <a data-rte-meta="{"type":"internal","text":"Drogo","link":"Drogo","wasblank":true,"noforce":true,"wikitext":"[[Drogo]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Drogo" title="Drogo">Drogo</a>'s <a data-rte-meta="{"type":"internal","text":"khalasar","link":"khalasar","wasblank":true,"noforce":true,"wikitext":"[[khalasar]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Khalasar" title="Khalasar">khalasar</a> and a member of Daenerys' <i>khas</i>. When Drogo's khalasar fractures, he remains loyal to Daenerys. He pledges his fealty to her after the birth of the dragons. She names him as one of her <a data-rte-meta="{"type":"internal","text":"bloodrider","link":"bloodrider","wasblank":true,"noforce":true,"wikitext":"[[bloodrider]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Bloodrider" title="Bloodrider">bloodriders</a> alongside <a data-rte-meta="{"type":"internal","text":"Rakharo","link":"Rakharo","wasblank":true,"noforce":true,"wikitext":"[[Rakharo]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Rakharo" title="Rakharo">Rakharo</a> and <a data-rte-meta="{"type":"internal","text":"Kovarro","link":"Kovarro","wasblank":true,"noforce":true,"wikitext":"[[Kovarro]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Kovarro" title="Kovarro">Kovarro</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref name=\"E11\">\"[[The North Remembers]]\"<\/ref>"}" data-rte-instance="130814-71225969656cca68b52495" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">Daenerys leads what remains of her khalasar deep into the Red Waste. Facing starvation she sends Rakharo, Aggo, and Kovarro to scout in three different directions, using the last remaining horses. Aggo is sent southeast.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref name=\"E11\"\/>"}" data-rte-instance="130814-71225969656cca68b52495" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Two Appearances","placeholder":1,"wikitext":"{{Season Two Appearances|1=yes}}"}" data-rte-instance="130814-71225969656cca68b52495" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Aggo is one of the three bodyguards of Daenerys Targaryen and is named both <i>ko</i> and bloodrider after she hatches her dragon eggs. He's an adept archer who saves Daenerys' life from Cohollo, one of <a data-rte-meta="{"type":"internal","text":"Drogo","link":"Drogo","wasblank":true,"noforce":true,"wikitext":"[[Drogo]]"}" data-rte-instance="130814-71225969656cca68b52495" href="/wiki/Drogo" title="Drogo">Drogo</a>'s bloodriders.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Following Khal Drogo's death, Aggo and the other two bloodriders Jhogo and Rakharo are among the few who remain with Daenerys. Before entering the funeral pyre, Daenerys gives Aggo the dragonbone bow that was her bride gift and names him her ko. Aggo accepts the bow with lowered eyes, saying "I cannot say these words. Only a man can lead a khalasar or name a ko." However, once Daenerys comes out of the pyre alive and with the born dragons, Aggo is the second of the bloodriders to declare "Blood of my blood", and since then he is totally loyal to Daenerys.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">After Daenerys rides Drogon away from Meereen, Aggo and Rakharo go to look for her at the Dothraki sea, instead of Jorah and Daario who are held captive by the Yunkai at that point of the story.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-71225969656cca68b52495" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-71225969656cca68b52495" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Targaryen navbox","placeholder":1,"wikitext":"{{Targaryen navbox}}"}" data-rte-instance="130814-71225969656cca68b52495" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true"><br />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"de:Aggo","link":"de:Aggo","wasblank":true,"noforce":true,"wikitext":"[[de:Aggo]]"}" data-rte-instance="130814-71225969656cca68b52495" href="http://de.gameofthrones.wikia.com/wiki/Aggo" class="extiw" title="de:Aggo">de:Aggo</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"es:Aggo","link":"es:Aggo","wasblank":true,"noforce":true,"wikitext":"[[es:Aggo]]"}" data-rte-instance="130814-71225969656cca68b52495" href="http://hieloyfuego.wikia.com/wiki/Aggo" class="extiw" title="es:Aggo">es:Aggo</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u0410\u0433\u0433\u043e","link":"ru:\u0410\u0433\u0433\u043e","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0410\u0433\u0433\u043e]]"}" data-rte-instance="130814-71225969656cca68b52495" href="http://ru.gameofthrones.wikia.com/wiki/Агго" class="extiw" title="ru:Агго">ru:Агго</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u963f\u6208","link":"zh:\u963f\u6208","wasblank":true,"noforce":true,"wikitext":"[[zh:\u963f\u6208]]"}" data-rte-instance="130814-71225969656cca68b52495" href="http://zh.asoiaf.wikia.com/wiki/阿戈" class="extiw" title="zh:阿戈">zh:阿戈</a>
-</p>
-   Loading editor
+title=Aggo
+| image=Aggo.jpg
+| season=2
+| first=
+| last=
+| appearances=\The north remembers\
+| aka=
+| status=uncertain
+| death=
+| titles=Bloodrider
+| place=The dothraki sea
+| allegiance=House targaryen
+| family=
+| actorNiccolai mckinsky|religionGreat stallion}}}
+
+ 
+
+ 
+
+Aggo is a minor character in the second season. He is played by an unidentified extra and only appears in The North Remembers. Aggo is a Dothraki warrior sworn to Khaleesi Daenerys Targaryen. He is one of her bloodriders. Biography 
+
+ Background 
+
+Aggo was a member of Khal Drogo's khalasar and a member of Daenerys' khas. When Drogo's khalasar fractures, he remains loyal to Daenerys. He pledges his fealty to her after the birth of the dragons. She names him as one of her bloodriders alongside Rakharo and Kovarro.\The North Remembers\\/ref} data-rte-instance130814-71225969656cca68b52495 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
+
+Daenerys leads what remains of her khalasar deep into the Red Waste. Facing starvation she sends Rakharo, Aggo, and Kovarro to scout in three different directions, using the last remaining horses. Aggo is sent southeast.} data-rte-instance130814-71225969656cca68b52495 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Aggo is one of the three bodyguards of Daenerys Targaryen and is named both ko and bloodrider after she hatches her dragon eggs. He's an adept archer who saves Daenerys' life from Cohollo, one of Drogo's bloodriders. 
+
+Following Khal Drogo's death, Aggo and the other two bloodriders Jhogo and Rakharo are among the few who remain with Daenerys. Before entering the funeral pyre, Daenerys gives Aggo the dragonbone bow that was her bride gift and names him her ko. Aggo accepts the bow with lowered eyes, saying I cannot say these words. Only a man can lead a khalasar or name a ko. However, once Daenerys comes out of the pyre alive and with the born dragons, Aggo is the second of the bloodriders to declare Blood of my blood, and since then he is totally loyal to Daenerys. 
+
+After Daenerys rides Drogon away from Meereen, Aggo and Rakharo go to look for her at the Dothraki sea, instead of Jorah and Daario who are held captive by the Yunkai at that point of the story. See also (spoilers from the books) References 
+
+ 
+
+ 
+
+ 
+ de:Aggo es:Aggo ru:Агго zh:阿戈  Loading editor

@@ -1,16 +1,18 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble_house\n","placeholder":1,"wikitext":"{{Noble_house\n|Title = House Sparr\n|Sigil = \n|Motto = \n|Seat = \n|Region = [[Iron Islands]]\n|Allegiance = [[House Greyjoy]]}}"}" data-rte-instance="130814-130538573156cca9a174c79" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Sparr</b> is a vassal house from the <a data-rte-meta="{"type":"internal","text":"Iron Islands","link":"Iron Islands","wasblank":true,"noforce":true,"wikitext":"[[Iron Islands]]"}" data-rte-instance="130814-130538573156cca9a174c79" href="/wiki/Iron_Islands" title="Iron Islands">Iron Islands</a> that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Greyjoy","link":"House Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[House Greyjoy]]"}" data-rte-instance="130814-130538573156cca9a174c79" href="/wiki/House_Greyjoy" title="House Greyjoy">House Greyjoy</a>. Their seat is located of the island of <a data-rte-meta="{"type":"internal","text":"Great Wyk","link":"Great Wyk","wasblank":true,"noforce":true,"wikitext":"[[Great Wyk]]"}" data-rte-instance="130814-130538573156cca9a174c79" href="/wiki/Great_Wyk" title="Great Wyk">Great Wyk</a>, the largest of the Iron Isles.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>Season 2 bluray: War of the Five Kings feature<\/ref>"}" data-rte-instance="130814-130538573156cca9a174c79" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-130538573156cca9a174c79" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Sparr rules over a part of Great Wyk, with their lands being six leagues from <a data-rte-meta="{"type":"internal","text":"Hammerhorn","link":"Hammerhorn","wasblank":true,"noforce":true,"wikitext":"[[Hammerhorn]]"}" data-rte-instance="130814-130538573156cca9a174c79" href="/wiki/Hammerhorn" title="Hammerhorn">Hammerhorn</a>, seat of <a data-rte-meta="{"type":"internal","text":"House Goodbrother","link":"House Goodbrother","wasblank":true,"noforce":true,"wikitext":"[[House Goodbrother]]"}" data-rte-instance="130814-130538573156cca9a174c79" href="/wiki/House_Goodbrother" title="House Goodbrother">House Goodbrother</a>. Their sigil is an oak saltire on blue. Their current lord is a hatchet-faced old man with watery eyes known as "The Sparr".
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-130538573156cca9a174c79" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-130538573156cca9a174c79" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"IronIslands Houses","placeholder":1,"wikitext":"{{IronIslands Houses}}"}" data-rte-instance="130814-130538573156cca9a174c79" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"zh:\u65af\u5e15\u5bb6\u65cf","link":"zh:\u65af\u5e15\u5bb6\u65cf","wasblank":true,"noforce":true,"wikitext":"[[zh:\u65af\u5e15\u5bb6\u65cf]]"}" data-rte-instance="130814-130538573156cca9a174c79" href="http://zh.asoiaf.wikia.com/wiki/斯帕家族" class="extiw" title="zh:斯帕家族">zh:斯帕家族</a>
-</p>
-   Loading editor
+title=House sparr
+|sigil=
+|Motto = 
+|seat=
+|Region iron islands
+|allegiance=House greyjoy}}}
+
+ 
+
+House Sparr is a vassal house from the Iron Islands that holds fealty to House Greyjoy. Their seat is located of the island of Great Wyk, the largest of the Iron Isles.Season 2 bluray: War of the Five Kings feature\/ref} data-rte-instance130814-130538573156cca9a174c79 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, House Sparr rules over a part of Great Wyk, with their lands being six leagues from Hammerhorn, seat of House Goodbrother. Their sigil is an oak saltire on blue. Their current lord is a hatchet-faced old man with watery eyes known as The Sparr. References 
+
+ See also (spoilers from the books) 
+
+ 
+
+zh:斯帕家族  Loading editor

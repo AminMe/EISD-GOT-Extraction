@@ -1,16 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Maester's mini chain.png\n|link=Maesters\n}}"}" data-rte-instance="130814-163883287456cca7961e349" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Ch&#39;Vyalthan\n| Image=AHGSW.png\n| Season=[[Season 2|2]]\n| First=\n| Last=\n| Mentioned=\"[[The Prince of Winterfell]]\"\n| Aka=\n| Titles=[[Archmaester]]\n| Status= [[:Category:Status: Dead|Deceased]]\n| Allegiance=[[The Citadel]], Order of [[Maesters]]\n}}"}" data-rte-instance="130814-163883287456cca7961e349" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Shame Archmaester Ch'Vyalthan wasn't a better writer.|[[Varys]]|The Prince of Winterfell}}"}" data-rte-instance="130814-163883287456cca7961e349" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Ch'Vyalthan</b>, is an unseen character mentioned in the <a data-rte-meta="{"type":"internal","text":"second season","link":"Season 2","wasblank":false,"noforce":true,"wikitext":"[[Season 2|second season]]"}" data-rte-instance="130814-163883287456cca7961e349" href="/wiki/Season_2" title="Season 2">second season</a>. He is deceased when the events of the series begin and is not expected to appear. He was an <a data-rte-meta="{"type":"internal","text":"Archmaester","link":"Archmaester","wasblank":true,"noforce":true,"wikitext":"[[Archmaester]]"}" data-rte-instance="130814-163883287456cca7961e349" href="/wiki/Archmaester" title="Archmaester">Archmaester</a> of <a data-rte-meta="{"type":"internal","text":"the Citadel","link":"the Citadel","wasblank":true,"noforce":true,"wikitext":"[[the Citadel]]"}" data-rte-instance="130814-163883287456cca7961e349" href="/wiki/The_Citadel" title="The Citadel">the Citadel</a> and the author of the book <i><a data-rte-meta="{"type":"internal","text":"An History of the Great Sieges of Westeros","link":"An History of the Great Sieges of Westeros","wasblank":true,"noforce":true,"wikitext":"[[An History of the Great Sieges of Westeros]]"}" data-rte-instance="130814-163883287456cca7961e349" href="/wiki/An_History_of_the_Great_Sieges_of_Westeros" title="An History of the Great Sieges of Westeros">An History of the Great Sieges of Westeros</a></i>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-163883287456cca7961e349" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Tyrion Lannister","link":"Tyrion Lannister","wasblank":true,"noforce":true,"wikitext":"[[Tyrion Lannister]]"}" data-rte-instance="130814-163883287456cca7961e349" href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> refers to his book when preparing the defense of <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-163883287456cca7961e349" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a>. <a data-rte-meta="{"type":"internal","text":"Varys","link":"Varys","wasblank":true,"noforce":true,"wikitext":"[[Varys]]"}" data-rte-instance="130814-163883287456cca7961e349" href="/wiki/Varys" title="Varys">Varys</a> criticizes him as an uninspired writer. Tyrion and Bronn debate how to correctly pronounce his name, but Varys offhandedly reveals the proper form: "sh(uh)-VY-al-thun".<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Prince of Winterfell]]\"<\/ref>"}" data-rte-instance="130814-163883287456cca7961e349" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the Books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">No mention of an Archmaester Ch'Vyalthan is made in the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-163883287456cca7961e349" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-163883287456cca7961e349" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Ch'Vyalthan
+| image=AHGSW.png
+| season=2
+| first=
+| last=
+| mentioned=\The prince of winterfell\
+| aka=
+| titles=Archmaester
+| status=deceased
+| allegiance=The citadel, order maesters
+}}}
+
+ Ch'Vyalthan, is an unseen character mentioned in the second season. He is deceased when the events of the series begin and is not expected to appear. He was an Archmaester of the Citadel and the author of the book An History of the Great Sieges of Westeros. Biography 
+
+ Season 2 
+
+Tyrion Lannister refers to his book when preparing the defense of King's Landing. Varys criticizes him as an uninspired writer. Tyrion and Bronn debate how to correctly pronounce his name, but Varysoffhandedly reveals the proper form: sh(uh)-VY-al-thun.\The Prince of Winterfell\\/ref} data-rte-instance130814-163883287456cca7961e349 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the Books 
+
+No mention of an Archmaester Ch'Vyalthan is made in the A Song of Ice and Fire novels. References 
+
+  Loading editor

@@ -1,20 +1,33 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Frey-Shield-Icon.PNG\n|link = House Frey}}"}" data-rte-instance="130814-71640666956cca80ee13a5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Frey Guard\n| Image=Frey guard 3x09.jpg\n| Season=[[Season 3|3]]\n| First=\n| Last=\n| Appearances=\"[[The Rains of Castamere (episode)|The Rains of Castamere]]\"\n| Titles=\n| Aka=\n| Status= [[:Category:Status: Alive|Alive]]\n| Death=\n| Place=\n| Allegiance=[[House Frey]]\n| Family=\n| Actor=[[A.J Kennedy]]\n}}"}" data-rte-instance="130814-71640666956cca80ee13a5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Are you soft in the head? Turn this cart around.|The Frey guard to [[Sandor Clegane]]|The Rains of Castamere (episode)}}"}" data-rte-instance="130814-71640666956cca80ee13a5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Frey guard</b> is an unnamed minor character who appears in the <a data-rte-meta="{"type":"internal","text":"third season","link":"Season 3","wasblank":false,"noforce":true,"wikitext":"[[Season 3|third season]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="/wiki/Season_3" title="Season 3">third season</a> episode "<a data-rte-meta="{"type":"internal","text":"The Rains of Castamere","link":"The Rains of Castamere (episode)","wasblank":false,"noforce":true,"wikitext":"[[The Rains of Castamere (episode)|The Rains of Castamere]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="/wiki/The_Rains_of_Castamere_(episode)" title="The Rains of Castamere (episode)">The Rains of Castamere</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">He is a soldier sworn to <a data-rte-meta="{"type":"internal","text":"House Frey","link":"House Frey","wasblank":true,"noforce":true,"wikitext":"[[House Frey]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="/wiki/House_Frey" title="House Frey">House Frey</a>.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true">The Frey guard turns <a data-rte-meta="{"type":"internal","text":"Sandor Clegane","link":"Sandor Clegane","wasblank":true,"noforce":true,"wikitext":"[[Sandor Clegane]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="/wiki/Sandor_Clegane" title="Sandor Clegane">Sandor Clegane</a> and <a data-rte-meta="{"type":"internal","text":"Arya Stark","link":"Arya Stark","wasblank":true,"noforce":true,"wikitext":"[[Arya Stark]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> away from <a data-rte-meta="{"type":"internal","text":"the Twins","link":"the Twins","wasblank":true,"noforce":true,"wikitext":"[[the Twins]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="/wiki/The_Twins" title="The Twins">the Twins</a> when they attempt to enter under the guise of a <a data-rte-meta="{"type":"internal","text":"hog farmer","link":"hog farmer","wasblank":true,"noforce":true,"wikitext":"[[hog farmer]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="/wiki/Hog_farmer" title="Hog farmer">hog farmer</a> and his daughter, as the surrounding soldiers prepare for the <a data-rte-meta="{"type":"internal","text":"Red Wedding","link":"Red Wedding","wasblank":true,"noforce":true,"wikitext":"[[Red Wedding]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="/wiki/Red_Wedding" title="Red Wedding">Red Wedding</a> massacre. After Sandor voices doubt in the feast being over, the guard asks if he is soft in the head and tells him to turn the cart around. By doing this, the guard actually saves Sandor's life by stopping him entering what is to become the Red Wedding.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[[The Rains of Castamere (episode)|The Rains of Castamere]]<\/ref>"}" data-rte-instance="130814-71640666956cca80ee13a5" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Three Appearances","placeholder":1,"wikitext":"{{Season Three Appearances|9=yes}}"}" data-rte-instance="130814-71640666956cca80ee13a5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-71640666956cca80ee13a5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u043a \u0424\u0440\u0435\u0435\u0432","link":"ru:\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u043a \u0424\u0440\u0435\u0435\u0432","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u043a \u0424\u0440\u0435\u0435\u0432]]"}" data-rte-instance="130814-71640666956cca80ee13a5" href="http://ru.gameofthrones.wikia.com/wiki/Стражник_Фреев" class="extiw" title="ru:Стражник Фреев">ru:Стражник Фреев</a>
-</p>
-   Loading editor
+title=Frey guard
+| image=Frey guard 3x09.jpg
+| season=3
+| first=
+| last=
+| appearances=\the castamere\
+| titles=
+| aka=
+| status=alive
+| death=
+| place=
+| allegiance=House frey
+| family=
+| actor=A.J kennedy
+}}}
+
+ 
+
+ 
+
+A Frey guard is an unnamed minor character who appears in the third season episode The Rains of Castamere. Biography 
+
+ Background 
+
+He is a soldier sworn to House Frey. Season 3 
+
+The Frey guard turns Sandor Clegane and Arya Stark away from the Twins when they attempt to enter under the guise of a hog farmer and his daughter, as the surrounding soldiers prepare for the Red Wedding massacre. After Sandor voices doubt in the feast being over, the guard asks if he is soft in the head and tells him to turn the cart around. By doing this, the guard actually saves Sandor's life by stopping him entering what is to become the Red Wedding.The Rains of Castamere (episode)|The Rains of Castamere\/ref} data-rte-instance130814-71640666956cca80ee13a5 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ References 
+
+ 
+
+ru:Стражник Фреев  Loading editor

@@ -1,28 +1,28 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Crakehall]]\n| Image=House-Crakehall-Main-Shield.PNG\n| ImageSize=250px\n| Sigil=A black and white brindled boar on brown.\n| Words=\"None so Fierce\"\n| Titles=Lord of Crakehall\n| Seat=[[Crakehall]]\n| Region=The [[Westerlands]]\n| Lord=[[Desmond Crakehall]]\n| Heir=\n| Allegiance=[[House Lannister]]\n| Vassals=\n| Age=\n| Founder=}}"}" data-rte-instance="130814-27818455056cca975e0a02" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Crakehall</b> is a vassal house that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> of <a data-rte-meta="{"type":"internal","text":"Casterly Rock","link":"Casterly Rock","wasblank":true,"noforce":true,"wikitext":"[[Casterly Rock]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/Casterly_Rock" title="Casterly Rock">Casterly Rock</a>. Their <a data-rte-meta="{"type":"internal","text":"lands","link":"Crakehall","wasblank":false,"noforce":true,"wikitext":"[[Crakehall|lands]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/Crakehall" title="Crakehall">lands</a> are located at the <a data-rte-meta="{"type":"internal","text":"Searoad","link":"Searoad","wasblank":true,"noforce":true,"wikitext":"[[Searoad]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/Searoad" title="Searoad">Searoad</a>, at the south of the Westerlands, between <a data-rte-meta="{"type":"internal","text":"the sea","link":"Sunset Sea","wasblank":false,"noforce":true,"wikitext":"[[Sunset Sea|the sea]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/Sunset_Sea" title="Sunset Sea">the sea</a> and a large forest. The current head of the family is Desmond Crakehall. The Crakehall sigil is a black and white brindled boar on brown.
-</p>
-<h2 data-rte-empty-lines-before="1">Known members</h2>
-<ul data-rte-empty-lines-before="1"><li>Lord <a data-rte-meta="{"type":"internal","text":"Desmond Crakehall","link":"Desmond Crakehall","wasblank":true,"noforce":true,"wikitext":"[[Desmond Crakehall]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/Desmond_Crakehall" title="Desmond Crakehall">Desmond Crakehall</a>, Lord of Crakehall
-</li></ul>
-<h2 data-rte-empty-lines-before="1">Image gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"6a1454a2c75771a08629bea67ea271d3","id":0,"images":[{"name":"House Crakehall tourney.jpg","caption":"The banner of House Crakehall (center) at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\".","link":"","linktext":"","shorttext":"","data-caption":"The banner of House Crakehall (center) at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\"."},{"name":"House_Crakehall.png","caption":"HBO Viewer's Guide icon for House Crakehall","link":"","linktext":"","shorttext":"","data-caption":"HBO Viewer's Guide icon for House Crakehall"}],"imagesShown":[{"name":"House Crakehall tourney.jpg","caption":"The banner of House Crakehall (center) at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\".","link":"","linktext":"","shorttext":"","data-caption":"The banner of House Crakehall (center) at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\"."},{"name":"House_Crakehall.png","caption":"HBO Viewer's Guide icon for House Crakehall","link":"","linktext":"","shorttext":"","data-caption":"HBO Viewer's Guide icon for House Crakehall"}],"params":{},"type":1,"wikitext":"<gallery>\nHouse Crakehall tourney.jpg|The banner of House Crakehall (center) at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\".\nHouse_Crakehall.png|HBO Viewer's Guide icon for House Crakehall\n<\/gallery>"}" data-rte-instance="130814-27818455056cca975e0a02" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Crakehalls are known for their uncommon robustness.
-</p>
-<h3 data-rte-empty-lines-before="1">Members</h3>
-<ul><li data-rte-spaces-before="1">Lord {Sumner Crakehall}, the late Lord of Crakehall. <a data-rte-meta="{"type":"internal","text":"Jaime Lannister","link":"Jaime Lannister","wasblank":true,"noforce":true,"wikitext":"[[Jaime Lannister]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a> was his squire in his youth.
-<ul><li data-rte-spaces-before="1">Lord Roland Crakehall, his son, the current Lord of Crakehall. He participated in the <a data-rte-meta="{"type":"internal","text":"Sack of King's Landing","link":"Sack of King's Landing","wasblank":true,"noforce":true,"wikitext":"[[Sack of King's Landing]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/Sack_of_King's_Landing" title="Sack of King's Landing">Sack of King's Landing</a>. He and Ser Elys Westerling found Jaime standing over the body of <a data-rte-meta="{"type":"internal","text":"the Mad King","link":"Aerys II Targaryen","wasblank":false,"noforce":true,"wikitext":"[[Aerys II Targaryen|the Mad King]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">the Mad King</a>.
-<ul><li>Ser Tybolt Crakehall, his eldest son and heir to Crakehall.
-</li><li>Ser Lyle Crakehall, his second son, called the "Strongboar".
-</li><li>Ser Merlon Crakehall, his third son.
-</li></ul>
-</li></ul>
-</li></ul>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-27818455056cca975e0a02" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Western Houses","placeholder":1,"wikitext":"{{Western Houses}}"}" data-rte-instance="130814-27818455056cca975e0a02" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Rallenhall","link":"de:Haus Rallenhall","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Rallenhall]]"}" data-rte-instance="130814-27818455056cca975e0a02" href="http://de.gameofthrones.wikia.com/wiki/Haus_Rallenhall" class="extiw" title="de:Haus Rallenhall">de:Haus Rallenhall</a>
-</p>
-   Loading editor
+title=House crakehall
+| image=House-Crakehall-Main-Shield.PNG
+| imagesize=250px
+| sigil=A black and white brindled boar on brown.
+| words=\None so fierce\
+| titles=Lord of crakehall
+| seat=Crakehall
+| region=The westerlands
+| lord[[Desmond heir
+| allegiance=House lannister
+| vassals=
+| age=
+| founder=}}}
+
+ 
+
+House Crakehall is a vassal house that holds fealty to House Lannister of Casterly Rock. Their lands are located at the Searoad, at the south of the Westerlands, between the sea and a large forest. The current head of the family is Desmond Crakehall. The Crakehall sigil is a black and white brindled boar on brown. Known members Lord Desmond Crakehall, Lord of Crakehall Image gallery 
+
+
+House Crakehall tourney.jpg|The banner of House Crakehall (center) at the Tournament|Tourney of the Hand in \The Wolf and the Lion\.
+House_Crakehall.png|HBO Viewer's Guide icon for House Crakehall
+\/gallery} data-rte-instance130814-27818455056cca975e0a02 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+
+In the A Song of Ice and Fire novels, the Crakehalls are known for their uncommon robustness. Members Lord Sumner Crakehall, the late Lord of Crakehall. Jaime Lannister was his squire in his youth. Lord Roland Crakehall, his son, the current Lord of Crakehall. He participated in the Sack of King's Landing. He and Ser Elys Westerling found Jaime standing over the body of the Mad King. Ser Tybolt Crakehall, his eldest son and heir to Crakehall. Ser Lyle Crakehall, his second son, called the Strongboar. Ser Merlon Crakehall, his third son. See also (spoilers from the books) 
+
+ 
+
+de:Haus Rallenhall  Loading editor

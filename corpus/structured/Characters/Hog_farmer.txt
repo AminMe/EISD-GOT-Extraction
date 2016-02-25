@@ -1,20 +1,34 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title= Hog farmer\n| Image=Pig_man_rain_of_castamere.png\n| Season=[[Season 3|3]]\n| First=\n| Last=\n| Appearances=\"[[The Rains of Castamere (episode)|The Rains of Castamere]]\"\n| Titles=\n| Aka=\n| Status= [[:Category:Status: Alive|Alive]]\n| Death=\n| Place=\n| Allegiance=\n| Family=\n| Actor=[[Pat McGrath]]\n}}"}" data-rte-instance="130814-59541994356cca7bf39abc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true"><br />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->The <b>Hog farmer</b> is a character who appears in the <a data-rte-meta="{"type":"internal","text":"third season","link":"Season 3","wasblank":false,"noforce":true,"wikitext":"[[Season 3|third season]]"}" data-rte-instance="130814-59541994356cca7bf39abc" href="/wiki/Season_3" title="Season 3">third season</a> episode "<a data-rte-meta="{"type":"internal","text":"The Rains of Castamere","link":"The Rains of Castamere (episode)","wasblank":false,"noforce":true,"wikitext":"[[The Rains of Castamere (episode)|The Rains of Castamere]]"}" data-rte-instance="130814-59541994356cca7bf39abc" href="/wiki/The_Rains_of_Castamere_(episode)" title="The Rains of Castamere (episode)">The Rains of Castamere</a>". He is played by <a data-rte-meta="{"type":"internal","text":"Pat McGrath","link":"Pat McGrath","wasblank":true,"noforce":true,"wikitext":"[[Pat McGrath]]"}" data-rte-instance="130814-59541994356cca7bf39abc" href="/wiki/Pat_McGrath" title="Pat McGrath">Pat McGrath</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-59541994356cca7bf39abc" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true">The Hog farmer is working on a broken wagon wheel when <a data-rte-meta="{"type":"internal","text":"Sandor Clegane","link":"Sandor Clegane","wasblank":true,"noforce":true,"wikitext":"[[Sandor Clegane]]"}" data-rte-instance="130814-59541994356cca7bf39abc" href="/wiki/Sandor_Clegane" title="Sandor Clegane">Sandor Clegane</a> and <a data-rte-meta="{"type":"internal","text":"Arya","link":"Arya Stark","wasblank":false,"noforce":true,"wikitext":"[[Arya Stark|Arya]]"}" data-rte-instance="130814-59541994356cca7bf39abc" href="/wiki/Arya_Stark" title="Arya Stark">Arya</a> approach. He mentions he has had 3 spokes broken this day and needs to get the pork to <a data-rte-meta="{"type":"internal","text":"The Twins","link":"The Twins","wasblank":true,"noforce":true,"wikitext":"[[The Twins]]"}" data-rte-instance="130814-59541994356cca7bf39abc" href="/wiki/The_Twins" title="The Twins">The Twins</a> for the wedding. When the Hound offers him a hand, he hits the farmer unconscious. The Hound is about to kill the man but Arya intervenes and talks him out of it. The farmer regains consciousness but Arya herself knocks him out again.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Rains of Castamere (episode)|The Rains of Castamere]]\"<\/ref>"}" data-rte-instance="130814-59541994356cca7bf39abc" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Three Appearances","placeholder":1,"wikitext":"{{Season Three Appearances|9=yes}}"}" data-rte-instance="130814-59541994356cca7bf39abc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">Arya and the Hound meet the farmer on the kingsroad. The cart is not broken, and the farmer does not need help to fix it. The Hound forces the farmer at swordpoint to give his cart, horses, casks and most of his clothes, but does not intend to kill him. Arya does not intervene. The farmer reluctantly complies, and curses the Hound for a robber. The Hound answers "No, a forager. Be grateful you get to keep your smallclothes. Now take those boots off. Or I'll take your legs off. Your choice". The farmer is as big as the Hound, but wisely chooses to give up his boots and keep his legs. Then Arya and the Hound continue their journey to the Twins, leaving the farmer behind.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Neither the Hound nor Arya knocks the farmer unconscious or otherwise physically harms him.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-59541994356cca7bf39abc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0422\u043e\u0440\u0433\u043e\u0432\u0435\u0446 \u0441\u0432\u0438\u043d\u0438\u043d\u043e\u0439","link":"ru:\u0422\u043e\u0440\u0433\u043e\u0432\u0435\u0446 \u0441\u0432\u0438\u043d\u0438\u043d\u043e\u0439","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0422\u043e\u0440\u0433\u043e\u0432\u0435\u0446 \u0441\u0432\u0438\u043d\u0438\u043d\u043e\u0439]]"}" data-rte-instance="130814-59541994356cca7bf39abc" href="http://ru.gameofthrones.wikia.com/wiki/Торговец_свининой" class="extiw" title="ru:Торговец свининой">ru:Торговец свининой</a>
-</p>
-   Loading editor
+title=Hog farmer
+| image=Pig_man_rain_of_castamere.png
+| season=3
+| first=
+| last=
+| appearances=\the castamere\
+| titles=
+| aka=
+| status=alive
+| death=
+| place=
+| allegiance=
+| family=
+| actor=Pat mcgrath
+}}}
+
+ 
+
+ 
+ The Hog farmer is a character who appears in the third season episode The Rains of Castamere. He is played by Pat McGrath. Biography 
+
+ Season 3 
+
+The Hog farmer is working on a broken wagon wheel when Sandor Clegane and Arya approach. He mentions he has had 3 spokes broken this day and needs to get the pork to The Twins for the wedding. When the Hound offers him a hand, he hits the farmer unconscious. The Hound is about to kill the man but Arya intervenes and talks him out of it. The farmer regains consciousness but Arya herself knocks him out again.\The Rains of Castamere (episode)|The Rains of Castamere\\/ref} data-rte-instance130814-59541994356cca7bf39abc classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+Arya and the Hound meet the farmer on the kingsroad. The cart is not broken, and the farmer does not need help to fix it. The Hound forces the farmer at swordpoint to give his cart, horses, casks and most of his clothes, but does not intend to kill him. Arya does not intervene. The farmer reluctantly complies, and curses the Hound for a robber. The Hound answers No, a forager. Be grateful you get to keep your smallclothes. Now take those boots off. Or I'll take your legs off. Your choice. The farmer is as big as the Hound, but wisely chooses to give up his boots and keep his legs. Then Arya and the Hound continue their journey to the Twins, leaving the farmer behind. 
+
+Neither the Hound nor Arya knocks the farmer unconscious or otherwise physically harms him. References 
+
+ 
+
+ru:Торговец свининой  Loading editor

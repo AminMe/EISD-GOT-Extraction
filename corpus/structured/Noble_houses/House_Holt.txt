@@ -1,18 +1,7 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house","placeholder":1,"wikitext":"{{Noble house|Title = House Holt|Sigil=|Region = [[The North]]}}"}" data-rte-instance="130814-177971662356cca99752398" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Holt</b> is a noble house from <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-177971662356cca99752398" href="/wiki/The_North" title="The North">the North</a>. They are situated in <a data-rte-meta="{"type":"internal","text":"White Harbor","link":"White Harbor","wasblank":true,"noforce":true,"wikitext":"[[White Harbor]]"}" data-rte-instance="130814-177971662356cca99752398" href="/wiki/White_Harbor" title="White Harbor">White Harbor</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Known Members</h2>
-<ul><li><a data-rte-meta="{"type":"internal","text":"Errold Holt","link":"Errold Holt","wasblank":true,"noforce":true,"wikitext":"[[Errold Holt]]"}" data-rte-instance="130814-177971662356cca99752398" href="/wiki/Errold_Holt" title="Errold Holt">Errold Holt</a>, a member of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-177971662356cca99752398" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Sword in the Darkness]]\"<\/ref>"}" data-rte-instance="130814-177971662356cca99752398" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</li><li>Aerion Holt, a member of the Night's Watch.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-177971662356cca99752398" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Holt is a noble house from <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-177971662356cca99752398" href="/wiki/The_North" title="The North">the North</a> who once held Wolf's Den.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|House Holt (North)|House Holt}}"}" data-rte-instance="130814-177971662356cca99752398" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-177971662356cca99752398" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"North Houses","placeholder":1,"wikitext":"{{North Houses}}"}" data-rte-instance="130814-177971662356cca99752398" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+titleHouse holt|sigil|Region = the north}}}
+
+ House Holt is a noble house from the North. They are situated in White Harbor. Known Members Errold Holt, a member of the Night's Watch.\The Sword in the Darkness\\/ref} data-rte-instance130814-177971662356cca99752398 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Aerion Holt, a member of the Night's Watch. In the books 
+
+In the A Song of Ice and Fire novels, House Holt is a noble house from the North who once held Wolf's Den. See also References 
+
+  Loading editor

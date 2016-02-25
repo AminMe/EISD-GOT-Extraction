@@ -1,26 +1,16 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble_house\n","placeholder":1,"wikitext":"{{Noble_house\n|Title = House Hunter\n|Sigil =Five silver arrows on a brown field. \n|Motto = \n|Seat = \n|Region = [[The Vale]]\n|Allegiance = [[House Arryn]]}}"}" data-rte-instance="130814-195069069456cca98b1d6e0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Hunter</b> is a vassal house from <a data-rte-meta="{"type":"internal","text":"the Vale","link":"the Vale","wasblank":true,"noforce":true,"wikitext":"[[the Vale]]"}" data-rte-instance="130814-195069069456cca98b1d6e0" href="/wiki/The_Vale" title="The Vale" class="mw-redirect">the Vale</a>. It holds fealty to <a data-rte-meta="{"type":"internal","text":"House Arryn","link":"House Arryn","wasblank":true,"noforce":true,"wikitext":"[[House Arryn]]"}" data-rte-instance="130814-195069069456cca98b1d6e0" href="/wiki/House_Arryn" title="House Arryn">House Arryn</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[File:Eon Hunter.jpg|200px|thumb|right|Lord Eon Hunter, the current head of House Hunter.]]","title":"Eon_Hunter.jpg","params":{"thumbnail":true,"alt":"Eon Hunter","align":"right","caption":"Lord Eon Hunter, the current head of House Hunter.","width":200,"captionParsed":"Lord Eon Hunter, the current head of House Hunter."}}" data-rte-instance="130814-195069069456cca98b1d6e0" alt="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/9b/Eon_Hunter.jpg/revision/latest/scale-to-width-down/200?cb=20120310070038" width="200" height="113" class="image thumb alignRight withCaption" data-image-name="Eon Hunter.jpg" data-image-key="Eon_Hunter.jpg"  type="image" />
-</p>
-<ul><li data-rte-spaces-before="1">Lord <a data-rte-meta="{"type":"internal","text":"Eon Hunter","link":"Eon Hunter","wasblank":true,"noforce":true,"wikitext":"[[Eon Hunter]]"}" data-rte-instance="130814-195069069456cca98b1d6e0" href="/wiki/Eon_Hunter" title="Eon Hunter">Eon Hunter</a>, Lord of Longbow Hall.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-195069069456cca98b1d6e0" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Hunter are loyal bannermen of House Arryn. Their seat is Longbow Hall and their sigil is five silver arrows, fanned, on a brown field.
-</p>
-<h3 data-rte-empty-lines-before="1">Members</h3>
-<ul><li data-rte-spaces-before="1">Lord Eon Hunter, Lord of Longbow Hall. An old man with gouty legs, who has been ruling his house for sixty years, known as Old Lord Hunter.
-<ul><li data-rte-spaces-before="1">Ser Gilwood Hunter, his first son and heir.
-</li><li data-rte-spaces-before="1">Ser Eustace Hunter, his second son.
-</li><li data-rte-spaces-before="1">Ser Harlan Hunter, his third son.
-</li></ul>
-</li></ul>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-195069069456cca98b1d6e0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Vale Houses","placeholder":1,"wikitext":"{{Vale Houses}}"}" data-rte-instance="130814-195069069456cca98b1d6e0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus J\u00e4ger","link":"de:Haus J\u00e4ger","wasblank":true,"noforce":true,"wikitext":"[[de:Haus J\u00e4ger]]"}" data-rte-instance="130814-195069069456cca98b1d6e0" href="http://de.gameofthrones.wikia.com/wiki/Haus_Jäger" class="extiw" title="de:Haus Jäger">de:Haus Jäger</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u0425\u0430\u043d\u0442\u0435\u0440\u044b","link":"ru:\u0425\u0430\u043d\u0442\u0435\u0440\u044b","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0425\u0430\u043d\u0442\u0435\u0440\u044b]]"}" data-rte-instance="130814-195069069456cca98b1d6e0" href="http://ru.gameofthrones.wikia.com/wiki/Хантеры" class="extiw" title="ru:Хантеры">ru:Хантеры</a>
-</p>
-   Loading editor
+title=House hunter
+|sigil=Five silver arrows on a brown field. 
+|motto=
+|Seat = 
+|region=The vale
+|allegiance=House arryn}}}
+
+ House Hunter is a vassal house from the Vale. It holds fealty to House Arryn. Members 
+
+ Lord Eon Hunter, Lord of Longbow Hall. In the books 
+
+In the A Song of Ice and Fire novels, House Hunter are loyal bannermen of House Arryn. Their seat is Longbow Hall and their sigil is five silver arrows, fanned, on a brown field. Members Lord Eon Hunter, Lord of Longbow Hall. An old man with gouty legs, who has been ruling his house for sixty years, known as Old Lord Hunter. Ser Gilwood Hunter, his first son and heir. Ser Eustace Hunter, his second son. Ser Harlan Hunter, his third son. See also (spoilers from the books) 
+
+ 
+
+de:Haus Jäger ru:Хантеры  Loading editor

@@ -1,20 +1,31 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Karstark-Shield-Icon.PNG\n|link=House Karstark\n}}"}" data-rte-instance="130814-169702889156cca819781c9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Laurence Karstark\n| Image = Umber lineage.jpg\n| Season = [[Season 1|1]]\n| Mentioned = \"[[A Golden Crown]]\"\n| Status = [[:Category:Status: Dead|Deceased]]\n| Death = \n| Place = [[Karhold]]\n| Culture = [[Northmen]] \n| Allegiance = [[House Karstark]]\n| Family = [[Commard Karstark]] - father<br>[[Regan Karstark]] - mother<br>[[Beric Karstark]] - grandfather<br>[[Mara Karstark]] - grandmother<br>[[Berrican Karstark]] - brother<br>[[Jon Karstark]] - brother<br>[[Petyr Karstark]] - brother\n| Titles = \n}}"}" data-rte-instance="130814-169702889156cca819781c9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Laurence Karstark</b> is an unseen character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones]]"}" data-rte-instance="130814-169702889156cca819781c9" href="/wiki/Game_of_Thrones" title="Game of Thrones" class="mw-redirect">Game of Thrones</a></i>. He is not expected to appear in the series, being long dead by the time it starts. He is one of the earliest recorded members of <a data-rte-meta="{"type":"internal","text":"House Karstark","link":"House Karstark","wasblank":true,"noforce":true,"wikitext":"[[House Karstark]]"}" data-rte-instance="130814-169702889156cca819781c9" href="/wiki/House_Karstark" title="House Karstark">House Karstark</a>, and an ancient ancestor of Lord <a data-rte-meta="{"type":"internal","text":"Rickard Karstark","link":"Rickard Karstark","wasblank":true,"noforce":true,"wikitext":"[[Rickard Karstark]]"}" data-rte-instance="130814-169702889156cca819781c9" href="/wiki/Rickard_Karstark" title="Rickard Karstark">Rickard Karstark</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Laurence Karstark was the third born son of <a data-rte-meta="{"type":"internal","text":"Commard Karstark","link":"Commard Karstark","wasblank":true,"noforce":true,"wikitext":"[[Commard Karstark]]"}" data-rte-instance="130814-169702889156cca819781c9" href="/wiki/Commard_Karstark" title="Commard Karstark">Commard Karstark</a> and his wife <a data-rte-meta="{"type":"internal","text":" Regan","link":"Regan Karstark","wasblank":false,"noforce":true,"wikitext":"[[Regan Karstark| Regan]]"}" data-rte-instance="130814-169702889156cca819781c9" href="/wiki/Regan_Karstark" title="Regan Karstark"> Regan</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-169702889156cca819781c9" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">He has an entry in <i><a data-rte-meta="{"type":"internal","text":"The Lineages and Histories of the Great Houses of the Seven Kingdoms","link":"The Lineages and Histories of the Great Houses of the Seven Kingdoms","wasblank":true,"noforce":true,"wikitext":"[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]"}" data-rte-instance="130814-169702889156cca819781c9" href="/wiki/The_Lineages_and_Histories_of_the_Great_Houses_of_the_Seven_Kingdoms" title="The Lineages and Histories of the Great Houses of the Seven Kingdoms">The Lineages and Histories of the Great Houses of the Seven Kingdoms</a></i>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Golden Crown]]\"<\/ref>"}" data-rte-instance="130814-169702889156cca819781c9" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">Laurence Karstark is referenced only in the TV adaptation of <i>A Song of Ice and Fire</i> and has no corresponding counterpart in the books.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-169702889156cca819781c9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Karstark navbox","placeholder":1,"wikitext":"{{Karstark navbox}}"}" data-rte-instance="130814-169702889156cca819781c9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Karstark, Laurence","placeholder":1,"wikitext":"{{DEFAULTSORT:Karstark, Laurence}}"}" data-rte-instance="130814-169702889156cca819781c9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Laurence karstark
+| image=Umber lineage.jpg
+| season=1
+| mentioned=\A golden crown\
+| status=deceased
+| death=
+| place=Karhold
+| culture=Northmen 
+| allegiance=House karstark
+| family=Commard karstark - fatherRegan Karstark - motherBeric Karstark - grandfatherMara Karstark - grandmotherBerrican Karstark - brotherJon Karstark - brotherPetyr Karstark - brother
+| Titles = 
+}}}
+
+ Regan Karstark - mother 
+Beric Karstark - grandfather 
+Mara Karstark - grandmother 
+Berrican Karstark - brother 
+Jon Karstark - brother 
+Petyr Karstark - brother
+| Titles = 
+}}} data-rte-instance130814-169702889156cca819781c9 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Laurence Karstark is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. He is one of the earliest recorded members of House Karstark, and an ancient ancestor of Lord Rickard Karstark. Biography 
+
+ Background 
+
+Laurence Karstark was the third born son of Commard Karstark and his wife Regan. Season 1 
+
+He has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms.\A Golden Crown\\/ref} data-rte-instance130814-169702889156cca819781c9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+Laurence Karstark is referenced only in the TV adaptation of A Song of Ice and Fire and has no corresponding counterpart in the books. References 
+
+  Loading editor

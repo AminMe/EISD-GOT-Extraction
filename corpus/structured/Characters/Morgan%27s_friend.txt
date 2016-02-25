@@ -1,17 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Lannister-Shield-Icon.PNG\n|link = House Lannister\n}}"}" data-rte-instance="130814-155510311156cca76ec2352" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title =Morgan's friend\n|Season = [[Season 4|4]]\n|Image=GoT Savage.png\n|Appearances = \"[[Two Swords]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[House Lannister]]\n|Actor = [[Stuart Martin]]\n}}"}" data-rte-instance="130814-155510311156cca76ec2352" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|I don't see many Dornishmen in the capital.|[[Morgan]]'s friend to [[Oberyn Martell]]|Two Swords}}"}" data-rte-instance="130814-155510311156cca76ec2352" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Morgan's friend</b> is an minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-155510311156cca76ec2352" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Stuart Martin","link":"Stuart Martin","wasblank":true,"noforce":true,"wikitext":"[[Stuart Martin]]"}" data-rte-instance="130814-155510311156cca76ec2352" href="/wiki/Stuart_Martin" title="Stuart Martin">Stuart Martin</a> and appears in "<a data-rte-meta="{"type":"internal","text":"Two Swords","link":"Two Swords","wasblank":true,"noforce":true,"wikitext":"[[Two Swords]]"}" data-rte-instance="130814-155510311156cca76ec2352" href="/wiki/Two_Swords" title="Two Swords">Two Swords</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-155510311156cca76ec2352" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">He visits <a data-rte-meta="{"type":"internal","text":"Littlefinger","link":"Littlefinger","wasblank":true,"noforce":true,"wikitext":"[[Littlefinger]]"}" data-rte-instance="130814-155510311156cca76ec2352" href="/wiki/Littlefinger" title="Littlefinger" class="mw-redirect">Littlefinger</a>'s Whore house with his friend, <a data-rte-meta="{"type":"internal","text":"Morgan","link":"Morgan","wasblank":true,"noforce":true,"wikitext":"[[Morgan]]"}" data-rte-instance="130814-155510311156cca76ec2352" href="/wiki/Morgan" title="Morgan">Morgan</a>. While there, they are confronted by the foreigner, <a data-rte-meta="{"type":"internal","text":"Oberyn Martell","link":"Oberyn Martell","wasblank":true,"noforce":true,"wikitext":"[[Oberyn Martell]]"}" data-rte-instance="130814-155510311156cca76ec2352" href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a>, who threatens Morgan and then stabs a dagger through his hand. He and his friend are forced to escape and treat the wound before it becomes fatal.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Two Swords]]\"<\/ref>"}" data-rte-instance="130814-155510311156cca76ec2352" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Four Appearances","placeholder":1,"wikitext":"{{Season Four Appearances|1=yes}}"}" data-rte-instance="130814-155510311156cca76ec2352" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Lannister navbox","placeholder":1,"wikitext":"{{Lannister navbox}}"}" data-rte-instance="130814-155510311156cca76ec2352" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-155510311156cca76ec2352" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Morgan's friend
+|season=4
+|image=GoT savage.png
+|appearances=\Two swords\
+|status=alive
+|allegiance=House lannister
+|actor=Stuart martin
+}}}
+
+ 
+
+ 
+
+Morgan's friend is an minor character in the fourth season. He is played by guest star Stuart Martin and appears in Two Swords. Biography 
+
+ Season 4 
+
+He visits Littlefinger's Whore house with his friend, Morgan. While there, they are confronted by the foreigner, Oberyn Martell, who threatens Morgan and then stabs a dagger through his hand. He and his friend are forced to escape and treat the wound before it becomes fatal.\Two Swords\\/ref} data-rte-instance130814-155510311156cca76ec2352 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ 
+
+ References 
+
+  Loading editor

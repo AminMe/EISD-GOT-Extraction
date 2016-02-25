@@ -1,23 +1,29 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = Night's-Watch-Shield-Icon.PNG\n|link = Night's Watch}}"}" data-rte-instance="130814-135184222556cca72f06850" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Smitty\n| Image=Smitty.PNG\n|Season = [[Season 4|4]]\n|Appearances = \"[[The Watchers on the Wall]]\"\n|Status = [[:Category: Status: Dead|Deceased]]\n| Actor=[[:Category:Performer Unidentified|Unidentified extra]]\n|Allegiance = The [[Night's Watch]]\n|Death = Falls off the top of [[the Wall]] to his death\n|DeathEp = \"[[The Watchers on the Wall]]\"}}"}" data-rte-instance="130814-135184222556cca72f06850" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Smitty!|A brother calling his name as he falls.|The Watchers on the Wall}}"}" data-rte-instance="130814-135184222556cca72f06850" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Smitty</b> ​is a minor character in the <a data-rte-meta="{"type":"internal","text":"fourth","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth]]"}" data-rte-instance="130814-135184222556cca72f06850" href="/wiki/Season_4" title="Season 4">fourth</a> season. He is a member of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-135184222556cca72f06850" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>​<a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-135184222556cca72f06850" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[File:Smitty 4x09.PNG|thumb|left|Smitty as he repels down the wall with his bow.]]","title":"Smitty_4x09.PNG","params":{"thumbnail":true,"alt":"Smitty 4x09","align":"left","caption":"Smitty as he repels down the wall with his bow.","captionParsed":"Smitty as he repels down the wall with his bow."}}" data-rte-instance="130814-135184222556cca72f06850" alt="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/2/25/Smitty_4x09.PNG/revision/latest/scale-to-width-down/180?cb=20140611153416" width="180" height="220" class="image thumb alignLeft withCaption" data-image-name="Smitty 4x09.PNG" data-image-key="Smitty_4x09.PNG"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->During the <a data-rte-meta="{"type":"internal","text":"Battle of Castle Black","link":"Battle of Castle Black","wasblank":true,"noforce":true,"wikitext":"[[Battle of Castle Black]]"}" data-rte-instance="130814-135184222556cca72f06850" href="/wiki/Battle_of_Castle_Black" title="Battle of Castle Black">Battle of Castle Black</a>, Smitty takes part in defending the <a data-rte-meta="{"type":"internal","text":"Wall","link":"Wall","wasblank":true,"noforce":true,"wikitext":"[[Wall]]"}" data-rte-instance="130814-135184222556cca72f06850" href="/wiki/Wall" title="Wall" class="mw-redirect">Wall</a> against <a data-rte-meta="{"type":"internal","text":"Mance Rayder","link":"Mance Rayder","wasblank":true,"noforce":true,"wikitext":"[[Mance Rayder]]"}" data-rte-instance="130814-135184222556cca72f06850" href="/wiki/Mance_Rayder" title="Mance Rayder">Mance Rayder</a>'s forces. As the wildlings approach the wall and start to climb, Smitty and another brother repel down with their bows. At Jon's signal, Smitty shoots his arrow and pierces a wildling in the shoulder, causing him to fall down to his death. As the members of the Night's Watch send oil barrels down on the wildlings at the gate, one barrel gets trapped on the ramp, as it explodes it sends flaming rubble across the Wall, and a piece impales the brother holding Smitty's repel rope in the chest. As the brother drops the rope, Smitty falls off the top of the wall to his death.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Watchers on the Wall]]\"<\/ref>"}" data-rte-instance="130814-135184222556cca72f06850" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[File:Smitty-death.PNG|thumb|right|Smitty falling to his death.]]","title":"Smitty-death.PNG","params":{"thumbnail":true,"alt":"Smitty-death","align":"right","caption":"Smitty falling to his death.","captionParsed":"Smitty falling to his death."}}" data-rte-instance="130814-135184222556cca72f06850" alt="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/0f/Smitty-death.PNG/revision/latest/scale-to-width-down/180?cb=20140611155316" width="180" height="101" class="image thumb alignRight withCaption" data-image-name="Smitty-death.PNG" data-image-key="Smitty-death.PNG"  type="image" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Four Appearances","placeholder":1,"wikitext":"{{Season Four Appearances|||||||||yes}}"}" data-rte-instance="130814-135184222556cca72f06850" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">​In the books</h2>
-<p data-rte-fromparser="true">​In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-135184222556cca72f06850" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no character by this name.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-135184222556cca72f06850" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Watch navbox","placeholder":1,"wikitext":"{{Watch navbox}}"}" data-rte-instance="130814-135184222556cca72f06850" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u043c\u0438\u0442\u0442\u0438","link":"ru:\u0421\u043c\u0438\u0442\u0442\u0438","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u043c\u0438\u0442\u0442\u0438]]"}" data-rte-instance="130814-135184222556cca72f06850" href="http://ru.gameofthrones.wikia.com/wiki/Смитти" class="extiw" title="ru:Смитти">ru:Смитти</a>
-</p>
-   Loading editor
+title=Smitty
+| image=Smitty.PNG
+|Season = 4
+|appearances=\The watchers on the wall\
+|status=deceased
+| actor=unidentified extra
+|allegiance=The night's watch
+|death=Falls off top of the wall to his death
+|deathep=\The wall\}}}
+
+ 
+
+ 
+
+Smitty ​is a minor character in the fourth season. He is a member of the Night's Watch. Biography 
+
+ ​Season 4 
+
+ During the Battle of Castle Black, Smitty takes part in defending the Wall against Mance Rayder's forces. As the wildlings approach the wall and start to climb, Smitty and another brother repel down with their bows. At Jon's signal, Smitty shoots his arrow and pierces a wildling in the shoulder, causing him to fall down to his death. As the members of the Night's Watch send oil barrels down on the wildlings at the gate, one barrel gets trapped on the ramp, as it explodes it sends flaming rubble across the Wall, and a piece impales the brother holding Smitty's repel rope in the chest. As the brother drops the rope, Smitty falls off the top of the wall to his death.\The Watchers on the Wall\\/ref} data-rte-instance130814-135184222556cca72f06850 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ ​In the books 
+
+​In the A Song of Ice and Fire novels, there is no character by this name. References 
+
+ 
+
+ 
+
+ru:Смитти  Loading editor

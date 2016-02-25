@@ -1,23 +1,30 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = \n|link = \n|rightimage = Royce shield icon.png\n|rightlink = House Royce|leftimage = Maester's mini chain.png\n|leftlink = Maesters}}"}" data-rte-instance="130814-123625920356cca745cad87" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Helliweg\n| Image=Helliweg.png\n| Season= [[Season 5|5]]\n| First=\"[[The Wars to Come]]\"\n| Last=\n| Appearances= 1 ([[#Appearances|see below]])\n| Titles= Maester\n| Aka=\n| Status=  [[:Category:Status: Alive|Alive]]\n| Death= \n| Place= \n| Allegiance=[[Maesters]]<br>[[House Royce]]\n| Family=\n| Actor=[[Joe Hewetson]]}}"}" data-rte-instance="130814-123625920356cca745cad87" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Helliweg</b> is a character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/Season_5" title="Season 5">fifth season</a>, appearing in "<a data-rte-meta="{"type":"internal","text":"The Wars to Come","link":"The Wars to Come","wasblank":true,"noforce":true,"wikitext":"[[The Wars to Come]]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a>". He is a young member of the Order of Maesters, and is in service to <a data-rte-meta="{"type":"internal","text":"House Royce","link":"House Royce","wasblank":true,"noforce":true,"wikitext":"[[House Royce]]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/House_Royce" title="House Royce">House Royce</a> at <a data-rte-meta="{"type":"internal","text":"Runestone","link":"Runestone","wasblank":true,"noforce":true,"wikitext":"[[Runestone]]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/Runestone" title="Runestone">Runestone</a>.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Biography </h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Background </h3>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> <a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/Season_5" title="Season 5">Season 5</a> </h3>
-<p data-rte-fromparser="true">Helliweg delivers a message to Lord <a data-rte-meta="{"type":"internal","text":"Petyr Baelish","link":"Petyr Baelish","wasblank":true,"noforce":true,"wikitext":"[[Petyr Baelish]]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish</a> when the latter is watching the training of Lord <a data-rte-meta="{"type":"internal","text":"Robin Arryn","link":"Robin Arryn","wasblank":true,"noforce":true,"wikitext":"[[Robin Arryn]]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/Robin_Arryn" title="Robin Arryn">Robin Arryn</a>, who is being <a data-rte-meta="{"type":"internal","text":"fostered","link":"Ward","wasblank":false,"noforce":true,"wikitext":"[[Ward|fostered]]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/Ward" title="Ward">fostered</a> by Lord <a data-rte-meta="{"type":"internal","text":"Yohn Royce","link":"Yohn Royce","wasblank":true,"noforce":true,"wikitext":"[[Yohn Royce]]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/Yohn_Royce" title="Yohn Royce">Yohn Royce</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Wars to Come]]\"<\/ref>"}" data-rte-instance="130814-123625920356cca745cad87" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Appearances </h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances|1=yes}}"}" data-rte-instance="130814-123625920356cca745cad87" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <a data-rte-meta="{"type":"internal","text":"<i>A Song of Ice and Fire<\/i>","link":"A Song of Ice and Fire","wasblank":false,"noforce":true,"wikitext":"[[A Song of Ice and Fire|''A Song of Ice and Fire'']]"}" data-rte-instance="130814-123625920356cca745cad87" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire"><i>A Song of Ice and Fire</i></a> novels, Helliweg is also the maester of Runestone. However, unlike his TV counterpart he is described as being particularly aged and venerable.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> See also </h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Helliweg}}"}" data-rte-instance="130814-123625920356cca745cad87" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-123625920356cca745cad87" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Royce navbox","placeholder":1,"wikitext":"{{Royce navbox}}"}" data-rte-instance="130814-123625920356cca745cad87" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Helliweg
+| image=Helliweg.png
+| season=5
+| first=\The wars to come\
+| last=
+| appearances=1 (see below)
+| titles=Maester
+| aka=
+| status=alive
+| death=
+| place=
+| allegiance=MaestersHouse Royce
+| Family=
+| Actor=Joe Hewetson}}}
+
+ House Royce
+| Family=
+| ActorJoe Hewetson} data-rte-instance130814-123625920356cca745cad87 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Helliweg is a character inthe fifth season, appearing in The Wars to Come. He is a young member of the Order of Maesters, and is in service to House Royce at Runestone. Biography 
+
+ Background 
+
+ Season 5 
+
+Helliweg delivers a message to Lord Petyr Baelish when the latter is watching the training of Lord Robin Arryn, who is being fostered by Lord Yohn Royce.\The Wars to Come\\/ref} data-rte-instance130814-123625920356cca745cad87 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire\/i,link:A Song of Ice and Fire,wasblank:false,noforce:true,wikitext:A Song of Ice and Fire|A Song of Ice and Fire} data-rte-instance130814-123625920356cca745cad87 href/wiki/A_Song_of_Ice_and_Fire title=A Song of Ice and FireA Song of Ice and Fire novels, Helliweg is also the maester of Runestone. However, unlike his TV counterpart he is described as being particularly aged and venerable. See also References 
+
+  Loading editor

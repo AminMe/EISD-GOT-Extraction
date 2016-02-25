@@ -1,35 +1,37 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=House Branfield\n| Image=\n| Sigil=\n| Words=\n| Titles=\n| Seat=\n| Region=\n| Lord=\n| Heir=\n| Allegiance=[[House Targaryen]]\n| Vassals=\n| Religion=[[Faith of the Seven]]\n| Age=\n| Founder=\n|ImageSize = 250px}}"}" data-rte-instance="130814-38949548156cca97807dc4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|My father's house was once mighty, like [[House Forrester|this one]]. But his loyalty to the [[House Targaryen|Targaryens]] cost us dearly. I watched as countless of our kin fell, saw our lands destroyed, everything we clung to was ripped from our hands.|[[Elissa Forrester|Elissa Branfield]] explains the fate of her house.|The Lost Lords}}"}" data-rte-instance="130814-38949548156cca97807dc4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Branfield</b> is a minor noble house from the south of <a data-rte-meta="{"type":"internal","text":"Westeros","link":"Westeros","wasblank":true,"noforce":true,"wikitext":"[[Westeros]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Westeros" title="Westeros">Westeros</a>. They were noted <a data-rte-meta="{"type":"internal","text":"Targaryen","link":"House Targaryen","wasblank":false,"noforce":true,"wikitext":"[[House Targaryen|Targaryen]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/House_Targaryen" title="House Targaryen">Targaryen</a> loyalists. After the fall of House Targaryen, House Branfield lost all its lands and titles, with most of its members killed or exiled. Today, only one known member of House Branfield is still alive, <a data-rte-meta="{"type":"internal","text":"Malcolm Branfield","link":"Malcolm Branfield","wasblank":true,"noforce":true,"wikitext":"[[Malcolm Branfield]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Malcolm_Branfield" title="Malcolm Branfield">Malcolm Branfield</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">House Branfield is a minor southern house. They fought for House Targaryen during <a data-rte-meta="{"type":"internal","text":"Robert's Rebellion","link":"Robert's Rebellion","wasblank":true,"noforce":true,"wikitext":"[[Robert's Rebellion]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Robert's_Rebellion" title="Robert's Rebellion">Robert's Rebellion</a>, after which all of their lands and titles were taken from them. Elissa Branfield had married <a data-rte-meta="{"type":"internal","text":"Gregor Forrester","link":"Gregor Forrester","wasblank":true,"noforce":true,"wikitext":"[[Gregor Forrester]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Gregor_Forrester" title="Gregor Forrester">Gregor Forrester</a>, heir to <a data-rte-meta="{"type":"internal","text":"House Forrester","link":"House Forrester","wasblank":true,"noforce":true,"wikitext":"[[House Forrester]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/House_Forrester" title="House Forrester">House Forrester</a> of <a data-rte-meta="{"type":"internal","text":"Ironrath","link":"Ironrath","wasblank":true,"noforce":true,"wikitext":"[[Ironrath]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Ironrath" title="Ironrath">Ironrath</a>, some time before the rebellion. She was torn between the loyalty of both houses, despite being married to Lord Gregor but ultimately chose House Forrester. Elissa's brother, Malcolm fought bravely along with his brothers during the war, but never married or fathered any children, ensuring the eventual extinction of the house. Since Elissa's daughter Mira is a lady in waiting to Margery Tyrell, it is possible that House Branfield was originally from <a data-rte-meta="{"type":"internal","text":"The Reach","link":"The Reach","wasblank":true,"noforce":true,"wikitext":"[[The Reach]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/The_Reach" title="The Reach">The Reach</a> (especially as the Tyrells were Targaryen supporters during Robert's Rebellion). <img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>http:\/\/www.telltalegames.com\/blog\/discussion\/86265<\/ref>"}" data-rte-instance="130814-38949548156cca97807dc4" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1">​"<a data-rte-meta="{"type":"internal","text":"Iron From Ice","link":"Iron From Ice","wasblank":true,"noforce":true,"wikitext":"[[Iron From Ice]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Iron_From_Ice" title="Iron From Ice">Iron From Ice</a>"</h3>
-<p data-rte-fromparser="true">House Branfield ​is not mentioned in Iron From Ice but their name can be first seen in the codex page. 
-</p>
-<h3 data-rte-empty-lines-before="1">​"<a data-rte-meta="{"type":"internal","text":"The Lost Lords","link":"The Lost Lords","wasblank":true,"noforce":true,"wikitext":"[[The Lost Lords]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/The_Lost_Lords" title="The Lost Lords">The Lost Lords</a>"</h3>
-<p data-rte-fromparser="true">Lady Elissa reminisces about how her father's house was once a mighty house like House Forrester, but their loyalty to House Targaryen cost them dearly, which resulted in most of the house being killed.
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<ul><li>Lord {<a data-rte-meta="{"type":"internal","text":"Branfield","link":"Branfield (Lord)","wasblank":false,"noforce":true,"wikitext":"[[Branfield (Lord)|Branfield]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Branfield_(Lord)" title="Branfield (Lord)">Branfield</a>} - the head of the House.
-<ul><li>Lady {<a data-rte-meta="{"type":"internal","text":"Talia Branfield","link":"Talia Branfield","wasblank":true,"noforce":true,"wikitext":"[[Talia Branfield]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Talia_Branfield" title="Talia Branfield">Talia Branfield</a>} - his wife.
-<ul><li>Lady {<a data-rte-meta="{"type":"internal","text":"Elissa Branfield","link":"Elissa Forrester","wasblank":false,"noforce":true,"wikitext":"[[Elissa Forrester|Elissa Branfield]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Elissa_Forrester" title="Elissa Forrester">Elissa Branfield</a>} - his daughter, widow of the late Lord <a data-rte-meta="{"type":"internal","text":"Gregor Forrester","link":"Gregor Forrester","wasblank":true,"noforce":true,"wikitext":"[[Gregor Forrester]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Gregor_Forrester" title="Gregor Forrester">Gregor Forrester</a>. Killed during the <a data-rte-meta="{"type":"internal","text":"Battle of Ironrath","link":"Battle of Ironrath","wasblank":true,"noforce":true,"wikitext":"[[Battle of Ironrath]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Battle_of_Ironrath" title="Battle of Ironrath">Battle of Ironrath</a>.
-</li><li><a data-rte-meta="{"type":"internal","text":"Malcolm Branfield","link":"Malcolm Branfield","wasblank":true,"noforce":true,"wikitext":"[[Malcolm Branfield]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Malcolm_Branfield" title="Malcolm Branfield">Malcolm Branfield</a> - his son, the last living member of House Branfield.
-</li><li>At least two more unnamed sons, died in <a data-rte-meta="{"type":"internal","text":"Robert's Rebellion","link":"Robert's Rebellion","wasblank":true,"noforce":true,"wikitext":"[[Robert's Rebellion]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Robert's_Rebellion" title="Robert's Rebellion">Robert's Rebellion</a>.
-</li></ul>
-</li></ul>
-</li></ul>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Family Tree </h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Branfield family tree","placeholder":1,"wikitext":"{{House Branfield family tree}}"}" data-rte-instance="130814-38949548156cca97807dc4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">Unlike Houses <a data-rte-meta="{"type":"internal","text":"Whitehill","link":"House Whitehill","wasblank":false,"noforce":true,"wikitext":"[[House Whitehill|Whitehill]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/House_Whitehill" title="House Whitehill">Whitehill</a> and Forrester, which both appear in the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Branfield is an invention of <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones: A Telltale Games Series","link":"Game of Thrones: A Telltale Games Series","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones: A Telltale Games Series]]"}" data-rte-instance="130814-38949548156cca97807dc4" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series" title="Game of Thrones: A Telltale Games Series">Game of Thrones: A Telltale Games Series</a></i>.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-38949548156cca97807dc4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Branfield_navbox","placeholder":1,"wikitext":"{{Branfield_navbox}}"}" data-rte-instance="130814-38949548156cca97807dc4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reach_Houses","placeholder":1,"wikitext":"{{Reach_Houses}}"}" data-rte-instance="130814-38949548156cca97807dc4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House branfield
+| image=
+| sigil=
+| words=
+| titles=
+| seat=
+| region=
+| lord=
+| heir=
+| allegiance=House targaryen
+| vassals=
+| religion=Faith of the seven
+| age=
+| founder=
+|ImageSize = 250px}}}
+
+ 
+
+ 
+
+House Branfield is a minor noble house from the south of Westeros. They were noted Targaryen loyalists. After the fall of House Targaryen, House Branfield lost all its lands and titles, with most of its members killed or exiled. Today, only one known member of House Branfield is still alive, Malcolm Branfield. History 
+
+ Background 
+
+House Branfield is a minor southern house. They fought for House Targaryen during Robert's Rebellion, after which all of their lands and titles were taken from them. Elissa Branfield had married Gregor Forrester, heir to House Forrester of Ironrath, some time before the rebellion. She was torn between the loyalty of both houses, despite being married to Lord Gregor but ultimately chose House Forrester. Elissa's brother, Malcolm fought bravely along with his brothers during the war, but never married or fathered any children, ensuring the eventual extinction of the house. Since Elissa's daughter Mira is a lady in waiting to Margery Tyrell, it is possible that House Branfield was originally from The Reach (especially as the Tyrells were Targaryen supporters during Robert's Rebellion). http:\/\/www.telltalegames.com\/blog\/discussion\/86265\/ref} data-rte-instance130814-38949548156cca97807dc4 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / ​Iron From Ice 
+
+House Branfield ​is not mentioned in Iron From Ice but their name can be first seen in the codex page. ​The Lost Lords 
+
+Lady Elissa reminisces about how her father's house was once a mighty house like House Forrester, but their loyalty to House Targaryen cost them dearly, which resulted in most of the house being killed. Members Lord Branfield - the head of the House. Lady Talia Branfield - his wife. Lady Elissa Branfield - his daughter, widow of the late Lord Gregor Forrester. Killed during the Battle of Ironrath. Malcolm Branfield - his son, the last living member of House Branfield. At least two more unnamed sons, died in Robert's Rebellion. Family Tree 
+
+ In the books 
+
+Unlike Houses Whitehill and Forrester, which both appear in the A Song of Ice and Fire novels, House Branfield is an invention of Game of Thrones: A Telltale Games Series. References 
+
+ 
+
+  Loading editor

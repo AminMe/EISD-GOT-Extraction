@@ -5,41 +5,41 @@
 {{Character
 | Title=Violet
 | Image=Violet.jpg
-| Season=[[Season 3|3]]
-| Appearances="[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"
+| Season=3
+| Appearances=The Bear and the Maiden Fair
 | Titles=
 | Aka=
-| Status= [[:Category:Status: Dead|Dead]]
+| Status= Dead
 | Death=
 | Place=
-| Allegiance=[[House Bolton]]
+| Allegiance=House Bolton
 | Family=
-| Actor=[[Stephanie Blacker]]
+| Actor=Stephanie Blacker
 }}
-{{Template:Dialogue a-b|Theon|Where is [[Ramsay Snow|he]]?|Myranda|Who, my lord? There's no one here but you, me, and Violet.|[[Theon Greyjoy]] and [[Myranda]]|The Bear and the Maiden Fair (episode)}}
-'''Violet''' is a character in the [[Season 3|third season]]. She is played by [[Stephanie Blacker]].<ref>January 10, 2013. [http://winteriscoming.net/2013/01/season-three-casting-update/] Winter is Coming.net</ref>
-==Biography==
-Violet is a servant of [[House Bolton]] of [[the Dreadfort]].
-===[[Season 3]]===
-Violet and [[Myranda]] enter the torture cellar in which [[Theon Greyjoy]] is kept hostage, release the former [[Prince of Winterfell]] and put him on a bed. Then they attempt to seduce him, claiming they have heard the heir to [[Pyke]] is "well endowed". Violet claims Myranda was in training to become a [[septa]] but her sexual urges kept her from taking the vows. Theon is initially distrustful but cannot help but grow aroused when Myranda, stripped of her clothes by Violet, straddles him.
+Template:Dialogue a-b|Theon|Where is he?|Myranda|Who, my lord? There's no one here but you, me, and Violet.|Theon Greyjoy and Myranda|The Bear and the Maiden Fair (episode)
+Violet is a character in the third season. She is played by Stephanie Blacker.January 10, 2013. http://winteriscoming.net/2013/01/season-three-casting-update/ Winter is Coming.net
+Biography
+Violet is a servant of House Bolton of the Dreadfort.
+Season 3
+Violet and Myranda enter the torture cellar in which Theon Greyjoy is kept hostage, release the former Prince of Winterfell and put him on a bed. Then they attempt to seduce him, claiming they have heard the heir to Pyke is well endowed. Violet claims Myranda was in training to become a septa but her sexual urges kept her from taking the vows. Theon is initially distrustful but cannot help but grow aroused when Myranda, stripped of her clothes by Violet, straddles him.
 
-Suddenly, the girls are interrupted by a horn sounded by [[Ramsay Snow]], who approaches his two servants and taunts Theon, telling him he too has heard about Theon's manhood and showing him a gelding knife. Myranda and Violet then watch as Theon is held by [[Bolton man 1|two]] [[Bolton man 2|men]] while Ramsay proceeds to castrate him.<ref>"[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]"</ref>
+Suddenly, the girls are interrupted by a horn sounded by Ramsay Snow, who approaches his two servants and taunts Theon, telling him he too has heard about Theon's manhood and showing him a gelding knife. Myranda and Violet then watch as Theon is held by two men while Ramsay proceeds to castrate him.The Bear and the Maiden Fair
 
-=== [[Season 5]] ===
-While bathing [[Sansa Stark]], Myranda reveals Ramsay grew tired of Violet and ended up killing her after she became pregnant.<ref>"[[Unbowed, Unbent, Unbroken]]"</ref>
+ Season 5 
+While bathing Sansa Stark, Myranda reveals Ramsay grew tired of Violet and ended up killing her after she became pregnant.Unbowed, Unbent, Unbroken
 
-==Appearances==
-{{Season Three Appearances|7=yes}}
+Appearances
+Season Three Appearances|7=yes
 
-==Behind the Scenes==
-[[George R.R. Martin]] stated on the DVD commentary of "The Bear and the Maiden Fair" that he had written a scene involving Myranda and Violet for the [[Season 4|fourth season]]. Stephanie Blacker was not available for the fourth season due to the fact that she was pregnant. Since Martin wrote "[[The Lion and the Rose]]", this seems to suggest that the role played by [[Tansy]] in the episode was originally intended for Violet. Violet's in-universe fate might be a reference to Blacker's real-life reason for not returning.
+Behind the Scenes
+George R.R. Martin stated on the DVD commentary of The Bear and the Maiden Fair that he had written a scene involving Myranda and Violet for the fourth season. Stephanie Blacker was not available for the fourth season due to the fact that she was pregnant. Since Martin wrote The Lion and the Rose, this seems to suggest that the role played by Tansy in the episode was originally intended for Violet. Violet's in-universe fate might be a reference to Blacker's real-life reason for not returning.
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, the only character named Violet is an old peasant women who used to visit [[Riverrun]], looking for old shoes in need of new soles. She does not appear in the books, being only mentioned by [[Catelyn Stark]] and Maester Vyman.
+In the books
+In the A Song of Ice and Fire novels, the only character named Violet is an old peasant women who used to visit Riverrun, looking for old shoes in need of new soles. She does not appear in the books, being only mentioned by Catelyn Stark and Maester Vyman.
 
-In the novels, Ramsay surrounds himself with a group of favorites, referred to as the "Bastard's Boys", who take part in his mind games and tortures. However, there is no mention of any women in the group.
+In the novels, Ramsay surrounds himself with a group of favorites, referred to as the Bastard's Boys, who take part in his mind games and tortures. However, there is no mention of any women in the group.
 
-==References==
-{{Reflist|2}}
-{{Bolton navbox}}
-{{Characters significantly changed between books and TV series}}
+References
+Reflist|2
+Bolton navbox
+Characters significantly changed between books and TV series

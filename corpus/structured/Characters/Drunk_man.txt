@@ -1,15 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Drunk Man\n|Season = [[Season 1|1]]\n|Image=Drunk Man.jpg\n|Appearances = \"[[Lord Snow]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = \n|Actor = [[Paul Portelli]]}}"}" data-rte-instance="130814-198052110856cca7eff3e69" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>drunk man</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-198052110856cca7eff3e69" href="/wiki/Season_1" title="Season 1">first season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Paul Portelli","link":"Paul Portelli","wasblank":true,"noforce":true,"wikitext":"[[Paul Portelli]]"}" data-rte-instance="130814-198052110856cca7eff3e69" href="/wiki/Paul_Portelli" title="Paul Portelli">Paul Portelli</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"Lord Snow","link":"Lord Snow","wasblank":true,"noforce":true,"wikitext":"[[Lord Snow]]"}" data-rte-instance="130814-198052110856cca7eff3e69" href="/wiki/Lord_Snow" title="Lord Snow">Lord Snow</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-198052110856cca7eff3e69" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">He stumbles into Littlefinger's room at the brothel on the arm of a <a data-rte-meta="{"type":"internal","text":"King's Landing whore","link":"King's Landing whore","wasblank":true,"noforce":true,"wikitext":"[[King's Landing whore]]"}" data-rte-instance="130814-198052110856cca7eff3e69" href="/wiki/King's_Landing_whore" title="King's Landing whore" class="mw-redirect">King's Landing whore</a>. Littlefinger is meeting with <a data-rte-meta="{"type":"internal","text":"Catelyn Stark","link":"Catelyn Stark","wasblank":true,"noforce":true,"wikitext":"[[Catelyn Stark]]"}" data-rte-instance="130814-198052110856cca7eff3e69" href="/wiki/Catelyn_Stark" title="Catelyn Stark">Catelyn Stark</a> and waves them away.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Lord Snow]]\"<\/ref>"}" data-rte-instance="130814-198052110856cca7eff3e69" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|3=yes}}"}" data-rte-instance="130814-198052110856cca7eff3e69" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-198052110856cca7eff3e69" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041f\u044c\u044f\u043d\u044b\u0439 \u043c\u0443\u0436\u0447\u0438\u043d\u0430","link":"ru:\u041f\u044c\u044f\u043d\u044b\u0439 \u043c\u0443\u0436\u0447\u0438\u043d\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041f\u044c\u044f\u043d\u044b\u0439 \u043c\u0443\u0436\u0447\u0438\u043d\u0430]]"}" data-rte-instance="130814-198052110856cca7eff3e69" href="http://ru.gameofthrones.wikia.com/wiki/Пьяный_мужчина" class="extiw" title="ru:Пьяный мужчина">ru:Пьяный мужчина</a>
-</p>
-   Loading editor
+title=Drunk man
+|season=1
+|image=Drunk man.jpg
+|appearances=\Lord snow\
+|status=alive
+|allegiance=
+|Actor = paul portelli}}}
+
+ 
+
+A drunk man is an unnamed minor character in the first season. He is played by guest star Paul Portelli and only appears in Lord Snow. Biography 
+
+ Season 1 
+
+He stumbles into Littlefinger's room at the brothel on the arm of a King's Landing whore. Littlefinger is meeting with Catelyn Stark and waves them away.\Lord Snow\\/ref} data-rte-instance130814-198052110856cca7eff3e69 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ References 
+
+ 
+
+ru:Пьяный мужчина  Loading editor

@@ -1,19 +1,18 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble_house\n","placeholder":1,"wikitext":"{{Noble_house\n|Title = House Musgood\n|Sigil = \n|Motto = \n|Seat = \n|Region = [[The Stormlands]]\n|Allegiance = [[House Baratheon]]}}"}" data-rte-instance="130814-118084940456cca99c652a1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Musgood</b> is a vassal house from <a data-rte-meta="{"type":"internal","text":"the Stormlands","link":"the Stormlands","wasblank":true,"noforce":true,"wikitext":"[[the Stormlands]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/The_Stormlands" title="The Stormlands">the Stormlands</a> that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Baratheon","link":"House Baratheon","wasblank":true,"noforce":true,"wikitext":"[[House Baratheon]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/House_Baratheon" title="House Baratheon">House Baratheon</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Davos Seaworth","link":"Davos Seaworth","wasblank":true,"noforce":true,"wikitext":"[[Davos Seaworth]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos Seaworth</a> reports to <a data-rte-meta="{"type":"internal","text":"Stannis Baratheon","link":"Stannis Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Stannis Baratheon]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> he has managed to secure the support of some noble houses, among them being House Musgood. Stannis derisively retorts that they do not have enough men to raid a pantry.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Breaker of Chains]]\"<\/ref>"}" data-rte-instance="130814-118084940456cca99c652a1" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Musgood has only been mentioned. Jack Musgood was <a data-rte-meta="{"type":"internal","text":"Lord Commander","link":"Lord Commander","wasblank":true,"noforce":true,"wikitext":"[[Lord Commander]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/Lord_Commander" title="Lord Commander">Lord Commander</a> of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a> during the invasion of <a data-rte-meta="{"type":"internal","text":"Raymun Redbeard","link":"Raymun Redbeard","wasblank":true,"noforce":true,"wikitext":"[[Raymun Redbeard]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/Raymun_Redbeard" title="Raymun Redbeard">Raymun Redbeard</a>, <a data-rte-meta="{"type":"internal","text":"King Beyond the Wall","link":"King Beyond the Wall","wasblank":true,"noforce":true,"wikitext":"[[King Beyond the Wall]]"}" data-rte-instance="130814-118084940456cca99c652a1" href="/wiki/King_Beyond_the_Wall" title="King Beyond the Wall" class="mw-redirect">King Beyond the Wall</a>. He didn't notice Raymun's invasion and was known after that as Sleepy Jack. Their sigil is a golden pavillion on blue and a green laurel crown on white, quartered.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-118084940456cca99c652a1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-118084940456cca99c652a1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Storm Houses","placeholder":1,"wikitext":"{{Storm Houses}}"}" data-rte-instance="130814-118084940456cca99c652a1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Musgood,House","placeholder":1,"wikitext":"{{DEFAULTSORT:Musgood,House}}"}" data-rte-instance="130814-118084940456cca99c652a1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House musgood
+|sigil=
+|Motto = 
+|seat=
+|Region the stormlands
+|allegiance=House baratheon}}}
+
+ 
+
+House Musgood is a vassal house from the Stormlands that holds fealty to House Baratheon. History 
+
+ Season 4 
+
+Davos Seaworth reports to Stannis Baratheon he has managed to secure the support of some noble houses, among them being House Musgood. Stannis derisively retorts that they do not have enough men to raid a pantry.\Breaker of Chains\\/ref} data-rte-instance130814-118084940456cca99c652a1 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, House Musgood has only been mentioned. Jack Musgood was Lord Commander of the Night's Watch during the invasion of Raymun Redbeard, King Beyond the Wall. He didn't notice Raymun's invasion and was known after that as Sleepy Jack. Their sigil is a golden pavillion on blue and a green laurel crown on white, quartered. See also References 
+
+  Loading editor

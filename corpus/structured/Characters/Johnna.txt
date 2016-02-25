@@ -1,20 +1,40 @@
-<p data-rte-fromparser="true"><b><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:Heraldry\n","placeholder":1,"wikitext":"{{Template:Heraldry\n|image = Wildling shield icon.png\n|link = Free Folk}}"}" data-rte-instance="130814-104755666056cca6e697bdc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /></b>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Character\n","placeholder":1,"wikitext":"{{Template:Character\n|Title = Johnna\n|Season = [[Season 5|5]]\n|First = \"[[Hardhome (episode)|Hardhome]]\"\n|Appearances = 2 episodes <small>([[#Appearances|see below]])<\/small>\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[Free Folk]]\n| Family={[[Karsi]]} - mother<br>\n[[Johnna's sister|Unnamed sister]]\n|Culture = [[Free Folk]]\n| Religion=[[Old Gods of the Forest]]\n|Actor = [[Ali Lyons]]\n|Aka = \n|Image = 5x08 Johnna.jpg}}"}" data-rte-instance="130814-104755666056cca6e697bdc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Johnna</b> is a character in <a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/Season_5" title="Season 5">Season 5</a>. She is a wildling who resides at <a data-rte-meta="{"type":"internal","text":"Hardhome","link":"Hardhome","wasblank":true,"noforce":true,"wikitext":"[[Hardhome]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/Hardhome" title="Hardhome">Hardhome</a>.  
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Johnna resides in Hardhome with her <a data-rte-meta="{"type":"internal","text":"mother","link":"Karsi","wasblank":false,"noforce":true,"wikitext":"[[Karsi|mother]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/Karsi" title="Karsi">mother</a> and <a data-rte-meta="{"type":"internal","text":"sister","link":"Johnna's sister","wasblank":false,"noforce":true,"wikitext":"[[Johnna's sister|sister]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/Johnna's_sister" title="Johnna's sister">sister</a>. 
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">Johnna and her sister are evacuated from Hardhome after Karsi agrees to <a data-rte-meta="{"type":"internal","text":"Tormund","link":"Tormund","wasblank":true,"noforce":true,"wikitext":"[[Tormund]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/Tormund" title="Tormund">Tormund</a> and <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>'s plan to resettle the wildlings in <a data-rte-meta="{"type":"internal","text":"The Gift","link":"The Gift","wasblank":true,"noforce":true,"wikitext":"[[The Gift]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/The_Gift" title="The Gift">The Gift</a>, in exchange for military support when the <a data-rte-meta="{"type":"internal","text":"White Walkers","link":"White Walkers","wasblank":true,"noforce":true,"wikitext":"[[White Walkers]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/White_Walkers" title="White Walkers">White Walkers</a> finally assail <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/The_Wall" title="The Wall">the Wall</a>. As she loads them into a boat, Johnna and her sister ask Karsi if she'll go with them, to which their mother replies that she'll follow shortly. Karsi is killed shortly thereafter in the <a data-rte-meta="{"type":"internal","text":"Massacre at Hardhome","link":"Massacre at Hardhome","wasblank":true,"noforce":true,"wikitext":"[[Massacre at Hardhome]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/Massacre_at_Hardhome" title="Massacre at Hardhome">Massacre at Hardhome</a>, but her daughters at that point have reached the safety of the Night's Watch ships.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Johnna and her sister later march with Tormund and Jon at the each of the Wildling host when they arrive at <a data-rte-meta="{"type":"internal","text":"Castle Black","link":"Castle Black","wasblank":true,"noforce":true,"wikitext":"[[Castle Black]]"}" data-rte-instance="130814-104755666056cca6e697bdc" href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Dance of Dragons]]\"<\/ref>"}" data-rte-instance="130814-104755666056cca6e697bdc" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Five Appearances","placeholder":1,"wikitext":"{{Template:Season Five Appearances||||||||yes|yes}}"}" data-rte-instance="130814-104755666056cca6e697bdc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true"><br />
-</p>
-<h2 data-rte-empty-lines-before="2">References</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-104755666056cca6e697bdc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Johnna
+|Season = 5
+|first=\hardhome\
+|appearances=2 episodes (see below)\/small
+|Status = Alive
+|Allegiance = Free Folk
+| Family=Karsi - mother
+Unnamed sister
+|Culture = Free Folk
+| Religion=Old Gods of the Forest
+|Actor = Ali Lyons
+|Aka = 
+|Image = 5x08 Johnna.jpg}}}
+
+ (see below)\/small
+|Status = Alive
+|Allegiance = Free Folk
+| Family=Karsi - mother 
+
+Unnamed sister
+|Culture = Free Folk
+| Religion=Old Gods of the Forest
+|Actor = Ali Lyons
+|Aka = 
+|Image  5x08 Johnna.jpg}}} data-rte-instance130814-104755666056cca6e697bdc classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Johnna is a character in Season 5. She is a wildling who resides at Hardhome.  Biography 
+
+ Background 
+
+Johnna resides in Hardhome with her mother and sister. Season 5 
+
+Johnna and her sister are evacuated from Hardhome after Karsi agrees to Tormund and Jon Snow's plan to resettle the wildlings in The Gift, in exchange for military support when the White Walkers finally assail the Wall. As she loads them into a boat, Johnna and her sister ask Karsi if she'll go with them, to which their mother replies that she'll follow shortly. Karsi is killed shortly thereafter in the Massacre at Hardhome, but her daughters at that point have reached the safety of the Night's Watch ships. 
+
+Johnna and her sister later march with Tormund and Jon at the each of the Wildling host when they arrive at Castle Black.\The Dance of Dragons\\/ref} data-rte-instance130814-104755666056cca6e697bdc classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ 
+
+ 
+ References 
+
+  Loading editor

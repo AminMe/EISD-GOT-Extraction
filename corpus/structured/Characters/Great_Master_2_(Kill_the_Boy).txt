@@ -1,20 +1,29 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:Heraldry\n","placeholder":1,"wikitext":"{{Template:Heraldry\n|image = Mini harpy.png\n|link = Great Masters}}"}" data-rte-instance="130814-89304925756cca7faccdb8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Great Master\n| Image = \n| Season = [[Season 5|5]]\n| First=\n| Last=\n| Appearances=\"[[Kill the Boy]]\"\n| Status= [[:Category:Status: Alive|Alive]]\n| Titles=\n| Aka=\n| Place = [[Meereen]]\n| Family =\n| Allegiance =[[Great Masters]]\n| Actor =[[Bobby Asghar]]|Culture = [[Ghiscari]]}}"}" data-rte-instance="130814-89304925756cca7faccdb8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Great Master</b> is a character appearing <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Season_5" title="Season 5">fifth season</a> episode "<a data-rte-meta="{"type":"internal","text":"Kill the Boy","link":"Kill the Boy","wasblank":true,"noforce":true,"wikitext":"[[Kill the Boy]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a>". He is played by <a data-rte-meta="{"type":"internal","text":"Bobby Asghar","link":"Bobby Asghar","wasblank":true,"noforce":true,"wikitext":"[[Bobby Asghar]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Bobby_Asghar" title="Bobby Asghar">Bobby Asghar</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">He is the head of one of the ancient slaving families of <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Meereen" title="Meereen">Meereen</a>.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">After Ser <a data-rte-meta="{"type":"internal","text":"Barristan Selmy","link":"Barristan Selmy","wasblank":true,"noforce":true,"wikitext":"[[Barristan Selmy]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Barristan_Selmy" title="Barristan Selmy">Barristan Selmy</a> is murdered by the <a data-rte-meta="{"type":"internal","text":"Sons of the Harpy","link":"Sons of the Harpy","wasblank":true,"noforce":true,"wikitext":"[[Sons of the Harpy]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Sons_of_the_Harpy" title="Sons of the Harpy">Sons of the Harpy</a>, <a data-rte-meta="{"type":"internal","text":"Daenerys","link":"Daenerys","wasblank":true,"noforce":true,"wikitext":"[[Daenerys]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Daenerys" title="Daenerys" class="mw-redirect">Daenerys</a> has the heads of the great families of Meereen arrested. She forces them into the catacombs were <a data-rte-meta="{"type":"internal","text":"Viserion","link":"Viserion","wasblank":true,"noforce":true,"wikitext":"[[Viserion]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Viserion" title="Viserion">Viserion</a> and <a data-rte-meta="{"type":"internal","text":"Rhaegal","link":"Rhaegal","wasblank":true,"noforce":true,"wikitext":"[[Rhaegal]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Rhaegal" title="Rhaegal">Rhaegal</a> are kept and then has the two <a data-rte-meta="{"type":"internal","text":"dragons","link":"dragons","wasblank":true,"noforce":true,"wikitext":"[[dragons]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Dragons" title="Dragons">dragons</a> kill and devour <a data-rte-meta="{"type":"internal","text":"one of the prisoners","link":"Great Master 1 (Kill the Boy)","wasblank":false,"noforce":true,"wikitext":"[[Great Master 1 (Kill the Boy)|one of the prisoners]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/Great_Master_1_(Kill_the_Boy)" title="Great Master 1 (Kill the Boy)">one of the prisoners</a> while the others watch in horror.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Kill the Boy]]\"<\/ref>"}" data-rte-instance="130814-89304925756cca7faccdb8" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances|5=yes}}"}" data-rte-instance="130814-89304925756cca7faccdb8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-89304925756cca7faccdb8" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Daenerys never has the heads of the ancient slaving families of Meereen arrested after the attacks of the Sons of the Harpy. Instead she has these families deliver a child as hostage.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-89304925756cca7faccdb8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Great master
+| image=
+| season=5
+| first=
+| last=
+| appearances=\Kill the boy\
+| status=alive
+| titles=
+| aka=
+| place=Meereen
+| family=
+| allegiance=Great masters
+| actorBobby asghar|cultureGhiscari}}}
+
+ 
+
+A Great Master is a character appearing fifth season episode Kill the Boy. He is played by Bobby Asghar. Biography 
+
+ Background 
+
+He is the head of one of the ancient slaving families of Meereen. Season 5 
+
+After Ser Barristan Selmy is murdered by the Sons of the Harpy, Daenerys has the heads of the great families of Meereen arrested. She forces them into the catacombs were Viserion and Rhaegal are kept and then has the two dragons kill and devour one of the prisoners while the others watch in horror.\Kill the Boy\\/ref} data-rte-instance130814-89304925756cca7faccdb8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Daenerys never has the heads of the ancient slaving families of Meereen arrested after the attacks of the Sons of the Harpy. Instead she has these families deliver a child as hostage. References 
+
+  Loading editor

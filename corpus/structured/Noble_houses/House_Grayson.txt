@@ -1,18 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=House Grayson\n| Image=\n| Sigil= \n| Words=\n| Titles=\n| Seat=\n| Region=[[The North]]\n| Lord=Extinct\n| Heir=Extinct\n| Allegiance=[[House Stark]]\n| Vassals=\n| Religion=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-51844032656cca98825058" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Grayson</b> is an extinct vassal house from <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/The_North" title="The North">the North</a> of <a data-rte-meta="{"type":"internal","text":"Westeros","link":"Westeros","wasblank":true,"noforce":true,"wikitext":"[[Westeros]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/Westeros" title="Westeros">Westeros</a>, holding allegiance to <a data-rte-meta="{"type":"internal","text":"House Stark","link":"House Stark","wasblank":true,"noforce":true,"wikitext":"[[House Stark]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/House_Stark" title="House Stark">House Stark</a> of <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/Winterfell" title="Winterfell">Winterfell</a>. They are mentioned briefly in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones: A Telltale Games Series","link":"Game of Thrones: A Telltale Games Series","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones: A Telltale Games Series]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series" title="Game of Thrones: A Telltale Games Series">Game of Thrones: A Telltale Games Series</a></i>, to which they are unique.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">The Graysons were loyal Stark bannermen, and prominent allies of <a data-rte-meta="{"type":"internal","text":"House Forrester","link":"House Forrester","wasblank":true,"noforce":true,"wikitext":"[[House Forrester]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/House_Forrester" title="House Forrester">House Forrester</a> of <a data-rte-meta="{"type":"internal","text":"Ironrath","link":"Ironrath","wasblank":true,"noforce":true,"wikitext":"[[Ironrath]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/Ironrath" title="Ironrath">Ironrath</a>. They fought alongside the Forresters for <a data-rte-meta="{"type":"internal","text":"Robb Stark","link":"Robb Stark","wasblank":true,"noforce":true,"wikitext":"[[Robb Stark]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a> in the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a>.
-</p>
-<h3>"<a data-rte-meta="{"type":"internal","text":"The Lost Lords","link":"The Lost Lords","wasblank":true,"noforce":true,"wikitext":"[[The Lost Lords]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/The_Lost_Lords" title="The Lost Lords">The Lost Lords</a>"</h3>
-<p data-rte-fromparser="true">During a meeting of Ironrath's small council, <a data-rte-meta="{"type":"internal","text":"Lord Rodrik Forrester","link":"Rodrik Forrester","wasblank":false,"noforce":true,"wikitext":"[[Rodrik Forrester|Lord Rodrik Forrester]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/Rodrik_Forrester" title="Rodrik Forrester">Lord Rodrik Forrester</a> may ask about the state of House Forrester's allies. <a data-rte-meta="{"type":"internal","text":"Duncan Tuttle","link":"Duncan Tuttle","wasblank":true,"noforce":true,"wikitext":"[[Duncan Tuttle]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/Duncan_Tuttle" title="Duncan Tuttle">Duncan Tuttle</a> responds that House Grayson, along with Houses <a data-rte-meta="{"type":"internal","text":"Elliver","link":"House Elliver","wasblank":false,"noforce":true,"wikitext":"[[House Elliver|Elliver]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/House_Elliver" title="House Elliver">Elliver</a> and <a data-rte-meta="{"type":"internal","text":"Brownbarrow","link":"House Brownbarrow","wasblank":false,"noforce":true,"wikitext":"[[House Brownbarrow|Brownbarrow]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/House_Brownbarrow" title="House Brownbarrow">Brownbarrow</a>, were wiped out at the <a data-rte-meta="{"type":"internal","text":"Red Wedding","link":"Red Wedding","wasblank":true,"noforce":true,"wikitext":"[[Red Wedding]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/Red_Wedding" title="Red Wedding">Red Wedding</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">Unlike the Forresters and <a data-rte-meta="{"type":"internal","text":"Whitehills","link":"House Whitehill","wasblank":false,"noforce":true,"wikitext":"[[House Whitehill|Whitehills]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/House_Whitehill" title="House Whitehill">Whitehills</a>, House Grayson seems to be purely an invention of Telltale, much like Houses <a data-rte-meta="{"type":"internal","text":"Branfield","link":"House Branfield","wasblank":false,"noforce":true,"wikitext":"[[House Branfield|Branfield]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/House_Branfield" title="House Branfield">Branfield</a> and <a data-rte-meta="{"type":"internal","text":"Glenmore","link":"House Glenmore","wasblank":false,"noforce":true,"wikitext":"[[House Glenmore|Glenmore]]"}" data-rte-instance="130814-51844032656cca98825058" href="/wiki/House_Glenmore" title="House Glenmore">Glenmore</a>. The same is true for their allies, Houses Elliver and Brownbarrow.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-51844032656cca98825058" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"North Houses","placeholder":1,"wikitext":"{{North Houses}}"}" data-rte-instance="130814-51844032656cca98825058" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House grayson
+| image=
+| sigil=
+| words=
+| titles=
+| seat=
+| region=The north
+| lord=Extinct
+| heir=Extinct
+| allegiance=House stark
+| vassals=
+| religion=
+| age=
+| founder=
+}}}
+
+ House Grayson is an extinct vassal house from the North of Westeros, holding allegiance to House Stark of Winterfell. They are mentioned briefly in Game of Thrones: A Telltale Games Series, to which they are unique. History 
+
+ Background 
+
+The Graysons were loyal Stark bannermen, and prominent allies of House Forrester of Ironrath. They fought alongside the Forresters for Robb Stark in the War of the Five Kings. The Lost Lords 
+
+During a meeting of Ironrath's small council, Lord Rodrik Forrester may ask about the state of House Forrester's allies. Duncan Tuttle responds that House Grayson, along with Houses Elliver and Brownbarrow, were wiped out at the Red Wedding. In the books 
+
+Unlike the Forresters and Whitehills, House Grayson seems to be purely an invention of Telltale, much like Houses Branfield and Glenmore. The same is true for their allies, Houses Elliver and Brownbarrow. References 
+
+  Loading editor

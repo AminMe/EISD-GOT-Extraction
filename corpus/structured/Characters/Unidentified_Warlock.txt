@@ -1,21 +1,28 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Unidentified Warlock\n| Image=Unidentified_warlock_S3_Ep1.png\n| Season=[[Season 3|3]]\n| Appearances=\"[[Valar Dohaeris]]\"\n| Mentioned=\n| Aka=\n| Status=[[:Category:Status: Alive|Alive]]\n| Death=\n| Place=[[Qarth]]\n| Allegiance=[[Warlocks]]\n| Family=\n| Actor=[[Lottie Steer]]}}"}" data-rte-instance="130814-164454263056cca664ca1bd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">An <b>"Unidentified Warlock"</b> is an assassin played by <a data-rte-meta="{"type":"internal","text":"Lottie Steer","link":"Lottie Steer","wasblank":true,"noforce":true,"wikitext":"[[Lottie Steer]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/Lottie_Steer" title="Lottie Steer">Lottie Steer</a> first seen in "<a data-rte-meta="{"type":"internal","text":"Valar Dohaeris","link":"Valar Dohaeris","wasblank":true,"noforce":true,"wikitext":"[[Valar Dohaeris]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/Valar_Dohaeris" title="Valar Dohaeris">Valar Dohaeris</a>". Like her cohorts, she displays the blue-stained lips of those who drink <a data-rte-meta="{"type":"internal","text":"Shade of the evening","link":"Shade of the evening","wasblank":true,"noforce":true,"wikitext":"[[Shade of the evening]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/Shade_of_the_evening" title="Shade of the evening">Shade of the evening</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true">This unidentified warlock appears as a young girl and entices <a data-rte-meta="{"type":"internal","text":"Daenerys","link":"Daenerys Targaryen","wasblank":false,"noforce":true,"wikitext":"[[Daenerys Targaryen|Daenerys]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys</a> to play while in <a data-rte-meta="{"type":"internal","text":"Astapor","link":"Astapor","wasblank":true,"noforce":true,"wikitext":"[[Astapor]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/Astapor" title="Astapor">Astapor</a>. The ball she rolls to Dany actually contains a <a data-rte-meta="{"type":"internal","text":"manticore","link":"Manticores","wasblank":false,"noforce":true,"wikitext":"[[Manticores|manticore]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/Manticores" title="Manticores">manticore</a>. Before the manticore can strike, Ser <a data-rte-meta="{"type":"internal","text":"Barristan Selmy","link":"Barristan Selmy","wasblank":true,"noforce":true,"wikitext":"[[Barristan Selmy]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/Barristan_Selmy" title="Barristan Selmy">Barristan Selmy</a> stabs it in the back with a dagger and kills the creature. The assassin runs and jumps off the dock - only to then magically appear in the distance. The warlock escapes uninjured.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Valar Dohaeris]]\"<\/ref>"}" data-rte-instance="130814-164454263056cca664ca1bd" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Three Appearances","placeholder":1,"wikitext":"{{Season Three Appearances|yes}}"}" data-rte-instance="130814-164454263056cca664ca1bd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Daenerys is the target of an assassination attempt before abandoning <a data-rte-meta="{"type":"internal","text":"Qarth","link":"Qarth","wasblank":true,"noforce":true,"wikitext":"[[Qarth]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/Qarth" title="Qarth">Qarth</a>, and is saved by Barristan Selmy, though he is under the assumed identity of "Arstan Whitebeard" at the time. In the books, this occurred on the docks of Qarth as she was leaving, but the TV series moved it forward slightly to occur in Astapor, soon after Dany arrives from Qarth. In the books, the would-be assassin is not a Warlock but a Sorrowful Man, an ancient guild of assassins in Qarth known for whispering "I am so sorry" to their victims before killing them. It is not known who orders the attempt on Dany's life, as several Qartheen factions have called for her death by this time in the narrative, though the Warlocks have a special interest in Daenerys' death after her dragons kill their leaders, the Undying Ones, when she tries to leave from the <a data-rte-meta="{"type":"internal","text":"House of the Undying","link":"House of the Undying","wasblank":true,"noforce":true,"wikitext":"[[House of the Undying]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="/wiki/House_of_the_Undying" title="House of the Undying">House of the Undying</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Sorrowful Men}}"}" data-rte-instance="130814-164454263056cca664ca1bd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-164454263056cca664ca1bd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u043a\u043e\u043b\u0434\u0443\u043d","link":"ru:\u041d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u043a\u043e\u043b\u0434\u0443\u043d","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041d\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043d\u044b\u0439 \u043a\u043e\u043b\u0434\u0443\u043d]]"}" data-rte-instance="130814-164454263056cca664ca1bd" href="http://ru.gameofthrones.wikia.com/wiki/Неизвестный_колдун" class="extiw" title="ru:Неизвестный колдун">ru:Неизвестный колдун</a>
-</p>
-   Loading editor
+title=Unidentified warlock
+| image=Unidentified_warlock_S3_Ep1.png
+| season=3
+| appearances=\Valar dohaeris\
+| mentioned=
+| aka=
+| status=alive
+| death=
+| place=Qarth
+| allegiance=Warlocks
+| family=
+| actor=Lottie steer}}}
+
+ 
+
+An Unidentified Warlock is an assassin played by Lottie Steer first seen in Valar Dohaeris. Like her cohorts, she displays the blue-stained lips of those who drink Shade of the evening. Biography 
+
+ Season 3 
+
+This unidentified warlock appears as a young girl and entices Daenerys to play while in Astapor. The ball she rolls to Dany actually contains a manticore. Before the manticore can strike, Ser Barristan Selmy stabs it in the back with a dagger and kills the creature. The assassin runs and jumps off the dock - only to then magically appear in the distance. The warlock escapes uninjured.\Valar Dohaeris\\/ref} data-rte-instance130814-164454263056cca664ca1bd classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Daenerys is the target of an assassination attempt before abandoning Qarth, and is saved by Barristan Selmy, though he is under the assumed identity of Arstan Whitebeard at the time. In the books, this occurred on the docks of Qarth as she was leaving, but the TV series moved it forward slightly to occur in Astapor, soon after Dany arrives from Qarth. In the books, the would-be assassin is not a Warlock but a Sorrowful Man, an ancient guild of assassins in Qarth known for whispering I am so sorry to their victims before killing them. It is not known who orders the attempt on Dany's life, as several Qartheen factions have called for her death by this time in the narrative, though the Warlocks have a special interest in Daenerys' death after her dragons kill their leaders, the Undying Ones, when she tries to leave from the House of the Undying. See also References 
+
+ 
+
+ru:Неизвестный колдун  Loading editor

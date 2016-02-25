@@ -5,79 +5,79 @@
 {{Settlement
 | Title=Meereen
 | Image=Meereen.png
-| Location=[[Slaver's Bay]], [[Essos]]
+| Location=Slaver's Bay, Essos
 | Type=Mercantile city-state
-| Population=[[Ghiscari]]
-| Rulers=[[House Targaryen]]<br>The [[Great Masters]] (deposed)
-| Religion=[[Ghiscari religion]]
+| Population=Ghiscari
+| Rulers=House TargaryenThe Great Masters (deposed)
+| Religion=Ghiscari religion
 | Military=Meereenese City Guard
 | Institutions=
-| Places=[[Great Pyramid]]<br>[[Temple of the Graces]]
+| Places=Great PyramidTemple of the Graces
 | Founding=
 | Age=
-| Founder=[[Ghiscari Empire]]}}{{Quote|A grand old city...choking of violence, corruption, and deceit.|Varys |Mother's Mercy}}[[Image:Meereen map.png|thumb|right|A map showing the location of Meereen on the continent of Essos.]]
-'''Meereen''' is the northernmost and greatest of the three great city-states of [[Slaver's Bay]], north of [[Yunkai]] and [[Astapor]]. It is located at the mouth of the [[Skahazadhan]] River, which flows from its origins in [[Lhazar]] through the mountains separating Meereen and the rest of Slaver's Bay from the [[Red Waste]]. The [[Dothraki Sea]] lies to the north, beyond the river. The wealthiest residents live in pyramids.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/locations/meereen/ HBO viewers guide, season 2 map, Meereen entry]</ref>
+| Founder=Ghiscari Empire}}Quote|A grand old city...choking of violence, corruption, and deceit.|Varys |Mother's Mercythumb|right|A map showing the location of Meereen on the continent of Essos.
+Meereen is the northernmost and greatest of the three great city-states of Slaver's Bay, north of Yunkai and Astapor. It is located at the mouth of the Skahazadhan River, which flows from its origins in Lhazar through the mountains separating Meereen and the rest of Slaver's Bay from the Red Waste. The Dothraki Sea lies to the north, beyond the river. The wealthiest residents live in pyramids.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/locations/meereen/ HBO viewers guide, season 2 map, Meereen entry
 
-People and things from Meereen are known as "Meereenese".<ref>"[[Breaker of Chains]]"</ref>
+People and things from Meereen are known as Meereenese.Breaker of Chains
 
-==Notable Meereenese and residents==
-* {[[Hizdahr zo Loraq]]}, a scion of the [[House of Loraq]] and one of the [[Great Masters]]. Stabbed repeatedly by members of the [[Sons of the Harpy]] during their attack on [[Daznak's Pit]].
-* {[[Oznak zo Pahl]]}, a scion of the [[House of Pahl]]. Beheaded in duel by [[Daario Naharis]].
+Notable Meereenese and residents
+* Hizdahr zo Loraq, a scion of the House of Loraq and one of the Great Masters. Stabbed repeatedly by members of the Sons of the Harpy during their attack on Daznak's Pit.
+* Oznak zo Pahl, a scion of the House of Pahl. Beheaded in duel by Daario Naharis.
 
-==History==
-===Background===
-Like the other major cities of [[Slaver's Bay]], Meereen was founded as a colony of the old [[Ghiscari Empire]], which was later conquered by the [[Valyrian Freehold]] when it destroyed the Ghiscari Empire 5,000 years ago. Similarly to the [[Free Cities]] to the west, after the [[Doom of Valyria]] (four hundred years before the [[War of the Five Kings]]) the local slaver-cities reasserted their independence.<ref>"[[The Unsullied (Histories & Lore)]]"</ref>
+History
+Background
+Like the other major cities of Slaver's Bay, Meereen was founded as a colony of the old Ghiscari Empire, which was later conquered by the Valyrian Freehold when it destroyed the Ghiscari Empire 5,000 years ago. Similarly to the Free Cities to the west, after the Doom of Valyria (four hundred years before the War of the Five Kings) the local slaver-cities reasserted their independence.The Unsullied (Histories &amp; Lore)
 
-Meereen is by far the largest of the now-independent city states, bigger than Astapor or Yunkai.<ref>"[[Breaker of Chains]]"</ref> At the time that Daenerys Targaryen arrives at the city, there are about three slaves in the city for each free man.<ref>"[[Oathkeeper]]"</ref>
+Meereen is by far the largest of the now-independent city states, bigger than Astapor or Yunkai.Breaker of Chains At the time that Daenerys Targaryen arrives at the city, there are about three slaves in the city for each free man.Oathkeeper
 
-===[[Season 2]]===
+Season 2
 
-While Ser [[Davos Seaworth]] tries to convince the pirate-lord [[Salladhor Saan]] to take a contract for his fleet of thirty ships to supplement the faction of [[Stannis Baratheon]], Davos mentions that he could instead spend the rest of his career making easy but small raids on the ships of "Pentoshi cheese-mongers" and "Meereenese silk merchants." 
+While Ser Davos Seaworth tries to convince the pirate-lord Salladhor Saan to take a contract for his fleet of thirty ships to supplement the faction of Stannis Baratheon,&nbsp;Davos&nbsp;mentions that he could instead&nbsp;spend the rest of his career making easy but small raids on the ships of Pentoshi cheese-mongers and Meereenese silk merchants.&nbsp;
 
-A noblewoman attending [[Xaro Xhoan Daxos]]'s party tells [[Daenerys Targaryen|Daenerys]] that [[Qarth]]'s night market is superior to that of Meereen.<ref>[[The Ghost of Harrenhal]]</ref>
+A noblewoman attending Xaro Xhoan Daxos's party tells Daenerys that Qarth's night market is superior to that of Meereen.The Ghost of Harrenhal
 
-===[[Season 4]]===
+Season 4
 
-Following the [[Liberation of Slaver's Bay|liberation]] of the slave population of [[Yunkai]], [[Daenerys Targaryen]] and her army march towards Meereen. As a warning, the [[Great Masters]] crucify 163 slave children along the road towards the city.<ref>"[[Two Swords]]"</ref> However, she marches on and arrives at the gates, so the Great Masters send forth a champion to challenge her best fighter into single combat. Daario Naharis swiftly dispatches with the champion and Daenerys flungs the broken slave-collars from the slaves she has freed at [[Astapor]] and [[Yunkai]] over the city-walls as a message to the slaves therein.<ref>"[[Breaker of Chains]]"</ref> D​uring the night, the Unsullied commander [[Grey Worm]] sneaks into Meereen through the sewers, disguised as a slave, to arm the slaves and incite them to revolt against their Masters. In the following revolt many Masters are mobbed in the streets and the victorious slaves [[Siege of Meereen|open the gates for Daenerys]]. Her first act is retribution for the dead slave-children: 163 Great Masters are crucified along the streets of Meereen, while Daenerys takes residence in the Great Pyramid.<ref>"[[Oathkeeper]]"</ref>
+Following the liberation of the slave population of Yunkai, Daenerys Targaryen and her army march towards Meereen. As a warning, the Great Masters crucify 163 slave children along the road towards the city.Two Swords However, she marches on and arrives at the gates, so the Great Masters send forth a champion to challenge her best fighter into single combat. Daario Naharis swiftly dispatches with the champion and Daenerys flungs the broken slave-collars from the slaves she has freed at Astapor and Yunkai over the city-walls as a message to the slaves therein.Breaker of Chains&nbsp;D​uring the night, the Unsullied commander Grey Worm&nbsp;sneaks into Meereen through the sewers,&nbsp;disguised as a slave, to arm the slaves and incite them to revolt against their Masters. In the following revolt many Masters are mobbed in the streets and the victorious slaves open the gates for Daenerys. Her first act is retribution for the dead slave-children: 163 Great Masters are crucified along the streets of Meereen, while Daenerys takes residence in the Great Pyramid.Oathkeeper
 
-Although the Second Sons have taken hold of the Meereenese fleet, Daenerys learns that the [[Astapori ruling council|council]] she had left behind to rule Astapor have been overthrown by a self-proclaimed Emperor called [[Cleon]] and that the Wise Masters of Yunkai have returned to power and enslaved all the freedmen in the city. Therefore, instead of marching to [[King's Landing]] in her newly acquired fleet and take the Iron Throne with her army, Daenerys decides to remain in Meereen to rule over Slaver's Bay and enforce her abolition of slavery.<ref>"[[First of His Name]]"</ref> In order to accomplish this, she sends [[Hizdahr zo Loraq]], a Great Master at her service, to Yunkai to negotiate with the Wise Masters: if they do not comply with her demands of abandoning slavery once and for all, Daario will send in his Second Sons and execute them all.<ref>"[[Mockingbird]]"</ref>
+Although the Second Sons have taken hold of the Meereenese fleet,&nbsp;Daenerys learns that the council she had left behind to rule Astapor have been overthrown by a self-proclaimed Emperor&nbsp;called Cleon&nbsp;and that the Wise Masters of Yunkai have returned to power and enslaved all the freedmen in the city. Therefore, instead&nbsp;of marching to King's Landing in her newly acquired fleet and&nbsp;take the Iron Throne with her army,&nbsp;Daenerys decides to remain in Meereen&nbsp;to rule over Slaver's Bay and enforce her abolition of slavery.First of His Name&nbsp;In order to accomplish this, she&nbsp;sends&nbsp;Hizdahr zo Loraq, a Great Master at her service,&nbsp;to Yunkai&nbsp;to negotiate with the Wise Masters: if they do not comply with her demands of abandoning slavery once and for all, Daario will send in his Second Sons and execute them all.Mockingbird
 
-Daenerys's hold over Meereen is weakened after three great subsequent losses for her cause. Firstly, after [[Tywin Lannister]] uncovers her adviser [[Jorah Mormont]] as a former spy for King's Landing<ref>"[[The Laws of Gods and Men]]"</ref>, she is forced to exile him.<ref>"[[The Mountain and the Viper]]"</ref> Secondly, having been shown that her abolition of slavery has left many former servants in an even more precarious position, she begrudgingly accepts the creation of one-year contracts, effectively reintroducing slavery in all but name and giving some power back to the Great Masters. Lastly, when her dragon [[Drogon]] kills the [[Zalla|daughter]] of a [[Goatherd (The Children)|local goatherd]] and then disappeares, she decides to lock up her remaining two dragons in the catacombs.<ref>"[[The Children]]"</ref>
+Daenerys's hold over Meereen is weakened after three great subsequent losses for her cause. Firstly, after Tywin Lannister uncovers her adviser Jorah Mormont&nbsp;as a former spy for King's LandingThe Laws of Gods and Men, she is forced to exile him.The Mountain and the Viper&nbsp;Secondly, having been shown that her abolition of slavery has left many former servants in an even more precarious position, she begrudgingly accepts the creation of one-year contracts, effectively reintroducing slavery in all but name and giving some power back to the Great Masters. Lastly, when her dragon Drogon&nbsp;kills the daughter of a local goatherd and then disappeares, she decides to lock up her remaining two dragons in the catacombs.The Children
 
-===[[Season 5]]===
+Season 5
 
-A resistance movement against Daenerys's rule called the [[Sons of the Harpy]] rises and starts harassing the Unsullied, eventually resorting to murder and even hiring local prostitutes to aid them. Though the Wise Masters of Yunkai have surrendered to Daenerys, they are now requesting the re-opening of the fighting pits, but Daenerys refuses.<ref>"[[The Wars to Come]]"</ref> 
+A resistance movement against Daenerys's rule called the Sons of the Harpy rises and starts harassing the Unsullied, eventually resorting to murder and even hiring local prostitutes to aid them. Though the Wise Masters of Yunkai have surrendered to Daenerys, they are now requesting the re-opening of the fighting pits, but Daenerys refuses.The Wars to Come 
 
-However, when a particular attack ends with the murder of Ser [[Barristan Selmy]] and the near-death of Grey Worm, Daenerys consents and decides to marry Hizdahr and re-open the fighting pits for free men, concluding that it may be better to forge an alliance with the Great Masters rather than continue to deny their way of life.<ref>"[[Kill the Boy]]"</ref> During the opening ceremony of the fighting games, Daenerys is accosted by Jorah Mormont, who has brought [[Tyrion Lannister]] to her.<ref>"[[The Gift (episode)]]"</ref>
+However, when a particular attack ends with the murder of Ser Barristan Selmy and the near-death of Grey Worm, Daenerys consents and decides to marry Hizdahr and re-open the fighting pits for free men, concluding that it may be better to forge an alliance with the Great Masters rather than continue to deny their way of life.Kill the Boy During the opening ceremony of the fighting games, Daenerys is accosted by Jorah Mormont, who has brought Tyrion Lannister to her.The Gift (episode)
 
-==Image Gallery==
-<gallery>
-Mereen-title-sequance.jpg|Meereen as it appears in the [[Title sequence]].
+Image Gallery
+
+Mereen-title-sequance.jpg|Meereen as it appears in the Title sequence.
 Siege of Meereen.png|The Targaryen banner triumphantly crowns the Great Pyramid of Meereen.
 163 slavers.png|Meereen and the Great Pyramid
 meereen.jpg|The Great Pyramid overlooking the city
 Great_pyramid_season_5.jpg|The Great Harpy statue is brought down from the Great Pyramid.
 Meereen Daznak's Pit 5x09.jpg|The fighting pit of Meereen.
-</gallery>
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, Meereen is the largest city on Slaver's Bay, bigger than Yunkai and Astapor combined. It is located at least 163 miles north-east of Yunkai. It is the center and lynchpin of the world's slave trade, and a regular stop on the routes from the [[Free Cities]] to the [[Jade Sea]]. When the [[Dothraki]] raid Lhazar, they sometimes herd their prisoners downriver to be taken as slaves in Meereen. Sandstone mountains separate Lhazar from Meereen's hinterland, but the two are linked by the Khazai Pass, through which the Skahazadhan flows.
 
-The city is built with multi-colored bricks and is surrounded by tall, solid walls with towers at every corner. The north wall runs along the Skahazadhan, while the west wall runs along the bay. The city has a large harbor located outside the main walls. Its sewers open directly into the bay. The noble families of Meereen live in large stepped pyramids, with the most powerful, the Great Masters, living on the Great Pyramid. The Great Pyramid rears 800 feet above the rest of the city and is one of the tallest structures in the world (along with the High Tower of [[Oldtown]] and [[the Wall]]).
+In the books
+In the A Song of Ice and Fire novels, Meereen is the largest city on Slaver's Bay, bigger than Yunkai and Astapor combined. It is located at least 163 miles north-east of Yunkai. It is the center and lynchpin of the world's slave trade, and a regular stop on the routes from the Free Cities to the Jade Sea. When the Dothraki raid Lhazar, they sometimes herd their prisoners downriver to be taken as slaves in Meereen. Sandstone mountains separate Lhazar from Meereen's hinterland, but the two are linked by the Khazai Pass, through which the Skahazadhan flows.
+
+The city is built with multi-colored bricks and is surrounded by tall, solid walls with towers at every corner. The north wall runs along the Skahazadhan, while the west wall runs along the bay. The city has a large harbor located outside the main walls. Its sewers open directly into the bay. The noble families of Meereen live in large stepped pyramids, with the most powerful, the Great Masters, living on the Great Pyramid. The Great Pyramid rears 800 feet above the rest of the city and is one of the tallest structures in the world (along with the High Tower of Oldtown and the Wall).
 
 The city's priestesses are called Graces, and are based at the Temple of the Graces to the west of the Great Pyramid.
 
-==See also==
-* {{AWOIAF}} (MAJOR spoilers from the books)
+See also
+* AWOIAF (MAJOR spoilers from the books)
 
-==References==
-{{reflist}}
-{{Regions of the Known World}}
-{{SlaversBay}}
+References
+reflist
+Regions of the Known World
+SlaversBay
 
-[[de:Meereen]]
-[[es:Meereen]]
-[[it:Meereen]]
-[[pl:Meereen]]
-[[ru:Миэрин]]
-[[zh:弥林]]
+de:Meereen
+es:Meereen
+it:Meereen
+pl:Meereen
+ru:Миэрин
+zh:弥林

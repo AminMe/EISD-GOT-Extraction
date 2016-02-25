@@ -1,10 +1,19 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title = House Warrick\n| Image = \n| Sigil = \n| Words = \n| Titles = \n| Seat = \n| Region = [[The North]]\n| Lord = \n| Heir = \n| Allegiance = [[House Whitehill]]\n| Religion = [[Faith of the Seven]]\n| Founder = \n| ImageSize =}}"}" data-rte-instance="130814-195797570856cca98239211" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Warrick</b> is a noble house from <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-195797570856cca98239211" href="/wiki/The_North" title="The North">the North</a> of <a data-rte-meta="{"type":"internal","text":"Westeros","link":"Westeros","wasblank":true,"noforce":true,"wikitext":"[[Westeros]]"}" data-rte-instance="130814-195797570856cca98239211" href="/wiki/Westeros" title="Westeros">Westeros</a>, appearing in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones: A Telltale Games Series","link":"Game of Thrones: A Telltale Games Series","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones: A Telltale Games Series]]"}" data-rte-instance="130814-195797570856cca98239211" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series" title="Game of Thrones: A Telltale Games Series">Game of Thrones: A Telltale Games Series</a></i>. They hold fealty to <a data-rte-meta="{"type":"internal","text":"House Whitehill","link":"House Whitehill","wasblank":true,"noforce":true,"wikitext":"[[House Whitehill]]"}" data-rte-instance="130814-195797570856cca98239211" href="/wiki/House_Whitehill" title="House Whitehill">House Whitehill</a> of <a data-rte-meta="{"type":"internal","text":"Highpoint","link":"Highpoint","wasblank":true,"noforce":true,"wikitext":"[[Highpoint]]"}" data-rte-instance="130814-195797570856cca98239211" href="/wiki/Highpoint" title="Highpoint">Highpoint</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<ul data-rte-empty-lines-before="1"><li data-rte-spaces-before="1">{<a data-rte-meta="{"type":"internal","text":"Britt Warrick","link":"Britt Warrick","wasblank":true,"noforce":true,"wikitext":"[[Britt Warrick]]"}" data-rte-instance="130814-195797570856cca98239211" href="/wiki/Britt_Warrick" title="Britt Warrick">Britt Warrick</a>}, a man-at-arms for <a data-rte-meta="{"type":"internal","text":"House Whitehill","link":"House Whitehill","wasblank":true,"noforce":true,"wikitext":"[[House Whitehill]]"}" data-rte-instance="130814-195797570856cca98239211" href="/wiki/House_Whitehill" title="House Whitehill">House Whitehill</a>. Killed by <a data-rte-meta="{"type":"internal","text":"Gared Tuttle","link":"Gared Tuttle","wasblank":true,"noforce":true,"wikitext":"[[Gared Tuttle]]"}" data-rte-instance="130814-195797570856cca98239211" href="/wiki/Gared_Tuttle" title="Gared Tuttle">Gared Tuttle</a> at <a data-rte-meta="{"type":"internal","text":"The Wall","link":"The Wall","wasblank":true,"noforce":true,"wikitext":"[[The Wall]]"}" data-rte-instance="130814-195797570856cca98239211" href="/wiki/The_Wall" title="The Wall">The Wall</a>. 
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-195797570856cca98239211" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House warrick
+| image=
+| sigil=
+| words=
+| titles=
+| seat=
+| region=The north
+| lord=
+| heir=
+| allegiance=House whitehill
+| religion=Faith of the seven
+| founder=
+| imagesize=}}}
+
+ 
+
+House Warrick is a noble house from the North of Westeros, appearing in Game of Thrones: A Telltale Games Series. They hold fealty to House Whitehill of Highpoint. Members Britt Warrick, a man-at-arms for House Whitehill. Killed by Gared Tuttle at The Wall. References 
+
+  Loading editor

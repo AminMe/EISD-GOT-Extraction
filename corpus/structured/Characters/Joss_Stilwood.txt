@@ -1,28 +1,38 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Clegane-Shield-Icon.PNG\n|link=House Clegane\n}}"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Joss Stilwood\n| Image=Joss.jpg\n| Image size=\n| Season=[[Season 1|1]], [[Season 4|4]]\n| First=\"[[The Wolf and the Lion]]\"\n| Last=\n| Aka=\n| Status= [[:Category:Status: Alive|Alive]]\n| Appearances=2 episodes <small>([[#Appearances|see below]])<\/small>\n| Death=\n| Place=\n| Allegiance=[[House Clegane]]\n| Family=\n| Actor=\n}}"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Sword!|[[Gregor Clegane]] to Joss Stilwood|The Wolf and the Lion}}"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Joss Stilwood</b> is a background character in the <a data-rte-meta="{"type":"internal","text":"first","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Season_1" title="Season 1">first</a> and <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is played by an unidentified extra and appears in "<a data-rte-meta="{"type":"internal","text":"The Wolf and the Lion","link":"The Wolf and the Lion","wasblank":true,"noforce":true,"wikitext":"[[The Wolf and the Lion]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/The_Wolf_and_the_Lion" title="The Wolf and the Lion">The Wolf and the Lion</a>." Joss Stilwood is the squire of Ser <a data-rte-meta="{"type":"internal","text":"Gregor Clegane","link":"Gregor Clegane","wasblank":true,"noforce":true,"wikitext":"[[Gregor Clegane]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Gregor_Clegane" title="Gregor Clegane">Gregor Clegane</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">Joss Stilwood squires for Ser Gregor Clegane, the Mountain, in the <a data-rte-meta="{"type":"internal","text":"Tourney of the Hand","link":"Tourney of the Hand","wasblank":true,"noforce":true,"wikitext":"[[Tourney of the Hand]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Tourney_of_the_Hand" title="Tourney of the Hand" class="mw-redirect">Tourney of the Hand</a>. After Ser Gregor is defeated in a joust by Ser <a data-rte-meta="{"type":"internal","text":"Loras Tyrell","link":"Loras Tyrell","wasblank":true,"noforce":true,"wikitext":"[[Loras Tyrell]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Loras_Tyrell" title="Loras Tyrell">Loras Tyrell</a>, who was riding a mare in heat to upset Ser Gregor's stallion, he orders Joss to bring him his greatsword. Ser Gregor then beheads his horse in anger.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Wolf and the Lion]]\"<\/ref>"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">Joss squires for Gregor when he faces Prince <a data-rte-meta="{"type":"internal","text":"Oberyn Martell","link":"Oberyn Martell","wasblank":true,"noforce":true,"wikitext":"[[Oberyn Martell]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a> in the <a data-rte-meta="{"type":"internal","text":"Second Trial by Combat of Tyrion Lannister","link":"Second Trial by Combat of Tyrion Lannister","wasblank":true,"noforce":true,"wikitext":"[[Second Trial by Combat of Tyrion Lannister]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Second_Trial_by_Combat_of_Tyrion_Lannister" title="Second Trial by Combat of Tyrion Lannister">Second Trial by Combat of Tyrion Lannister</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Mountain and the Viper]]\"<\/ref>"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|5=yes}}"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Four Appearances","placeholder":1,"wikitext":"{{Season Four Appearances|8=yes}}"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Joss Stilwood is the squire of Ser <a data-rte-meta="{"type":"internal","text":"Gregor Clegane","link":"Gregor Clegane","wasblank":true,"noforce":true,"wikitext":"[[Gregor Clegane]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Gregor_Clegane" title="Gregor Clegane">Gregor Clegane</a>. He takes part in the gang rape of Layna the <a data-rte-meta="{"type":"internal","text":"Innkeeper's daughter","link":"Innkeeper's daughter","wasblank":true,"noforce":true,"wikitext":"[[Innkeeper's daughter]]"}" data-rte-instance="130814-55714196256cca6de47f03" href="/wiki/Innkeeper's_daughter" title="Innkeeper's daughter">Innkeeper's daughter</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Clegane navbox","placeholder":1,"wikitext":"{{Clegane navbox}}"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Stilwood, Joss","placeholder":1,"wikitext":"{{DEFAULTSORT:Stilwood, Joss}}"}" data-rte-instance="130814-55714196256cca6de47f03" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Joss stilwood
+| image size=
+| season=1, 4
+| first=\The wolf and the lion\
+| last=
+| aka=
+| status=alive
+| appearances=2 episodes (see below)\/small
+| Death=
+| Place=
+| Allegiance=House Clegane
+| Family=
+| Actor=
+}}}
+
+ (see below)\/small
+| Death=
+| Place=
+| Allegiance=House Clegane
+| Family=
+| Actor=
+}}} data-rte-instance130814-55714196256cca6de47f03 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+
+ 
+
+Joss Stilwood is a background character in the first and fourth season. He is played by an unidentified extra and appears in The Wolf and the Lion. Joss Stilwood is the squire of Ser Gregor Clegane. Biography 
+
+ Season 1 
+
+Joss Stilwood squires for Ser Gregor Clegane, the Mountain, in the Tourney of the Hand. After Ser Gregor is defeated in a joust by Ser Loras Tyrell, who was riding a mare in heat to upset Ser Gregor's stallion, he orders Joss to bring him his greatsword. Ser Gregor then beheads his horse in anger.\The Wolf and the Lion\\/ref} data-rte-instance130814-55714196256cca6de47f03 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 4 
+
+Joss squires for Gregor when he faces Prince Oberyn Martell in the Second Trial by Combat of Tyrion Lannister.\The Mountain and the Viper\\/ref} data-rte-instance130814-55714196256cca6de47f03 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Joss Stilwood is the squire of Ser Gregor Clegane. He takes part in the gang rape of Layna the Innkeeper's daughter. See also (spoilers from the books) References 
+
+  Loading editor

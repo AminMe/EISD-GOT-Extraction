@@ -1,19 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry","placeholder":1,"wikitext":"{{Heraldry|image = House-Hollard-Main-Shield.PNG|link = House Hollard}}"}" data-rte-instance="130814-99205941456cca7c394be0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title= Symon Hollard\n| Season=[[Season 4|4]]\n| First\n| Last\n| Mentioned in=[[Oathkeeper]]\n| Aka= \n| Titles=[[Ser]]\n| Status= [[:Category:Status: Dead|Deceased]]\n| Allegiance=[[House Hollard]]}}"}" data-rte-instance="130814-99205941456cca7c394be0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Symon Hollard</b> is an unseen character in Game of Thrones. He is deceased at the start of the series, and thus not expected to appear. He was a knight of <a data-rte-meta="{"type":"internal","text":"House Hollard","link":"House Hollard","wasblank":true,"noforce":true,"wikitext":"[[House Hollard]]"}" data-rte-instance="130814-99205941456cca7c394be0" href="/wiki/House_Hollard" title="House Hollard">House Hollard</a> and an uncle to <a data-rte-meta="{"type":"internal","text":"Dontos Hollard","link":"Dontos Hollard","wasblank":true,"noforce":true,"wikitext":"[[Dontos Hollard]]"}" data-rte-instance="130814-99205941456cca7c394be0" href="/wiki/Dontos_Hollard" title="Dontos Hollard">Dontos Hollard</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-99205941456cca7c394be0" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">He is mentioned within the entry of Ser <a data-rte-meta="{"type":"internal","text":"Gwayne Gaunt","link":"Gwayne Gaunt","wasblank":true,"noforce":true,"wikitext":"[[Gwayne Gaunt]]"}" data-rte-instance="130814-99205941456cca7c394be0" href="/wiki/Gwayne_Gaunt" title="Gwayne Gaunt">Gwayne Gaunt</a>, as recorded in the <a data-rte-meta="{"type":"internal","text":"Book of Brothers","link":"Book of Brothers","wasblank":true,"noforce":true,"wikitext":"[[Book of Brothers]]"}" data-rte-instance="130814-99205941456cca7c394be0" href="/wiki/Book_of_Brothers" title="Book of Brothers" class="mw-redirect">Book of Brothers</a>. During the <a data-rte-meta="{"type":"internal","text":"Defiance of Duskendale","link":"Defiance of Duskendale","wasblank":true,"noforce":true,"wikitext":"[[Defiance of Duskendale]]"}" data-rte-instance="130814-99205941456cca7c394be0" href="/wiki/Defiance_of_Duskendale" title="Defiance of Duskendale">Defiance of Duskendale</a> he killed Ser Gwayne. For this he was later killed by Ser <a data-rte-meta="{"type":"internal","text":"Barristan Selmy","link":"Barristan Selmy","wasblank":true,"noforce":true,"wikitext":"[[Barristan Selmy]]"}" data-rte-instance="130814-99205941456cca7c394be0" href="/wiki/Barristan_Selmy" title="Barristan Selmy">Barristan Selmy</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-99205941456cca7c394be0" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Symon Hollard was a key accomplice in the Defiance of Duskendale, when Lord Denys Darklyn of Duskendale defied King <a data-rte-meta="{"type":"internal","text":"Aerys II","link":"Aerys II Targaryen","wasblank":false,"noforce":true,"wikitext":"[[Aerys II Targaryen|Aerys II]]"}" data-rte-instance="130814-99205941456cca7c394be0" href="/wiki/Aerys_II_Targaryen" title="Aerys II Targaryen">Aerys II</a> and captured him, imprisoning him within the Dun Fort.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Ser Symon slew Ser Gwayne Gaunt of the Kingsguard during the taking of the King. When Ser Barristan Selmy of the Kingsguard entered the Dun Fort and escaped with the King, he avenged Ser Gwayne by killing Ser Symon.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-99205941456cca7c394be0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-99205941456cca7c394be0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Hollard, Symon","placeholder":1,"wikitext":"{{DEFAULTSORT:Hollard, Symon}}"}" data-rte-instance="130814-99205941456cca7c394be0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Symon hollard
+| season=4
+| first
+| last
+| mentioned in=Oathkeeper
+| aka=
+| titles=Ser
+| status=deceased
+| allegiance=House hollard}}}
+
+ Symon Hollard is an unseen character in Game of Thrones. He is deceased at the start of the series, and thus not expected to appear. He was a knight of House Hollard and an uncle to Dontos Hollard. Biography 
+
+ Season 4 
+
+He is mentioned within the entry of Ser Gwayne Gaunt, as recorded in the Book of Brothers. During the Defiance of Duskendale he killed Ser Gwayne. For this he was later killed by Ser Barristan Selmy. In the books 
+
+In the A Song of Ice and Fire novels, Symon Hollard was a key accomplice in the Defiance of Duskendale, when Lord Denys Darklyn of Duskendale defied King Aerys II and captured him, imprisoning him within the Dun Fort. 
+
+Ser Symon slew Ser Gwayne Gaunt of the Kingsguard during the taking of the King. When Ser Barristan Selmy of the Kingsguard entered the Dun Fort and escaped with the King, he avenged Ser Gwayne by killing Ser Symon. See also References 
+
+  Loading editor

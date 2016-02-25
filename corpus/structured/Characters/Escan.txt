@@ -1,21 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = Night's-Watch-Shield-Icon.PNG\n|link = Night's Watch}}"}" data-rte-instance="130814-67525467356cca7c0ce5a0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title= Escan\n| Image=\n| Season=[[Season 1|1]]\n| Mentioned=\"[[You Win or You Die]]\"\n| Status=[[:Category:Status: Alive|Alive]]\n| Titles=\n| Death=\n| Place=\n| Allegiance=The [[Night's Watch]]\n| Family= \n| Actor=}}"}" data-rte-instance="130814-67525467356cca7c0ce5a0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Escan, to the Rangers.|[[Lord Commander]] [[Jeor Mormont]]|You Win or You Die}}"}" data-rte-instance="130814-67525467356cca7c0ce5a0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Escan</b> is an unidentified background character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-67525467356cca7c0ce5a0" href="/wiki/Season_1" title="Season 1">first season</a>. He is a newly made Ranger of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-67525467356cca7c0ce5a0" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>, of the same group of recruits as <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-67525467356cca7c0ce5a0" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-67525467356cca7c0ce5a0" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">Escan is present during the speech Lord Commander <a data-rte-meta="{"type":"internal","text":"Jeor Mormont","link":"Jeor Mormont","wasblank":true,"noforce":true,"wikitext":"[[Jeor Mormont]]"}" data-rte-instance="130814-67525467356cca7c0ce5a0" href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a> gave to the "graduating" recruits. Escan is assigned to the Rangers.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[You Win or You Die]]\"<\/ref>"}" data-rte-instance="130814-67525467356cca7c0ce5a0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|7=yes}}"}" data-rte-instance="130814-67525467356cca7c0ce5a0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-67525467356cca7c0ce5a0" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there's no member of the Night's Watch called Escan.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-67525467356cca7c0ce5a0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Watch navbox","placeholder":1,"wikitext":"{{Watch navbox}}"}" data-rte-instance="130814-67525467356cca7c0ce5a0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u042d\u0441\u043a\u0430\u043d","link":"ru:\u042d\u0441\u043a\u0430\u043d","wasblank":true,"noforce":true,"wikitext":"[[ru:\u042d\u0441\u043a\u0430\u043d]]"}" data-rte-instance="130814-67525467356cca7c0ce5a0" href="http://ru.gameofthrones.wikia.com/wiki/Эскан" class="extiw" title="ru:Эскан">ru:Эскан</a>
-</p>
-   Loading editor
+title=Escan
+| image=
+| season=1
+| mentioned=\You win or you die\
+| status=alive
+| titles=
+| death=
+| place=
+| allegiance=The night's watch
+| family=
+| actor=}}}
+
+ 
+
+Escan is an unidentified background character in the first season. He is a newly made Ranger of the Night's Watch, of the same group of recruits as Jon Snow. Biography 
+
+ Season 1 
+
+Escan is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Escan is assigned to the Rangers.\You Win or You Die\\/ref} data-rte-instance130814-67525467356cca7c0ce5a0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, there's no member of the Night's Watch called Escan. References 
+
+ 
+
+ru:Эскан  Loading editor

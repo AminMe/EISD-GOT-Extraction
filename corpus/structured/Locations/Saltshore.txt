@@ -1,20 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Saltshore\n| Image=\n| Image size=\n| Location=[[Dorne]], [[Westeros]]\n| Type=Castle\n| Population=\n| Rulers=\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-56934338156cca9250e8c2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[Image:Saltshore Pin.png|thumb|right|200px|A map showing the location of Saltshore on the continent of Westeros.]]","title":"Saltshore_Pin.png","params":{"thumbnail":true,"alt":"Saltshore Pin","align":"right","caption":"A map showing the location of Saltshore on the continent of Westeros.","width":200,"captionParsed":"A map showing the location of Saltshore on the continent of Westeros."}}" data-rte-instance="130814-56934338156cca9250e8c2" alt="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/4/4c/Saltshore_Pin.png/revision/latest/scale-to-width-down/200?cb=20120625183038" width="200" height="516" class="image thumb alignRight withCaption" data-image-name="Saltshore Pin.png" data-image-key="Saltshore_Pin.png"  type="image" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Saltshore</b>, sometimes rendered as <b>Salt Shore</b>, is a castle in <a data-rte-meta="{"type":"internal","text":"Dorne","link":"Dorne","wasblank":true,"noforce":true,"wikitext":"[[Dorne]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="/wiki/Dorne" title="Dorne">Dorne</a>, the region controlled by <a data-rte-meta="{"type":"internal","text":"House Martell","link":"House Martell","wasblank":true,"noforce":true,"wikitext":"[[House Martell]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="/wiki/House_Martell" title="House Martell">House Martell</a> of <a data-rte-meta="{"type":"internal","text":"Sunspear","link":"Sunspear","wasblank":true,"noforce":true,"wikitext":"[[Sunspear]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="/wiki/Sunspear" title="Sunspear">Sunspear</a>. The castle is located on the southern coast of Dorne, on the <a data-rte-meta="{"type":"internal","text":"Summer Sea","link":"Summer Sea","wasblank":true,"noforce":true,"wikitext":"[[Summer Sea]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="/wiki/Summer_Sea" title="Summer Sea">Summer Sea</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/dorne\/ HBO viewers guide, season 1 map, Dorne entry]<\/ref>"}" data-rte-instance="130814-56934338156cca9250e8c2" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Joffrey Baratheon","link":"Joffrey Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Joffrey Baratheon]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a> claims that lords will come from all of Westeros, from the <a data-rte-meta="{"type":"internal","text":"Last Hearth","link":"Last Hearth","wasblank":true,"noforce":true,"wikitext":"[[Last Hearth]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="/wiki/Last_Hearth" title="Last Hearth">Last Hearth</a> in the north to the Salt Shore in the south, to his and <a data-rte-meta="{"type":"internal","text":"Sansa","link":"Sansa Stark","wasblank":false,"noforce":true,"wikitext":"[[Sansa Stark|Sansa]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa</a>'s wedding.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Golden Crown]]\"<\/ref>"}" data-rte-instance="130814-56934338156cca9250e8c2" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels Salt Shore is the seat of House Gargalen.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Salt Shore}}"}" data-rte-instance="130814-56934338156cca9250e8c2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-56934338156cca9250e8c2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Dorne","placeholder":1,"wikitext":"{{Dorne}}"}" data-rte-instance="130814-56934338156cca9250e8c2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u043e\u043b\u0451\u043d\u044b\u0439 \u0411\u0435\u0440\u0435\u0433","link":"ru:\u0421\u043e\u043b\u0451\u043d\u044b\u0439 \u0411\u0435\u0440\u0435\u0433","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u043e\u043b\u0451\u043d\u044b\u0439 \u0411\u0435\u0440\u0435\u0433]]"}" data-rte-instance="130814-56934338156cca9250e8c2" href="http://ru.gameofthrones.wikia.com/wiki/Солёный_Берег" class="extiw" title="ru:Солёный Берег">ru:Солёный Берег</a>
-</p>
-   Loading editor
+title=Saltshore
+| image size=
+| location=Dorne, westeros
+| typedouble-brackets population
+| rulers=
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ 
+
+Saltshore, sometimes rendered as Salt Shore, is a castle in Dorne, the region controlled by House Martell of Sunspear. The castle is located on the southern coast of Dorne, on the Summer Sea.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/dorne\/ HBO viewers guide, season 1 map, Dorne entry\/ref} data-rte-instance130814-56934338156cca9250e8c2 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
+
+ Season 1 
+
+Joffrey Baratheon claims that lords will come from all of Westeros, from the Last Hearth in the north to the Salt Shore in the south, to his and Sansa's wedding.\A Golden Crown\\/ref} data-rte-instance130814-56934338156cca9250e8c2 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels Salt Shore is the seat of House Gargalen. See also References 
+
+ 
+
+ru:Солёный Берег  Loading editor

@@ -1,7 +1,19 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Meereenese peddler\n| Image = \n| Season = [[Season 5|5]]\n| First=\n| Last=\n| Appearances=\n| Status= [[:Category:Status: Alive|Alive]]\n| Titles=\n| Aka=\n| Place = [[Meereen]]\n| Family =\n| Allegiance =\n| Family=[[Peddler's wife]] - wife\n| Actor =[[Jake Abraham]]}}"}" data-rte-instance="130814-58351693356cca8050307d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Meereenese peddler</b> is a character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-58351693356cca8050307d" href="/wiki/Season_5" title="Season 5">fifth season</a>. He is portrayed by <a data-rte-meta="{"type":"internal","text":"Jake Abraham","link":"Jake Abraham","wasblank":true,"noforce":true,"wikitext":"[[Jake Abraham]]"}" data-rte-instance="130814-58351693356cca8050307d" href="/wiki/Jake_Abraham" title="Jake Abraham">Jake Abraham</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/www.imdb.com\/name\/nm0008940\/]<\/ref>"}" data-rte-instance="130814-58351693356cca8050307d" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-58351693356cca8050307d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Meereenese peddler
+| image=
+| season=5
+| first=
+| last=
+| appearances=
+| status=alive
+| titles=
+| aka=
+| place=Meereen
+| family[[Peddler's allegiance
+| wife]] - wife
+| actor=Jake abraham}}}
+
+ 
+
+A Meereenese peddler is a character in the fifth season. He is portrayed by Jake Abraham.http:\/\/www.imdb.com\/name\/nm0008940\/\/ref} data-rte-instance130814-58351693356cca8050307d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / References 
+
+  Loading editor

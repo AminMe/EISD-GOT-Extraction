@@ -1,14 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:Character\n","placeholder":1,"wikitext":"{{Template:Character\n|Title = Brothel child 1\n|Season = [[Season 5|5]]\n|First = \n|Appearances = \"[[Mother's Mercy]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Place = [[Braavos]]\n|Allegiance =\n|Culture = \n|Actor = [[Ella Tweed]]\n|Aka = \n|Image = 5x10 Brothel child 1.jpg}}"}" data-rte-instance="130814-994859356cca79fbdd4b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>Brothel child</b> is a character in <a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-994859356cca79fbdd4b" href="/wiki/Season_5" title="Season 5">Season 5</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">She is a child who serves in a brothel in <a data-rte-meta="{"type":"internal","text":"Braavos","link":"Braavos","wasblank":true,"noforce":true,"wikitext":"[[Braavos]]"}" data-rte-instance="130814-994859356cca79fbdd4b" href="/wiki/Braavos" title="Braavos">Braavos</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-994859356cca79fbdd4b" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">She is one of the <a data-rte-meta="{"type":"internal","text":"two","link":"Brothel child 2","wasblank":false,"noforce":true,"wikitext":"[[Brothel child 2|two]]"}" data-rte-instance="130814-994859356cca79fbdd4b" href="/wiki/Brothel_child_2" title="Brothel child 2">two</a> children who <a data-rte-meta="{"type":"internal","text":"Meryn Trant","link":"Meryn Trant","wasblank":true,"noforce":true,"wikitext":"[[Meryn Trant]]"}" data-rte-instance="130814-994859356cca79fbdd4b" href="/wiki/Meryn_Trant" title="Meryn Trant">Meryn Trant</a> torments in the brothel in Braavos, before his death
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances|10 = yes}}"}" data-rte-instance="130814-994859356cca79fbdd4b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Brothel child 1
+|season=5
+|first=
+|Appearances = \mother's mercy\
+|status=alive
+|place=Braavos
+|Allegiance =
+|culture=
+|Actor ella tweed
+|aka=
+|Image 5x10 brothel 1.jpg}}}
+
+ A Brothel child is a character in Season 5. Biography 
+
+ Background 
+
+She is a child who serves in a brothel in Braavos. Season 5 
+
+She is one of the two children who Meryn Trant torments in the brothel in Braavos, before his death Appearances 
+
+  Loading editor

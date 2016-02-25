@@ -1,21 +1,44 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Ghita\n| Image=5x06 Ghita.png\n| Season=[[Season 5|5]]\n| First= \"[[Unbowed, Unbent, Unbroken]]\"\n| Last= \"[[Mother's Mercy]]\"\n| Appearances= 2 episodes <small>[[#Appearances|(see below)]]<\/small>\n| Titles=\n| Aka=\n| Status= [[:Category: Status: Dead|Deceased]]\n| Death=Poisoned with water from House of Black and White\n| DeathEp=\"[[Unbowed, Unbent, Unbroken]]\"\n| Place=[[Braavos]]\n| Culture=\n| Religion=[[God of Death]]\n| Allegiance=\n| Family=[[Joss (Season 5)|Joss]] - father\n| Actor=[[Hattie Gotobed]]|Age = 10}}"}" data-rte-instance="130814-164155198056cca69708650" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Ghita</b> is a minor character in the <a data-rte-meta="{"type":"internal","text":"fifth","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth]]"}" data-rte-instance="130814-164155198056cca69708650" href="/wiki/Season_5" title="Season 5">fifth</a> season. She was played by <a data-rte-meta="{"type":"internal","text":"Hattie Gotobed","link":"Hattie Gotobed","wasblank":true,"noforce":true,"wikitext":"[[Hattie Gotobed]]"}" data-rte-instance="130814-164155198056cca69708650" href="/wiki/Hattie_Gotobed" title="Hattie Gotobed">Hattie Gotobed</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/www.watchersonthewall.com\/young-cersei-cast\/]<\/ref>"}" data-rte-instance="130814-164155198056cca69708650" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" /><img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/watchersonthewall.com\/season-five-casting-news-updates\/]<\/ref>"}" data-rte-instance="130814-164155198056cca69708650" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Ghita is a ten year old terminally ill girl.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-164155198056cca69708650" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">Ghita is brought to the House of Black and White by her father after various treatment attempts have failed. <a data-rte-meta="{"type":"internal","text":"Arya Stark","link":"Arya Stark","wasblank":true,"noforce":true,"wikitext":"[[Arya Stark]]"}" data-rte-instance="130814-164155198056cca69708650" href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> puts the girl out of her misery by giving her the poisoned water from the pool in the central sanctuary.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Unbowed, Unbent, Unbroken]]\"<\/ref>"}" data-rte-instance="130814-164155198056cca69708650" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Arya wears Ghita's face and pretends to be a child prostitute in order to ambush and murder Ser <a data-rte-meta="{"type":"internal","text":"Meryn Trant","link":"Meryn Trant","wasblank":true,"noforce":true,"wikitext":"[[Meryn Trant]]"}" data-rte-instance="130814-164155198056cca69708650" href="/wiki/Meryn_Trant" title="Meryn Trant">Meryn Trant</a> in a brothel. Once she completes this task, she returns the face to the <a data-rte-meta="{"type":"internal","text":"Hall of Faces","link":"Hall of Faces","wasblank":true,"noforce":true,"wikitext":"[[Hall of Faces]]"}" data-rte-instance="130814-164155198056cca69708650" href="/wiki/Hall_of_Faces" title="Hall of Faces">Hall of Faces</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Mother's Mercy]]\"<\/ref>"}" data-rte-instance="130814-164155198056cca69708650" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances||||||yes||||yes}}"}" data-rte-instance="130814-164155198056cca69708650" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">In the <i>A Song of Ice and Fire</i> novels there is no mention of a character named Ghita. However, many people go to the House of Black and White to seek an end to their misery or that of their loved ones.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-164155198056cca69708650" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Ghita
+| image=5x06 ghita.png
+| season=5
+| first=\Unbowed, unbent, unbroken\
+| last=\Mother's mercy\
+| appearances=2 episodes (see below)\/small
+| Titles=
+| Aka=
+| Status= Deceased
+| Death=Poisoned with water from House of Black and White
+| DeathEp=\Unbowed, Unbent, Unbroken\
+| Place=Braavos
+| Culture=
+| Religion=God of Death
+| Allegiance=
+| Family=Joss - father
+| ActorHattie Gotobed|Age  10}}}
+
+(see below)\/small
+| Titles=
+| Aka=
+| Status= Deceased
+| Death=Poisoned with water from House of Black and White
+| DeathEp=\Unbowed, Unbent, Unbroken\
+| Place=Braavos
+| Culture=
+| Religion=God of Death
+| Allegiance=
+| Family=Joss - father
+| ActorHattie Gotobed|Age  10}}} data-rte-instance130814-164155198056cca69708650 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Ghita is a minor character in the fifth season. She was played by Hattie Gotobed.http:\/\/www.watchersonthewall.com\/young-cersei-cast\/\/ref} data-rte-instance130814-164155198056cca69708650 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /http:\/\/watchersonthewall.com\/season-five-casting-news-updates\/\/ref} data-rte-instance130814-164155198056cca69708650 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Biography 
+
+ Background 
+
+Ghita is a ten year old terminally ill girl. Season 5 
+
+Ghita is brought to the House of Black and White by her father after various treatment attempts have failed. Arya Stark puts the girl out of her misery by giving her the poisoned water from the pool in the central sanctuary.\Unbowed, Unbent, Unbroken\\/ref} data-rte-instance130814-164155198056cca69708650 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+
+Arya wears Ghita's face and pretends to be a child prostitute in order to ambush and murder Ser Meryn Trant in a brothel. Once she completes this task, she returns the face to the Hall of Faces.\Mother's Mercy\\/ref} data-rte-instance130814-164155198056cca69708650 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels there is no mention of a character named Ghita. However, many people go to the House of Black and White to seek an end to their misery or that of their loved ones. References 
+
+  Loading editor

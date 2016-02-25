@@ -1,18 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Stark-Main-Shield.PNG\n|link = House Stark\n}}"}" data-rte-instance="130814-20644460856cca83caac4a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<dl><dd><i>For other articles see <a data-rte-meta="{"type":"internal","text":"Stark officer","link":"Stark officer","wasblank":true,"noforce":true,"wikitext":"[[Stark officer]]"}" data-rte-instance="130814-20644460856cca83caac4a" href="/wiki/Stark_officer" title="Stark officer">Stark officer</a>.</i>
-</dd></dl>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title =Stark officer\n|Season = [[Season 1|1]]\n|Image=Stark Officer 2.jpg\n|Appearances = \"[[The North Remembers]]\"\n|Status = [[:Category:Status: Uncertain|Uncertain]]\n|Allegiance = [[House Stark]]\n|Actor = [[:Category:Performer Unidentified|Unidentified]]}}"}" data-rte-instance="130814-20644460856cca83caac4a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Stark officer</b> is an unnamed background character in the <a data-rte-meta="{"type":"internal","text":"second season","link":"Season 2","wasblank":false,"noforce":true,"wikitext":"[[Season 2|second season]]"}" data-rte-instance="130814-20644460856cca83caac4a" href="/wiki/Season_2" title="Season 2">second season</a>. He is played by an unidentified actor and only appears in "<a data-rte-meta="{"type":"internal","text":"The North Remembers","link":"The North Remembers","wasblank":true,"noforce":true,"wikitext":"[[The North Remembers]]"}" data-rte-instance="130814-20644460856cca83caac4a" href="/wiki/The_North_Remembers" title="The North Remembers">The North Remembers</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-20644460856cca83caac4a" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">He is part of <a data-rte-meta="{"type":"internal","text":"Robb Stark","link":"Robb Stark","wasblank":true,"noforce":true,"wikitext":"[[Robb Stark]]"}" data-rte-instance="130814-20644460856cca83caac4a" href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a>'s army fighting in <a data-rte-meta="{"type":"internal","text":"the Riverlands","link":"the Riverlands","wasblank":true,"noforce":true,"wikitext":"[[the Riverlands]]"}" data-rte-instance="130814-20644460856cca83caac4a" href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a>. He is present when Robb reads his peace terms to the captive <a data-rte-meta="{"type":"internal","text":"Alton Lannister","link":"Alton Lannister","wasblank":true,"noforce":true,"wikitext":"[[Alton Lannister]]"}" data-rte-instance="130814-20644460856cca83caac4a" href="/wiki/Alton_Lannister" title="Alton Lannister">Alton Lannister</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The North Remembers]]\"<\/ref>"}" data-rte-instance="130814-20644460856cca83caac4a" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Two Appearances","placeholder":1,"wikitext":"{{Season Two Appearances|yes}}"}" data-rte-instance="130814-20644460856cca83caac4a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-20644460856cca83caac4a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Stark officer
+|season=1
+|image=Stark officer 2.jpg
+|appearances=\The north remembers\
+|status=uncertain
+|allegiance=House stark
+|actor=unidentified}}}
+
+ For other articles see Stark officer. 
+
+ 
+
+A Stark officer is an unnamed background character in the second season. He is played by an unidentified actor and only appears in The North Remembers. Biography 
+
+ Season 2 
+
+He is part of Robb Stark's army fighting in the Riverlands. He is present when Robb reads his peace terms to the captive Alton Lannister.\The North Remembers\\/ref} data-rte-instance130814-20644460856cca83caac4a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ References 
+
+  Loading editor

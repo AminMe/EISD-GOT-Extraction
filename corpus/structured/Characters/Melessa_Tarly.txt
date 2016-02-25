@@ -1,33 +1,47 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|leftimage=House-Florent-Shield-Icon.PNG\n|leftlink=House Florent\n|rightimage=House-Tarly-Shield-Icon.PNG\n|rightlink=House Tarly\n}}"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Melessa Tarly\n| Season=[[Season 6|6]]\n| Aka= Melessa Florent\n| Mentioned=\"[[Cripples, Bastards and Broken Things]]\"<br>\"[[What is Dead May Never Die]]\"\n| Status= [[:Category:Status: Alive|Alive]]\n| Place=[[Brightwater Keep]]\n| Family=[[Randyll Tarly]] - husband<br>[[Samwell Tarly]] - son<br> [[Dickon Tarly]] - son <br>[[Talla Tarly]] - daughter<br>{[[Selyse Baratheon]]} - first cousin\n| Allegiance=[[House Tarly]] - by marriage<br>[[House Florent]] - by birth\n| Actor = [[Samantha Spiro]]\n}}"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|My mother used it for sewing. She'd let me sit with her in her chamber, while she sewed, and read to her. My father put a stop to it, when he found out.|[[Samwell Tarly]] giving [[Gilly]] a thimble|What is Dead May Never Die}}"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Melessa Tarly</b> née <b>Florent</b> is a recurring character in the <a data-rte-meta="{"type":"internal","text":"sixth season","link":"Season 6","wasblank":false,"noforce":true,"wikitext":"[[Season 6|sixth season]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Season_6" title="Season 6">sixth season</a>, though she had already been alluded to in the <a data-rte-meta="{"type":"internal","text":"first","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Season_1" title="Season 1">first</a> and <a data-rte-meta="{"type":"internal","text":"second","link":"Season 2","wasblank":false,"noforce":true,"wikitext":"[[Season 2|second]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Season_2" title="Season 2">second</a> season. Melessa is played by <a data-rte-meta="{"type":"internal","text":"Samantha Spiro","link":"Samantha Spiro","wasblank":true,"noforce":true,"wikitext":"[[Samantha Spiro]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Samantha_Spiro" title="Samantha Spiro">Samantha Spiro</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Lady Melessa of <a data-rte-meta="{"type":"internal","text":"House Florent","link":"House Florent","wasblank":true,"noforce":true,"wikitext":"[[House Florent]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/House_Florent" title="House Florent">House Florent</a> is the wife Lord <a data-rte-meta="{"type":"internal","text":"Randyll Tarly","link":"Randyll Tarly","wasblank":true,"noforce":true,"wikitext":"[[Randyll Tarly]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Randyll_Tarly" title="Randyll Tarly">Randyll Tarly</a> of <a data-rte-meta="{"type":"internal","text":"Horn Hill","link":"Horn Hill","wasblank":true,"noforce":true,"wikitext":"[[Horn Hill]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Horn_Hill" title="Horn Hill">Horn Hill</a> and mother of <a data-rte-meta="{"type":"internal","text":"Samwell Tarly","link":"Samwell Tarly","wasblank":true,"noforce":true,"wikitext":"[[Samwell Tarly]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>. She is a cousin of <a data-rte-meta="{"type":"internal","text":"Selyse Florent","link":"Selyse Florent","wasblank":true,"noforce":true,"wikitext":"[[Selyse Florent]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Selyse_Florent" title="Selyse Florent" class="mw-redirect">Selyse Florent</a>, the wife of <a data-rte-meta="{"type":"internal","text":"Stannis Baratheon","link":"Stannis Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Stannis Baratheon]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>, and Ser <a data-rte-meta="{"type":"internal","text":"Imry Florent","link":"Imry Florent","wasblank":true,"noforce":true,"wikitext":"[[Imry Florent]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Imry_Florent" title="Imry Florent">Imry Florent</a>.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">When <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> asks Samwell what he is doing at <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/The_Wall" title="The Wall">the Wall</a>, Samwell tells him that his father did not think him manly enough to inherit his title and lands so he forced him to join the Night's Watch or he implied that he would kill him and tell Melessa that it was a hunting accident.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Cripples, Bastards and Broken Things]]\"<\/ref>"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">Before leaving <a data-rte-meta="{"type":"internal","text":"Craster's Keep","link":"Craster's Keep","wasblank":true,"noforce":true,"wikitext":"[[Craster's Keep]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Craster's_Keep" title="Craster's Keep">Craster's Keep</a>, Samwell Tarly gives <a data-rte-meta="{"type":"internal","text":"Gilly","link":"Gilly","wasblank":true,"noforce":true,"wikitext":"[[Gilly]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Gilly" title="Gilly">Gilly</a> a thimble that once belonged to Lady Melessa. He explains that he used to read to her while she was sewing but that his father ended the practice when he found out. He reveals that the thimble is the only possession he has from her and that it was a gift given when he left for <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/The_Wall" title="The Wall">the Wall</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Family tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Florent family tree","placeholder":1,"wikitext":"{{House Florent family tree}}"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Melessa Florent is a daughter of Lord Alester Florent, head of House Florent and Lord of <a data-rte-meta="{"type":"internal","text":"Brightwater Keep","link":"Brightwater Keep","wasblank":true,"noforce":true,"wikitext":"[[Brightwater Keep]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Brightwater_Keep" title="Brightwater Keep">Brightwater Keep</a>, and Lady Melara Crane. She's the mother of Samwell and Dickon Tarly.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Melessa is a first cousin of <a data-rte-meta="{"type":"internal","text":"Selyse Baratheon","link":"Selyse Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Selyse Baratheon]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Selyse_Baratheon" title="Selyse Baratheon">Selyse Baratheon</a>, as Melessa's father Alester is the older brother of Selyse's father Ryam. This also makes Sam the second cousin of <a data-rte-meta="{"type":"internal","text":"Stannis Baratheon","link":"Stannis Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Stannis Baratheon]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>'s daughter, <a data-rte-meta="{"type":"internal","text":"Shireen Baratheon","link":"Shireen Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Shireen Baratheon]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="/wiki/Shireen_Baratheon" title="Shireen Baratheon">Shireen Baratheon</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Melessa Florent}}"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Florent navbox","placeholder":1,"wikitext":"{{Florent navbox}}"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Tarly navbox","placeholder":1,"wikitext":"{{Tarly navbox}}"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Tarly, Melessa","placeholder":1,"wikitext":"{{DEFAULTSORT:Tarly, Melessa}}"}" data-rte-instance="130814-152087033356cca68251e0f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Melessa Tarly","link":"de:Melessa Tarly","wasblank":true,"noforce":true,"wikitext":"[[de:Melessa Tarly]]"}" data-rte-instance="130814-152087033356cca68251e0f" href="http://de.gameofthrones.wikia.com/wiki/Melessa_Tarly" class="extiw" title="de:Melessa Tarly">de:Melessa Tarly</a>
-</p>
-   Loading editor
+title=Melessa tarly
+| season=6
+| aka=Melessa florent
+| mentioned=\Cripples, bastards and broken things\\What is Dead May Never Die\
+| Status= Alive
+| Place=Brightwater Keep
+| Family=Randyll Tarly - husbandSamwell Tarly - son Dickon Tarly - son Talla Tarly - daughterSelyse Baratheon - first cousin
+| Allegiance=House Tarly - by marriageHouse Florent - by birth
+| Actor = Samantha Spiro
+}}}
+
+ 
+
+\What is Dead May Never Die\
+| Status= Alive
+| Place=Brightwater Keep
+| Family=Randyll Tarly - husband 
+Samwell Tarly - son 
+ Dickon Tarly - son 
+Talla Tarly - daughter 
+Selyse Baratheon - first cousin
+| Allegiance=House Tarly - by marriage 
+House Florent - by birth
+| Actor = Samantha Spiro
+}}} data-rte-instance130814-152087033356cca68251e0f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+
+ 
+
+Melessa Tarly née Florent is a recurring character in thesixth season, though she had already beenalluded toin thefirst and second season. Melessa isplayed by Samantha Spiro. Biography 
+
+ Background 
+
+Lady Melessa of House Florent is the wife Lord Randyll Tarly of Horn Hill and mother of Samwell Tarly of the Night's Watch. She is a cousin of Selyse Florent, the wife of Stannis Baratheon, and Ser Imry Florent. Season 1 
+
+When Jon Snow asks Samwell what he is doing at the Wall, Samwell tells him that his father did not think him manly enough to inherit his title and lands so he forced him to join the Night's Watch or he implied that he would kill him and tell Melessa that it was a hunting accident.\Cripples, Bastards and Broken Things\\/ref} data-rte-instance130814-152087033356cca68251e0f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
+
+Before leaving Craster's Keep, Samwell Tarly gives Gilly a thimble that once belonged to Lady Melessa. He explains that he used to read to her while she was sewing but that his father ended the practice when he found out. He reveals that the thimble is the only possession he has from her and that it was a gift given when he left for the Wall. Family tree 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Melessa Florent is a daughter of Lord Alester Florent, head of House Florent and Lord of Brightwater Keep, and Lady Melara Crane. She's the mother of Samwell and Dickon Tarly. 
+
+Melessa is a first cousin of Selyse Baratheon, as Melessa's father Alester is the older brother of Selyse's father Ryam. This also makes Sam the second cousin of Stannis Baratheon's daughter, Shireen Baratheon. See also (MAJOR spoilers from the books) References 
+
+ 
+
+de:Melessa Tarly  Loading editor

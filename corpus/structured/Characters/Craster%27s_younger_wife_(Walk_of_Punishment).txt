@@ -1,25 +1,34 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry","placeholder":1,"wikitext":"{{Heraldry|image = Wildling shield icon.png|link = Free Folk}}"}" data-rte-instance="130814-125905062956cca6ee96b80" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Craster's younger wife\n| Image= Craster's younger wife 3x03.jpg\n| Season= [[Season 3|3]]\n| Appearances= \"[[Walk of Punishment]]\"\n| Titles=\n| Aka=\n| Status= [[:Category:Status: Alive|Alive]]\n| Death=\n| Place= [[Craster's Keep]]\n| First=\n| Last=\n| Allegiance= [[Craster]]\n| Family= {[[Craster]]} - husband\/father<br>[[Gilly]] - sister\/step-mother<br>[[Sam]] - nephew\/brother\n| Actor=[[Lisa Walsh]]\n|Culture = [[Free Folk]]}}"}" data-rte-instance="130814-125905062956cca6ee96b80" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Craster's younger wife</b> is a minor character in the <a data-rte-meta="{"type":"internal","text":"third season","link":"Season 3","wasblank":false,"noforce":true,"wikitext":"[[Season 3|third season]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Season_3" title="Season 3">third season</a>. She is played by <a data-rte-meta="{"type":"internal","text":"Lisa Walsh","link":"Lisa Walsh","wasblank":true,"noforce":true,"wikitext":"[[Lisa Walsh]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Lisa_Walsh" title="Lisa Walsh">Lisa Walsh</a> and debuted in "<a data-rte-meta="{"type":"internal","text":"Walk of Punishment","link":"Walk of Punishment","wasblank":true,"noforce":true,"wikitext":"[[Walk of Punishment]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Walk_of_Punishment" title="Walk of Punishment">Walk of Punishment</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">She is one of <a data-rte-meta="{"type":"internal","text":"Craster","link":"Craster","wasblank":true,"noforce":true,"wikitext":"[[Craster]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Craster" title="Craster">Craster</a>'s <a data-rte-meta="{"type":"internal","text":"wives","link":"Craster's wives","wasblank":false,"noforce":true,"wikitext":"[[Craster's wives|wives]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Craster's_wives" title="Craster's wives">wives</a> who he has married.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true">She helps <a data-rte-meta="{"type":"internal","text":"another of Craster's wives","link":"Craster's wife (Walk of Punishment)","wasblank":false,"noforce":true,"wikitext":"[[Craster's wife (Walk of Punishment)|another of Craster's wives]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Craster's_wife_(Walk_of_Punishment)" title="Craster's wife (Walk of Punishment)">another of Craster's wives</a> with the delivering of <a data-rte-meta="{"type":"internal","text":"Gilly","link":"Gilly","wasblank":true,"noforce":true,"wikitext":"[[Gilly]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Gilly" title="Gilly">Gilly</a>'s baby <a data-rte-meta="{"type":"internal","text":"Sam","link":"Sam","wasblank":true,"noforce":true,"wikitext":"[[Sam]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Sam" title="Sam">Sam</a>, while <a data-rte-meta="{"type":"internal","text":"Samwell Tarly","link":"Samwell Tarly","wasblank":true,"noforce":true,"wikitext":"[[Samwell Tarly]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> watches.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Walk of Punishment]]\"<\/ref>"}" data-rte-instance="130814-125905062956cca6ee96b80" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Three Appearances","placeholder":1,"wikitext":"{{Season Three Appearances|3=yes}}"}" data-rte-instance="130814-125905062956cca6ee96b80" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Craster's harem is composed of women of all ages. The majority of his wives are also his daughters.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Craster's wives}}"}" data-rte-instance="130814-125905062956cca6ee96b80" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-125905062956cca6ee96b80" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u042e\u043d\u0430\u044f \u0436\u0435\u043d\u0430 \u041a\u0440\u0430\u0441\u0442\u0435\u0440\u0430","link":"ru:\u042e\u043d\u0430\u044f \u0436\u0435\u043d\u0430 \u041a\u0440\u0430\u0441\u0442\u0435\u0440\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u042e\u043d\u0430\u044f \u0436\u0435\u043d\u0430 \u041a\u0440\u0430\u0441\u0442\u0435\u0440\u0430]]"}" data-rte-instance="130814-125905062956cca6ee96b80" href="http://ru.gameofthrones.wikia.com/wiki/Юная_жена_Крастера" class="extiw" title="ru:Юная жена Крастера">ru:Юная жена Крастера</a>
-</p>
-   Loading editor
+title=Craster's younger wife
+| image=Craster's wife 3x03.jpg
+| season=3
+| appearances=\Walk of punishment\
+| titles=
+| aka=
+| status=alive
+| death=
+| place=Craster's keep
+| first=
+| last=
+| allegiance=Craster
+| family=Craster - husband\ atherGilly - sister\/step-motherSam - nephew\/brother
+| Actor=Lisa Walsh
+|Culture = Free Folk}}}
+
+ Gilly - sister\/step-mother 
+Sam - nephew\/brother
+| Actor=Lisa Walsh
+|Culture  Free Folk} data-rte-instance130814-125905062956cca6ee96b80 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Craster's younger wife is a minor character in the third season. She is played by Lisa Walsh and debuted in Walk of Punishment. Biography 
+
+ Background 
+
+She is one of Craster's wives who he has married. Season 3 
+
+She helps another of Craster's wives with the delivering of Gilly's baby Sam, while Samwell Tarly watches.\Walk of Punishment\\/ref} data-rte-instance130814-125905062956cca6ee96b80 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Craster's harem is composed of women of all ages. The majority of his wives are also his daughters. See also (MAJOR spoilers from the books) References 
+
+ 
+
+ru:Юная жена Крастера  Loading editor

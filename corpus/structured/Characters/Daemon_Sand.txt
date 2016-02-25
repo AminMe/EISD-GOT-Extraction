@@ -1,31 +1,43 @@
-<dl><dd><dl><dd><i>For other characters who share the same name, see "<a data-rte-meta="{"type":"internal","text":"Daemon","link":"Daemon","wasblank":true,"noforce":true,"wikitext":"[[Daemon]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Daemon" title="Daemon">Daemon</a>".</i>
-</dd></dl>
-</dd></dl>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Martell shield icon.png\n|link=House Martell\n}}"}" data-rte-instance="130814-78396913856cca6e41887b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Daemon Sand\n| Image=Daemon Sand.png\n| Season=[[Season 4|4]]\n| First=\"[[The Mountain and the Viper]]\"\n| Last=\n| Appearances=\n| Titles=[[Knighthood|Ser]]\n| Aka=The  [[Bastardy|Bastard]] of Godsgrace\n| Status=[[:Category:Status: Alive|Alive]]\n| Death=\n| DeathEp=\n| Place=[[Godsgrace]]\n| Allegiance=[[House Allyrion]]<br>[[House Martell]]\n| Family=\n| Actor=\n|Culture = [[Dornishmen]]\n|Religion = }}"}" data-rte-instance="130814-78396913856cca6e41887b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Ser <b>Daemon Sand</b> is a minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is a <a data-rte-meta="{"type":"internal","text":"knight","link":"Knighthood","wasblank":false,"noforce":true,"wikitext":"[[Knighthood|knight]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Knighthood" title="Knighthood">knight</a>, and serves as <a data-rte-meta="{"type":"internal","text":"squire","link":"squire","wasblank":true,"noforce":true,"wikitext":"[[squire]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Squire" title="Squire">squire</a> for <a data-rte-meta="{"type":"internal","text":"Prince","link":"Prince","wasblank":true,"noforce":true,"wikitext":"[[Prince]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Prince" title="Prince">Prince</a> <a data-rte-meta="{"type":"internal","text":"Oberyn Martell","link":"Oberyn Martell","wasblank":true,"noforce":true,"wikitext":"[[Oberyn Martell]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[File:Daemon spear.png|thumb|left|250px|Daemon squiring for Prince Oberyn.]]","title":"Daemon_spear.png","params":{"thumbnail":true,"alt":"Daemon spear","align":"left","caption":"Daemon squiring for Prince Oberyn.","width":250,"captionParsed":"Daemon squiring for Prince Oberyn."}}" data-rte-instance="130814-78396913856cca6e41887b" alt="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/f/f6/Daemon_spear.png/revision/latest/scale-to-width-down/250?cb=20140605120646" width="250" height="141" class="image thumb alignLeft withCaption" data-image-name="Daemon spear.png" data-image-key="Daemon_spear.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->Ser Daemon squires for Prince <a data-rte-meta="{"type":"internal","text":"Oberyn Martell","link":"Oberyn Martell","wasblank":true,"noforce":true,"wikitext":"[[Oberyn Martell]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a> during <a data-rte-meta="{"type":"internal","text":"Tyrion Lannister","link":"Tyrion Lannister","wasblank":true,"noforce":true,"wikitext":"[[Tyrion Lannister]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a>'s <a data-rte-meta="{"type":"internal","text":"trial by combat","link":"Second Trial by Combat of Tyrion Lannister","wasblank":false,"noforce":true,"wikitext":"[[Second Trial by Combat of Tyrion Lannister|trial by combat]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Second_Trial_by_Combat_of_Tyrion_Lannister" title="Second Trial by Combat of Tyrion Lannister">trial by combat</a>, and coats his master's spear head with deadly <a data-rte-meta="{"type":"internal","text":"manticore","link":"Manticores","wasblank":false,"noforce":true,"wikitext":"[[Manticores|manticore]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Manticores" title="Manticores">manticore</a> <a data-rte-meta="{"type":"internal","text":"venom","link":"Poison","wasblank":false,"noforce":true,"wikitext":"[[Poison|venom]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Poison" title="Poison">venom</a>. He witnesses the Red Viper's death at the hands of Ser <a data-rte-meta="{"type":"internal","text":"Gregor Clegane","link":"Gregor Clegane","wasblank":true,"noforce":true,"wikitext":"[[Gregor Clegane]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/Gregor_Clegane" title="Gregor Clegane">Gregor Clegane</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Mountain and the Viper]]\"<\/ref>"}" data-rte-instance="130814-78396913856cca6e41887b" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Four Appearances","placeholder":1,"wikitext":"{{Template:Season Four Appearances||||||||yes}}"}" data-rte-instance="130814-78396913856cca6e41887b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Ser Daemon Sand, also known as "The Bastard of Godsgrace", is Ser Ryon Allyrion's natural born son. He serves Prince Oberyn Martell as squire, and received his knighthood from the Red Viper himself. There are also rumors that he is one of Oberyn's lovers, though this is seldom said to his face.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Ser Daemon is close friends with Arianne Martell, daughter and heir of Prince Doran, and took her maidenhead when they were both fourteen. When Prince Doran learned of this he didn't seek to punish Daemon, but refused to allow him to marry his daughter.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">He is considered to be one of Dorne's finest swordsmen.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">House Allyrion belongs to the group known as "Salty Dornishmen", who live along the coasts of Dorne and the Greenblood river system. This group has the most Rhoynar blood of all Dornishmen and generally possess olive skin, dark hair, and dark eyes. Daemon's brief appearance in Season 4 of the TV series did not resemble this, but as it turns out, in the books he is not described as having classic "salty Dornish" features. Instead, he is said to have sky blue eyes and light sandy brown hair. Daemon is a bastard son, so the simple explanation may be that he takes after his non-Allyrion parent in looks, and this parent was either a "stony Dornishman" from the western mountains, or possibly from somewhere outside of Dorne entirely.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-78396913856cca6e41887b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-78396913856cca6e41887b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Sand, Daemon","placeholder":1,"wikitext":"{{DEFAULTSORT:Sand, Daemon}}"}" data-rte-instance="130814-78396913856cca6e41887b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"es:Daemon Arena","link":"es:Daemon Arena","wasblank":true,"noforce":true,"wikitext":"[[es:Daemon Arena]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="http://hieloyfuego.wikia.com/wiki/Daemon_Arena" class="extiw" title="es:Daemon Arena">es:Daemon Arena</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u6234\u8499\u00b7\u6c99\u5fb7","link":"zh:\u6234\u8499\u00b7\u6c99\u5fb7","wasblank":true,"noforce":true,"wikitext":"[[zh:\u6234\u8499\u00b7\u6c99\u5fb7]]"}" data-rte-instance="130814-78396913856cca6e41887b" href="http://zh.asoiaf.wikia.com/wiki/戴蒙·沙德" class="extiw" title="zh:戴蒙·沙德">zh:戴蒙·沙德</a>
-</p>
-   Loading editor
+title=Daemon sand
+| image=Daemon sand.png
+| season=4
+| first=\The mountain and the viper\
+| last=
+| appearances=
+| titles=Ser
+| aka=The bastard of godsgrace
+| status=alive
+| death=
+| deathep=
+| place=Godsgrace
+| allegiance=House allyrionHouse Martell
+| Family=
+| Actor=
+|Culture = Dornishmen
+|Religion = }}}For other characters who share the same name, see Daemon. 
+
+ House Martell
+| Family=
+| Actor=
+|Culture = Dornishmen
+|Religion  }}} data-rte-instance130814-78396913856cca6e41887b classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+
+Ser Daemon Sand is a minor character in the fourth season. He is a knight, and serves as squire for Prince Oberyn Martell. Biography 
+
+ Season 4 
+
+ Ser Daemon squires for Prince Oberyn Martell during Tyrion Lannister's trial by combat, and coats his master's spear head with deadly manticore venom. He witnesses the Red Viper's death at the hands of Ser Gregor Clegane.\The Mountain and the Viper\\/ref} data-rte-instance130814-78396913856cca6e41887b classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Ser Daemon Sand, also known as The Bastard of Godsgrace, is Ser Ryon Allyrion's natural born son. He serves Prince Oberyn Martell as squire, and received his knighthood from the Red Viper himself. There are also rumors that he is one of Oberyn's lovers, though this is seldom said to his face. 
+
+Ser Daemon is close friends with Arianne Martell, daughter and heir of Prince Doran, and took her maidenhead when they were both fourteen. When Prince Doran learned of this he didn't seek to punish Daemon, but refused to allow him to marry his daughter. 
+
+He is considered to be one of Dorne's finest swordsmen. 
+
+House Allyrion belongs to the group known as Salty Dornishmen, who live along the coasts of Dorne and the Greenblood river system. This group has the most Rhoynar blood of all Dornishmen and generally possess olive skin, dark hair, and dark eyes. Daemon's brief appearance in Season 4 of the TV series did not resemble this, but as it turns out, in the books he is not described as having classic salty Dornish features. Instead, he is said to have sky blue eyes and light sandy brown hair. Daemon is a bastard son, so the simple explanation may be that he takes after his non-Allyrion parent in looks, and this parent was either a stony Dornishman from the western mountains, or possibly from somewhere outside of Dorne entirely. See also (spoilers from the books) References 
+
+ 
+
+es:Daemon Arena zh:戴蒙·沙德  Loading editor

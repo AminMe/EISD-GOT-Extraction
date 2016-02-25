@@ -1,18 +1,17 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Frey-Shield-Icon.PNG\n|link=House Frey\n}}"}" data-rte-instance="130814-14549657556cca79d7ff45" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Malcolm\n| Season=[[Season 3|3]]\n| Mentioned=\"[[Mhysa]]\"\n| Status= [[:Category:Status: Alive|Alive]]\n| Allegiance=[[House Frey]]}}"}" data-rte-instance="130814-14549657556cca79d7ff45" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Malcolm</b> is a minor character mentioned in <a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-14549657556cca79d7ff45" href="/wiki/Season_3" title="Season 3">Season 3</a>. He is a man-at-arms sworn to <a data-rte-meta="{"type":"internal","text":"House Frey","link":"House Frey","wasblank":true,"noforce":true,"wikitext":"[[House Frey]]"}" data-rte-instance="130814-14549657556cca79d7ff45" href="/wiki/House_Frey" title="House Frey">House Frey</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true">Malcolm partook in the <a data-rte-meta="{"type":"internal","text":"Red Wedding","link":"Red Wedding","wasblank":true,"noforce":true,"wikitext":"[[Red Wedding]]"}" data-rte-instance="130814-14549657556cca79d7ff45" href="/wiki/Red_Wedding" title="Red Wedding">Red Wedding</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Rains of Castamere (episode)|The Rains of Castamere]]\"<\/ref>"}" data-rte-instance="130814-14549657556cca79d7ff45" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-14549657556cca79d7ff45" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true">Malcolm, along with <a data-rte-meta="{"type":"internal","text":"Talbot","link":"Talbot","wasblank":true,"noforce":true,"wikitext":"[[Talbot]]"}" data-rte-instance="130814-14549657556cca79d7ff45" href="/wiki/Talbot" title="Talbot">Talbot</a> and <a data-rte-meta="{"type":"internal","text":"another man-at-arms","link":"Frey soldier 1","wasblank":false,"noforce":true,"wikitext":"[[Frey soldier 1|another man-at-arms]]"}" data-rte-instance="130814-14549657556cca79d7ff45" href="/wiki/Frey_soldier_1" title="Frey soldier 1">another man-at-arms</a> helped to sew the head of <a data-rte-meta="{"type":"internal","text":"Robb Stark","link":"Robb Stark","wasblank":true,"noforce":true,"wikitext":"[[Robb Stark]]"}" data-rte-instance="130814-14549657556cca79d7ff45" href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a>'s direwolf, <a data-rte-meta="{"type":"internal","text":"Grey Wind","link":"Grey Wind","wasblank":true,"noforce":true,"wikitext":"[[Grey Wind]]"}" data-rte-instance="130814-14549657556cca79d7ff45" href="/wiki/Grey_Wind" title="Grey Wind">Grey Wind</a>, onto Robb's body. He is begrudgingly mentioned as having helped the boastful soldier to his friends.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Mhysa]]\"<\/ref>"}" data-rte-instance="130814-14549657556cca79d7ff45" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-14549657556cca79d7ff45" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no character named Malcolm, as this scene does not take place.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-14549657556cca79d7ff45" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Frey navbox","placeholder":1,"wikitext":"{{Frey navbox}}"}" data-rte-instance="130814-14549657556cca79d7ff45" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Malcolm
+| season=3
+| mentioned=\Mhysa\
+| status=alive
+| allegiance=House frey}}}
+
+ 
+
+Malcolm is a minor character mentioned in Season 3. He is a man-at-arms sworn to House Frey. Biography 
+
+Malcolm partook in the Red Wedding.\The Rains of Castamere (episode)|The Rains of Castamere\\/ref} data-rte-instance130814-14549657556cca79d7ff45 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 3 
+
+Malcolm, along with Talbot and another man-at-arms helped to sew the head of Robb Stark's direwolf, Grey Wind, onto Robb's body. He is begrudgingly mentioned as having helped the boastful soldier to his friends.\Mhysa\\/ref} data-rte-instance130814-14549657556cca79d7ff45 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, there is no character named Malcolm, as this scene does not take place. References 
+
+  Loading editor

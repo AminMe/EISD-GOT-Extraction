@@ -1,29 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Stark-Main-Shield.PNG\n|link = House Stark\n}}"}" data-rte-instance="130814-166869635956cca73ab1a01" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title =Tommy\n|Image = Tommy.jpg\n|Season = [[Season 1|1]]\n|Appearances = \"[[Winter is Coming (episode)|Winter is Coming]]\"\n|Status= [[:Category:Status: Uncertain|Uncertain]]\n|Allegiance = [[House Stark]]\n|Actor = [[Tommy Dunne]]}}"}" data-rte-instance="130814-166869635956cca73ab1a01" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Go on Tommy, shear him good!|Robb Stark to Tommy|Winter is Coming}}"}" data-rte-instance="130814-166869635956cca73ab1a01" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Tommy</b> is a background character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Season_1" title="Season 1">first season</a>. He is played by weapons master <a data-rte-meta="{"type":"internal","text":"Tommy Dunne","link":"Tommy Dunne","wasblank":true,"noforce":true,"wikitext":"[[Tommy Dunne]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Tommy_Dunne" title="Tommy Dunne">Tommy Dunne</a> and only appears in the <a data-rte-meta="{"type":"internal","text":"series premiere","link":"Winter is Coming (episode)","wasblank":false,"noforce":true,"wikitext":"[[Winter is Coming (episode)|series premiere]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Winter_is_Coming_(episode)" title="Winter is Coming (episode)" class="mw-redirect">series premiere</a>. Tommy is the barber at <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Winterfell" title="Winterfell">Winterfell</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">Tommy attends to the grooming of <a data-rte-meta="{"type":"internal","text":"Robb Stark","link":"Robb Stark","wasblank":true,"noforce":true,"wikitext":"[[Robb Stark]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a>, <a data-rte-meta="{"type":"internal","text":"Theon Greyjoy","link":"Theon Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Theon Greyjoy]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Theon Greyjoy</a> and <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> before the king's arrival at Winterfell. He first shaves Robb and then cuts Jon's hair, to Theon and Robb's amusement.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[[Winter is Coming (episode)]]<\/ref>"}" data-rte-instance="130814-166869635956cca73ab1a01" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">Tommy's fate is unknown after Winterfell is sacked by <a data-rte-meta="{"type":"internal","text":"Ramsay Snow","link":"Ramsay Bolton","wasblank":false,"noforce":true,"wikitext":"[[Ramsay Bolton|Ramsay Snow]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay Snow</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|1=note}}"}" data-rte-instance="130814-166869635956cca73ab1a01" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><small data-rte-washtml="1" data-rte-line-start="true"><img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<nowiki>*<\/nowiki>"}" data-rte-instance="130814-166869635956cca73ab1a01" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />Uncredited appearance</small>
-</p>
-<h2 data-rte-empty-lines-before="1">Behind the scenes</h2>
-<p data-rte-fromparser="true">Tommy is played by behind-the-scenes artisan and weaponsmith Tommy Dunne, who forges the weapons used in the series (the joke of course being that he still uses a "blade" of some kind in his on-screen appearance - as the castle's barber).
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">Tommy does not appear in the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-166869635956cca73ab1a01" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Stark navbox","placeholder":1,"wikitext":"{{Stark navbox}}"}" data-rte-instance="130814-166869635956cca73ab1a01" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Tommy","link":"de:Tommy","wasblank":true,"noforce":true,"wikitext":"[[de:Tommy]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="http://de.gameofthrones.wikia.com/wiki/Tommy" class="extiw" title="de:Tommy">de:Tommy</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u0422\u043e\u043c\u043c\u0438","link":"ru:\u0422\u043e\u043c\u043c\u0438","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0422\u043e\u043c\u043c\u0438]]"}" data-rte-instance="130814-166869635956cca73ab1a01" href="http://ru.gameofthrones.wikia.com/wiki/Томми" class="extiw" title="ru:Томми">ru:Томми</a>
-</p>
-   Loading editor
+title=Tommy
+|Image = tommy.jpg
+|season=1
+|appearances=\winter coming\
+|status=uncertain
+|allegiance=House stark
+|actor=Tommy dunne}}}
+
+ Tommy is a background character in the first season. He is played by weapons master Tommy Dunne and only appears in the series premiere. Tommy is the barber at Winterfell. Biography 
+
+ Season 1 
+
+Tommy attends to the grooming of Robb Stark, Theon Greyjoy and Jon Snow before the king's arrival at Winterfell. He first shaves Robb and then cuts Jon's hair, to Theon and Robb's amusement.Winter is Coming (episode)\/ref} data-rte-instance130814-166869635956cca73ab1a01 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
+
+Tommy's fate is unknown after Winterfell is sacked by Ramsay Snow. Appearance 
+
+ *\/nowiki} data-rte-instance130814-166869635956cca73ab1a01 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /Uncredited appearance Behind the scenes 
+
+Tommy is played by behind-the-scenes artisan and weaponsmith Tommy Dunne, who forges the weapons used in the series (the joke of course being that he still uses a blade of some kind in his on-screen appearance - as the castle's barber). In the books 
+
+Tommy does not appear in the A Song of Ice and Fire novels. References 
+
+ 
+
+de:Tommy ru:Томми  Loading editor

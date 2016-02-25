@@ -1,17 +1,37 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Whitehill-Shield-Icon.PNG\n|link=House Whitehill\n}}"}" data-rte-instance="130814-105141802156cca70050acc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Ebbert Whitehill\n|Image = Karl Whitehill Tree.png\n|Season = ''[[Game of Thrones: A Telltale Games Series]]''\n|Mentioned = \"[[Sons of Winter]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[House Whitehill]]<br>[[Maesters|Order of Maesters]]\n|Family = [[Ludd Whitehill]] - father<br>{[[Lady Whitehill]]} - mother<br>{[[Karl Whitehill]]} - brother<br>[[Torrhen Whitehill]] - brother<br>[[Gwyn Whitehill]] - sister<br>[[Gryff Whitehill]] - brother\n|Place = [[Highpoint]]\n|Culture = [[Northmen]]\n|Death =}}"}" data-rte-instance="130814-105141802156cca70050acc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Ebbert's at the Citadel.|[[Gwyn Whitehill]] to [[Rodrik Forrester]]|Sons of Winter}}"}" data-rte-instance="130814-105141802156cca70050acc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Ebbert Whitehill</b> is an unseen character in <a data-rte-meta="{"type":"internal","text":"Game of Thrones: A Telltale Games Series","link":"Game of Thrones: A Telltale Games Series","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones: A Telltale Games Series]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series" title="Game of Thrones: A Telltale Games Series">Game of Thrones: A Telltale Games Series</a>. He is one of the three eldest sons of <a data-rte-meta="{"type":"internal","text":"Lord Ludd Whitehill","link":"Ludd Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Ludd Whitehill|Lord Ludd Whitehill]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Ludd_Whitehill" title="Ludd Whitehill">Lord Ludd Whitehill</a> and <a data-rte-meta="{"type":"internal","text":"Lady Whitehill","link":"Lady Whitehill","wasblank":true,"noforce":true,"wikitext":"[[Lady Whitehill]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Lady_Whitehill" title="Lady Whitehill">Lady Whitehill</a>, brother of <a data-rte-meta="{"type":"internal","text":"Gryff","link":"Gryff Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Gryff Whitehill|Gryff]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Gryff_Whitehill" title="Gryff Whitehill">Gryff</a>, <a data-rte-meta="{"type":"internal","text":"Gwyn","link":"Gwyn Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Gwyn Whitehill|Gwyn]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Gwyn_Whitehill" title="Gwyn Whitehill">Gwyn</a>, <a data-rte-meta="{"type":"internal","text":"Karl","link":"Karl Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Karl Whitehill|Karl]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Karl_Whitehill" title="Karl Whitehill">Karl</a> and <a data-rte-meta="{"type":"internal","text":"Torrhen","link":"Torrhen Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Torrhen Whitehill|Torrhen]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Torrhen_Whitehill" title="Torrhen Whitehill">Torrhen</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>"<a data-rte-meta="{"type":"internal","text":"Sons of Winter","link":"Sons of Winter","wasblank":true,"noforce":true,"wikitext":"[[Sons of Winter]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Sons_of_Winter" title="Sons of Winter">Sons of Winter</a>"</h3>
-<p data-rte-fromparser="true">Ebbert is mentioned when <a data-rte-meta="{"type":"internal","text":"Rodrik Forrester","link":"Rodrik Forrester","wasblank":true,"noforce":true,"wikitext":"[[Rodrik Forrester]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Rodrik_Forrester" title="Rodrik Forrester">Rodrik Forrester</a> visits <a data-rte-meta="{"type":"internal","text":"Highpoint","link":"Highpoint","wasblank":true,"noforce":true,"wikitext":"[[Highpoint]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Highpoint" title="Highpoint">Highpoint</a> and talks with Ebbert's sister, <a data-rte-meta="{"type":"internal","text":"Gwyn","link":"Gwyn Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Gwyn Whitehill|Gwyn]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Gwyn_Whitehill" title="Gwyn Whitehill">Gwyn</a>, regarding a tapestry of the Whitehill family. Ebbert, as a second born son, has been sent to <a data-rte-meta="{"type":"internal","text":"The Citadel","link":"The Citadel","wasblank":true,"noforce":true,"wikitext":"[[The Citadel]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/The_Citadel" title="The Citadel">The Citadel</a> to train to become a <a data-rte-meta="{"type":"internal","text":"maester","link":"maester","wasblank":true,"noforce":true,"wikitext":"[[maester]]"}" data-rte-instance="130814-105141802156cca70050acc" href="/wiki/Maester" title="Maester" class="mw-redirect">maester</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Family Tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Whitehill family tree","placeholder":1,"wikitext":"{{House Whitehill family tree}}"}" data-rte-instance="130814-105141802156cca70050acc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">Image Gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"688d37bcb000e02d8e74c0f2a647e344","id":0,"images":[{"name":"SOW Whitehill Tapestry.png","caption":"Ebbert on a tapestry of the Whitehill family.","link":"","linktext":"","shorttext":"","data-caption":"Ebbert on a tapestry of the Whitehill family."}],"imagesShown":[{"name":"SOW Whitehill Tapestry.png","caption":"Ebbert on a tapestry of the Whitehill family.","link":"","linktext":"","shorttext":"","data-caption":"Ebbert on a tapestry of the Whitehill family."}],"params":{},"type":1,"wikitext":"<gallery>\nSOW Whitehill Tapestry.png|Ebbert on a tapestry of the Whitehill family.\n<\/gallery>"}" data-rte-instance="130814-105141802156cca70050acc" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Whitehill navbox","placeholder":1,"wikitext":"{{Whitehill navbox}}"}" data-rte-instance="130814-105141802156cca70050acc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Ebbert whitehill
+|image=Karl whitehill tree.png
+|season= game of thrones: a telltale games series
+|mentioned=\Sons winter\
+|status=alive
+|allegiance=House whitehillOrder of Maesters
+|Family = Ludd Whitehill - fatherLady Whitehill - motherKarl Whitehill - brotherTorrhen Whitehill - brotherGwyn Whitehill - sisterGryff Whitehill - brother
+|Place = Highpoint
+|Culture = Northmen
+|Death =}}}
+
+ Order of Maesters
+|Family = Ludd Whitehill - father 
+Lady Whitehill - mother 
+Karl Whitehill - brother 
+Torrhen Whitehill - brother 
+Gwyn Whitehill - sister 
+Gryff Whitehill - brother
+|Place = Highpoint
+|Culture = Northmen
+|Death }}} data-rte-instance130814-105141802156cca70050acc classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+
+ 
+
+Ebbert Whitehill is an unseen character in Game of Thrones: A Telltale Games Series. He is one of the three eldest sons of Lord Ludd Whitehill and Lady Whitehill, brother of Gryff, Gwyn, Karl and Torrhen. Biography 
+
+ Sons of Winter 
+
+Ebbert is mentioned when Rodrik Forrester visits Highpoint and talks with Ebbert's sister, Gwyn, regarding a tapestry of the Whitehill family. Ebbert, as a second born son, has been sent to The Citadel to train to become a maester. Family Tree 
+
+ Image Gallery 
+
+
+SOW Whitehill Tapestry.png|Ebbert on a tapestry of the Whitehill family.
+\/gallery} data-rte-instance130814-105141802156cca70050acc srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
+
+  Loading editor

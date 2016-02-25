@@ -1,15 +1,15 @@
-<p data-rte-fromparser="true"><b>Great Wyk</b> is one of the <a data-rte-meta="{"type":"internal","text":"Iron Islands","link":"Iron Islands","wasblank":true,"noforce":true,"wikitext":"[[Iron Islands]]"}" data-rte-instance="130814-80717773556cca8e6209a7" href="/wiki/Iron_Islands" title="Iron Islands">Iron Islands</a>, an archipelago located on <a data-rte-meta="{"type":"internal","text":"Ironman's Bay","link":"Ironman's Bay","wasblank":true,"noforce":true,"wikitext":"[[Ironman's Bay]]"}" data-rte-instance="130814-80717773556cca8e6209a7" href="/wiki/Ironman's_Bay" title="Ironman's Bay">Ironman's Bay</a>, on the western side of <a data-rte-meta="{"type":"internal","text":"Westeros","link":"Westeros","wasblank":true,"noforce":true,"wikitext":"[[Westeros]]"}" data-rte-instance="130814-80717773556cca8e6209a7" href="/wiki/Westeros" title="Westeros">Westeros</a>. It is the largest of the seven main Iron Islands.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">It is also the home of Houses <a data-rte-meta="{"type":"internal","text":"Merlyn","link":"House Merlyn","wasblank":false,"noforce":true,"wikitext":"[[House Merlyn|Merlyn]]"}" data-rte-instance="130814-80717773556cca8e6209a7" href="/wiki/House_Merlyn" title="House Merlyn">Merlyn</a>, <a data-rte-meta="{"type":"internal","text":"Sparr","link":"House Sparr","wasblank":false,"noforce":true,"wikitext":"[[House Sparr|Sparr]]"}" data-rte-instance="130814-80717773556cca8e6209a7" href="/wiki/House_Sparr" title="House Sparr">Sparr</a>, and <a data-rte-meta="{"type":"internal","text":"Goodbrother","link":"House Goodbrother","wasblank":false,"noforce":true,"wikitext":"[[House Goodbrother|Goodbrother]]"}" data-rte-instance="130814-80717773556cca8e6209a7" href="/wiki/House_Goodbrother" title="House Goodbrother">Goodbrother</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>Season 2 bluray: War of the Five Kings feature<\/ref>"}" data-rte-instance="130814-80717773556cca8e6209a7" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> In the books </h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-80717773556cca8e6209a7" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Great Wyk is the largest of the seven main islands that make up the Iron Islands, and thus the only one on which certain noble Houses derive more of their wealth from the land than the sea (such as House Goodbrother, which gains its wealth from iron mines in the island's central hills).  It is still the second wealthiest of the islands overall, behind Harlaw (which is the second largest of the islands).
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-80717773556cca8e6209a7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-80717773556cca8e6209a7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Iron Islands","placeholder":1,"wikitext":"{{Iron Islands}}"}" data-rte-instance="130814-80717773556cca8e6209a7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0412\u0438\u043a","link":"ru:\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0412\u0438\u043a","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u0412\u0438\u043a]]"}" data-rte-instance="130814-80717773556cca8e6209a7" href="http://ru.gameofthrones.wikia.com/wiki/Великий_Вик" class="extiw" title="ru:Великий Вик">ru:Великий Вик</a>
-</p>
-   Loading editor
+Great Wyk is one of the Iron Islands, an archipelago located on Ironman's Bay, on the western side of Westeros. It is the largest of the seven main Iron Islands.
+It is also the home of Houses Merlyn, Sparr, and Goodbrother.Season 2 bluray: War of the Five Kings feature\/ref} data-rte-instance130814-80717773556cca8e6209a7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+ In the books 
+In the A Song of Ice and Fire novels, Great Wyk is the largest of the seven main islands that make up the Iron Islands, and thus the only one on which certain noble Houses derive more of their wealth from the land than the sea (such as House Goodbrother, which gains its wealth from iron mines in the island's central hills).  It is still the second wealthiest of the islands overall, behind Harlaw (which is the second largest of the islands).
+
+See also
+
+
+References
+
+
+ru:Великий Вик
+
+ &nbsp; Loading editor

@@ -1,16 +1,16 @@
-<p data-rte-fromparser="true"><b>House Mayzen</b> is a noble house from <a data-rte-meta="{"type":"internal","text":"Westeros","link":"Westeros","wasblank":true,"noforce":true,"wikitext":"[[Westeros]]"}" data-rte-instance="130814-96770212256cca9b2349f8" href="/wiki/Westeros" title="Westeros">Westeros</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-96770212256cca9b2349f8" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Samwell Tarly","link":"Samwell Tarly","wasblank":true,"noforce":true,"wikitext":"[[Samwell Tarly]]"}" data-rte-instance="130814-96770212256cca9b2349f8" href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> presents some paperwork to Lord Commander <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-96770212256cca9b2349f8" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> consisting of requests to various noble Houses to send new recruits to the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-96770212256cca9b2349f8" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.  Few Houses can spare any men during the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-96770212256cca9b2349f8" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a> so the Watch is left scraping the bottom of the barrel: the requests are mostly to minor lords that Jon says he hasn't even heard of, including Lord Ashford, Lady Caulfield, Lord Smallwood, Lord Mayzen, and Lord Wibberley.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"<\/ref>"}" data-rte-instance="130814-96770212256cca9b2349f8" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<ul><li>Lord Mayzen, head of the house.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-96770212256cca9b2349f8" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no mention of any House Mayzen.  The episode itself makes a joke about this when Jon Snow remarks that he has "never even heard of these people".  
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-96770212256cca9b2349f8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+House Mayzen is a noble house from Westeros.
+
+History
+Season 5
+Samwell Tarly presents some paperwork to Lord Commander Jon Snow consisting of requests to various noble Houses to send new recruits to the Night's Watch.  Few Houses can spare any men during the War of the Five Kings so the Watch is left scraping the bottom of the barrel: the requests are mostly to minor lords that Jon says he hasn't even heard of, including Lord Ashford, Lady Caulfield, Lord Smallwood, Lord Mayzen, and Lord Wibberley.\Sons of the Harpy\\/ref} data-rte-instance130814-96770212256cca9b2349f8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+Members
+Lord Mayzen, head of the house.
+
+In the books
+In the A Song of Ice and Fire novels, there is no mention of any House Mayzen.  The episode itself makes a joke about this when Jon Snow remarks that he has never even heard of these people.  
+
+References
+
+
+ &nbsp; Loading editor

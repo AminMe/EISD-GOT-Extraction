@@ -1,17 +1,16 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble_house \n","placeholder":1,"wikitext":"{{Noble_house \n|Title = House Oakheart \n|Sigil = Three green leaves on a golden plain \n|Motto = \"Our Roots Go Deep\" \n|Seat = [[Old Oak]] \n|Region = [[The Reach]]\n|Allegiance = [[House Tyrell]]}}"}" data-rte-instance="130814-166881423256cca97fe0019" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Oakheart</b> is a vassal house from <a data-rte-meta="{"type":"internal","text":"the Reach","link":"the Reach","wasblank":true,"noforce":true,"wikitext":"[[the Reach]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/The_Reach" title="The Reach">the Reach</a> that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Tyrell","link":"House Tyrell","wasblank":true,"noforce":true,"wikitext":"[[House Tyrell]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/House_Tyrell" title="House Tyrell">House Tyrell</a>. Its seat is <a data-rte-meta="{"type":"internal","text":"Old Oak","link":"Old Oak","wasblank":true,"noforce":true,"wikitext":"[[Old Oak]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/Old_Oak" title="Old Oak">Old Oak</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<ul><li data-rte-spaces-before="1">Ser <a data-rte-meta="{"type":"internal","text":"Arys Oakheart","link":"Arys Oakheart","wasblank":true,"noforce":true,"wikitext":"[[Arys Oakheart]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/Arys_Oakheart" title="Arys Oakheart">Arys Oakheart</a>, a member of the <a data-rte-meta="{"type":"internal","text":"Kingsguard","link":"Kingsguard","wasblank":true,"noforce":true,"wikitext":"[[Kingsguard]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/Kingsguard" title="Kingsguard">Kingsguard</a>. Served as Princess <a data-rte-meta="{"type":"internal","text":"Myrcella Baratheon","link":"Myrcella Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Myrcella Baratheon]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/Myrcella_Baratheon" title="Myrcella Baratheon">Myrcella Baratheon</a>'s escort to Dorne. Later returned to King's Landing after the death of King <a data-rte-meta="{"type":"internal","text":"Joffrey Baratheon","link":"Joffrey Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Joffrey Baratheon]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a>.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i>, House Oakheart is an old and powerful family from the Reach. They are among the noble houses from the Reach that can trace their descent from <a data-rte-meta="{"type":"internal","text":"Garth Greenhand","link":"Garth Greenhand","wasblank":true,"noforce":true,"wikitext":"[[Garth Greenhand]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/Garth_Greenhand" title="Garth Greenhand" class="mw-redirect">Garth Greenhand</a>. The house is headed by Lady Arwyn Oakheart, a loyal vassal of <a data-rte-meta="{"type":"internal","text":"Mace Tyrell","link":"Mace Tyrell","wasblank":true,"noforce":true,"wikitext":"[[Mace Tyrell]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="/wiki/Mace_Tyrell" title="Mace Tyrell">Mace Tyrell</a> and Ser Arys' mother. The Oakheart sigil is three green leaves on a golden plain.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-166881423256cca97fe0019" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reach Houses","placeholder":1,"wikitext":"{{Reach Houses}}"}" data-rte-instance="130814-166881423256cca97fe0019" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"fr:Maison du Rouvre","link":"fr:Maison du Rouvre","wasblank":true,"noforce":true,"wikitext":"[[fr:Maison du Rouvre]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="http://fr.game-of-thrones.wikia.com/wiki/Maison_du_Rouvre" class="extiw" title="fr:Maison du Rouvre">fr:Maison du Rouvre</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u5965\u514b\u8d6b\u7279\u5bb6\u65cf","link":"zh:\u5965\u514b\u8d6b\u7279\u5bb6\u65cf","wasblank":true,"noforce":true,"wikitext":"[[zh:\u5965\u514b\u8d6b\u7279\u5bb6\u65cf]]"}" data-rte-instance="130814-166881423256cca97fe0019" href="http://zh.asoiaf.wikia.com/wiki/奥克赫特家族" class="extiw" title="zh:奥克赫特家族">zh:奥克赫特家族</a>
-</p>
-   Loading editor
+title=House oakheart 
+|sigil=Three green leaves on a golden plain 
+|motto=\Our roots go deep\ 
+|seat=Old oak 
+|region=The reach
+|allegiance=House tyrell}}}
+
+ 
+
+House Oakheart is a vassal house from the Reach that holds fealty to House Tyrell. Its seat is Old Oak. Members Ser Arys Oakheart, a member of the Kingsguard. Served as Princess Myrcella Baratheon's escort to Dorne. Later returned to King's Landing after the death of King Joffrey Baratheon. In the books 
+
+In A Song of Ice and Fire, House Oakheart is an old and powerful family from the Reach. They are among the noble houses from the Reach that can trace their descent from Garth Greenhand. The house is headed by Lady Arwyn Oakheart, a loyal vassal of Mace Tyrell and Ser Arys' mother. The Oakheart sigil is three green leaves on a golden plain. See also (spoilers from the books) 
+
+ 
+
+fr:Maison du Rouvre zh:奥克赫特家族  Loading editor

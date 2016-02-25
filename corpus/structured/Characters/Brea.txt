@@ -1,35 +1,35 @@
 {{Character
 | Title = Brea
 | Image = Brea.png
-| Season = [[Season 5|5]]
+| Season = 5
 | First=
 | Last=
-| Appearances="[[The Dance of Dragons]]"
-| Status= [[:Category:Status: Alive|Alive]]
+| Appearances=The Dance of Dragons
+| Status= Alive
 | Titles=
 | Aka=
-| Place = [[Braavos]]
-| Actor =[[Gemita Samarra]]}}
-{{Quote|Too old.|Ser [[Meryn Trant]]'s opinion on Brea.|The Dance of Dragons}}
-'''Brea''' is a minor character in the [[Season 5|fifth]] season. She is played by [[Gemita Samarra]] and appears in "[[The Dance of Dragons]]".<ref>[http://www.imdb.com/title/tt3866826]</ref><ref>[http://instagram.com/p/vjcGUXmrB3/]</ref>
+| Place = Braavos
+| Actor =Gemita Samarra}}
+Quote|Too old.|Ser Meryn Trant's opinion on Brea.|The Dance of Dragons
+Brea is a minor character in the fifth season. She is played by Gemita Samarra and appears in The Dance of Dragons.http://www.imdb.com/title/tt3866826http://instagram.com/p/vjcGUXmrB3/
 
-==Biography==
-===Background===
-Brea is a [[prostitute]] living in [[Braavos]].
+Biography
+Background
+Brea is a prostitute living in Braavos.
 
-===[[Season 5]]===
-Brea is brought to Ser [[Meryn Trant]] by the brothel's [[Braavosi Madam|madam]] after he dismisses [[Braavosi Prostitute|another whore]] for being too old. Meryn, however, also finds Brea too old and dismisses her as well.
+Season 5
+Brea is brought to Ser Meryn Trant by the brothel's madam after he dismisses another whore for being too old. Meryn, however, also finds Brea too old and dismisses her as well.
 
-== Appearances ==
-{{Season Five Appearances|9 = yes}}
+ Appearances 
+Season Five Appearances|9 = yes
 
-==In the books==
+In the books
 
-In the ''[[A Song of Ice and Fire]]'' novels, Brea is not a prostitute but the eldest daughter of [[Brusco]], who is not a brothel bouncer but a fishmonger that briefly takes [[Arya]] in.
+In the A Song of Ice and Fire novels, Brea is not a prostitute but the eldest daughter of Brusco, who is not a brothel bouncer but a fishmonger that briefly takes Arya in.
 
-==See also==
-*{{AWOIAF}} (MAJOR spoilers from the books)
+See also
+*AWOIAF (MAJOR spoilers from the books)
 
-==References==
-{{reflist}}
-{{DEFAULTSORT:Brea}}
+References
+reflist
+DEFAULTSORT:Brea

@@ -4,53 +4,53 @@
 }}
 {{Character
 | Title=Euron Greyjoy
-| Season=[[Season 6|6]]
+| Season=6
 | First=
 | Last=
-| Mentioned= "[[Cripples, Bastards and Broken Things]]"
+| Mentioned= Cripples, Bastards and Broken Things
 | Aka=
-| Status= [[:Category:Status: Alive|Alive]]
+| Status= Alive
 | Titles=
 | Death=
-| Place=[[Pyke (castle)|Pyke]]
-| Allegiance=[[House Greyjoy]]
-| Family= [[Balon Greyjoy]] - brother<br>[[Victarion Greyjoy]] - brother<br>[[Aeron Greyjoy]] - brother<br>[[Alannys Greyjoy]] - sister-in-law<br>{[[Rodrik Greyjoy]]} - nephew<br>{[[Maron Greyjoy]]} - nephew<br>[[Yara Greyjoy]] - niece<br>[[Theon Greyjoy]] - nephew
-| Actor=[[Pilou Asbæk]]
-|Culture = [[Ironborn]]}}
-{{Quote|I still remember seeing [[Tywin Lannister|my father]]'s fleet burn in [[Lannisport]]. I believe your uncles were responsible.|[[Tyrion Lannister]] to [[Theon Greyjoy]] in Season 1.|Cripples, Bastards and Broken Things}}
-'''Euron Greyjoy''' is a character set to appear in the [[Season 6|sixth season]], though he was previously mentioned indirectly in the [[Season 1]] episode "[[Cripples, Bastards and Broken Things]]". He will be portrayed by [[Pilou Asbæk]]. He is the younger brother of King [[Balon Greyjoy]], older brother of [[Aeron Greyjoy]], and the eldest uncle of [[Theon Greyjoy|Theon]] and [[Yara Greyjoy]].
+| Place=Pyke
+| Allegiance=House Greyjoy
+| Family= Balon Greyjoy - brotherVictarion Greyjoy - brotherAeron Greyjoy - brotherAlannys Greyjoy - sister-in-lawRodrik Greyjoy - nephewMaron Greyjoy - nephewYara Greyjoy - nieceTheon Greyjoy - nephew
+| Actor=Pilou Asbæk
+|Culture = Ironborn}}
+Quote|I still remember seeing my father's fleet burn in Lannisport. I believe your uncles were responsible.|Tyrion Lannister to Theon Greyjoy in Season 1.|Cripples, Bastards and Broken Things
+Euron Greyjoy&nbsp;is a character set to appear in the sixth season, though he was previously mentioned indirectly in the Season 1 episode Cripples, Bastards and Broken Things. He will be portrayed by Pilou Asbæk. He is the younger brother of King Balon Greyjoy, older brother of Aeron Greyjoy, and the eldest uncle of&nbsp;Theon and Yara Greyjoy.
 
-"Euron" is pronounced "Your-on", not "You-ron" or "Yew-ron".<ref>[http://watchersonthewall.com/exclusive-exciting-news-about-northern-ireland-filming/ ]</ref>
+Euron is pronounced Your-on, not You-ron or Yew-ron.http://watchersonthewall.com/exclusive-exciting-news-about-northern-ireland-filming/ 
 
-==Biography==
-===Background===
-Euron Greyjoy is the younger brother of [[Balon Greyjoy]], head of [[House Greyjoy]], [[Lord Reaper of Pyke]] and self-fashioned [[King of the Iron Islands]].<ref>http://viewers-guide.hbo.com/game-of-thrones/#!/guide/houses/greyjoy/</ref>
-===[[Season 1]]===
-[[Tyrion Lannister]] tells Theon about his memories of witnessing the [[Raid on Lannisport]] which Tyrion says was caused by Theon's uncles.<ref>"[[Cripples, Bastards and Broken Things]]"</ref>
+Biography
+Background
+Euron Greyjoy is the younger brother of Balon Greyjoy, head of House Greyjoy, Lord Reaper of Pyke and self-fashioned King of the Iron Islands.http://viewers-guide.hbo.com/game-of-thrones/#!/guide/houses/greyjoy/
+Season 1
+Tyrion Lannister tells Theon about his memories of witnessing the Raid on Lannisport which Tyrion says was caused by Theon's uncles.Cripples, Bastards and Broken Things
 
-==Family tree==
-{{House Greyjoy family tree}}
+Family tree
+House Greyjoy family tree
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, Euron is a wildly unpredictable and cruel man, known for his delight in playing vicious mind games and waging psychological warfare on anyone and everyone around him. He is hated by all his brothers, particularly [[Victarion Greyjoy|Victarion]]. He wears a patch over his left eye, which is nicknamed his "Crow's Eye", though it is unclear what he hides beneath the patch.  He is captain of the ship ''Silence'', crewed entirely by mutes - to keep the crew from revealing any of his secrets, Euron personally ripped the tongues out of each of their mouths.  
+In the books
+In the A Song of Ice and Fire novels, Euron is a wildly unpredictable and cruel man, known for his delight in playing vicious mind games and waging psychological warfare on anyone and everyone around him. He is hated by all his brothers, particularly Victarion. He wears a patch over his left eye, which is nicknamed his Crow's Eye, though it is unclear what he hides beneath the patch.  He is captain of the ship Silence, crewed entirely by mutes - to keep the crew from revealing any of his secrets, Euron personally ripped the tongues out of each of their mouths.  
 
-Euron has never been married. He has several bastard children, but does not have any regard for any of them, none were officially acknowledged, and none have been introduced in the narrative (it is mentioned in passing that one is a ten year old boy with woolly hair and mud-brown skin, apparently fathered on a woman from [[Sothoryos]] or the [[Summer Islands]]).  
+Euron has never been married. He has several bastard children, but does not have any regard for any of them, none were officially acknowledged, and none have been introduced in the narrative (it is mentioned in passing that one is a ten year old boy with woolly hair and mud-brown skin, apparently fathered on a woman from Sothoryos or the Summer Islands).  
 
-Unlike many ironborn (including Balon), Euron is a cunning strategist skilled at both politics and military tactics. It was Euron who came up with the battle plan for the surprise [[Raid on Lannisport]] during the [[Greyjoy Rebellion]], which burned [[Tywin Lannister]]'s entire fleet at anchor before it could respond to the ironborn's declaration of independence. Victarion commanded the actual assault itself, following Euron's plan.
+Unlike many ironborn (including Balon), Euron is a cunning strategist skilled at both politics and military tactics. It was Euron who came up with the battle plan for the surprise Raid on Lannisport during the Greyjoy Rebellion, which burned Tywin Lannister's entire fleet at anchor before it could respond to the ironborn's declaration of independence. Victarion commanded the actual assault itself, following Euron's plan.
 
-Several years ago, Euron raped and impregnated Victarion's third wife, which drove Victarion to beat her to death in an honor killing, so he would not be put to shame as a cuckold. Euron flippantly claimed that it was not rape and he in fact seduced Victarion's wife willingly, but due to Euron's pervasive lying and mind games he may have just said this to mock his brother. Victarion would have killed Euron too, but Balon forbid it, though only because he would not have the taboo of [[Kinslaying|kinslaying]] in his own halls. Balon still sympathized with Victarion and renounced Euron as his brother. As punishment, Balon exiled Euron from the Iron Islands, never to return, so he is not present when [[Theon Greyjoy|Theon]] returns to Pyke in the second novel. Victarion still deeply hates Euron and wishes him dead.
+Several years ago, Euron raped and impregnated Victarion's third wife, which drove Victarion to beat her to death in an honor killing, so he would not be put to shame as a cuckold. Euron flippantly claimed that it was not rape and he in fact seduced Victarion's wife willingly, but due to Euron's pervasive lying and mind games he may have just said this to mock his brother. Victarion would have killed Euron too, but Balon forbid it, though only because he would not have the taboo of kinslaying in his own halls. Balon still sympathized with Victarion and renounced Euron as his brother. As punishment, Balon exiled Euron from the Iron Islands, never to return, so he is not present when Theon returns to Pyke in the second novel. Victarion still deeply hates Euron and wishes him dead.
 
-Euron's actions also made him very unpopular with the [[Drowned Men]] priests, who deride him as an "ungodly" man. There aren't many things that the [[Drowned God]] religion won't stand for - given that it considers raiding and pillaging to be holy acts - but raping your own brother's wife is one of them.
+Euron's actions also made him very unpopular with the Drowned Men priests, who deride him as an ungodly man. There aren't many things that the Drowned God religion won't stand for - given that it considers raiding and pillaging to be holy acts - but raping your own brother's wife is one of them.
 
-After being banished from the Iron Islands, Euron sailed his ship far to the east raiding and plundering as an infamous pirate, and he claims to have sailed to the far corners of the known world where other men fear to venture, from distant [[Asshai]] to the smoking ruins of [[Old Valyria]].  While in the east he picked up the habit of drinking [[Shade of the evening]], like the [[Warlocks]] of [[Qarth]], and as with the warlocks the potion has stained his lips blue.
+After being banished from the Iron Islands, Euron sailed his ship far to the east raiding and plundering as an infamous pirate, and he claims to have sailed to the far corners of the known world where other men fear to venture, from distant Asshai to the smoking ruins of Old Valyria.  While in the east he picked up the habit of drinking Shade of the evening, like the Warlocks of Qarth, and as with the warlocks the potion has stained his lips blue.
 
-==See also==
-* {{AWOIAF}} (MAJOR spoilers from the books)
+See also
+* AWOIAF (MAJOR spoilers from the books)
 
-==References==
-{{Reflist}}
-{{Greyjoy navbox}}
-{{DEFAULTSORT:Greyjoy, Euron}}
+References
+Reflist
+Greyjoy navbox
+DEFAULTSORT:Greyjoy, Euron
 
-[[de:Euron Graufreud]]
-[[pl:Euron Greyjoy]]
+de:Euron Graufreud
+pl:Euron Greyjoy

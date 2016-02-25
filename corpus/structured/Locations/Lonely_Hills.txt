@@ -1,20 +1,20 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[Image:505 Bolton map 1.jpg|thumb|250px|The Lonely Hills on the Boltons' map in &quot;[[Kill the Boy]]&quot;.]]","title":"505_Bolton_map_1.jpg","params":{"thumbnail":true,"alt":"505 Bolton map 1","caption":"The Lonely Hills on the Boltons' map in \"[[Kill the Boy]]\".","width":250,"captionParsed":"The Lonely Hills on the Boltons' map in \"<a _rte_dataidx=\"0000\" href=\"\/wiki\/Kill_the_Boy\" title=\"Kill the Boy\">Kill the Boy<\/a>\"."}}" data-rte-instance="130814-156187733256cca8dd292f9" alt="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/0/05/505_Bolton_map_1.jpg/revision/latest/scale-to-width-down/250?cb=20150606014911" width="250" height="140" class="image thumb withCaption" data-image-name="505 Bolton map 1.jpg" data-image-key="505_Bolton_map_1.jpg"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->The <b>Lonely Hills</b> are a series of hills in <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-156187733256cca8dd292f9" href="/wiki/The_North" title="The North">the North</a>, within the lands of <a data-rte-meta="{"type":"internal","text":"House Umber","link":"House Umber","wasblank":true,"noforce":true,"wikitext":"[[House Umber]]"}" data-rte-instance="130814-156187733256cca8dd292f9" href="/wiki/House_Umber" title="House Umber">House Umber</a>.  
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">They are located east of <a data-rte-meta="{"type":"internal","text":"Long Lake","link":"Long Lake","wasblank":true,"noforce":true,"wikitext":"[[Long Lake]]"}" data-rte-instance="130814-156187733256cca8dd292f9" href="/wiki/Long_Lake" title="Long Lake">Long Lake</a>, just northwest of <a data-rte-meta="{"type":"internal","text":"the Dreadfort","link":"The Dreadfort","wasblank":false,"noforce":true,"wikitext":"[[The Dreadfort|the Dreadfort]]"}" data-rte-instance="130814-156187733256cca8dd292f9" href="/wiki/The_Dreadfort" title="The Dreadfort">the Dreadfort</a>, and some distance south from <a data-rte-meta="{"type":"internal","text":"Last Hearth","link":"Last Hearth","wasblank":true,"noforce":true,"wikitext":"[[Last Hearth]]"}" data-rte-instance="130814-156187733256cca8dd292f9" href="/wiki/Last_Hearth" title="Last Hearth">Last Hearth</a> and the <a data-rte-meta="{"type":"internal","text":"Last River","link":"Last River","wasblank":true,"noforce":true,"wikitext":"[[Last River]]"}" data-rte-instance="130814-156187733256cca8dd292f9" href="/wiki/Last_River" title="Last River">Last River</a>.  
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">The <a data-rte-meta="{"type":"internal","text":"White Knife","link":"White Knife","wasblank":true,"noforce":true,"wikitext":"[[White Knife]]"}" data-rte-instance="130814-156187733256cca8dd292f9" href="/wiki/White_Knife" title="White Knife">White Knife</a> river flows south out of Long Lake to the west:  a tributary of the White Knife originates in the Lonely Hills, merging with the main river further south.  
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-156187733256cca8dd292f9" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">The Lonely Hills appear on a map that the Boltons look over.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Kill the Boy]]\"<\/ref>"}" data-rte-instance="130814-156187733256cca8dd292f9" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-156187733256cca8dd292f9" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Lonely Hills are within the lands of House Umber.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-156187733256cca8dd292f9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-156187733256cca8dd292f9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The North","placeholder":1,"wikitext":"{{The North}}"}" data-rte-instance="130814-156187733256cca8dd292f9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+Kill the Boy\\.}} data-rte-instance130814-156187733256cca8dd292f9 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/0/05/505_Bolton_map_1.jpg/revision/latest/scale-to-width-down/250?cb20150606014911 width250 height140 classimage thumb withCaption data-image-name505 Bolton map 1.jpg data-image-key505_Bolton_map_1.jpg  typeimage /
+The Lonely Hills are a series of hills in the North, within the lands of House Umber.  
+They are located east of Long Lake, just northwest of the Dreadfort, and some distance south from Last Hearth and the Last River.  
+The White Knife river flows south out of Long Lake to the west:  a tributary of the White Knife originates in the Lonely Hills, merging with the main river further south.  
+
+History
+Season 5
+The Lonely Hills appear on a map that the Boltons look over.\Kill the Boy\\/ref} data-rte-instance130814-156187733256cca8dd292f9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+In the books
+In the A Song of Ice and Fire novels, the Lonely Hills are within the lands of House Umber.
+
+See also
+
+
+References
+
+
+
+ &nbsp; Loading editor

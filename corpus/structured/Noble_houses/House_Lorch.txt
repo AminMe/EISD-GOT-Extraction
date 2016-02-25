@@ -1,26 +1,34 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Lorch]]\n| Image=\n| Sigil=A black [[manticore]] on a red field\n| Words=\n| Titles=\n| Seat=\n| Region=The [[Westerlands]]\n| Lord=\n| Heir=\n| Allegiance=[[House Lannister]]\n| Vassals=\n| Age=\n| Founder=\n|ImageSize = }}"}" data-rte-instance="130814-109345058656cca97ac564a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Lorch</b> is a knightly house of the <a data-rte-meta="{"type":"internal","text":"Westerlands","link":"Westerlands","wasblank":true,"noforce":true,"wikitext":"[[Westerlands]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/Westerlands" title="Westerlands" class="mw-redirect">Westerlands</a>. They are sworn to <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> of <a data-rte-meta="{"type":"internal","text":"Casterly Rock","link":"Casterly Rock","wasblank":true,"noforce":true,"wikitext":"[[Casterly Rock]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/Casterly_Rock" title="Casterly Rock">Casterly Rock</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<ul><li data-rte-spaces-before="1">Ser {<a data-rte-meta="{"type":"internal","text":"Amory Lorch","link":"Amory Lorch","wasblank":true,"noforce":true,"wikitext":"[[Amory Lorch]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/Amory_Lorch" title="Amory Lorch">Amory Lorch</a>}, a knight in the service of Lord <a data-rte-meta="{"type":"internal","text":"Tywin Lannister","link":"Tywin Lannister","wasblank":true,"noforce":true,"wikitext":"[[Tywin Lannister]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref name=\"House Lannister viewers guide\">[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/lannister\/ HBO viewers guide, season 2 guide to houses, House Lannister entry]<\/ref>"}" data-rte-instance="130814-109345058656cca97ac564a" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" /> Poisoned by <a data-rte-meta="{"type":"internal","text":"Jaqen H'ghar","link":"Jaqen H'ghar","wasblank":true,"noforce":true,"wikitext":"[[Jaqen H'ghar]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/Jaqen_H'ghar" title="Jaqen H'ghar">Jaqen H'ghar</a> at <a data-rte-meta="{"type":"internal","text":"Arya Stark","link":"Arya Stark","wasblank":true,"noforce":true,"wikitext":"[[Arya Stark]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a>'s behest.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">Ser Amory Lorch fights for <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> during the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the only known members of House Lorch are Ser Amory and Ser Lorent Lorch.
-</p>
-<h2 data-rte-empty-lines-before="1">Image Gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"433ab21b917b4c14595ad656f2e256f9","id":0,"images":[{"name":"Amory 2x03.jpg","caption":"Ser Amory Lorch in \"[[What is Dead May Never Die]].\"","link":"","linktext":"","shorttext":"","data-caption":"Ser Amory Lorch in \"[[What is Dead May Never Die]].\""}],"imagesShown":[{"name":"Amory 2x03.jpg","caption":"Ser Amory Lorch in \"[[What is Dead May Never Die]].\"","link":"","linktext":"","shorttext":"","data-caption":"Ser Amory Lorch in \"[[What is Dead May Never Die]].\""}],"params":{},"type":1,"wikitext":"<gallery>\nAmory 2x03.jpg|Ser Amory Lorch in \"[[What is Dead May Never Die]].\"\n<\/gallery>"}" data-rte-instance="130814-109345058656cca97ac564a" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-109345058656cca97ac564a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-109345058656cca97ac564a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Western Houses","placeholder":1,"wikitext":"{{Western Houses}}"}" data-rte-instance="130814-109345058656cca97ac564a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Lorch","link":"de:Haus Lorch","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Lorch]]"}" data-rte-instance="130814-109345058656cca97ac564a" href="http://de.gameofthrones.wikia.com/wiki/Haus_Lorch" class="extiw" title="de:Haus Lorch">de:Haus Lorch</a>
-</p>
-   Loading editor
+title=House lorch
+| image=
+| sigil=A black manticore on a red field
+| words=
+| titles=
+| seat=
+| region=The westerlands
+| lord=
+| heir=
+| allegiance=House lannister
+| vassals=
+| age=
+| founder=
+|ImageSize = }}}
+
+ 
+
+House Lorch is a knightly house of the Westerlands. They are sworn to House Lannister of Casterly Rock. Members Ser Amory Lorch, a knight in the service of Lord Tywin Lannister.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/lannister\/ HBO viewers guide, season 2 guide to houses, House Lannister entry\/ref} data-rte-instance130814-109345058656cca97ac564a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Poisoned by Jaqen H'ghar at Arya Stark's behest. History 
+
+ Season 2 
+
+Ser Amory Lorch fights for House Lannister during the War of the Five Kings. In the books 
+
+In the A Song of Ice and Fire novels, the only known members of House Lorch are Ser Amory and Ser Lorent Lorch. Image Gallery 
+
+
+Amory 2x03.jpg|Ser Amory Lorch in \What is Dead May Never Die.\
+\/gallery} data-rte-instance=130814-109345058656cca97ac564a srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+
+ See also (spoilers from the books) 
+
+ 
+
+de:Haus Lorch  Loading editor

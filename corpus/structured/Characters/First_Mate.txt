@@ -1,22 +1,32 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Greyjoy-Shield-Icon.PNG\n|link = House Greyjoy\n}}"}" data-rte-instance="130814-50044769856cca80e41619" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = First Mate\n|Image = First_mate.png\n|Season = [[Season 4|4]]\n|First = \"[[The Laws of Gods and Men]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[House Greyjoy]]\n|Culture = [[Ironborn]]\n|Religion = [[Drowned God]]\n|Actor = [[Rhodri Miles]]\n|Appearances = 1 episode <small>[[#Appearances|(see below)]]<\/small>\n}}"}" data-rte-instance="130814-50044769856cca80e41619" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">The <b>first mate</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Rhodri Miles","link":"Rhodri Miles","wasblank":true,"noforce":true,"wikitext":"[[Rhodri Miles]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Rhodri_Miles" title="Rhodri Miles">Rhodri Miles</a> and debuts in "<a data-rte-meta="{"type":"internal","text":"The Laws of Gods and Men","link":"The Laws of Gods and Men","wasblank":true,"noforce":true,"wikitext":"[[The Laws of Gods and Men]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/The_Laws_of_Gods_and_Men" title="The Laws of Gods and Men">The Laws of Gods and Men</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">He is one of the fifty best <a data-rte-meta="{"type":"internal","text":"ironborn","link":"ironborn","wasblank":true,"noforce":true,"wikitext":"[[ironborn]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Ironborn" title="Ironborn">ironborn</a> fighters and follows <a data-rte-meta="{"type":"internal","text":"Yara Greyjoy","link":"Yara Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Yara Greyjoy]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Yara_Greyjoy" title="Yara Greyjoy">Yara Greyjoy</a> after she chooses him to go with her to <a data-rte-meta="{"type":"internal","text":"the Dreadfort","link":"the Dreadfort","wasblank":true,"noforce":true,"wikitext":"[[the Dreadfort]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/The_Dreadfort" title="The Dreadfort">the Dreadfort</a> to rescue <a data-rte-meta="{"type":"internal","text":"Theon Greyjoy","link":"Theon Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Theon Greyjoy]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Theon Greyjoy</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">He enters the Dreadfort under the command of Yara Greyjoy as they try to take <a data-rte-meta="{"type":"internal","text":"Theon Greyjoy","link":"Theon Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Theon Greyjoy]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Theon Greyjoy</a> back to the <a data-rte-meta="{"type":"internal","text":"Iron Islands","link":"Iron Islands","wasblank":true,"noforce":true,"wikitext":"[[Iron Islands]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Iron_Islands" title="Iron Islands">Iron Islands</a>. They fight fiercely and kill many <a data-rte-meta="{"type":"internal","text":"Bolton","link":"House Bolton","wasblank":false,"noforce":true,"wikitext":"[[House Bolton|Bolton]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/House_Bolton" title="House Bolton">Bolton</a> men, but when <a data-rte-meta="{"type":"internal","text":"Ramsay Snow","link":"Ramsay Bolton","wasblank":false,"noforce":true,"wikitext":"[[Ramsay Bolton|Ramsay Snow]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay Snow</a> sets his <a data-rte-meta="{"type":"internal","text":"hunting dogs","link":"Bastard's girls","wasblank":false,"noforce":true,"wikitext":"[[Bastard's girls|hunting dogs]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/Bastard's_girls" title="Bastard's girls">hunting dogs</a> free, they are forced to retreat to their boat.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[[The Laws of Gods and Men]]<\/ref>"}" data-rte-instance="130814-50044769856cca80e41619" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Four Appearances","placeholder":1,"wikitext":"{{Template:Season Four Appearances||||||yes}}"}" data-rte-instance="130814-50044769856cca80e41619" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-50044769856cca80e41619" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Asha Greyjoy's crew adore her devotedly. Half of them love her as their daughter, the other half want to have sex with her, and all of them would die for her.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-50044769856cca80e41619" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041f\u0435\u0440\u0432\u044b\u0439 \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a","link":"ru:\u041f\u0435\u0440\u0432\u044b\u0439 \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041f\u0435\u0440\u0432\u044b\u0439 \u043f\u043e\u043c\u043e\u0449\u043d\u0438\u043a]]"}" data-rte-instance="130814-50044769856cca80e41619" href="http://ru.gameofthrones.wikia.com/wiki/Первый_помощник" class="extiw" title="ru:Первый помощник">ru:Первый помощник</a>
-</p>
-   Loading editor
+title=First mate
+|image=First_mate.png
+|Season = 4
+|first=\The laws of gods and men\
+|status=alive
+|allegiance=House greyjoy
+|culture=Ironborn
+|Religion drowned god
+|actor=Rhodri miles
+|appearances=1 episode (see below)\/small
+}}}
+
+ 
+
+(see below)\/small
+}}} data-rte-instance130814-50044769856cca80e41619 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+
+The first mate is an unnamed minor character in the fourth season. He is played by guest star Rhodri Miles and debuts in The Laws of Gods and Men. Biography 
+
+ Background 
+
+He is one of the fifty best ironborn fighters and follows Yara Greyjoy after she chooses him to go with her to the Dreadfort to rescue Theon Greyjoy. Season 4 
+
+He enters the Dreadfort under the command of Yara Greyjoy as they try to take Theon Greyjoy back to the Iron Islands. They fight fiercely and kill many Bolton men, but when Ramsay Snow sets his hunting dogs free, they are forced to retreat to their boat.The Laws of Gods and Men\/ref} data-rte-instance130814-50044769856cca80e41619 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Asha Greyjoy's crew adore her devotedly. Half of them love her as their daughter, the other half want to have sex with her, and all of them would die for her. References 
+
+ 
+
+ru:Первый помощник  Loading editor

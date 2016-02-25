@@ -1,22 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Haystack Hall\n| Image=\n| Image size=\n| Location=[[Westeros]], [[the Stormlands]]\n| Type=\n| Population=\n| Rulers=[[House Errol]]\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-127553956156cca911c6290" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Dialogue a-b-a","placeholder":1,"wikitext":"{{Dialogue a-b-a|Ros|We do things differently here, Daisy. This isn't some five-copper bawdy house in Hastings Hall.|Daisy|Haystack Hall.|Wherever you're from.|[[Ros]] giving Daisy a tour of the brothel.|The North Remembers}}"}" data-rte-instance="130814-127553956156cca911c6290" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[Image:Haystack Hall Pin.png|thumb|right|200px|A map showing the location of Haystack Hall on the continent of Westeros.]]","title":"Haystack_Hall_Pin.png","params":{"thumbnail":true,"alt":"Haystack Hall Pin","align":"right","caption":"A map showing the location of Haystack Hall on the continent of Westeros.","width":200,"captionParsed":"A map showing the location of Haystack Hall on the continent of Westeros."}}" data-rte-instance="130814-127553956156cca911c6290" alt="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/1/10/Haystack_Hall_Pin.png/revision/latest/scale-to-width-down/200?cb=20120410141611" width="200" height="516" class="image thumb alignRight withCaption" data-image-name="Haystack Hall Pin.png" data-image-key="Haystack_Hall_Pin.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Haystack Hall</b> is a castle in the <a data-rte-meta="{"type":"internal","text":"Stormlands","link":"Stormlands","wasblank":true,"noforce":true,"wikitext":"[[Stormlands]]"}" data-rte-instance="130814-127553956156cca911c6290" href="/wiki/Stormlands" title="Stormlands" class="mw-redirect">Stormlands</a>. It is the seat of <a data-rte-meta="{"type":"internal","text":"House Errol","link":"House Errol","wasblank":true,"noforce":true,"wikitext":"[[House Errol]]"}" data-rte-instance="130814-127553956156cca911c6290" href="/wiki/House_Errol" title="House Errol">House Errol</a>, located northeast of <a data-rte-meta="{"type":"internal","text":"Bronzegate","link":"Bronzegate","wasblank":true,"noforce":true,"wikitext":"[[Bronzegate]]"}" data-rte-instance="130814-127553956156cca911c6290" href="/wiki/Bronzegate" title="Bronzegate">Bronzegate</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Season 2</h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Daisy","link":"Daisy","wasblank":true,"noforce":true,"wikitext":"[[Daisy]]"}" data-rte-instance="130814-127553956156cca911c6290" href="/wiki/Daisy" title="Daisy">Daisy</a>, a newly acquired prostitute at Lord <a data-rte-meta="{"type":"internal","text":"Petyr Baelish","link":"Petyr Baelish","wasblank":true,"noforce":true,"wikitext":"[[Petyr Baelish]]"}" data-rte-instance="130814-127553956156cca911c6290" href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish</a>'s brothel, was originally from Haystack Hall.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The North Remembers]]\"<\/ref>"}" data-rte-instance="130814-127553956156cca911c6290" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the books, Haystack Hall is the seat of House Errol. It is located to the east of the <a data-rte-meta="{"type":"internal","text":"Kingsroad","link":"Kingsroad","wasblank":true,"noforce":true,"wikitext":"[[Kingsroad]]"}" data-rte-instance="130814-127553956156cca911c6290" href="/wiki/Kingsroad" title="Kingsroad">Kingsroad</a> and north of <a data-rte-meta="{"type":"internal","text":"Storm's End","link":"Storm's End","wasblank":true,"noforce":true,"wikitext":"[[Storm's End]]"}" data-rte-instance="130814-127553956156cca911c6290" href="/wiki/Storm's_End" title="Storm's End">Storm's End</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-127553956156cca911c6290" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-127553956156cca911c6290" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Stormlands","placeholder":1,"wikitext":"{{The Stormlands}}"}" data-rte-instance="130814-127553956156cca911c6290" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0425\u044d\u0439\u0441\u0442\u0430\u043a \u0425\u043e\u043b\u043b","link":"ru:\u0425\u044d\u0439\u0441\u0442\u0430\u043a \u0425\u043e\u043b\u043b","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0425\u044d\u0439\u0441\u0442\u0430\u043a \u0425\u043e\u043b\u043b]]"}" data-rte-instance="130814-127553956156cca911c6290" href="http://ru.gameofthrones.wikia.com/wiki/Хэйстак_Холл" class="extiw" title="ru:Хэйстак Холл">ru:Хэйстак Холл</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u5e72\u8349\u5385","link":"zh:\u5e72\u8349\u5385","wasblank":true,"noforce":true,"wikitext":"[[zh:\u5e72\u8349\u5385]]"}" data-rte-instance="130814-127553956156cca911c6290" href="http://zh.asoiaf.wikia.com/wiki/干草厅" class="extiw" title="zh:干草厅">zh:干草厅</a>
-</p>
-   Loading editor
+title=Haystack hall
+| image size=
+| location=Westeros, the stormlands
+| typedouble-brackets population
+| rulers=House errol
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ Haystack Hall is a castle in the Stormlands. It is the seat of House Errol, located northeast of Bronzegate. History 
+
+ Season 2 
+
+Daisy, a newly acquired prostitute at Lord Petyr Baelish's brothel, was originally from Haystack Hall.\The North Remembers\\/ref} data-rte-instance130814-127553956156cca911c6290 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the books, Haystack Hall is the seat of House Errol. It is located to the east of the Kingsroad and north of Storm's End. See also References 
+
+ 
+
+ru:Хэйстак Холл zh:干草厅  Loading editor

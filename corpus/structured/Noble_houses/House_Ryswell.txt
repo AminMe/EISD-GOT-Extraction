@@ -1,22 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=House Ryswell\n| Image=\n| ImageSize=250px\n| Sigil=\n| Words=\n| Titles=Lord of the Rills\n| Seat=\n| Region=[[The Rills]], [[the North]]\n| Lord=\n| Heir=\n| Allegiance=[[House Stark]]\n| Vassals=[[House Glenmore]]\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-33470866456cca97259d96" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Ryswell</b> is a vassal house of <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/The_North" title="The North">the North</a>, holding fealty to <a data-rte-meta="{"type":"internal","text":"House Stark","link":"House Stark","wasblank":true,"noforce":true,"wikitext":"[[House Stark]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/House_Stark" title="House Stark">House Stark</a> of <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/Winterfell" title="Winterfell">Winterfell</a>. They rule over <a data-rte-meta="{"type":"internal","text":"the Rills","link":"the Rills","wasblank":true,"noforce":true,"wikitext":"[[the Rills]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/The_Rills" title="The Rills">the Rills</a>, a region located west of the <a data-rte-meta="{"type":"internal","text":"Barrowlands","link":"Barrowlands","wasblank":true,"noforce":true,"wikitext":"[[Barrowlands]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/Barrowlands" title="Barrowlands">Barrowlands</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<ul><li>Lady <a data-rte-meta="{"type":"internal","text":"Barbrey Ryswell","link":"Barbrey Dustin","wasblank":false,"noforce":true,"wikitext":"[[Barbrey Dustin|Barbrey Ryswell]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/Barbrey_Dustin" title="Barbrey Dustin">Barbrey Ryswell</a>, the ruling Lady of <a data-rte-meta="{"type":"internal","text":"Barrowton","link":"Barrowton","wasblank":true,"noforce":true,"wikitext":"[[Barrowton]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/Barrowton" title="Barrowton">Barrowton</a>, married into <a data-rte-meta="{"type":"internal","text":"House Dustin","link":"House Dustin","wasblank":true,"noforce":true,"wikitext":"[[House Dustin]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/House_Dustin" title="House Dustin">House Dustin</a>.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Ryswell is a proud and large house sworn to House Stark. They have close ties to <a data-rte-meta="{"type":"internal","text":"House Bolton","link":"House Bolton","wasblank":true,"noforce":true,"wikitext":"[[House Bolton]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/House_Bolton" title="House Bolton">House Bolton</a> thanks to the marriage between <a data-rte-meta="{"type":"internal","text":"Roose Bolton","link":"Roose Bolton","wasblank":true,"noforce":true,"wikitext":"[[Roose Bolton]]"}" data-rte-instance="130814-33470866456cca97259d96" href="/wiki/Roose_Bolton" title="Roose Bolton">Roose Bolton</a> and the late Bethany Ryswell. The current head of the family is Lord Rodrik Ryswell, father of both Lady Barbrey and Lady Bethany.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Their sigil is a black horse's head, eyes and mane red, on bronze within a black engrailed border. However, several Ryswells hold their own sigils, altering the color of the horse's head.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-33470866456cca97259d96" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-33470866456cca97259d96" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"North Houses","placeholder":1,"wikitext":"{{North Houses}}"}" data-rte-instance="130814-33470866456cca97259d96" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Ryswell, House","placeholder":1,"wikitext":"{{DEFAULTSORT:Ryswell, House}}"}" data-rte-instance="130814-33470866456cca97259d96" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Ryswell","link":"de:Haus Ryswell","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Ryswell]]"}" data-rte-instance="130814-33470866456cca97259d96" href="http://de.gameofthrones.wikia.com/wiki/Haus_Ryswell" class="extiw" title="de:Haus Ryswell">de:Haus Ryswell</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"es:Casa Ryswell","link":"es:Casa Ryswell","wasblank":true,"noforce":true,"wikitext":"[[es:Casa Ryswell]]"}" data-rte-instance="130814-33470866456cca97259d96" href="http://hieloyfuego.wikia.com/wiki/Casa_Ryswell" class="extiw" title="es:Casa Ryswell">es:Casa Ryswell</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u83b1\u65af\u5a01\u5c14\u5bb6\u65cf","link":"zh:\u83b1\u65af\u5a01\u5c14\u5bb6\u65cf","wasblank":true,"noforce":true,"wikitext":"[[zh:\u83b1\u65af\u5a01\u5c14\u5bb6\u65cf]]"}" data-rte-instance="130814-33470866456cca97259d96" href="http://zh.asoiaf.wikia.com/wiki/莱斯威尔家族" class="extiw" title="zh:莱斯威尔家族">zh:莱斯威尔家族</a>
-</p>
-   Loading editor
+title=House ryswell
+| image=
+| imagesize=250px
+| sigil=
+| words=
+| titles=Lord of the rills
+| seat=
+| region=The rills, the north
+| lord=
+| heir=
+| allegiance=House stark
+| vassals=House glenmore
+| age=
+| founder=
+}}}
+
+ House Ryswell is a vassal house of the North, holding fealty to House Stark of Winterfell. They rule over the Rills, a region located west of the Barrowlands. Members Lady Barbrey Ryswell, the ruling Lady of Barrowton, married into House Dustin. In the books 
+
+In the A Song of Ice and Fire novels, House Ryswell is a proud and large house sworn to House Stark. They have close ties to House Bolton thanks to the marriage between Roose Bolton and the late Bethany Ryswell. The current head of the family is Lord Rodrik Ryswell, father of both Lady Barbrey and Lady Bethany. 
+
+Their sigil is a black horse's head, eyes and mane red, on bronze within a black engrailed border. However, several Ryswells hold their own sigils, altering the color of the horse's head. See also (MAJOR spoilers from the books) References 
+
+ 
+
+de:Haus Ryswell es:Casa Ryswell zh:莱斯威尔家族  Loading editor

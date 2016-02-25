@@ -1,17 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Crakehall\n| Image=\n| Image size=\n| Location=[[The Westerlands]], [[Westeros]]\n| Type=Castle\n| Population=\n| Rulers=[[House Crakehall]]\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-198927271956cca8f3541e8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Crakehall</b> is a stronghold in <a data-rte-meta="{"type":"internal","text":"the Westerlands","link":"the Westerlands","wasblank":true,"noforce":true,"wikitext":"[[the Westerlands]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/The_Westerlands" title="The Westerlands">the Westerlands</a>. It is the seat of <a data-rte-meta="{"type":"internal","text":"House Crakehall","link":"House Crakehall","wasblank":true,"noforce":true,"wikitext":"[[House Crakehall]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/House_Crakehall" title="House Crakehall">House Crakehall</a>, bannermen to <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> of <a data-rte-meta="{"type":"internal","text":"Casterly Rock","link":"Casterly Rock","wasblank":true,"noforce":true,"wikitext":"[[Casterly Rock]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/Casterly_Rock" title="Casterly Rock">Casterly Rock</a>. Located on the <a data-rte-meta="{"type":"internal","text":"Searoad","link":"Searoad","wasblank":true,"noforce":true,"wikitext":"[[Searoad]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/Searoad" title="Searoad">Searoad</a>, close to the shores of the <a data-rte-meta="{"type":"internal","text":"Sunset Sea","link":"Sunset Sea","wasblank":true,"noforce":true,"wikitext":"[[Sunset Sea]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/Sunset_Sea" title="Sunset Sea">Sunset Sea</a>, south of Casterly Rock and <a data-rte-meta="{"type":"internal","text":"Lannisport","link":"Lannisport","wasblank":true,"noforce":true,"wikitext":"[[Lannisport]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/Lannisport" title="Lannisport">Lannisport</a> and close to the border of the <a data-rte-meta="{"type":"internal","text":"Westerlands","link":"Westerlands","wasblank":true,"noforce":true,"wikitext":"[[Westerlands]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/Westerlands" title="Westerlands" class="mw-redirect">Westerlands</a> and <a data-rte-meta="{"type":"internal","text":"the Reach","link":"the Reach","wasblank":true,"noforce":true,"wikitext":"[[the Reach]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/The_Reach" title="The Reach">the Reach</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/crakehall\/ HBO viewers guide, season 1 map, Crakehall entry]<\/ref>"}" data-rte-instance="130814-198927271956cca8f3541e8" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Crakehall is the seat of House Crakehall.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-198927271956cca8f3541e8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-198927271956cca8f3541e8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Westerlands","placeholder":1,"wikitext":"{{The Westerlands}}"}" data-rte-instance="130814-198927271956cca8f3541e8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"es:Casa Crakehall","link":"es:Casa Crakehall","wasblank":true,"noforce":true,"wikitext":"[[es:Casa Crakehall]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="http://hieloyfuego.wikia.com/wiki/Casa_Crakehall" class="extiw" title="es:Casa Crakehall">es:Casa Crakehall</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u041a\u0440\u0430\u043a\u0435\u0445\u043e\u043b\u043b","link":"ru:\u041a\u0440\u0430\u043a\u0435\u0445\u043e\u043b\u043b","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041a\u0440\u0430\u043a\u0435\u0445\u043e\u043b\u043b]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="http://ru.gameofthrones.wikia.com/wiki/Кракехолл" class="extiw" title="ru:Кракехолл">ru:Кракехолл</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u514b\u96f7\u8d6b\u5bb6\u65cf","link":"zh:\u514b\u96f7\u8d6b\u5bb6\u65cf","wasblank":true,"noforce":true,"wikitext":"[[zh:\u514b\u96f7\u8d6b\u5bb6\u65cf]]"}" data-rte-instance="130814-198927271956cca8f3541e8" href="http://zh.asoiaf.wikia.com/wiki/克雷赫家族" class="extiw" title="zh:克雷赫家族">zh:克雷赫家族</a>
-</p>
-   Loading editor
+title=Crakehall
+| image size=
+| location=The westerlands, westeros
+| typedouble-brackets population
+| rulers=House crakehall
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ Crakehall is a stronghold in the Westerlands. It is the seat of House Crakehall, bannermen to House Lannister of Casterly Rock. Located on the Searoad, close to the shores of the Sunset Sea, south of Casterly Rock and Lannisport and close to the border of the Westerlands and the Reach.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/crakehall\/ HBO viewers guide, season 1 map, Crakehall entry\/ref} data-rte-instance130814-198927271956cca8f3541e8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, Crakehall is the seat of House Crakehall. See also References 
+
+ 
+
+es:Casa Crakehall ru:Кракехолл zh:克雷赫家族  Loading editor

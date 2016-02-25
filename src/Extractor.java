@@ -60,9 +60,8 @@ public class Extractor {
      */
     private static String extractStructuredEditSource(Document doc)
     {
-        System.out.println("Je suis dans le cas Bran");
+        //System.out.println("Je suis dans le cas Bran");
         Elements editarea = doc.select("div#editarea");
-
         return editarea.text();
     }
 
@@ -74,8 +73,7 @@ public class Extractor {
      */
     private static String extractStructuredEditNotSource(Document doc)
     {
-        //TODO eux juste retirer HTML ??
-        System.out.println("Je suis dans le cas Daenerys");
+        //System.out.println("Je suis dans le cas Daenerys");
         Elements textarea = doc.select("textarea#wpTextbox1");
         return textarea.text();
     }
@@ -116,6 +114,14 @@ public class Extractor {
         return links;
     }
 
+    /**
+     * Cherche les relations dans le fichier
+     * Les relations de bases sont dans des fichiers <ul><li><ul> etc ... </ul></li></ul>
+     * d'ou la recursivite
+     * @param ulli
+     * @param profondeur
+     * @param relationships
+     */
     public static void relationshipsRecursif(Element ulli, int profondeur, ArrayList<String> relationships)
     {
         if(ulli.children().size()==0)
@@ -155,10 +161,13 @@ public class Extractor {
             }
             //System.out.println(generateStars(profondeur)+" "+myContent);
         }
-
-        //System.out.println("\n");
     }
 
+    /**
+     * Genere les * pour l'arborescence d'une famille
+     * @param howMuch
+     * @return
+     */
     public static String generateStars(int howMuch)
     {
         if(howMuch<=0)
@@ -175,12 +184,72 @@ public class Extractor {
 
     /**
      * Gere le cas des fichiers ou le source est deja en bon format
+     * Ou que le fichier en mauvais format a deja ete traite
      * @return
      */
     public static String handleFileSourceEasy(Document doc)
     {
-        return Jsoup.clean(doc.toString().replaceAll("\\\\n", "\n")
+        String content =  Jsoup.clean(doc.toString().replaceAll("\\\\n", "\n")
             , "", Whitelist.none(), new Document.OutputSettings().prettyPrint(false));
+
+        //regex pour supprimer les [[]]
+        String regex = "\\[+(.*?)\\]+";
+        Pattern pattern = Pattern.compile(regex);
+        Matcher matcher = pattern.matcher(content);
+        while(matcher.find())
+        {
+            //System.out.println("Group 0 : "+matcher.group(0));
+            String match = matcher.group(1).replaceAll("\"","");
+            //System.out.println("Group 1 : "+match);
+
+
+            //System.out.println("contains ??? "+content.contains(matcher.group(0)) + " - " + matcher.group(0));
+            content = content.replace(matcher.group(0),match);
+
+            //regex pour le pipe mot1|mot2 on garde le mot2
+            String regexPipe = ".*?\\|(.*)";
+            Pattern patternPipe = Pattern.compile(regexPipe);
+            Matcher matcherPipe = patternPipe.matcher(match);
+            while(matcherPipe.find())
+            {
+                //match = matcherPipe.group(1);
+                //System.out.println("match = "+match);
+                content = content.replace(matcherPipe.group(0),matcherPipe.group(1));
+            }
+
+
+        }
+
+        // accolade
+        regex = "\\{+(.*?)\\}+";
+        pattern = Pattern.compile(regex);
+        matcher = pattern.matcher(content);
+        while(matcher.find())
+        {
+            content = content.replace(matcher.group(0),matcher.group(1).replaceAll("\"",""));
+        }
+
+        content = content.replaceAll("&lt;","").replaceAll("&gt;","").replaceAll("\\/a","").replaceAll("\"","");;
+
+
+
+        regex = "=+(.*?)=+";
+        pattern = Pattern.compile(regex);
+        matcher = pattern.matcher(content);
+        while(matcher.find())
+        {
+            content = content.replace(matcher.group(0),matcher.group(1));
+        }
+
+        regex = "'{2,}";
+        pattern = Pattern.compile(regex);
+        matcher = pattern.matcher(content);
+        while(matcher.find())
+        {
+            content = content.replace(matcher.group(0),"");
+        }
+
+        return content;
     }
 
     /**
@@ -293,12 +362,13 @@ public class Extractor {
         //doc.select("br").append("\\n");
         //doc.select("p").prepend("\\n\\n");
 
+        // le fichier a deja ete clean
         if(doc.select("p").isEmpty())
         {
             return handleFileSourceEasy(doc);
         }
         //System.out.println("Opening ... "+html.getName());
-
+        //si le fichier n'a pas encore ete clean
         return handleFileSourceHard(doc);
     }
 
@@ -307,13 +377,15 @@ public class Extractor {
         while(it.hasNext()){
             //System.out.println(((File) it.next()).getName());
             String filename = ((File) it.next()).getName();
-            /*if((filename.equals("House_Targaryen.txt")))
+            /*if((filename.equals("House_Lannister.txt")))
             {
                 String content = cleanFile(dir+"/"+filename);
-                System.out.println(content);
+                System.out.println("content = \n\n\n"+content);
             }*/
 
             String content = cleanFile(dir+"/"+filename);
+            FileUtils.writeStringToFile(new File(dir+"/"+filename), content);
+
         }
     }
 

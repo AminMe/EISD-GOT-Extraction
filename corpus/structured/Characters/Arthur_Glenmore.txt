@@ -1,39 +1,67 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Glenmore shield icon.png\n|link=House Glenmore\n}}"}" data-rte-instance="130814-122350751556cca67776764" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Arthur Glenmore\n|Image = SOW Arthur Wary.png\n|Season = [[Game of Thrones: A Telltale Games Series]]\n|First = \"[[Sons of Winter]]\"\n|Appearances = 2 episodes\n|Aka = Quiver\n|Status = [[:Category:Status: Dead|Deceased]]\n|Allegiance = [[House Glenmore]]<br>\n[[House Forrester]](briefly)\n|Place=[[Rillwater Crossing]]\n|Family = [[Glenmore (Lord)|Lord Glenmore]] - father<br>\n[[Elaena Glenmore]] - sister\n|Actor = [[Matt Littler]]\n|Death = Tortured and disemboweled by [[Ramsay Snow]].\n|DeathEp = \"[[A Nest of Vipers]]\"\n|Last = \"[[A Nest of Vipers]]\"}}"}" data-rte-instance="130814-122350751556cca67776764" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Quote","placeholder":1,"wikitext":"{{Template:Quote|I command father's Elite Guard. They're yours, ''if'' you help us take down Gryff.|Arthur to [[Rodrik Forrester]]|Sons of Winter}}"}" data-rte-instance="130814-122350751556cca67776764" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Arthur Glenmore</b> is the younger brother of <a data-rte-meta="{"type":"internal","text":"Elaena Glenmore","link":"Elaena Glenmore","wasblank":true,"noforce":true,"wikitext":"[[Elaena Glenmore]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Elaena_Glenmore" title="Elaena Glenmore">Elaena Glenmore</a>, and commander of <a data-rte-meta="{"type":"internal","text":"House Glenmore's","link":"House Glenmore","wasblank":false,"noforce":true,"wikitext":"[[House Glenmore|House Glenmore's]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/House_Glenmore" title="House Glenmore">House Glenmore's</a> Elite Guard.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">As a youth, on the day he learned to hold a bow, his <a data-rte-meta="{"type":"internal","text":"father","link":"Glenmore (Lord)","wasblank":false,"noforce":true,"wikitext":"[[Glenmore (Lord)|father]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Glenmore_(Lord)" title="Glenmore (Lord)">father</a> noticed how nervous he was and labeled him <b>Quiver</b>.
-</p>
-<h3>"<a data-rte-meta="{"type":"internal","text":"Sons of Winter","link":"Sons of Winter","wasblank":true,"noforce":true,"wikitext":"[[Sons of Winter]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Sons_of_Winter" title="Sons of Winter">Sons of Winter</a>"</h3>
-<p data-rte-fromparser="true">Arthur appears in this episode alongside his sister, Elaena. They meet with <a data-rte-meta="{"type":"internal","text":"Rodrik Forrester","link":"Rodrik Forrester","wasblank":true,"noforce":true,"wikitext":"[[Rodrik Forrester]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Rodrik_Forrester" title="Rodrik Forrester">Rodrik Forrester</a> discussing Elaena's marriage to <a data-rte-meta="{"type":"internal","text":"Gryff","link":"Gryff Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Gryff Whitehill|Gryff]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Gryff_Whitehill" title="Gryff Whitehill">Gryff</a>. Arthur offers to give Rodrik the twenty man strong Elite Guard of House Glenmore if you decide to take down Gryff Whitehill. He will later march with his men into <a data-rte-meta="{"type":"internal","text":"Ironrath","link":"Ironrath","wasblank":true,"noforce":true,"wikitext":"[[Ironrath]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Ironrath" title="Ironrath">Ironrath</a> alongside Rodrik and awaits Rodrik's signal to come help him. Then, after Rodrik casts the signal Arthur and his elite guard storm the Great Hall and capture all the Whitehill soldiers and possibly killed one if the decision was made. He later witnessed Rodrik beat or maimed Gryff's eye and then takes Gryff and the Whitehill soldiers and imprisons them in the cellar.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Later in the episode <a data-rte-meta="{"type":"internal","text":"Royland","link":"Royland Degore","wasblank":false,"noforce":true,"wikitext":"[[Royland Degore|Royland]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Royland_Degore" title="Royland Degore">Royland</a> and <a data-rte-meta="{"type":"internal","text":"Duncan","link":"Duncan Tuttle","wasblank":false,"noforce":true,"wikitext":"[[Duncan Tuttle|Duncan]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Duncan_Tuttle" title="Duncan Tuttle">Duncan</a> discuss about a meeting at Highpoint. Here you can either decide to leave Arthur and his men to protect Ironrath or have them be your bodyguards at the meeting.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">If you decide to leave Arthur and his guards at Ironrath when you return from the meeting they're no where to be found along with everyone else and Rodrik will find that arrows were fired indicating a battle, leaving Arthur's fate uncertain as you find that <a data-rte-meta="{"type":"internal","text":"Ramsay Snow","link":"Ramsay Bolton","wasblank":false,"noforce":true,"wikitext":"[[Ramsay Bolton|Ramsay Snow]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay Snow</a> has taken Ironrath.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">If you do decide to take Arthur and his guard to <a data-rte-meta="{"type":"internal","text":"Highpoint","link":"Highpoint","wasblank":true,"noforce":true,"wikitext":"[[Highpoint]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Highpoint" title="Highpoint">Highpoint</a>, <a data-rte-meta="{"type":"internal","text":"Gwyn Whitehill","link":"Gwyn Whitehill","wasblank":true,"noforce":true,"wikitext":"[[Gwyn Whitehill]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Gwyn_Whitehill" title="Gwyn Whitehill">Gwyn Whitehill</a> will note that her father, <a data-rte-meta="{"type":"internal","text":"Ludd Whitehill","link":"Ludd Whitehill","wasblank":true,"noforce":true,"wikitext":"[[Ludd Whitehill]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/Ludd_Whitehill" title="Ludd Whitehill">Ludd Whitehill</a> will view this as a show of force. Regardless Rodrik will eventually return from the meeting to Ironrath with Arthur and his guard, Lady Forrester, and the chosen adviser only to discover that is empty and Arthur wondering where his sister is, then everyone hears Ramsay Snow laughing from the Great Hall.
-</p>
-<h3>"<a data-rte-meta="{"type":"internal","text":"A Nest of Vipers","link":"A Nest of Vipers","wasblank":true,"noforce":true,"wikitext":"[[A Nest of Vipers]]"}" data-rte-instance="130814-122350751556cca67776764" href="/wiki/A_Nest_of_Vipers" title="A Nest of Vipers">A Nest of Vipers</a>"</h3>
-<p data-rte-fromparser="true"><b>This part happens regardless, even if you brought the Glenmore soldiers with you in Sons of Winter.</b>
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">An unknown cry for help is heard by Rodrik and Talia upon reaching the Grove, it is shown that Arthur is being flayed by Ramsay.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">On the brink of passing out, he pleads to Ramsay to stop but Ramsay in response tells him that a lesson needs to be learnt and somebody has to pay, he passes out shortly afterwards.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Arthur is then disemboweled by Ramsay in front of Rodrik and Talia Forrester, killing him almost instantly.
-</p>
-<h2 data-rte-empty-lines-before="1">Family Tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Glenmore family tree","placeholder":1,"wikitext":"{{House Glenmore family tree}}"}" data-rte-instance="130814-122350751556cca67776764" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">Behind the scenes</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[File:Quiver flirting.png|thumb|250px|Arthur &quot;flirts&quot; with Rodrik.]]","title":"Quiver_flirting.png","params":{"thumbnail":true,"alt":"Quiver flirting","caption":"Arthur \"flirts\" with Rodrik.","width":250,"captionParsed":"Arthur \"flirts\" with Rodrik."}}" data-rte-instance="130814-122350751556cca67776764" alt="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/1/17/Quiver_flirting.png/revision/latest/scale-to-width-down/250?cb=20150531143643" width="250" height="139" class="image thumb withCaption" data-image-name="Quiver flirting.png" data-image-key="Quiver_flirting.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->An easter egg can be found if Rodrik brings Arthur to Highpoint. If Rodrik speaks to him multiple times, Arthur will ask why Rodrik keeps looking at him. If he does so once again, Arthur asks Rodrik if he 'sees something he likes' and raises his eyebrows twice suggestively, prompting a confused and nervous response from Rodrik.
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Telltale Game Series Appearances","placeholder":1,"wikitext":"{{Template:Telltale Game Series Appearances||||yes|yes}}"}" data-rte-instance="130814-122350751556cca67776764" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">Image Gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"57550979df4fcd863308bb35032c5714","id":0,"images":[{"name":"SOW Commanding Army.png","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"SOW Giving the Order.png","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"arthur_tortured.png","caption":"Arthur being tortured by Ramsay.","link":"","linktext":"","shorttext":"","data-caption":"Arthur being tortured by Ramsay."}],"imagesShown":[{"name":"SOW Commanding Army.png","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"SOW Giving the Order.png","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"arthur_tortured.png","caption":"Arthur being tortured by Ramsay.","link":"","linktext":"","shorttext":"","data-caption":"Arthur being tortured by Ramsay."}],"params":{},"type":1,"wikitext":"<gallery>\nSOW Commanding Army.png\nSOW Giving the Order.png\narthur_tortured.png|Arthur being tortured by Ramsay.\n<\/gallery>"}" data-rte-instance="130814-122350751556cca67776764" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Glenmore navbox","placeholder":1,"wikitext":"{{Glenmore navbox}}"}" data-rte-instance="130814-122350751556cca67776764" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0410\u0440\u0442\u0443\u0440 \u0413\u043b\u0435\u043d\u043c\u043e\u0440","link":"ru:\u0410\u0440\u0442\u0443\u0440 \u0413\u043b\u0435\u043d\u043c\u043e\u0440","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0410\u0440\u0442\u0443\u0440 \u0413\u043b\u0435\u043d\u043c\u043e\u0440]]"}" data-rte-instance="130814-122350751556cca67776764" href="http://ru.gameofthrones.wikia.com/wiki/Артур_Гленмор" class="extiw" title="ru:Артур Гленмор">ru:Артур Гленмор</a>
-</p>
-   Loading editor
+title=Arthur glenmore
+|image=SOW arthur wary.png
+|season=Game of thrones: a telltale games series
+|first=\Sons winter\
+|appearances=2 episodes
+|aka=Quiver
+|Status = deceased
+|allegiance=House glenmore
+House Forrester(briefly)
+|Place=Rillwater Crossing
+|Family = Lord Glenmore - father
+Elaena Glenmore - sister
+|Actor = Matt Littler
+|Death = Tortured and disemboweled by Ramsay Snow.
+|DeathEp = \A Nest of Vipers\
+|Last = \A Nest of Vipers\}}}
+
+ 
+House Forrester(briefly)
+|Place=Rillwater Crossing
+|Family = Lord Glenmore - father 
+
+Elaena Glenmore - sister
+|Actor = Matt Littler
+|Death = Tortured and disemboweled by Ramsay Snow.
+|DeathEp = \A Nest of Vipers\
+|Last  \A Nest of Vipers\}}} data-rte-instance130814-122350751556cca67776764 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+
+ 
+
+Arthur Glenmore is the younger brother of Elaena Glenmore, and commander of House Glenmore's Elite Guard. Biography 
+
+ Background 
+
+As a youth, on the day he learned to hold a bow, his father noticed how nervous he was and labeled him Quiver. Sons of Winter 
+
+Arthur appears in this episode alongside his sister, Elaena. They meet with Rodrik Forrester discussing Elaena's marriage to Gryff. Arthur offers to give Rodrik the twenty man strong Elite Guard of House Glenmore if you decide to take down Gryff Whitehill. He will later march with his men into Ironrath alongside Rodrik and awaits Rodrik's signal to come help him. Then, after Rodrik casts the signal Arthur and his elite guard storm the Great Hall and capture all the Whitehill soldiers and possibly killed one if the decision was made. He later witnessed Rodrik beat or maimed Gryff's eye and then takes Gryff and the Whitehill soldiers and imprisons them in the cellar. 
+
+Later in the episode Royland and Duncan discuss about a meeting at Highpoint. Here you can either decide to leave Arthur and his men to protect Ironrath or have them be your bodyguards at the meeting. 
+
+If you decide to leave Arthur and his guards at Ironrath when you return from the meeting they're no where to be found along with everyone else and Rodrik will find that arrows were fired indicating a battle, leaving Arthur's fate uncertain as you find that Ramsay Snow has taken Ironrath. 
+
+If you do decide to take Arthur and his guard to Highpoint, Gwyn Whitehill will note that her father, Ludd Whitehill will view this as a show of force. Regardless Rodrik will eventually return from the meeting to Ironrath with Arthur and his guard, Lady Forrester, and the chosen adviser only to discover that is empty and Arthur wondering where his sister is, then everyone hears Ramsay Snow laughing from the Great Hall. A Nest of Vipers 
+
+This part happens regardless, even if you brought the Glenmore soldiers with you in Sons of Winter. 
+
+An unknown cry for help is heard by Rodrik and Talia upon reaching the Grove, it is shown that Arthur is being flayed by Ramsay. 
+
+On the brink of passing out, he pleads to Ramsay to stop but Ramsay in response tells him that a lesson needs to be learnt and somebody has to pay, he passes out shortly afterwards. 
+
+Arthur is then disemboweled by Ramsay in front of Rodrik and Talia Forrester, killing him almost instantly. Family Tree 
+
+ Behind the scenes 
+
+ An easter egg can be found if Rodrik brings Arthur to Highpoint. If Rodrik speaks to him multiple times, Arthur will ask why Rodrik keeps looking at him. If he does so once again, Arthur asks Rodrik if he 'sees something he likes' and raises his eyebrows twice suggestively, prompting a confused and nervous response from Rodrik. Appearances 
+
+ Image Gallery 
+
+
+SOW Commanding Army.png
+SOW Giving the Order.png
+arthur_tortured.png|Arthur being tortured by Ramsay.
+\/gallery} data-rte-instance130814-122350751556cca67776764 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+
+ 
+
+ru:Артур Гленмор  Loading editor

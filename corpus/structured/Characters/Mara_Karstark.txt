@@ -1,18 +1,31 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Karstark-Shield-Icon.PNG\n|link=House Karstark\n}}"}" data-rte-instance="130814-4682514456cca81cefefe" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Mara Karstark\n| Image = Umber lineage.jpg\n| Season = [[Season 1|1]]\n| Mentioned = \"[[A Golden Crown]]\"\n| Status = [[:Category:Status: Dead|Deceased]]\n| Death = \n| Place =  \n| Allegiance = [[House Karstark]]\n| Family = [[Beric Karstark]] - husband<br>[[Commard Karstark]] - son<br>[[Berrican Karstark]] - grandson<br>[[Petyr Karstark]] - grandson<br>[[Jon Karstark]] - grandson<br>[[Laurence Karstark]] - grandson\n| Titles =Lady\n}}"}" data-rte-instance="130814-4682514456cca81cefefe" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Mara Karstark</b> is an unseen character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones]]"}" data-rte-instance="130814-4682514456cca81cefefe" href="/wiki/Game_of_Thrones" title="Game of Thrones" class="mw-redirect">Game of Thrones</a></i>. She is not expected to appear in the series, being long dead by the time it starts. She is one of the earliest recorded members of <a data-rte-meta="{"type":"internal","text":"House Karstark","link":"House Karstark","wasblank":true,"noforce":true,"wikitext":"[[House Karstark]]"}" data-rte-instance="130814-4682514456cca81cefefe" href="/wiki/House_Karstark" title="House Karstark">House Karstark</a>, and an ancient ancestor of Lord <a data-rte-meta="{"type":"internal","text":"Rickard Karstark","link":"Rickard Karstark","wasblank":true,"noforce":true,"wikitext":"[[Rickard Karstark]]"}" data-rte-instance="130814-4682514456cca81cefefe" href="/wiki/Rickard_Karstark" title="Rickard Karstark">Rickard Karstark</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-4682514456cca81cefefe" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">She has an entry in <i><a data-rte-meta="{"type":"internal","text":"The Lineages and Histories of the Great Houses of the Seven Kingdoms","link":"The Lineages and Histories of the Great Houses of the Seven Kingdoms","wasblank":true,"noforce":true,"wikitext":"[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]"}" data-rte-instance="130814-4682514456cca81cefefe" href="/wiki/The_Lineages_and_Histories_of_the_Great_Houses_of_the_Seven_Kingdoms" title="The Lineages and Histories of the Great Houses of the Seven Kingdoms">The Lineages and Histories of the Great Houses of the Seven Kingdoms</a></i>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Golden Crown]]\"<\/ref>"}" data-rte-instance="130814-4682514456cca81cefefe" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">Mara Karstark is referenced only in the TV adaptation of <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-4682514456cca81cefefe" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> and has no corresponding counterpart in the books.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-4682514456cca81cefefe" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Karstark navbox","placeholder":1,"wikitext":"{{Karstark navbox}}"}" data-rte-instance="130814-4682514456cca81cefefe" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Karstark, Mara","placeholder":1,"wikitext":"{{DEFAULTSORT:Karstark, Mara}}"}" data-rte-instance="130814-4682514456cca81cefefe" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Mara karstark
+| image=Umber lineage.jpg
+| season=1
+| mentioned=\A golden crown\
+| status=deceased
+| death=
+| place=
+| allegiance=House karstark
+| family=Beric karstark - husbandCommard Karstark - sonBerrican Karstark - grandsonPetyr Karstark - grandsonJon Karstark - grandsonLaurence Karstark - grandson
+| Titles =Lady
+}}}
+
+ Commard Karstark - son 
+Berrican Karstark - grandson 
+Petyr Karstark - grandson 
+Jon Karstark - grandson 
+Laurence Karstark - grandson
+| Titles =Lady
+}}} data-rte-instance130814-4682514456cca81cefefe classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Mara Karstark is an unseen character in Game of Thrones. She is not expected to appear in the series, being long dead by the time it starts. She is one of the earliest recorded members of House Karstark, and an ancient ancestor of Lord Rickard Karstark. Biography 
+
+ Background 
+
+ Season 1 
+
+She has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms.\A Golden Crown\\/ref} data-rte-instance130814-4682514456cca81cefefe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+Mara Karstark is referenced only in the TV adaptation of A Song of Ice and Fire and has no corresponding counterpart in the books. References 
+
+ 
+
+  Loading editor

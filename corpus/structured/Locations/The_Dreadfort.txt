@@ -7,11 +7,11 @@
 | Title=The Dreadfort
 | Image=Dreadfort.jpg
 | Image size=
-| Location=[[The North]], [[Westeros]]
+| Location=The North, Westeros
 | Type=Castle, temporary regional capital
 | Population=
-| Rulers=[[House Bolton]]
-| Religion=The [[Old Gods of the Forest]]
+| Rulers=House Bolton
+| Religion=The Old Gods of the Forest
 | Military=
 | Institutions=
 | Places=
@@ -19,40 +19,40 @@
 | Age=
 | Founder=
 }}
-{{Quote|Let me send word to my bastard at the Dreadfort.|Roose Bolton to Robb Stark|The Old Gods and the New}}
-[[Image:505 Bolton map 2.jpg|thumb|250px|The Dreadfort on the Boltons' map in "[[Kill the Boy]]".]]
-[[Image:Dreadfort Pin.png|thumb|right|200px|Map showing the location of the Dreadfort on the continent of [[Westeros]].]]
-'''The Dreadfort''' is a castle situated in [[the North]]. It is the seat of [[House Bolton]], located on the banks of the [[Weeping Water]] east of [[Winterfell]]. The Dreadfort is ill-omened as the stronghold of House Bolton, who are famed for the flayed skins of their enemies, often rumored to have been kept on display in the castle, including those of several ancient [[House Stark|Stark]] kings. However, if such gruesome trophies ever did exist they have long since been removed or destroyed.<ref>[http://viewers-guide.hbo.com/game-of-thrones/season1/#!/locations/dreadfort/ HBO viewers guide, season 1 map, Dreadfort entry]</ref><ref>[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/locations/dreadfort/ HBO viewers guide, season 2 map, Dreadfort entry]</ref>
+Quote|Let me send word to my bastard at the Dreadfort.|Roose Bolton to Robb Stark|The Old Gods and the New
+thumb|250px|The Dreadfort on the Boltons' map in [[Kill the Boy.]]
+[[Image:Dreadfort Pin.png|thumb|right|200px|Map showing the location of the Dreadfort on the continent of Westeros.]]
+The Dreadfort is a castle situated in the North. It is the seat of House Bolton, located on the banks of the Weeping Water east of Winterfell. The Dreadfort is ill-omened as the stronghold of House Bolton, who are famed for the flayed skins of their enemies, often rumored to have been kept on display in the castle, including those of several ancient Stark kings. However, if such gruesome trophies ever did exist they have long since been removed or destroyed.http://viewers-guide.hbo.com/game-of-thrones/season1/#!/locations/dreadfort/ HBO viewers guide, season 1 map, Dreadfort entryhttp://viewers-guide.hbo.com/game-of-thrones/season2/#!/locations/dreadfort/ HBO viewers guide, season 2 map, Dreadfort entry
 
-==History==
-===Background===
-[[File:Dreadfort-rebellion.jpg|thumb|left|250px|The Dreadfort under siege.]]
-[[House Bolton]] of the Dreadfort had a long history of dissent and [[Rebellion|rebellion]], to the point were they became known as the "Bane of the North".
+History
+Background
+thumb|left|250px|The Dreadfort under siege.
+House Bolton of the Dreadfort had a long history of dissent and rebellion, to the point were they became known as the Bane of the North.
 
-===[[Season 2]]===
-Word of Winterfell's capture by [[Theon Greyjoy]] reaches the Dreadfort's garrison. This news is then relayed to [[Roose Bolton]] via messenger [[ravens]].
+Season 2
+Word of Winterfell's capture by Theon Greyjoy reaches the Dreadfort's garrison. This news is then relayed to Roose Bolton via messenger ravens.
 
-===[[Season 3]]===
-[[File:Dreadfort-exterior-1.jpg|thumb|left|250px|Ramsay Snow assists Theon in "escaping" from the Dreadfort.]]
-After being betrayed by [[Sea Bitch|his crew]] and delivered to [[Ramsay Bolton|Ramsay Snow]], [[Theon Greyjoy]] is imprisoned in a torture chamber at the Dreadfort. Over the course of several months, he is subjected to a number of horrific tortures, both physical and psychological.
+Season 3
+thumb|left|250px|Ramsay Snow assists Theon in escaping from the Dreadfort.
+After being betrayed by his crew and delivered to Ramsay Snow, Theon Greyjoy is imprisoned in a torture chamber at the Dreadfort. Over the course of several months, he is subjected to a number of horrific tortures, both physical and psychological.
 
-===[[Season 4]]===
-[[Yara Greyjoy]] leads an assault on the Dreadfort to rescue [[Theon Greyjoy]]. The assault ends in failure when Yara and her fellow [[ironborn]] cannot convince Theon, now "Reek", that they are his rescue party. Ramsay, the [[Bastard's Girls]], and his fellow Dreadfort men-at-arms repel the ironborn raiders.
+Season 4
+Yara Greyjoy&nbsp;leads an assault on the Dreadfort to rescue&nbsp;Theon Greyjoy. The assault ends in failure when Yara and her fellow ironborn cannot convince Theon, now Reek, that they are his rescue party. Ramsay, the Bastard's Girls, and his fellow Dreadfort men-at-arms repel the ironborn&nbsp;raiders.
 
-Following the [[Fall of Moat Cailin]], the Boltons take [[Winterfell]] - the traditional capital of the North - for their new seat, leaving The Dreadfort in the hands of a handful of Bolton men and a [[Castellan]].<ref>"[[The Mountain and the Viper]]"</ref>
+Following the Fall of Moat Cailin, the Boltons take Winterfell - the traditional capital of the North - for their new seat, leaving The Dreadfort in the hands of a handful of Bolton men and a Castellan.The Mountain and the Viper
 
-==Notable residents==
-* Lord [[Roose Bolton]], [[Lord of the Dreadfort]] and [[Warden of the North]].
-**Lady [[Walda Bolton]], Roose's latest wife. Granddaughter of Lord [[Walder Frey]]
-**[[Ramsay Bolton]], his legitimized [[Bastardy|natural]] son, acting Lord of the Dreadfort
-*[[Theon Greyjoy|Reek]], formerly Theon Greyjoy, manservant and hostage of Ramsay.
-*{[[Myranda]]}, {[[Violet|Violet}]], and {[[Tansy]]}, Ramsay's bedwarmers.
-* {[[Locke]]}, Lord Bolton's master-at-arms, perished beyond [[the Wall]] in pursuit of [[Bran Stark]].
-* [[Steelshanks]], a man-at-arms sworn to Lord Bolton.
-* The {[[Master Torturer]]}, chief interrogator. Killed by Ramsay Snow.
+Notable residents
+* Lord Roose Bolton, Lord of the Dreadfort and Warden of the North.
+**Lady Walda Bolton, Roose's latest wife. Granddaughter of Lord Walder Frey
+**Ramsay Bolton, his legitimized natural son, acting Lord of the Dreadfort
+*Reek, formerly Theon Greyjoy, manservant and hostage of Ramsay.
+*Myranda, Violet, and Tansy, Ramsay's bedwarmers.
+* Locke, Lord Bolton's master-at-arms, perished beyond the Wall in pursuit of Bran Stark.
+* Steelshanks, a man-at-arms sworn to Lord Bolton.
+* The Master Torturer, chief interrogator. Killed by Ramsay Snow.
 
-==Image Gallery==
-<gallery>
+Image Gallery
+
 Dreadfort-exterior-2.jpg
 Dreadfort-interior-1.jpg
 Dreadfort-exterior-3.jpg
@@ -61,27 +61,27 @@ Dreadfort-kennels.jpg|The Dreatfort's kennels.
 Dreadfort exterior.jpg|One of the Dreadfort's guard towers.
 Dreadfort-opening-sequence.jpg|The Dreadfort as it appears in the opening titles.
 Ramsay's chamber.png|Ramsay's bedchamber.
-</gallery>
 
-==Behind the scenes==
-Myra Castle in [[Wikipedia:County Down, Northern Ireland|County Down, Northern Ireland]] serves as the exterior of the Dreadfort in the [[Season 4|fourth season]].<ref>[http://www.youtube.com/watch?v=pn7ArWFrBnc Game of Thrones Season 4: Artisan Piece #3 - Shooting in Belfast (HBO)]</ref>
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, the Dreadfort has a similar history of dissent and rebellion. Three centuries after the founding of [[Karhold]], the Starks finally crushed the Boltons in a war that saw the Dreadfort besieged for two years. The Dreadfort is built around volcanic vents, which heat the castle in a similar manner to the natural hot springs under Winterfell.
+Behind the scenes
+Myra Castle in County Down, Northern Ireland serves as the exterior of the Dreadfort in the fourth season.http://www.youtube.com/watch?v=pn7ArWFrBnc Game of Thrones Season 4: Artisan Piece #3 - Shooting in Belfast (HBO)
+
+In the books
+In the A Song of Ice and Fire novels, the Dreadfort has a similar history of dissent and rebellion. Three centuries after the founding of Karhold, the Starks finally crushed the Boltons in a war that saw the Dreadfort besieged for two years. The Dreadfort is built around volcanic vents, which heat the castle in a similar manner to the natural hot springs under Winterfell.
 
 The Dreadfort is a strong fortress, with high walls and triangular merlons that look like sharp stone teeth. It has thick stone walls and massive towers. Its great hall is dim and smoky, with rows of torches grasped by skeletal human hands jutting from the walls. Long tables stand before a dais with a high table. The hall has a vaulted ceiling and wooden rafters turned black from smoke.
 
 
-==See also==
-*{{AWOIAF|Dreadfort}}
+See also
+*AWOIAF|Dreadfort
 
-==References==
-{{reflist}}
-{{Bolton navbox}}
-{{The North}}
-{{DEFAULTSORT:Dreadfort, The}}
+References
+reflist
+Bolton navbox
+The North
+DEFAULTSORT:Dreadfort, The
 
-[[de:Grauenstein]]
-[[pl:Dreadfort]]
-[[ru:Дредфорт]]
-   Loading editor
+de:Grauenstein
+pl:Dreadfort
+ru:Дредфорт
+ &nbsp; Loading editor

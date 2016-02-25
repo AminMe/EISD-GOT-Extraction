@@ -1,19 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Second Sons shield icon.png\n|link=Second Sons\n}}"}" data-rte-instance="130814-132936704156cca7d1a89b5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Kieran\n|Image = Kieran.png\n|Season = ''[[Game of Thrones: A Telltale Games Series]]''\n|First = \"[[Sons of Winter]]\"\n|Last = \"[[A Nest of Vipers]]\"\n|Titles = Lieutenant of the [[Second Sons]]\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[Second Sons]]}}"}" data-rte-instance="130814-132936704156cca7d1a89b5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Kieran will cover the West.|[[Croft]]|Sons of Winter}}"}" data-rte-instance="130814-132936704156cca7d1a89b5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Kieran</b> is a lieutenant of the <a data-rte-meta="{"type":"internal","text":"Second Sons","link":"Second Sons","wasblank":true,"noforce":true,"wikitext":"[[Second Sons]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Second_Sons" title="Second Sons">Second Sons</a>. He appears in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones: A Telltale Games Series","link":"Game of Thrones: A Telltale Games Series","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones: A Telltale Games Series]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series" title="Game of Thrones: A Telltale Games Series">Game of Thrones: A Telltale Games Series</a></i>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>"<a data-rte-meta="{"type":"internal","text":"Sons of Winter","link":"Sons of Winter","wasblank":true,"noforce":true,"wikitext":"[[Sons of Winter]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Sons_of_Winter" title="Sons of Winter">Sons of Winter</a>"</h3>
-<p data-rte-fromparser="true">Kieran is present at <a data-rte-meta="{"type":"internal","text":"Daenerys Targaryen","link":"Daenerys Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Daenerys Targaryen]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>'s war council along with <a data-rte-meta="{"type":"internal","text":"Asher Forrester","link":"Asher Forrester","wasblank":true,"noforce":true,"wikitext":"[[Asher Forrester]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Asher_Forrester" title="Asher Forrester">Asher Forrester</a>, <a data-rte-meta="{"type":"internal","text":"Beskha","link":"Beskha","wasblank":true,"noforce":true,"wikitext":"[[Beskha]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Beskha" title="Beskha">Beskha</a>, <a data-rte-meta="{"type":"internal","text":"Croft","link":"Croft","wasblank":true,"noforce":true,"wikitext":"[[Croft]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Croft" title="Croft">Croft</a>, <a data-rte-meta="{"type":"internal","text":"Therrond","link":"Therrond","wasblank":true,"noforce":true,"wikitext":"[[Therrond]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Therrond" title="Therrond">Therrond</a> and <a data-rte-meta="{"type":"internal","text":"Penn","link":"Penn","wasblank":true,"noforce":true,"wikitext":"[[Penn]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Penn" title="Penn">Penn</a>. On Croft's orders, he leads a stealth attack on <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Meereen" title="Meereen">Meereen</a>'s western beacon.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Sons of Winter]]\"<\/ref>"}" data-rte-instance="130814-132936704156cca7d1a89b5" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1">"<a data-rte-meta="{"type":"internal","text":"A Nest of Vipers","link":"A Nest of Vipers","wasblank":true,"noforce":true,"wikitext":"[[A Nest of Vipers]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/A_Nest_of_Vipers" title="A Nest of Vipers">A Nest of Vipers</a>"</h3>
-<p data-rte-fromparser="true">Kieran returns to Daenerys' camp after the <a data-rte-meta="{"type":"internal","text":"Siege of Meereen","link":"Siege of Meereen","wasblank":true,"noforce":true,"wikitext":"[[Siege of Meereen]]"}" data-rte-instance="130814-132936704156cca7d1a89b5" href="/wiki/Siege_of_Meereen" title="Siege of Meereen">Siege of Meereen</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Nest of Vipers]]\"<\/ref>"}" data-rte-instance="130814-132936704156cca7d1a89b5" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Telltale Game Series Credits","placeholder":1,"wikitext":"{{Telltale Game Series Credits||||yes|yes}}"}" data-rte-instance="130814-132936704156cca7d1a89b5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-132936704156cca7d1a89b5" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Kieran
+|Image = kieran.png
+|season= game of thrones: a telltale games series
+|first=\Sons winter\
+|last=\A nest vipers\
+|titles=Lieutenant the second sons
+|status=alive
+|allegiance=Second sons}}}
+
+ 
+
+ 
+
+Kieran is a lieutenant of the Second Sons. He appears in Game of Thrones: A Telltale Games Series. Biography 
+
+ Sons of Winter 
+
+Kieran is present at Daenerys Targaryen's war council along with Asher Forrester, Beskha, Croft, Therrond and Penn. On Croft's orders, he leads a stealth attack on Meereen's western beacon.\Sons of Winter\\/ref} data-rte-instance130814-132936704156cca7d1a89b5 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / A Nest of Vipers 
+
+Kieran returns to Daenerys' camp after the Siege of Meereen.\A Nest of Vipers\\/ref} data-rte-instance130814-132936704156cca7d1a89b5 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ References 
+
+  Loading editor

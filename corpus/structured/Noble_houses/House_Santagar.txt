@@ -1,21 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Santagar]]\n| Image=\n| Image size=\n| Sigil=\n| Motto=\n| Titles=\n| Seat=\n| Region=[[Dorne]]\n| Lord=\n| Heir=\n| Allegiance=[[House Martell]]\n| Vassals=\n| Cadets=\n| Date of founding=\n| Age=\n| Founder=\n| Weapon=\n}}"}" data-rte-instance="130814-158421526856cca99de77e1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Santagar</b> is a vassal house sworn to <a data-rte-meta="{"type":"internal","text":"House Martell","link":"House Martell","wasblank":true,"noforce":true,"wikitext":"[[House Martell]]"}" data-rte-instance="130814-158421526856cca99de77e1" href="/wiki/House_Martell" title="House Martell">House Martell</a> of <a data-rte-meta="{"type":"internal","text":"Sunspear","link":"Sunspear","wasblank":true,"noforce":true,"wikitext":"[[Sunspear]]"}" data-rte-instance="130814-158421526856cca99de77e1" href="/wiki/Sunspear" title="Sunspear">Sunspear</a>. They are established in <a data-rte-meta="{"type":"internal","text":"Dorne","link":"Dorne","wasblank":true,"noforce":true,"wikitext":"[[Dorne]]"}" data-rte-instance="130814-158421526856cca99de77e1" href="/wiki/Dorne" title="Dorne">Dorne</a>.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Members </h2>
-<ul data-rte-empty-lines-before="1"><li data-rte-spaces-before="1">Ser <a data-rte-meta="{"type":"internal","text":"Aron Santagar","link":"Aron Santagar","wasblank":true,"noforce":true,"wikitext":"[[Aron Santagar]]"}" data-rte-instance="130814-158421526856cca99de77e1" href="/wiki/Aron_Santagar" title="Aron Santagar">Aron Santagar</a>, the master-at-arms of the <a data-rte-meta="{"type":"internal","text":"Red Keep","link":"Red Keep","wasblank":true,"noforce":true,"wikitext":"[[Red Keep]]"}" data-rte-instance="130814-158421526856cca99de77e1" href="/wiki/Red_Keep" title="Red Keep">Red Keep</a>.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-158421526856cca99de77e1" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Santagar is a house of landed knights. Neither their arms or their motto appear in the books. In a semi-canon source they blazon their arms with a spotted leopard with a golden axe, over a per bend sinister blue and white field.
-</p>
-<h3 data-rte-empty-lines-before="1">Members</h3>
-<ul><li>Ser Symon Santagar, the Knight of Spottswood.
-<ul><li data-rte-spaces-before="1">Sylva Santagar, called "Spotted Silva", heiress to Spottswood.
-</li></ul>
-</li></ul>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-158421526856cca99de77e1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Dorne Houses","placeholder":1,"wikitext":"{{Dorne Houses}}"}" data-rte-instance="130814-158421526856cca99de77e1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Santagar","link":"de:Haus Santagar","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Santagar]]"}" data-rte-instance="130814-158421526856cca99de77e1" href="http://de.gameofthrones.wikia.com/wiki/Haus_Santagar" class="extiw" title="de:Haus Santagar">de:Haus Santagar</a>
-</p>
-   Loading editor
+title=House santagar
+| image size=
+| sigil=
+| motto=
+| titles=
+| seat=
+| region=Dorne
+| lord=
+| heir=
+| allegiance=House martell
+| vassals=
+| cadets=
+| date of founding=
+| age=
+| founder=
+| weapon=
+}}}
+
+ House Santagar is a vassal house sworn to House Martell of Sunspear. They are established in Dorne. Members Ser Aron Santagar, the master-at-arms of the Red Keep. In the books 
+
+In the A Song of Ice and Fire novels, House Santagar is a house of landed knights. Neither their arms or their motto appear in the books. In a semi-canon source they blazon their arms with a spotted leopard with a golden axe, over a per bend sinister blue and white field. Members Ser Symon Santagar, the Knight of Spottswood. Sylva Santagar, called Spotted Silva, heiress to Spottswood. See also (spoilers from the books) 
+
+ 
+
+de:Haus Santagar  Loading editor

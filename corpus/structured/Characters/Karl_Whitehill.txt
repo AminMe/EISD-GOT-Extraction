@@ -1,20 +1,38 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Whitehill-Shield-Icon.PNG\n|link=House Whitehill\n}}"}" data-rte-instance="130814-93411146056cca7218aed6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Karl Whitehill\n|Season = ''[[Game of Thrones: A Telltale Games Series]]''\n|Mentioned = \"[[Sons of Winter]]\"\n|Status = [[:Category:Status: Dead|Deceased]]\n|Allegiance = [[House Whitehill]]\n|Family = [[Ludd Whitehill]] - father<br>{[[Lady Whitehill]]} - mother<br>[[Gryff Whitehill]] - brother<br>[[Gwyn Whitehill]] - sister<br>[[Torrhen Whitehill]] - brother<br>[[Ebbert Whitehill]] - brother\n|Place = [[Highpoint]]\n|Culture = [[Northmen]]\n|Death = Died of [[Greyscale|greyscale]].\n|Image= Ebbert Whitehill Tree.png}}"}" data-rte-instance="130814-93411146056cca7218aed6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Karl died of greyscale a few years ago.|[[Gwyn Whitehill]] to [[Rodrik Forrester]].|Sons of Winter}}"}" data-rte-instance="130814-93411146056cca7218aed6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Karl Whitehill</b> is an unseen character in <a data-rte-meta="{"type":"internal","text":"Game of Thrones: A Telltale Games Series","link":"Game of Thrones: A Telltale Games Series","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones: A Telltale Games Series]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series" title="Game of Thrones: A Telltale Games Series">Game of Thrones: A Telltale Games Series</a>. He is one of the three eldest sons of <a data-rte-meta="{"type":"internal","text":"Lord Ludd Whitehill","link":"Ludd Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Ludd Whitehill|Lord Ludd Whitehill]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Ludd_Whitehill" title="Ludd Whitehill">Lord Ludd Whitehill</a> and Lady Whitehill, brother of <a data-rte-meta="{"type":"internal","text":"Gryff","link":"Gryff Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Gryff Whitehill|Gryff]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Gryff_Whitehill" title="Gryff Whitehill">Gryff</a>, <a data-rte-meta="{"type":"internal","text":"Ebbert","link":"Ebbert Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Ebbert Whitehill|Ebbert]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Ebbert_Whitehill" title="Ebbert Whitehill">Ebbert</a>, <a data-rte-meta="{"type":"internal","text":"Torrhen","link":"Torrhen Whitehill","wasblank":false,"noforce":true,"wikitext":"[[Torrhen Whitehill|Torrhen]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Torrhen_Whitehill" title="Torrhen Whitehill">Torrhen</a>, and <a data-rte-meta="{"type":"internal","text":"Gwyn Whitehill","link":"Gwyn Whitehill","wasblank":true,"noforce":true,"wikitext":"[[Gwyn Whitehill]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Gwyn_Whitehill" title="Gwyn Whitehill">Gwyn Whitehill</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>"<a data-rte-meta="{"type":"internal","text":"Sons of Winter","link":"Sons of Winter","wasblank":true,"noforce":true,"wikitext":"[[Sons of Winter]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Sons_of_Winter" title="Sons of Winter">Sons of Winter</a>"</h3>
-<p data-rte-fromparser="true">While waiting for Ludd Whitehill to receive him in <a data-rte-meta="{"type":"internal","text":"Highpoint","link":"Highpoint","wasblank":true,"noforce":true,"wikitext":"[[Highpoint]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Highpoint" title="Highpoint">Highpoint</a>, <a data-rte-meta="{"type":"internal","text":"Rodrik Forrester","link":"Rodrik Forrester","wasblank":true,"noforce":true,"wikitext":"[[Rodrik Forrester]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Rodrik_Forrester" title="Rodrik Forrester">Rodrik Forrester</a> notices a tapestry of the Whitehill family. Asking Gwyn about the three boys seen in it, Rodrik learns that Karl died of <a data-rte-meta="{"type":"internal","text":"greyscale","link":"Greyscale","wasblank":false,"noforce":true,"wikitext":"[[Greyscale|greyscale]]"}" data-rte-instance="130814-93411146056cca7218aed6" href="/wiki/Greyscale" title="Greyscale">greyscale</a> several years ago.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Sons of Winter]]\"<\/ref>"}" data-rte-instance="130814-93411146056cca7218aed6" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Family Tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Whitehill family tree","placeholder":1,"wikitext":"{{House Whitehill family tree}}"}" data-rte-instance="130814-93411146056cca7218aed6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">Image Gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"57ceebb68fedddb91d97877be8bc89c2","id":0,"images":[{"name":"SOW Whitehill Tapestry.png","caption":"Karl on a tapestry of the Whitehill family.","link":"","linktext":"","shorttext":"","data-caption":"Karl on a tapestry of the Whitehill family."}],"imagesShown":[{"name":"SOW Whitehill Tapestry.png","caption":"Karl on a tapestry of the Whitehill family.","link":"","linktext":"","shorttext":"","data-caption":"Karl on a tapestry of the Whitehill family."}],"params":{},"type":1,"wikitext":"<gallery>\nSOW Whitehill Tapestry.png|Karl on a tapestry of the Whitehill family.\n<\/gallery>"}" data-rte-instance="130814-93411146056cca7218aed6" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-93411146056cca7218aed6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Whitehill navbox","placeholder":1,"wikitext":"{{Whitehill navbox}}"}" data-rte-instance="130814-93411146056cca7218aed6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Karl whitehill
+|season= game of thrones: a telltale games series
+|mentioned=\Sons winter\
+|status=deceased
+|allegiance=House whitehill
+|family=Ludd whitehill - fatherLady Whitehill - motherGryff Whitehill - brotherGwyn Whitehill - sisterTorrhen Whitehill - brotherEbbert Whitehill - brother
+|Place = Highpoint
+|Culture = Northmen
+|Death = Died of greyscale.
+|Image= Ebbert Whitehill Tree.png}}}
+
+ Lady Whitehill - mother 
+Gryff Whitehill - brother 
+Gwyn Whitehill - sister 
+Torrhen Whitehill - brother 
+Ebbert Whitehill - brother
+|Place = Highpoint
+|Culture = Northmen
+|Death = Died of greyscale.
+|Image Ebbert Whitehill Tree.png}}} data-rte-instance130814-93411146056cca7218aed6 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+
+ 
+
+Karl Whitehill is an unseen character in Game of Thrones: A Telltale Games Series.He is one of the three eldest sons ofLord Ludd Whitehilland Lady Whitehill, brother ofGryff, Ebbert, Torrhen,andGwyn Whitehill. Biography 
+
+ Sons of Winter 
+
+While waiting for Ludd Whitehill to receive him in Highpoint, Rodrik Forrester notices a tapestry of the Whitehill family. Asking Gwyn about the three boys seen in it, Rodrik learns that Karl died of greyscale several years ago.\Sons of Winter\\/ref} data-rte-instance130814-93411146056cca7218aed6 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family Tree 
+
+ Image Gallery 
+
+
+SOW Whitehill Tapestry.png|Karl on a tapestry of the Whitehill family.
+\/gallery} data-rte-instance=130814-93411146056cca7218aed6 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+
+ 
+
+  Loading editor

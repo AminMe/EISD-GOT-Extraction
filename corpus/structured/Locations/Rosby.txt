@@ -1,18 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Rosby\n| Image=\n| Image size=\n| Location=The [[Crownlands]], [[Westeros]]\n| Type=Castle and town\n| Population=\n| Rulers=[[House Rosby]]\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-133658373456cca92ae940d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[Image:Rosby Pin.png|thumb|right|200px|A map showing the location of Rosby on the continent of Westeros.]]","title":"Rosby_Pin.png","params":{"thumbnail":true,"alt":"Rosby Pin","align":"right","caption":"A map showing the location of Rosby on the continent of Westeros.","width":200,"captionParsed":"A map showing the location of Rosby on the continent of Westeros."}}" data-rte-instance="130814-133658373456cca92ae940d" alt="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/9/97/Rosby_Pin.png/revision/latest/scale-to-width-down/200?cb=20120625180718" width="200" height="516" class="image thumb alignRight withCaption" data-image-name="Rosby Pin.png" data-image-key="Rosby_Pin.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Rosby</b> is a settlement in <a data-rte-meta="{"type":"internal","text":"the Crownlands","link":"the Crownlands","wasblank":true,"noforce":true,"wikitext":"[[the Crownlands]]"}" data-rte-instance="130814-133658373456cca92ae940d" href="/wiki/The_Crownlands" title="The Crownlands">the Crownlands</a>, consisting of a castle and a surrounding town. It is the seat of <a data-rte-meta="{"type":"internal","text":"House Rosby","link":"House Rosby","wasblank":true,"noforce":true,"wikitext":"[[House Rosby]]"}" data-rte-instance="130814-133658373456cca92ae940d" href="/wiki/House_Rosby" title="House Rosby">House Rosby</a>, a vassal house holding fealty to <a data-rte-meta="{"type":"internal","text":"House Baratheon of King's Landing","link":"House Baratheon of King's Landing","wasblank":true,"noforce":true,"wikitext":"[[House Baratheon of King's Landing]]"}" data-rte-instance="130814-133658373456cca92ae940d" href="/wiki/House_Baratheon_of_King's_Landing" title="House Baratheon of King's Landing">House Baratheon of King's Landing</a>. The castle is located north of <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-133658373456cca92ae940d" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/kings-landing\/ HBO viewers guide, season 1 map, King's Landing entry]<\/ref>"}" data-rte-instance="130814-133658373456cca92ae940d" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" /><img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref name=\"Viewers Guide\">[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/kings-landing\/ HBO viewers guide, season 2 map, King's Landing entry]<\/ref>"}" data-rte-instance="130814-133658373456cca92ae940d" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-133658373456cca92ae940d" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels Rosby is surrounded by a town of daub and wattle huts. It sits on the road from King's Landing to <a data-rte-meta="{"type":"internal","text":"Duskendale","link":"Duskendale","wasblank":true,"noforce":true,"wikitext":"[[Duskendale]]"}" data-rte-instance="130814-133658373456cca92ae940d" href="/wiki/Duskendale" title="Duskendale">Duskendale</a> and is surrounded by rich farms, which grow a lot of the food that helps feed the capital.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-133658373456cca92ae940d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-133658373456cca92ae940d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Crownlands","placeholder":1,"wikitext":"{{The Crownlands}}"}" data-rte-instance="130814-133658373456cca92ae940d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0420\u043e\u0441\u0431\u0438","link":"ru:\u0420\u043e\u0441\u0431\u0438","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0420\u043e\u0441\u0431\u0438]]"}" data-rte-instance="130814-133658373456cca92ae940d" href="http://ru.gameofthrones.wikia.com/wiki/Росби" class="extiw" title="ru:Росби">ru:Росби</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u7f57\u65af\u6bd4\u5bb6\u65cf","link":"zh:\u7f57\u65af\u6bd4\u5bb6\u65cf","wasblank":true,"noforce":true,"wikitext":"[[zh:\u7f57\u65af\u6bd4\u5bb6\u65cf]]"}" data-rte-instance="130814-133658373456cca92ae940d" href="http://zh.asoiaf.wikia.com/wiki/罗斯比家族" class="extiw" title="zh:罗斯比家族">zh:罗斯比家族</a>
-</p>
-   Loading editor
+title=Rosby
+| image size=
+| location=The crownlands, westeros
+| type=double-brackets and town
+| population=
+| rulers=House rosby
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ Rosby is a settlement in the Crownlands, consisting of a castle and a surrounding town. It is the seat of House Rosby, a vassal house holding fealty to House Baratheon of King's Landing. The castle is located north of King's Landing.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/kings-landing\/ HBO viewers guide, season 1 map, King's Landing entry\/ref} data-rte-instance130814-133658373456cca92ae940d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/kings-landing\/ HBO viewers guide, season 2 map, King's Landing entry\/ref} data-rte-instance130814-133658373456cca92ae940d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels Rosby is surrounded by a town of daub and wattle huts. It sits on the road from King's Landing to Duskendale and is surrounded by rich farms, which grow a lot of the food that helps feed the capital. References 
+
+ See also (spoilers from the books) 
+
+ 
+
+ru:Росби zh:罗斯比家族  Loading editor

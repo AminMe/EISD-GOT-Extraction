@@ -1,16 +1,19 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Elder slave\n|Image = Elder slave.png\n|Season = [[Season 4|4]]\n|First = \"[[Oathkeeper]]\"\n|Status=[[:Category: Status: Alive|Alive]]\n|Place = [[Meereen]]\n|Actor = [[Philip Philmar]]}}"}" data-rte-instance="130814-158343337556cca7ed5091b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"quote","placeholder":1,"wikitext":"{{quote|Shka ma khurf. P\u2019ashkesh she kraj waov.<br\/>You\u2019re a fool. The masters are too strong.|Elder slave|Oathkeeper}}"}" data-rte-instance="130814-158343337556cca7ed5091b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->An <b>elder slave</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-158343337556cca7ed5091b" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Philip Philmar","link":"Philip Philmar","wasblank":true,"noforce":true,"wikitext":"[[Philip Philmar]]"}" data-rte-instance="130814-158343337556cca7ed5091b" href="/wiki/Philip_Philmar" title="Philip Philmar">Philip Philmar</a> and appears in "<a data-rte-meta="{"type":"internal","text":"Oathkeeper","link":"Oathkeeper","wasblank":true,"noforce":true,"wikitext":"[[Oathkeeper]]"}" data-rte-instance="130814-158343337556cca7ed5091b" href="/wiki/Oathkeeper" title="Oathkeeper">Oathkeeper</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-158343337556cca7ed5091b" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">He is one of the older slaves in <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-158343337556cca7ed5091b" href="/wiki/Meereen" title="Meereen">Meereen</a> and has experienced two slaves revolts. He is unwilling to take part in the revolt in favor of <a data-rte-meta="{"type":"internal","text":"Daenerys","link":"Daenerys Targaryen","wasblank":false,"noforce":true,"wikitext":"[[Daenerys Targaryen|Daenerys]]"}" data-rte-instance="130814-158343337556cca7ed5091b" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys</a> because he thinks all revolts end the same way - with slavers victorious and slaves punished. They are, however, persuaded by <a data-rte-meta="{"type":"internal","text":"Grey Worm","link":"Grey Worm","wasblank":true,"noforce":true,"wikitext":"[[Grey Worm]]"}" data-rte-instance="130814-158343337556cca7ed5091b" href="/wiki/Grey_Worm" title="Grey Worm">Grey Worm</a> and take up arms against their masters.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Oathkeeper]]\"<\/ref>"}" data-rte-instance="130814-158343337556cca7ed5091b" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Four Appearances","placeholder":1,"wikitext":"{{Season Four Appearances||||yes}}"}" data-rte-instance="130814-158343337556cca7ed5091b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-158343337556cca7ed5091b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0420\u0430\u0431 2 (\u0412\u0435\u0440\u043d\u044b\u0439 \u043a\u043b\u044f\u0442\u0432\u0435)","link":"ru:\u0420\u0430\u0431 2 (\u0412\u0435\u0440\u043d\u044b\u0439 \u043a\u043b\u044f\u0442\u0432\u0435)","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0420\u0430\u0431 2 (\u0412\u0435\u0440\u043d\u044b\u0439 \u043a\u043b\u044f\u0442\u0432\u0435)]]"}" data-rte-instance="130814-158343337556cca7ed5091b" href="http://ru.gameofthrones.wikia.com/wiki/Раб_2_(Верный_клятве)" class="extiw" title="ru:Раб 2 (Верный клятве)">ru:Раб 2 (Верный клятве)</a>
-</p>
-   Loading editor
+title=Elder slave
+|image=Elder slave.png
+|season=4
+|first=\Oathkeeper\
+|Status=alive
+|place=Meereen
+|Actor = philip philmar}}}
+
+ You\u2019re a fool. The masters are too strong.|Elder slave|Oathkeeper}}} data-rte-instance130814-158343337556cca7ed5091b classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / An elder slave is an unnamed minor character in the fourth season. He is played by guest star Philip Philmar and appears in Oathkeeper. Biography 
+
+ Season 4 
+
+He is one of the older slaves in Meereen and has experienced two slaves revolts. He is unwilling to take part in the revolt in favor of Daenerys because he thinks all revolts end the same way - with slavers victorious and slaves punished. They are, however, persuaded by Grey Worm and take up arms against their masters.\Oathkeeper\\/ref} data-rte-instance130814-158343337556cca7ed5091b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ References 
+
+ 
+
+ru:Раб 2 (Верный клятве)  Loading editor

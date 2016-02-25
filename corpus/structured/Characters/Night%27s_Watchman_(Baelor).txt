@@ -1,17 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Night's-Watch-Shield-Icon.PNG\n|link=Night's Watch\n}}"}" data-rte-instance="130814-21973260856cca79e141ea" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Night's Watchman\n|Season = [[Season 1|1]]\n|Image=Night&#39;s Watchman.jpg\n|Appearances = \"[[Baelor]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[Night's Watch|The Night's Watch]]\n|Actor = [[Marcus Lamb]]}}"}" data-rte-instance="130814-21973260856cca79e141ea" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|You earned that, Snow.|The man to [[Jon Snow]]|Baelor}}"}" data-rte-instance="130814-21973260856cca79e141ea" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Night<span data-rte-entity="#39">&#39;</span>s Watchman</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-21973260856cca79e141ea" href="/wiki/Season_1" title="Season 1">first season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Marcus Lamb","link":"Marcus Lamb","wasblank":true,"noforce":true,"wikitext":"[[Marcus Lamb]]"}" data-rte-instance="130814-21973260856cca79e141ea" href="/wiki/Marcus_Lamb" title="Marcus Lamb">Marcus Lamb</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"Baelor","link":"Baelor","wasblank":true,"noforce":true,"wikitext":"[[Baelor]]"}" data-rte-instance="130814-21973260856cca79e141ea" href="/wiki/Baelor" title="Baelor">Baelor</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-21973260856cca79e141ea" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">He congratulates <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-21973260856cca79e141ea" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> for saving the life of <a data-rte-meta="{"type":"internal","text":"Lord Commander","link":"Lord Commander of the Night's Watch","wasblank":false,"noforce":true,"wikitext":"[[Lord Commander of the Night's Watch|Lord Commander]]"}" data-rte-instance="130814-21973260856cca79e141ea" href="/wiki/Lord_Commander_of_the_Night's_Watch" title="Lord Commander of the Night's Watch">Lord Commander</a> <a data-rte-meta="{"type":"internal","text":"Jeor Mormont","link":"Jeor Mormont","wasblank":true,"noforce":true,"wikitext":"[[Jeor Mormont]]"}" data-rte-instance="130814-21973260856cca79e141ea" href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a> and says that he earned the sword Mormont had given him, <a data-rte-meta="{"type":"internal","text":"Longclaw","link":"Longclaw","wasblank":true,"noforce":true,"wikitext":"[[Longclaw]]"}" data-rte-instance="130814-21973260856cca79e141ea" href="/wiki/Longclaw" title="Longclaw">Longclaw</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Baelor]]\"<\/ref>"}" data-rte-instance="130814-21973260856cca79e141ea" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|9=yes}}"}" data-rte-instance="130814-21973260856cca79e141ea" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-21973260856cca79e141ea" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0414\u043e\u0437\u043e\u0440\u043d\u044b\u0439 (\u0411\u044d\u0439\u043b\u043e\u0440)","link":"ru:\u0414\u043e\u0437\u043e\u0440\u043d\u044b\u0439 (\u0411\u044d\u0439\u043b\u043e\u0440)","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0414\u043e\u0437\u043e\u0440\u043d\u044b\u0439 (\u0411\u044d\u0439\u043b\u043e\u0440)]]"}" data-rte-instance="130814-21973260856cca79e141ea" href="http://ru.gameofthrones.wikia.com/wiki/Дозорный_(Бэйлор)" class="extiw" title="ru:Дозорный (Бэйлор)">ru:Дозорный (Бэйлор)</a>
-</p>
-   Loading editor
+title=Night's watchman
+|season=1
+|image=Night's watchman.jpg
+|appearances=\Baelor\
+|Status = alive
+|allegiance=the night's watch
+|actor=Marcus lamb}}}
+
+ 
+
+ 
+
+ 
+
+A Night's Watchman is an unnamed minor character in the first season. He is played by guest star Marcus Lamb and only appears in Baelor. Biography 
+
+ Season 1 
+
+He congratulates Jon Snow for saving the life of Lord Commander Jeor Mormontand says that he earned the sword Mormont had given him, Longclaw.\Baelor\\/ref} data-rte-instance130814-21973260856cca79e141ea classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ References 
+
+ 
+
+ru:Дозорный (Бэйлор)  Loading editor

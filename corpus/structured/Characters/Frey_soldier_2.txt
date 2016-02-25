@@ -1,19 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Frey-Shield-Icon.PNG\n|link = House Frey\n}}"}" data-rte-instance="130814-35790963856cca7a804518" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Frey Soldier 2\n| Image=Frey soldier 2.png\n| Season=[[Season 3|3]]\n| Appearances=\"[[Mhysa]]\"\n| Status= [[:Category:Status: Dead|Deceased]]\n| Death= Slain by [[Sandor Clegane]]\n| Allegiance=[[House Frey]]\n| Actor=[[Michael Liebmann]]\n| DeathEp = \"[[Mhysa]]\"}}"}" data-rte-instance="130814-35790963856cca7a804518" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">The <b>Frey soldier</b> was a character who appears in the <a data-rte-meta="{"type":"internal","text":"third season","link":"Season 3","wasblank":false,"noforce":true,"wikitext":"[[Season 3|third season]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Season_3" title="Season 3">third season</a> episode "<a data-rte-meta="{"type":"internal","text":"Mhysa","link":"Mhysa","wasblank":true,"noforce":true,"wikitext":"[[Mhysa]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Mhysa" title="Mhysa">Mhysa</a>". He is played by <a data-rte-meta="{"type":"internal","text":"Michael Liebmann","link":"Michael Liebmann","wasblank":true,"noforce":true,"wikitext":"[[Michael Liebmann]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Michael_Liebmann" title="Michael Liebmann">Michael Liebmann</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true">The soldier is relaxing with three other Frey men by a campfire, boasting about the <a data-rte-meta="{"type":"internal","text":"Red Wedding","link":"Red Wedding","wasblank":true,"noforce":true,"wikitext":"[[Red Wedding]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Red_Wedding" title="Red Wedding">Red Wedding</a>. <a data-rte-meta="{"type":"internal","text":"Another soldier","link":"Frey soldier 1","wasblank":false,"noforce":true,"wikitext":"[[Frey soldier 1|Another soldier]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Frey_soldier_1" title="Frey soldier 1">Another soldier</a> in particular mocks the death of <a data-rte-meta="{"type":"internal","text":"Catelyn Stark","link":"Catelyn Stark","wasblank":true,"noforce":true,"wikitext":"[[Catelyn Stark]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Catelyn_Stark" title="Catelyn Stark">Catelyn Stark</a> and the desecration of <a data-rte-meta="{"type":"internal","text":"Robb Stark","link":"Robb Stark","wasblank":true,"noforce":true,"wikitext":"[[Robb Stark]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a>'s corpse, including attaching the head of his direwolf, <a data-rte-meta="{"type":"internal","text":"Grey Wind","link":"Grey Wind","wasblank":true,"noforce":true,"wikitext":"[[Grey Wind]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Grey_Wind" title="Grey Wind">Grey Wind</a>, to it. This soldier reminds the other that he was the one who did it, to which the other soldier responds in the affirmative. This soldier is then the first to notice <a data-rte-meta="{"type":"internal","text":"Arya Stark","link":"Arya Stark","wasblank":true,"noforce":true,"wikitext":"[[Arya Stark]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> approaching from behind. After she asks to keep warm, the soldier orders her to "fuck off", until she offers a coin to the other soldier. However, she quickly stabs the other soldier, prompting this soldier and the two others to take up arms. However, they're quickly slain by <a data-rte-meta="{"type":"internal","text":"Sandor Clegane","link":"Sandor Clegane","wasblank":true,"noforce":true,"wikitext":"[[Sandor Clegane]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/Sandor_Clegane" title="Sandor Clegane">Sandor Clegane</a> before they have a chance to hurt Arya.
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Three Appearances","placeholder":1,"wikitext":"{{Season Three Appearances|10=yes}}"}" data-rte-instance="130814-35790963856cca7a804518" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i>A Song of Ice and Fire</i> novels, this scene doesn't occur. However, the Hound does kill some Frey men during the fight at the camp outside <a data-rte-meta="{"type":"internal","text":"the Twins","link":"the Twins","wasblank":true,"noforce":true,"wikitext":"[[the Twins]]"}" data-rte-instance="130814-35790963856cca7a804518" href="/wiki/The_Twins" title="The Twins">the Twins</a>, among them Ser Tytos Frey, son of Jared Frey, and Ser Garse Goodbrook, husband of Kyra Frey.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-35790963856cca7a804518" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u043e\u043b\u0434\u0430\u0442 \u0424\u0440\u0435\u0435\u0432 2","link":"ru:\u0421\u043e\u043b\u0434\u0430\u0442 \u0424\u0440\u0435\u0435\u0432 2","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u043e\u043b\u0434\u0430\u0442 \u0424\u0440\u0435\u0435\u0432 2]]"}" data-rte-instance="130814-35790963856cca7a804518" href="http://ru.gameofthrones.wikia.com/wiki/Солдат_Фреев_2" class="extiw" title="ru:Солдат Фреев 2">ru:Солдат Фреев 2</a>
-</p>
-   Loading editor
+title=Frey soldier 2
+| image=Frey 2.png
+| season=3
+| appearances=\Mhysa\
+| status=deceased
+| death=Slain by sandor clegane
+| allegiance=House frey
+| actor=Michael liebmann
+| deathep=\Mhysa\}}}
+
+ 
+
+The Frey soldier was a character who appears in the third season episode Mhysa. He is played by Michael Liebmann. Biography 
+
+ Season 3 
+
+The soldier is relaxing with three other Frey men by a campfire, boasting about the Red Wedding. Another soldier in particular mocks the death of Catelyn Stark and the desecration of Robb Stark's corpse, including attaching the head of his direwolf, Grey Wind, to it. This soldier reminds the other that he was the one who did it, to which the other soldier responds in the affirmative. This soldier is then the first to notice Arya Stark approaching from behind. After she asks to keep warm, the soldier orders her to fuck off, until she offers a coin to the other soldier. However, she quickly stabs the other soldier, prompting this soldier and the two others to take up arms. However, they're quickly slain by Sandor Clegane before they have a chance to hurt Arya. Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, this scene doesn't occur. However, the Hound does kill some Frey men during the fight at the camp outside the Twins, among them Ser Tytos Frey, son of Jared Frey, and Ser Garse Goodbrook, husband of Kyra Frey. References 
+
+ 
+
+ru:Солдат Фреев 2  Loading editor

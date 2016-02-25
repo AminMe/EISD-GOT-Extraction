@@ -1,19 +1,42 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Mini harpy.png\n|link=Great Masters\n}}"}" data-rte-instance="130814-131927766556cca7ee9cffc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Great Master\n| Image=Slave master 3.jpg\n| Season=[[Season 4|4]]\n| First=\"[[Breaker of Chains]]\"\n| Last=\n| Appearances= 2 episodes <small>[[#Appearances|(see below)]]<\/small>\n| Titles=\n| Aka=\n| Status=[[:Category:Status: Alive|Alive]]\n| Death=\n| DeathEp=\n| Place=[[Meereen]]\n| Allegiance=[[House of Loraq]]\n| Family=\n| Actor=[[Conor Watters]]\n|Culture = [[Ghiscari]]}}"}" data-rte-instance="130814-131927766556cca7ee9cffc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Hizdahr zo Loraq's manservant</b> is a recurring character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Conor Watters","link":"Conor Watters","wasblank":true,"noforce":true,"wikitext":"[[Conor Watters]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Conor_Watters" title="Conor Watters">Conor Watters</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true">He is a <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Meereen" title="Meereen">Meereenese</a> man serving the <a data-rte-meta="{"type":"internal","text":"House of Loraq","link":"House of Loraq","wasblank":true,"noforce":true,"wikitext":"[[House of Loraq]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/House_of_Loraq" title="House of Loraq">House of Loraq</a>. His clothing and lack of collar suggest that he is a free man working as a servant, not a slave, even prior to Daenerys's victory.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">He's alongside <a data-rte-meta="{"type":"internal","text":"Hizdahr zo Loraq","link":"Hizdahr zo Loraq","wasblank":true,"noforce":true,"wikitext":"[[Hizdahr zo Loraq]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Hizdahr_zo_Loraq" title="Hizdahr zo Loraq">Hizdahr zo Loraq</a> when the <a data-rte-meta="{"type":"internal","text":"Great Masters","link":"Great Masters","wasblank":true,"noforce":true,"wikitext":"[[Great Masters]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Great_Masters" title="Great Masters">Great Masters</a> gather over the walls of Meereen when <a data-rte-meta="{"type":"internal","text":"Daenerys Targaryen","link":"Daenerys Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Daenerys Targaryen]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a> and her army appear before the city gates to lay <a data-rte-meta="{"type":"internal","text":"siege","link":"Siege of Meereen","wasblank":false,"noforce":true,"wikitext":"[[Siege of Meereen|siege]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Siege_of_Meereen" title="Siege of Meereen">siege</a> to the city.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Breaker of Chains]]\"<\/ref>"}" data-rte-instance="130814-131927766556cca7ee9cffc" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">He later accompanies Hizdahr to petition the Queen on the matter of burying his father's remains. The manservant follows protocol by communicating (in <a data-rte-meta="{"type":"internal","text":"Low Valyrian","link":"Low Valyrian","wasblank":true,"noforce":true,"wikitext":"[[Low Valyrian]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Low_Valyrian" title="Low Valyrian">Low Valyrian</a>) with <a data-rte-meta="{"type":"internal","text":"Missandei","link":"Missandei","wasblank":true,"noforce":true,"wikitext":"[[Missandei]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="/wiki/Missandei" title="Missandei">Missandei</a> instead of having Hizdahr and Daenerys actually speak, but the queen has them dispense with the pageantry and orders Hizdahr to to address her directly.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Laws of Gods and Men]]\"<\/ref>"}" data-rte-instance="130814-131927766556cca7ee9cffc" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Four Appearances","placeholder":1,"wikitext":"{{Season Four Appearances|3=yes|6=yes}}"}" data-rte-instance="130814-131927766556cca7ee9cffc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-131927766556cca7ee9cffc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u043b\u0443\u0433\u0430 \u0425\u0438\u0437\u0434\u0430\u0440\u0430","link":"ru:\u0421\u043b\u0443\u0433\u0430 \u0425\u0438\u0437\u0434\u0430\u0440\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u043b\u0443\u0433\u0430 \u0425\u0438\u0437\u0434\u0430\u0440\u0430]]"}" data-rte-instance="130814-131927766556cca7ee9cffc" href="http://ru.gameofthrones.wikia.com/wiki/Слуга_Хиздара" class="extiw" title="ru:Слуга Хиздара">ru:Слуга Хиздара</a>
-</p>
-   Loading editor
+title=Great master
+| image=Slave master 3.jpg
+| season=4
+| first=\Breaker of chains\
+| last=
+| appearances=2 episodes (see below)\/small
+| Titles=
+| Aka=
+| Status=Alive
+| Death=
+| DeathEp=
+| Place=Meereen
+| Allegiance=House of Loraq
+| Family=
+| Actor=Conor Watters
+|Culture = Ghiscari}}}
+
+ (see below)\/small
+| Titles=
+| Aka=
+| Status=Alive
+| Death=
+| DeathEp=
+| Place=Meereen
+| Allegiance=House of Loraq
+| Family=
+| Actor=Conor Watters
+|Culture  Ghiscari} data-rte-instance130814-131927766556cca7ee9cffc classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+
+Hizdahrzo Loraq's manservant is a recurring character in the fourth season. He is played by guest star Conor Watters. Biography 
+
+He is a Meereenese man serving the House of Loraq. His clothing and lack of collar suggest that he is a free man working as a servant, not a slave, even prior to Daenerys's victory. Season 4 
+
+He's alongside Hizdahr zo Loraq when the Great Masters gather over the walls of Meereen when Daenerys Targaryen and her army appear before the city gates to lay siege to the city.\Breaker of Chains\\/ref} data-rte-instance130814-131927766556cca7ee9cffc classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+
+He later accompanies Hizdahr to petition the Queen on the matter of burying his father's remains. The manservant follows protocol by communicating (in Low Valyrian) with Missandei instead of having Hizdahr and Daenerys actually speak, but the queen has them dispense with the pageantry and orders Hizdahr to to address her directly.\The Laws of Gods and Men\\/ref} data-rte-instance130814-131927766556cca7ee9cffc classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ References 
+
+ 
+
+ru:Слуга Хиздара  Loading editor

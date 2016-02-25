@@ -1,15 +1,15 @@
-<p data-rte-fromparser="true"><b>Old Wyk</b> is one of the seven main <a data-rte-meta="{"type":"internal","text":"Iron Islands","link":"Iron Islands","wasblank":true,"noforce":true,"wikitext":"[[Iron Islands]]"}" data-rte-instance="130814-137815769156cca8e87e351" href="/wiki/Iron_Islands" title="Iron Islands">Iron Islands</a>, an archipelago located on <a data-rte-meta="{"type":"internal","text":"Ironman's Bay","link":"Ironman's Bay","wasblank":true,"noforce":true,"wikitext":"[[Ironman's Bay]]"}" data-rte-instance="130814-137815769156cca8e87e351" href="/wiki/Ironman's_Bay" title="Ironman's Bay">Ironman's Bay</a>, on the western side of <a data-rte-meta="{"type":"internal","text":"Westeros","link":"Westeros","wasblank":true,"noforce":true,"wikitext":"[[Westeros]]"}" data-rte-instance="130814-137815769156cca8e87e351" href="/wiki/Westeros" title="Westeros">Westeros</a>.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> In the books </h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-137815769156cca8e87e351" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Old Wyk was the first of the islands to be settled (despite being located on the far side of the archipelago from the mainland), and the <a data-rte-meta="{"type":"internal","text":"ironborn","link":"ironborn","wasblank":true,"noforce":true,"wikitext":"[[ironborn]]"}" data-rte-instance="130814-137815769156cca8e87e351" href="/wiki/Ironborn" title="Ironborn">ironborn</a> still hold it to be sacred.
-</p><p data-rte-fromparser="true">It isn't as large or wealthy as Great Wyk, Harlaw, Orkmont, or Pyke, but its "holy" status still gives it high esteem among the ironborn.  Its local Houses take pride in this and are fiercely devoted raiders.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-137815769156cca8e87e351" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-137815769156cca8e87e351" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Iron Islands","placeholder":1,"wikitext":"{{Iron Islands}}"}" data-rte-instance="130814-137815769156cca8e87e351" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u0442\u0430\u0440\u044b\u0439 \u0412\u0438\u043a","link":"ru:\u0421\u0442\u0430\u0440\u044b\u0439 \u0412\u0438\u043a","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u0442\u0430\u0440\u044b\u0439 \u0412\u0438\u043a]]"}" data-rte-instance="130814-137815769156cca8e87e351" href="http://ru.gameofthrones.wikia.com/wiki/Старый_Вик" class="extiw" title="ru:Старый Вик">ru:Старый Вик</a>
-</p>
-   Loading editor
+Old Wyk is one of the seven main Iron Islands, an archipelago located on Ironman's Bay, on the western side of Westeros.
+
+ In the books 
+In the A Song of Ice and Fire novels, Old Wyk was the first of the islands to be settled (despite being located on the far side of the archipelago from the mainland), and the ironborn still hold it to be sacred.
+It isn't as large or wealthy as Great Wyk, Harlaw, Orkmont, or Pyke, but its holy status still gives it high esteem among the ironborn.  Its local Houses take pride in this and are fiercely devoted raiders.
+
+See also
+ (spoilers from the books)
+
+References
+
+
+ru:Старый Вик
+
+ &nbsp; Loading editor

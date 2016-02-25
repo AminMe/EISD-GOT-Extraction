@@ -1,17 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Night's-Watch-Shield-Icon.PNG\n|link=Night's Watch\n}}"}" data-rte-instance="130814-15010161956cca7b013884" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Wendel\n|Image = Wendel.png\n|Season = ''[[Game of Thrones: A Telltale Games Series]]''\n|First = \"[[The Sword in the Darkness]]\"\n|Last = \"[[The Sword in the Darkness]]\"\n|Status = [[:Category:Status: Uncertain|Uncertain]]\n|Allegiance = The [[Night's Watch]]\n|Titles = }}"}" data-rte-instance="130814-15010161956cca7b013884" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Wendel, pack the extra rations.|[[Jon Snow]]|The Sword in the Darkness}}"}" data-rte-instance="130814-15010161956cca7b013884" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Wendel</b> is a minor character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones: A Telltale Games Series","link":"Game of Thrones: A Telltale Games Series","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones: A Telltale Games Series]]"}" data-rte-instance="130814-15010161956cca7b013884" href="/wiki/Game_of_Thrones:_A_Telltale_Games_Series" title="Game of Thrones: A Telltale Games Series">Game of Thrones: A Telltale Games Series</a></i>. He is a brother of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-15010161956cca7b013884" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>"<a data-rte-meta="{"type":"internal","text":"The Sword in the Darkness","link":"The Sword in the Darkness","wasblank":true,"noforce":true,"wikitext":"[[The Sword in the Darkness]]"}" data-rte-instance="130814-15010161956cca7b013884" href="/wiki/The_Sword_in_the_Darkness" title="The Sword in the Darkness">The Sword in the Darkness</a>"</h3>
-<p data-rte-fromparser="true">At <a data-rte-meta="{"type":"internal","text":"Castle Black","link":"Castle Black","wasblank":true,"noforce":true,"wikitext":"[[Castle Black]]"}" data-rte-instance="130814-15010161956cca7b013884" href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>, <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-15010161956cca7b013884" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> orders Wendel to pack extra rations while preparing for his <a data-rte-meta="{"type":"internal","text":"raid","link":"Raid on Craster's Keep","wasblank":false,"noforce":true,"wikitext":"[[Raid on Craster's Keep|raid]]"}" data-rte-instance="130814-15010161956cca7b013884" href="/wiki/Raid_on_Craster's_Keep" title="Raid on Craster's Keep">raid</a> of <a data-rte-meta="{"type":"internal","text":"Craster's Keep","link":"Craster's Keep","wasblank":true,"noforce":true,"wikitext":"[[Craster's Keep]]"}" data-rte-instance="130814-15010161956cca7b013884" href="/wiki/Craster's_Keep" title="Craster's Keep">Craster's Keep</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Sword in the Darkness]]\"<\/ref>"}" data-rte-instance="130814-15010161956cca7b013884" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Telltale Game Series Appearances","placeholder":1,"wikitext":"{{Telltale Game Series Appearances|3 = yes}}"}" data-rte-instance="130814-15010161956cca7b013884" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-15010161956cca7b013884" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Watch navbox","placeholder":1,"wikitext":"{{Watch navbox}}"}" data-rte-instance="130814-15010161956cca7b013884" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Wendel
+|Image = wendel.png
+|season= game of thrones: a telltale games series
+|first=\The sword in the darkness\
+|last=\The darkness\
+|status=uncertain
+|allegiance=The night's watch
+|titles=}}}
+
+ 
+
+ 
+
+Wendel is a minor character in Game of Thrones: A Telltale Games Series. He is a brother of the Night's Watch. Biography 
+
+ The Sword in the Darkness 
+
+At Castle Black, Jon Snow orders Wendel to pack extra rations while preparing for his raid of Craster's Keep.\The Sword in the Darkness\\/ref} data-rte-instance130814-15010161956cca7b013884 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ References 
+
+ 
+
+  Loading editor

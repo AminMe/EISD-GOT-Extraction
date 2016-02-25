@@ -1,21 +1,26 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Foreign merchant\n| Image = \n| Season = [[Season 5|5]]\n| First=\"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"\n| Last=\n| Appearances=\"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"\n| Status= [[:Category:Status: Alive|Alive]]\n| Titles=\n| Aka=\n| Place = \n| Family =\n| Allegiance =\n| Actor =[[Allon Sylvain]]}}"}" data-rte-instance="130814-69611041956cca8068e2bf" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Help me! Help me!|The foreign merchant to a pair of [[City Watch|goldcloaks]]|Sons of the Harpy (episode)}}"}" data-rte-instance="130814-69611041956cca8068e2bf" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>foreign merchant</b> is a character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/Season_5" title="Season 5">fifth season</a>. He is portrayed by <a data-rte-meta="{"type":"internal","text":"Allon Sylvain","link":"Allon Sylvain","wasblank":true,"noforce":true,"wikitext":"[[Allon Sylvain]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/Allon_Sylvain" title="Allon Sylvain">Allon Sylvain</a> and appears in "<a data-rte-meta="{"type":"internal","text":"Sons of the Harpy","link":"Sons of the Harpy (episode)","wasblank":false,"noforce":true,"wikitext":"[[Sons of the Harpy (episode)|Sons of the Harpy]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/Sons_of_the_Harpy_(episode)" title="Sons of the Harpy (episode)">Sons of the Harpy</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Background </h3>
-<p data-rte-fromparser="true">This lesser merchant, presumably of Essosi origin, deals in idols and images of different religions, including representations of the fiery heart of the <a data-rte-meta="{"type":"internal","text":"Lord of Light","link":"Lord of Light","wasblank":true,"noforce":true,"wikitext":"[[Lord of Light]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/Lord_of_Light" title="Lord of Light" class="mw-redirect">Lord of Light</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">The merchant is in <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a> when members of the the recently restored <a data-rte-meta="{"type":"internal","text":"Faith Militant","link":"Faith Militant","wasblank":true,"noforce":true,"wikitext":"[[Faith Militant]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/Faith_Militant" title="Faith Militant">Faith Militant</a> approach him and destroy his post and the idols he sells. He shouts for help, but a pair of members of the <a data-rte-meta="{"type":"internal","text":"City Watch","link":"City Watch","wasblank":true,"noforce":true,"wikitext":"[[City Watch]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/City_Watch" title="City Watch">City Watch</a> ignores him.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"<\/ref>"}" data-rte-instance="130814-69611041956cca8068e2bf" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances||||yes|||}}"}" data-rte-instance="130814-69611041956cca8068e2bf" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> In the books </h2>
-<p data-rte-fromparser="true">In the <a data-rte-meta="{"type":"internal","text":"<i>A Song of Ice and Fire<\/i>","link":"A Song of Ice and Fire","wasblank":false,"noforce":true,"wikitext":"[[A Song of Ice and Fire|''A Song of Ice and Fire'']]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire"><i>A Song of Ice and Fire</i></a> novels so far there has been no mention of the members of the Faith Militant carrying out attacks against worshipers of other religions, even though the <a data-rte-meta="{"type":"internal","text":"High Sparrow","link":"High Sparrow","wasblank":true,"noforce":true,"wikitext":"[[High Sparrow]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/High_Sparrow" title="High Sparrow">High Sparrow</a> does consider <a data-rte-meta="{"type":"internal","text":"R'hllor","link":"R'hllor","wasblank":true,"noforce":true,"wikitext":"[[R'hllor]]"}" data-rte-instance="130814-69611041956cca8068e2bf" href="/wiki/R'hllor" title="R'hllor">R'hllor</a> a demon.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-69611041956cca8068e2bf" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Foreign merchant
+| image=
+| season=5
+| first=\sons harpy\
+| last=
+| appearances=\alive
+| titles=
+| aka=
+| place=
+| family=
+| allegiance=
+| actor=Allon sylvain}}}
+
+ A foreign merchant is a character in the fifth season. He is portrayed by Allon Sylvain and appears in Sons of the Harpy. Biography 
+
+ Background 
+
+This lesser merchant, presumably of Essosi origin, deals in idols and images of different religions, including representations of the fiery heart of the Lord of Light. Season 5 
+
+The merchant is in King's Landing when members of the the recently restored Faith Militant approach him and destroy his post and the idols he sells. He shouts for help, but a pair of members of the City Watch ignores him.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref} data-rte-instance130814-69611041956cca8068e2bf classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire\/i,link:A Song of Ice and Fire,wasblank:false,noforce:true,wikitext:A Song of Ice and Fire|A Song of Ice and Fire} data-rte-instance130814-69611041956cca8068e2bf href/wiki/A_Song_of_Ice_and_Fire title=A Song of Ice and FireA Song of Ice and Fire novels so far there has been no mention of the members of the Faith Militant carrying out attacks against worshipers of other religions, even though the High Sparrow does consider R'hllor a demon. References 
+
+  Loading editor

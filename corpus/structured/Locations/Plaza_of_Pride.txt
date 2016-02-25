@@ -1,20 +1,20 @@
-<p data-rte-fromparser="true">The <b>Plaza of Pride</b> is a location in <a data-rte-meta="{"type":"internal","text":"Astapor","link":"Astapor","wasblank":true,"noforce":true,"wikitext":"[[Astapor]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/Astapor" title="Astapor">Astapor</a>. It is one of the major locations of the city, where the <a data-rte-meta="{"type":"internal","text":"Good Masters","link":"Good Masters","wasblank":true,"noforce":true,"wikitext":"[[Good Masters]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/Good_Masters" title="Good Masters">Good Masters</a> take their customers to deliver their <a data-rte-meta="{"type":"internal","text":"purchases","link":"Slavery","wasblank":false,"noforce":true,"wikitext":"[[Slavery|purchases]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/Slavery" title="Slavery">purchases</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Kraznys mo Nakloz","link":"Kraznys mo Nakloz","wasblank":true,"noforce":true,"wikitext":"[[Kraznys mo Nakloz]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/Kraznys_mo_Nakloz" title="Kraznys mo Nakloz">Kraznys mo Nakloz</a> and the rest of the Good Masters deliver their <a data-rte-meta="{"type":"internal","text":"Unsullied","link":"Unsullied","wasblank":true,"noforce":true,"wikitext":"[[Unsullied]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/Unsullied" title="Unsullied">Unsullied</a> to <a data-rte-meta="{"type":"internal","text":"Daenerys Targaryen","link":"Daenerys Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Daenerys Targaryen]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a> on the Plaza of Pride.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[And Now His Watch is Ended]]\"<\/ref>"}" data-rte-instance="130814-109668570556cca8fe761ce" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Behind the scenes</h2>
-<p data-rte-fromparser="true">The Plaza of Pride is finally mentioned by name by <a data-rte-meta="{"type":"internal","text":"Grey Worm","link":"Grey Worm","wasblank":true,"noforce":true,"wikitext":"[[Grey Worm]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/Grey_Worm" title="Grey Worm">Grey Worm</a> in "<a data-rte-meta="{"type":"internal","text":"The Mountain and the Viper","link":"The Mountain and the Viper","wasblank":true,"noforce":true,"wikitext":"[[The Mountain and the Viper]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/The_Mountain_and_the_Viper" title="The Mountain and the Viper">The Mountain and the Viper</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i>A Song of Ice and Fire</i> novels, the Plaza of Pride is is an open market where the city's slavers take their customers to view their purchases. In the center of the plaza stands a red brick fountain with a monstrous hammered bronze harpy rearing 20 foot tall in its middle. Yellow water smelling of brimstone gushes from her heavy breasts.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">In <i>A Storm of Swords</i> Daenerys inspects the Unsullied at the Plaza of Pride, but when she decides to purchase all the Unsullied of the city, including the half-trained who have not yet won their caps, the number turns out to be so large that the purchase is completed at the Plaza of Punishment, which in the show was replaced with the <a data-rte-meta="{"type":"internal","text":"Walk of Punishment","link":"Walk of Punishment (Astapor)","wasblank":false,"noforce":true,"wikitext":"[[Walk of Punishment (Astapor)|Walk of Punishment]]"}" data-rte-instance="130814-109668570556cca8fe761ce" href="/wiki/Walk_of_Punishment_(Astapor)" title="Walk of Punishment (Astapor)">Walk of Punishment</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-109668570556cca8fe761ce" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-109668570556cca8fe761ce" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+The Plaza of Pride is a location in Astapor. It is one of the major locations of the city, where the Good Masters take their customers to deliver their purchases.
+
+History
+Season 3
+Kraznys mo Nakloz and the rest of the Good Masters deliver their Unsullied to Daenerys Targaryen on the Plaza of Pride.\And Now His Watch is Ended\\/ref} data-rte-instance130814-109668570556cca8fe761ce classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+Behind the scenes
+The Plaza of Pride is finally mentioned by name by Grey Worm in The Mountain and the Viper.
+
+In the books
+In the A Song of Ice and Fire novels, the Plaza of Pride is is an open market where the city's slavers take their customers to view their purchases. In the center of the plaza stands a red brick fountain with a monstrous hammered bronze harpy rearing 20 foot tall in its middle. Yellow water smelling of brimstone gushes from her heavy breasts.
+In A Storm of Swords Daenerys inspects the Unsullied at the Plaza of Pride, but when she decides to purchase all the Unsullied of the city, including the half-trained who have not yet won their caps, the number turns out to be so large that the purchase is completed at the Plaza of Punishment, which in the show was replaced with the Walk of Punishment.
+
+See also
+
+
+References
+
+
+ &nbsp; Loading editor

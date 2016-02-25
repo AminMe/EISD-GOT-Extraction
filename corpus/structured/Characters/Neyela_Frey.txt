@@ -1,24 +1,30 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Frey-Shield-Icon.PNG\n|link=House Frey\n}}"}" data-rte-instance="130814-22006605056cca77f3470c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Neyela Frey\n|Image = Neyela Frey.jpg\n|Season = [[Season 3|3]]\n|Appearances = \"[[The Rains of Castamere (episode)|The Rains of Castamere]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Place = [[The Twins]]\n|Allegiance = [[House Frey]]\n|Family = [[Walder Frey]] - grandfather<br>[[Walda Frey (The Rains of Castamere)|Walda Frey]] - aunt<br>[[Derwa Frey]] - aunt<br>[[Waldra Frey]] - aunt<br>[[Roslin Frey]] - aunt<br>[[Shirei Frey]] - aunt}}"}" data-rte-instance="130814-22006605056cca77f3470c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|My eldest granddaughters, Janeya and Neyela.|Lord [[Walder Frey]]|The Rains of Castamere (episode)}}"}" data-rte-instance="130814-22006605056cca77f3470c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Neyela Frey </b>is one of the many granddaughters of <a data-rte-meta="{"type":"internal","text":"Walder Frey","link":"Walder Frey","wasblank":true,"noforce":true,"wikitext":"[[Walder Frey]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/Walder_Frey" title="Walder Frey">Walder Frey</a>. She only appears in the <a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/Season_3" title="Season 3">Season 3</a> episode "<a data-rte-meta="{"type":"internal","text":"The Rains of Castamere","link":"The Rains of Castamere (episode)","wasblank":false,"noforce":true,"wikitext":"[[The Rains of Castamere (episode)|The Rains of Castamere]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/The_Rains_of_Castamere_(episode)" title="The Rains of Castamere (episode)">The Rains of Castamere</a>".
-</p>
-<h2>Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Neyela is one of the many granddaughters of <a data-rte-meta="{"type":"internal","text":"Walder Frey","link":"Walder Frey","wasblank":true,"noforce":true,"wikitext":"[[Walder Frey]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/Walder_Frey" title="Walder Frey">Walder Frey</a>, the <a data-rte-meta="{"type":"internal","text":"Lord of the Crossing","link":"Lord of the Crossing","wasblank":true,"noforce":true,"wikitext":"[[Lord of the Crossing]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/Lord_of_the_Crossing" title="Lord of the Crossing">Lord of the Crossing</a>.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true">Along with several of Lord Frey's other daughters and granddaughters, <a data-rte-meta="{"type":"internal","text":"Robb Stark","link":"Robb Stark","wasblank":true,"noforce":true,"wikitext":"[[Robb Stark]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a> had the option of marrying her. When he arrives at <a data-rte-meta="{"type":"internal","text":"The Twins","link":"The Twins","wasblank":true,"noforce":true,"wikitext":"[[The Twins]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/The_Twins" title="The Twins">The Twins</a> for his uncle <a data-rte-meta="{"type":"internal","text":"Edmure's","link":"Edmure Tully","wasblank":false,"noforce":true,"wikitext":"[[Edmure Tully|Edmure's]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/Edmure_Tully" title="Edmure Tully">Edmure's</a> <a data-rte-meta="{"type":"internal","text":"wedding","link":"Red Wedding","wasblank":false,"noforce":true,"wikitext":"[[Red Wedding|wedding]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/Red_Wedding" title="Red Wedding">wedding</a>, Robb apologizes for his slight against them.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Rains of Castamere (episode)|The Rains of Castamere]]\"<\/ref>"}" data-rte-instance="130814-22006605056cca77f3470c" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Three Appearances","placeholder":1,"wikitext":"{{Template:Season Three Appearances|||||||||yes}}"}" data-rte-instance="130814-22006605056cca77f3470c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-22006605056cca77f3470c" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there's no mention of a granddaughter of Lord Walder Frey named "Neyela", nor for that matter are there any other Freys named "Neyela".
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-22006605056cca77f3470c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Frey navbox","placeholder":1,"wikitext":"{{Frey navbox}}"}" data-rte-instance="130814-22006605056cca77f3470c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Frey, Neyela","placeholder":1,"wikitext":"{{DEFAULTSORT:Frey, Neyela}}"}" data-rte-instance="130814-22006605056cca77f3470c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Neyela frey
+|image=Neyela frey.jpg
+|season=3
+|appearances=\the castamere\
+|status=alive
+|place=The twins
+|allegiance=House frey
+|family=Walder frey - grandfatherWalda Frey - auntDerwa Frey - auntWaldra Frey - auntRoslin Frey - auntShirei Frey - aunt}}}
+
+ Walda Frey - aunt 
+Derwa Frey - aunt 
+Waldra Frey - aunt 
+Roslin Frey - aunt 
+Shirei Frey - aunt}}} data-rte-instance130814-22006605056cca77f3470c classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+
+ 
+
+Neyela Freyis one of the many granddaughters of Walder Frey. She only appears in the Season 3 episode The Rains of Castamere. Biography 
+
+ Background 
+
+Neyelais one of the many granddaughters of Walder Frey, the Lord of the Crossing. Season 3 
+
+Along with several of Lord Frey's other daughters and granddaughters, Robb Stark had the option of marrying her. When he arrives at The Twins for his uncle Edmure'swedding, Robb apologizesfor his slight against them.\The Rains of Castamere (episode)|The Rains of Castamere\\/ref} data-rte-instance130814-22006605056cca77f3470c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, there's no mention of a granddaughter of Lord Walder Frey named Neyela, nor for that matter are there any other Freys named Neyela. References 
+
+  Loading editor

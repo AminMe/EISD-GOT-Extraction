@@ -1,20 +1,22 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Renly-Shield-Icon.PNG\n|link=Renly Baratheon\n}}"}" data-rte-instance="130814-159707994556cca7ce789c9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title =Gerald\n|Season = [[Season 2|2]]\n|Image=Gerald.png\n|Appearances = \"[[What is Dead May Never Die]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[House Baratheon]]<br>[[Renly Baratheon]]\n|Actor = [[Ken Fletcher]]}}"}" data-rte-instance="130814-159707994556cca7ce789c9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Gerald</b> is a minor character in the <a data-rte-meta="{"type":"internal","text":"second season","link":"Season 2","wasblank":false,"noforce":true,"wikitext":"[[Season 2|second season]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/Season_2" title="Season 2">second season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Ken Fletcher","link":"Ken Fletcher","wasblank":true,"noforce":true,"wikitext":"[[Ken Fletcher]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/Ken_Fletcher" title="Ken Fletcher">Ken Fletcher</a> and only appears in the "<a data-rte-meta="{"type":"internal","text":"What is Dead May Never Die","link":"What is Dead May Never Die","wasblank":true,"noforce":true,"wikitext":"[[What is Dead May Never Die]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/What_is_Dead_May_Never_Die" title="What is Dead May Never Die">What is Dead May Never Die</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">He is a groom in the army of <a data-rte-meta="{"type":"internal","text":"King","link":"King","wasblank":true,"noforce":true,"wikitext":"[[King]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/King" title="King">King</a> <a data-rte-meta="{"type":"internal","text":"Renly Baratheon","link":"Renly Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Renly Baratheon]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/Renly_Baratheon" title="Renly Baratheon">Renly Baratheon</a>. He was injured by a horse but recovered well. Renly greets him when he takes <a data-rte-meta="{"type":"internal","text":"Catelyn Stark","link":"Catelyn Stark","wasblank":true,"noforce":true,"wikitext":"[[Catelyn Stark]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/Catelyn_Stark" title="Catelyn Stark">Catelyn Stark</a> on a tour of his camp in the <a data-rte-meta="{"type":"internal","text":"Stormlands","link":"Stormlands","wasblank":true,"noforce":true,"wikitext":"[[Stormlands]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/Stormlands" title="Stormlands" class="mw-redirect">Stormlands</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[What is Dead May Never Die]]\"<\/ref>"}" data-rte-instance="130814-159707994556cca7ce789c9" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Two Appearances","placeholder":1,"wikitext":"{{Season Two Appearances|||yes}}"}" data-rte-instance="130814-159707994556cca7ce789c9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no equivalent character. The only character by that name is Ser Gerald Gower, a knight in service to <a data-rte-meta="{"type":"internal","text":"Stannis Baratheon","link":"Stannis Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Stannis Baratheon]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> whose role in the books is very minor.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-159707994556cca7ce789c9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Gerald","link":"de:Gerald","wasblank":true,"noforce":true,"wikitext":"[[de:Gerald]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="http://de.gameofthrones.wikia.com/wiki/Gerald" class="extiw" title="de:Gerald">de:Gerald</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u0414\u0436\u0435\u0440\u0430\u043b\u044c\u0434","link":"ru:\u0414\u0436\u0435\u0440\u0430\u043b\u044c\u0434","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0414\u0436\u0435\u0440\u0430\u043b\u044c\u0434]]"}" data-rte-instance="130814-159707994556cca7ce789c9" href="http://ru.gameofthrones.wikia.com/wiki/Джеральд" class="extiw" title="ru:Джеральд">ru:Джеральд</a>
-</p>
-   Loading editor
+title=Gerald
+|Season = 2
+|image=Gerald.png
+|Appearances \what is dead may never die\
+|status=alive
+|allegiance=House baratheonRenly Baratheon
+|Actor = Ken Fletcher}}}
+
+ Renly Baratheon
+|Actor  Ken Fletcher} data-rte-instance130814-159707994556cca7ce789c9 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Gerald is a minor character in the second season. He is played by guest star Ken Fletcher and only appears in the What is Dead May Never Die. Biography 
+
+ Season 2 
+
+He is a groom in the army of King Renly Baratheon. He was injured by a horse but recovered well. Renly greets him when he takes Catelyn Stark on a tour of his camp in the Stormlands.\What is Dead May Never Die\\/ref} data-rte-instance130814-159707994556cca7ce789c9 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, there is no equivalent character. The only character by that name is Ser Gerald Gower, a knight in service to Stannis Baratheon whose role in the books is very minor. References 
+
+ 
+
+de:Gerald ru:Джеральд  Loading editor

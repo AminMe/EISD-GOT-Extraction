@@ -1,14 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Qoherys]]\n| Image=Qoherys sigil.png\n| Sigil=A flaming saltire, red and yellow, between four white skulls, on black\n| Titles=\n| Seat=[[Harrenhal]]\n| Region=The [[Riverlands]]\n| Lord=\n| Heir=\n| Allegiance=[[House Tully]]\n| Vassals=\n| Age=\n| Founder=\n|ImageSize =250px}}"}" data-rte-instance="130814-138221508556cca97ce085d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Qoherys</b> is an extinct noble house of <a data-rte-meta="{"type":"internal","text":"the Riverlands","link":"the Riverlands","wasblank":true,"noforce":true,"wikitext":"[[the Riverlands]]"}" data-rte-instance="130814-138221508556cca97ce085d" href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a>. Their sigil was a flaming saltire, red and yellow, between 4 white skulls, on black.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Their seat was the castle of <a data-rte-meta="{"type":"internal","text":"Harrenhal","link":"Harrenhal","wasblank":true,"noforce":true,"wikitext":"[[Harrenhal]]"}" data-rte-instance="130814-138221508556cca97ce085d" href="/wiki/Harrenhal" title="Harrenhal">Harrenhal</a>, which was granted to them by <a data-rte-meta="{"type":"internal","text":"Aegon the Conqueror","link":"Aegon the Conqueror","wasblank":true,"noforce":true,"wikitext":"[[Aegon the Conqueror]]"}" data-rte-instance="130814-138221508556cca97ce085d" href="/wiki/Aegon_the_Conqueror" title="Aegon the Conqueror" class="mw-redirect">Aegon the Conqueror</a> as a reward for their service in the <a data-rte-meta="{"type":"internal","text":"War of Conquest","link":"War of Conquest","wasblank":true,"noforce":true,"wikitext":"[[War of Conquest]]"}" data-rte-instance="130814-138221508556cca97ce085d" href="/wiki/War_of_Conquest" title="War of Conquest">War of Conquest</a>. However, the Qoherys eventually became extinct, and the castle was passed on to <a data-rte-meta="{"type":"internal","text":"House Towers","link":"House Towers","wasblank":true,"noforce":true,"wikitext":"[[House Towers]]"}" data-rte-instance="130814-138221508556cca97ce085d" href="/wiki/House_Towers" title="House Towers">House Towers</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-138221508556cca97ce085d" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Qoherys' backstory is the same. They were battle-companions of Aegon the Conqueror, and like <a data-rte-meta="{"type":"internal","text":"House Targaryen","link":"House Targaryen","wasblank":true,"noforce":true,"wikitext":"[[House Targaryen]]"}" data-rte-instance="130814-138221508556cca97ce085d" href="/wiki/House_Targaryen" title="House Targaryen">House Targaryen</a> they were of <a data-rte-meta="{"type":"internal","text":"Valyrian","link":"Valyrian","wasblank":true,"noforce":true,"wikitext":"[[Valyrian]]"}" data-rte-instance="130814-138221508556cca97ce085d" href="/wiki/Valyrian" title="Valyrian" class="mw-redirect">Valyrian</a> descent.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">The founder of House Qoherys was the castellan of Dragonstone. Their line did not last long: soon after Aegon the Conqueror's death, less than forty years later, the founder's grandson was killed in a rebellion, and all of the castle's inhabitants were put to the sword, rendering House Qoherys extinct. They were replaced as the rulers of Harrenhal by House Harroway.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-138221508556cca97ce085d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"River Houses","placeholder":1,"wikitext":"{{River Houses}}"}" data-rte-instance="130814-138221508556cca97ce085d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House qoherys
+| image=Qoherys sigil.png
+| sigil=A flaming saltire, red and yellow, between four white skulls, on black
+| titles=
+| seat=Harrenhal
+| region=The riverlands
+| lord=
+| heir=
+| allegiance=House tully
+| vassals=
+| age=
+| founder=
+|ImageSize =250px}}}
+
+ 
+
+House Qoherys is an extinct noble house of the Riverlands. Their sigil was a flaming saltire, red and yellow, between 4 white skulls, on black. 
+
+Their seat was the castle of Harrenhal, which was granted to them by Aegon the Conqueror as a reward for their service in the War of Conquest. However, the Qoherys eventually became extinct, and the castle was passed on to House Towers. In the books 
+
+In the A Song of Ice and Fire novels, House Qoherys' backstory is the same. They were battle-companions of Aegon the Conqueror, and like House Targaryen they were of Valyrian descent. 
+
+The founder of House Qoherys was the castellan of Dragonstone. Their line did not last long: soon after Aegon the Conqueror's death, less than forty years later, the founder's grandson was killed in a rebellion, and all of the castle's inhabitants were put to the sword, rendering House Qoherys extinct. They were replaced as the rulers of Harrenhal by House Harroway. See also (spoilers from the books) 
+
+  Loading editor

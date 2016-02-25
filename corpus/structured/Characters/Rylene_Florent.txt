@@ -1,27 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Florent-Shield-Icon.PNG\n|link = House Florent}}"}" data-rte-instance="130814-91197154856cca7181465b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Rylene Florent\n| Season=[[Season 3|3]]\n| Mentioned = \"[[Mhysa]]\"\n| Status= [[:Category:Status: Alive|Alive]]\n| Place=[[King's Landing]]\n| Allegiance=[[House Florent]]}}"}" data-rte-instance="130814-91197154856cca7181465b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Rylene Florent</b> is an unseen character in the <a data-rte-meta="{"type":"internal","text":"third","link":"Season 3","wasblank":false,"noforce":true,"wikitext":"[[Season 3|third]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Season_3" title="Season 3">third</a> season of <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Game_of_Thrones" title="Game of Thrones" class="mw-redirect">Game of Thrones</a></i>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Davos describes Rylene Florent as a cousin of <a data-rte-meta="{"type":"internal","text":"Shireen Baratheon","link":"Shireen Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Shireen Baratheon]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Shireen_Baratheon" title="Shireen Baratheon">Shireen Baratheon</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Davos Seaworth","link":"Davos Seaworth","wasblank":true,"noforce":true,"wikitext":"[[Davos Seaworth]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos Seaworth</a> reads a letter sent to <a data-rte-meta="{"type":"internal","text":"Stannis Baratheon","link":"Stannis Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Stannis Baratheon]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> with an invitation Rylene Florent's <a data-rte-meta="{"type":"internal","text":"nameday","link":"nameday","wasblank":true,"noforce":true,"wikitext":"[[nameday]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Nameday" title="Nameday">nameday</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Mhysa]]\"<\/ref>"}" data-rte-instance="130814-91197154856cca7181465b" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Family tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Florent family tree","placeholder":1,"wikitext":"{{House Florent family tree}}"}" data-rte-instance="130814-91197154856cca7181465b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Rylene Florent is not Shireen Baratheon's cousin, but Shireen's mother <a data-rte-meta="{"type":"internal","text":"Selyse Baratheon","link":"Selyse Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Selyse Baratheon]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Selyse_Baratheon" title="Selyse Baratheon">Selyse Baratheon</a>'s paternal aunt, which makes her Shireen's great aunt, as well as the aunt of <a data-rte-meta="{"type":"internal","text":"Imry Florent","link":"Imry Florent","wasblank":true,"noforce":true,"wikitext":"[[Imry Florent]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Imry_Florent" title="Imry Florent">Imry Florent</a> and <a data-rte-meta="{"type":"internal","text":"Melessa Tarly","link":"Melessa Tarly","wasblank":true,"noforce":true,"wikitext":"[[Melessa Tarly]]"}" data-rte-instance="130814-91197154856cca7181465b" href="/wiki/Melessa_Tarly" title="Melessa Tarly">Melessa Tarly</a>. Davos describes her as Shireen's "cousin" in the Season 3 finale, but he may have just been speaking loosely. Rylene Florent is married to Ser Rycherd Crane.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Rylene is only mentioned in the novels' appendix, and does not make an appearance.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-91197154856cca7181465b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-91197154856cca7181465b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Florent navbox","placeholder":1,"wikitext":"{{Florent navbox}}"}" data-rte-instance="130814-91197154856cca7181465b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Florent, Rylene","placeholder":1,"wikitext":"{{DEFAULTSORT:Florent, Rylene}}"}" data-rte-instance="130814-91197154856cca7181465b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Rylene florent
+| season=3
+| mentioned=\Mhysa\
+| status=alive
+| place=King's landing
+| allegiance=House florent}}}
+
+ 
+
+Rylene Florent is an unseen character in the third season of Game of Thrones. Biography 
+
+ Background 
+
+Davos describes Rylene Florent as a cousin of Shireen Baratheon. Season 3 
+
+Davos Seaworth reads a letter sent to Stannis Baratheon with an invitation Rylene Florent's nameday.\Mhysa\\/ref} data-rte-instance130814-91197154856cca7181465b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family tree 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Rylene Florent is not Shireen Baratheon's cousin, but Shireen's mother Selyse Baratheon's paternal aunt, which makes her Shireen's great aunt, as well as the aunt of Imry Florent and Melessa Tarly. Davos describes her as Shireen's cousin in the Season 3 finale, but he may have just been speaking loosely. Rylene Florent is married to Ser Rycherd Crane. 
+
+Rylene is only mentioned in the novels' appendix, and does not make an appearance. See also (spoilers from the books) References 
+
+  Loading editor

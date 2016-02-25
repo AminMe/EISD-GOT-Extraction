@@ -5,57 +5,57 @@
 
 {{Character
 |Title = Maege Mormont
-|Season = [[Season 1|1]]
-|First = "[[The Pointy End]]"
-|Last = "[[Fire and Blood]]"
-|Appearances = 3 episodes <small>[[#Appearances|(see below)]]</small>
-|Titles = [[Lady of Bear Island]]
-|Status= [[:Category:Status: Uncertain|Uncertain]]
-|Place = [[Bear Island]]
-|Allegiance = [[House Stark]]<br>[[House Mormont]]
-|Family = [[Lyanna Mormont]] - daughter<br>{[[Jeor Mormont]]} - brother<br>[[Jorah Mormont]] - nephew
+|Season = 1
+|First = The Pointy End
+|Last = Fire and Blood
+|Appearances = 3 episodes (see below)
+|Titles = Lady of Bear Island
+|Status= Uncertain
+|Place = Bear Island
+|Allegiance = House StarkHouse Mormont
+|Family = Lyanna Mormont - daughterJeor Mormont - brotherJorah Mormont - nephew
 |Image = maege.png
-|Actor = [[Elizabeth Barrett]]
+|Actor = Elizabeth Barrett
 |Age =
-|Culture = [[Northmen]]
-|Religion = [[Old Gods of the Forest]]
+|Culture = Northmen
+|Religion = Old Gods of the Forest
 }}
 
-'''Maege Mormont''' is a recurring background character in the [[Season 1|first season]]. She was played by [[Elizabeth Barrett]] and debuts in "[[The Pointy End]]". She fought for [[Robb Stark]] in the [[War of the Five Kings]].
+Maege Mormont is a recurring background character in the first season. She was played by Elizabeth Barrett and debuts in The Pointy End. She fought for Robb Stark in the War of the Five Kings.
 
-==Biography==
-===Background===
-Maege Mormont was the [[Lady of Bear Island]] and the head of [[House Mormont]], a vassal to [[House Stark]] of [[Winterfell]]. She had one daughter, [[Lyanna Mormont|Lyanna]], namesake of [[Lyanna Stark]], Lord [[Eddard Stark]]'s sister. Lord Commander [[Jeor Mormont]] of the [[Night's Watch]] is her older brother. The disgraced and exiled Ser [[Jorah Mormont]] is her nephew.
+Biography
+Background
+Maege Mormont was the Lady of Bear Island and the head of House Mormont, a vassal to House Stark of Winterfell. She had one daughter, Lyanna, namesake of Lyanna Stark, Lord Eddard Stark's sister. Lord Commander Jeor Mormont of the Night's Watch is her older brother. The disgraced and exiled Ser Jorah Mormont is her nephew.
 
-===[[Season 1]]===
-Lady Mormont was present at the feast for the [[The North|Northern]] lords held in the Great Hall of [[Winterfell]] in which [[Greatjon Umber]] defied [[Robb Stark]] only to submit after two of his fingers were mutilated by [[Grey Wind]]. She was also present at the a war council discussing strategy with [[Robb Stark]] and his other bannermen in their camp at [[Moat Cailin]].<ref>"[[The Pointy End]]"</ref> She can be seen leading a force of men behind Robb as they arrived at [[The Twins]].<ref>"[[Baelor]]"</ref>
+Season 1
+Lady Mormont was present at the feast for the Northern lords held in the Great Hall of Winterfell in which Greatjon Umber defied Robb Stark only to submit after two of his fingers were mutilated by Grey Wind. She was also present at the a war council discussing strategy with Robb Stark and his other bannermen in their camp at Moat Cailin.The Pointy End She can be seen leading a force of men behind Robb as they arrived at The Twins.Baelor
 
-Maege was also present when the [[Greatjon Umber|Greatjon]] proclaimed Robb Stark the [[King in the North]]. Prior to the proclamation, Maege laughed loudly when the Greatjon complained about the [[Faith of the Seven|southern gods]] worshiped by [[Renly Baratheon|Renly]] and [[Stannis Baratheon]].<ref>"[[Fire and Blood]]"</ref>
+Maege was also present when the Greatjon proclaimed Robb Stark the King in the North. Prior to the proclamation, Maege laughed loudly when the Greatjon complained about the southern gods worshiped by Renly and Stannis Baratheon.Fire and Blood
 
-===[[Season 5]]===
-[[Stannis Baratheon]] mentions that [[Lyanna Mormont]] is Lady of Bear Island, implying Maege may have perished during the [[War of the Five Kings]].<ref>"[[The House of Black and White]]"</ref>
+Season 5
+Stannis Baratheon mentions that Lyanna Mormont is Lady of Bear Island, implying Maege may have perished during the War of the Five Kings.The House of Black and White
 
-==Appearances==
-{{Season One Appearances|8=note|9=note|10=note}}
-<nowiki>*</nowiki> - Uncredited appearance
+Appearances
+Season One Appearances|8note|9note|10=note
+* - Uncredited appearance
 
-==Family tree==
-{{House Mormont family tree}}
+Family tree
+House Mormont family tree
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, Lady Maege, also known as "the She-Bear", is a stout, grey-haired woman and a fierce warrior. She dresses in mail and her favored weapon is a spiked mace. [[Catelyn Stark]] observes that Maege seems more comfortable in armor than [[Brienne of Tarth]] ever did. According to her brother Jeor, she is stubborn, short-tempered, and willful. She worked hard to regain the family's noble name and recover from the state of near-poverty her nephew Jorah had left behind.
+In the books
+In the A Song of Ice and Fire novels, Lady Maege, also known as the She-Bear, is a stout, grey-haired woman and a fierce warrior. She dresses in mail and her favored weapon is a spiked mace. Catelyn Stark observes that Maege seems more comfortable in armor than Brienne of Tarth ever did. According to her brother Jeor, she is stubborn, short-tempered, and willful. She worked hard to regain the family's noble name and recover from the state of near-poverty her nephew Jorah had left behind.
 
-When Robb Stark calls his bannerman to march south after Eddard Stark's arrest and they start to test him due his youth, Maege tells Robb bluntly that he was young enough to be her grandson, and had no business giving her commands, but she had a granddaughter she would be willing to have him marry. Maege is more understanding of Catelyn Stark releasing Ser [[Jaime Lannister]], and Catelyn has grown fond of her. Maege does not attend the [[Red Wedding]], as along the way from [[Riverrun]] to [[the Twins]], Robb commands her and [[Galbart Glover]] to take men by separate longships and sail through the marshes of the Neck to seek out [[Howland Reed]]. He gives them letters for the Northern lords, explaining the letters contain false orders, in case they are captured by the [[ironborn]]. It remains unknown if Maege or Galbart Glover reached their destination.
+When Robb Stark calls his bannerman to march south after Eddard Stark's arrest and they start to test him due his youth, Maege tells Robb bluntly that he was young enough to be her grandson, and had no business giving her commands, but she had a granddaughter she would be willing to have him marry. Maege is more understanding of Catelyn Stark releasing Ser Jaime Lannister, and Catelyn has grown fond of her. Maege does not attend the Red Wedding, as along the way from Riverrun to the Twins, Robb commands her and Galbart Glover to take men by separate longships and sail through the marshes of the Neck to seek out Howland Reed. He gives them letters for the Northern lords, explaining the letters contain false orders, in case they are captured by the ironborn. It remains unknown if Maege or Galbart Glover reached their destination.
 
 Maege has five children, all daughters: Dacey, Alysane, Lyra, Jorelle, and Lyanna. Lyanna is only ten years old during the fourth and fifth novels. Alysane had a son and daughter by an unknown father. Dacey was a warrior-woman like her mother and sisters and a member of Robb Stark's personal guard; she was killed during the Red Wedding. Dacey was one of the few of Robb's bannermen who managed to get to her feet, fighting off Benfrey Frey by smashing his face in with a wine flagon. She then made a death run for the feast hall's doors and managed to avoid being shot by the crossbowmen in the balcony, but just before she reached the door, Ryman Frey and a dozen more fully armed Frey men-at-arms came bursting through it and ran right into her. Dacey died when Ryman drove his longaxe into her stomach.
 
-==See also==
-*{{AWOIAF}} (spoilers from the books)
+See also
+*AWOIAF (spoilers from the books)
 
-==References==
-{{Reflist|2}}
-{{Mormont navbox}}
-{{DEFAULTSORT:Mormont, Maege}}
+References
+Reflist|2
+Mormont navbox
+DEFAULTSORT:Mormont, Maege
 
-[[de:Maegen Mormont]]
-[[ru:Мейдж Мормонт]]
+de:Maegen Mormont
+ru:Мейдж Мормонт

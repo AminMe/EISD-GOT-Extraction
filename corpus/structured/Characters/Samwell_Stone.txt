@@ -1,27 +1,35 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = Royce shield icon.png\n|link = House Royce}}"}" data-rte-instance="130814-182425872356cca7485141a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Samwell Stone\n| Image=StrongSamStone.jpg\n| Season= [[Season 5|5]]\n| First=\"[[The Wars to Come]]\"\n| Last=\n| Appearances= 1 ([[#Appearances|see below]])\n| Titles= Ser<br>[[Master-at-Arms]]\n| Aka= Sam\n| Status=  [[:Category:Status: Alive|Alive]]\n| Death= \n| Place= [[The Vale of Arryn]]\n| Allegiance=[[House Royce]]\n| Family=\n| Actor=[[Allan Gildea]]}}"}" data-rte-instance="130814-182425872356cca7485141a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Shield up! Attack, my Lord! Attack! Don't cross your feet!|Samwell Stone to Robin Arryn|The Wars to Come}}"}" data-rte-instance="130814-182425872356cca7485141a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->Ser <b>Samwell "Sam" Stone</b> is a character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Season_5" title="Season 5">fifth season</a>, appearing in "<a data-rte-meta="{"type":"internal","text":"The Wars to Come","link":"The Wars to Come","wasblank":true,"noforce":true,"wikitext":"[[The Wars to Come]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/The_Wars_to_Come" title="The Wars to Come">The Wars to Come</a>". He is in service to <a data-rte-meta="{"type":"internal","text":"House Royce","link":"House Royce","wasblank":true,"noforce":true,"wikitext":"[[House Royce]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/House_Royce" title="House Royce">House Royce</a> as the <a data-rte-meta="{"type":"internal","text":"master-at-arms","link":"master-at-arms","wasblank":true,"noforce":true,"wikitext":"[[master-at-arms]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Master-at-arms" title="Master-at-arms" class="mw-redirect">master-at-arms</a> of <a data-rte-meta="{"type":"internal","text":"Runestone","link":"Runestone","wasblank":true,"noforce":true,"wikitext":"[[Runestone]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Runestone" title="Runestone">Runestone</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3 data-rte-empty-lines-before="1">Background</h3>
-<p data-rte-fromparser="true">Sam Stone is a <a data-rte-meta="{"type":"internal","text":"bastard","link":"bastard","wasblank":true,"noforce":true,"wikitext":"[[bastard]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Bastard" title="Bastard" class="mw-redirect">bastard</a> from the <a data-rte-meta="{"type":"internal","text":"Vale of Arryn","link":"Vale of Arryn","wasblank":true,"noforce":true,"wikitext":"[[Vale of Arryn]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Vale_of_Arryn" title="Vale of Arryn" class="mw-redirect">Vale of Arryn</a> and a <a data-rte-meta="{"type":"internal","text":"knight","link":"knight","wasblank":true,"noforce":true,"wikitext":"[[knight]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Knight" title="Knight" class="mw-redirect">knight</a> in service of House Royce.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">Sam Stone is training <a data-rte-meta="{"type":"internal","text":"Robin Arryn","link":"Robin Arryn","wasblank":true,"noforce":true,"wikitext":"[[Robin Arryn]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Robin_Arryn" title="Robin Arryn">Robin Arryn</a> in swordfighting while he is <a data-rte-meta="{"type":"internal","text":"fostered","link":"Ward","wasblank":false,"noforce":true,"wikitext":"[[Ward|fostered]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Ward" title="Ward">fostered</a> at Runestone by Lord <a data-rte-meta="{"type":"internal","text":"Yohn Royce","link":"Yohn Royce","wasblank":true,"noforce":true,"wikitext":"[[Yohn Royce]]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/Yohn_Royce" title="Yohn Royce">Yohn Royce</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Wars to Come]]\"<\/ref>"}" data-rte-instance="130814-182425872356cca7485141a" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances|1=yes}}"}" data-rte-instance="130814-182425872356cca7485141a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <a data-rte-meta="{"type":"internal","text":"<i>A Song of Ice and Fire<\/i>","link":"A Song of Ice and Fire","wasblank":false,"noforce":true,"wikitext":"[[A Song of Ice and Fire|''A Song of Ice and Fire'']]"}" data-rte-instance="130814-182425872356cca7485141a" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire"><i>A Song of Ice and Fire</i></a> novels Ser Samwell Stone, dubbed "Strong Sam Stone", is a renowned knight and the master-at-arms of Runestone. He supports his liege lord Yohn Royce when the latter gathers a group of nobles, dubbed the "Lords Declarant", to denounce Littlefinger and oppose his rule over the Vale.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> See also </h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Sam Stone}}"}" data-rte-instance="130814-182425872356cca7485141a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-182425872356cca7485141a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Royce navbox","placeholder":1,"wikitext":"{{Royce navbox}}"}" data-rte-instance="130814-182425872356cca7485141a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Stone, Sam","placeholder":1,"wikitext":"{{DEFAULTSORT:Stone, Sam}}"}" data-rte-instance="130814-182425872356cca7485141a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Samwell stone
+| image=StrongSamStone.jpg
+| season=5
+| first=\The wars to come\
+| last=
+| appearances=1 (see below)
+| titles=SerMaster-at-Arms
+| Aka= Sam
+| Status=  Alive
+| Death= 
+| Place= The Vale of Arryn
+| Allegiance=House Royce
+| Family=
+| Actor=Allan Gildea}}}
+
+ Master-at-Arms
+| Aka= Sam
+| Status= Alive
+| Death= 
+| Place= The Vale of Arryn
+| Allegiance=House Royce
+| Family=
+| ActorAllan Gildea} data-rte-instance130814-182425872356cca7485141a classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Ser Samwell Sam Stone is a character in the fifth season, appearing in The Wars to Come. He is in service to House Royce as the master-at-arms of Runestone. Biography 
+
+ Background 
+
+Sam Stone is a bastard from the Vale of Arryn and a knight in service of House Royce. Season 5 
+
+Sam Stone is training Robin Arryn in swordfighting while he is fostered at Runestone by Lord Yohn Royce.\The Wars to Come\\/ref} data-rte-instance130814-182425872356cca7485141a classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire\/i,link:A Song of Ice and Fire,wasblank:false,noforce:true,wikitext:A Song of Ice and Fire|A Song of Ice and Fire} data-rte-instance130814-182425872356cca7485141a href/wiki/A_Song_of_Ice_and_Fire title=A Song of Ice and FireA Song of Ice and Fire novels Ser Samwell Stone, dubbed Strong Sam Stone, is a renowned knight and the master-at-arms of Runestone. He supports his liege lord Yohn Royce when the latter gathers a group of nobles, dubbed the Lords Declarant, to denounce Littlefinger and oppose his rule over the Vale. See also References 
+
+  Loading editor

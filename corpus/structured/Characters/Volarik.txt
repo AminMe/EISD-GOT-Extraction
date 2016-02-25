@@ -1,22 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|leftimage=Maester's mini chain.png\n|leftlink=Maesters\n|rightimage=House-Lannister-Shield-Icon.PNG\n|rightlink=House Lannister\n}}"}" data-rte-instance="130814-146461369756cca7353192e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Volarik\n| Image=\n| Season=[[Season 4|4]]\n| First=\n| Last=\n| Mentioned=\"[[The Mountain and the Viper]]\"\n| Aka=\n| Titles=[[Maester]]\n| Status= [[:Category:Status: Uncertain|Uncertain]]\n| Allegiance=Order of [[Maesters]]<br>[[Casterly Rock]]\n}}"}" data-rte-instance="130814-146461369756cca7353192e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Volarik? He tried to touch me once.|[[Jaime Lannister]]|The Mountain and the Viper}}"}" data-rte-instance="130814-146461369756cca7353192e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Volarik</b> is an unseen character mentioned in the episode "<a data-rte-meta="{"type":"internal","text":"The Mountain and the Viper","link":"The Mountain and the Viper","wasblank":true,"noforce":true,"wikitext":"[[The Mountain and the Viper]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/The_Mountain_and_the_Viper" title="The Mountain and the Viper">The Mountain and the Viper</a>". He was the <a data-rte-meta="{"type":"internal","text":"maester","link":"maester","wasblank":true,"noforce":true,"wikitext":"[[maester]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/Maester" title="Maester" class="mw-redirect">maester</a> of <a data-rte-meta="{"type":"internal","text":"Casterly Rock","link":"Casterly Rock","wasblank":true,"noforce":true,"wikitext":"[[Casterly Rock]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/Casterly_Rock" title="Casterly Rock">Casterly Rock</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true">Volarik was the <a data-rte-meta="{"type":"internal","text":"maester","link":"maester","wasblank":true,"noforce":true,"wikitext":"[[maester]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/Maester" title="Maester" class="mw-redirect">maester</a> serving <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> during the youth of <a data-rte-meta="{"type":"internal","text":"Tyrion Lannister","link":"Tyrion Lannister","wasblank":true,"noforce":true,"wikitext":"[[Tyrion Lannister]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a>.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">While reminiscing about <a data-rte-meta="{"type":"internal","text":"Orson Lannister","link":"Orson Lannister","wasblank":true,"noforce":true,"wikitext":"[[Orson Lannister]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/Orson_Lannister" title="Orson Lannister">Orson Lannister</a>, Tyrion mentions he visited Volarik's library looking for some reading that would help him understand Orson's mindset and his tendency to kill beetles. <a data-rte-meta="{"type":"internal","text":"Jaime","link":"Jaime Lannister","wasblank":false,"noforce":true,"wikitext":"[[Jaime Lannister|Jaime]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime</a> has a quick reaction of disgust and remarks that Volarik had tried to touch (molest) him once.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Mountain and the Viper]]\"<\/ref>"}" data-rte-instance="130814-146461369756cca7353192e" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-146461369756cca7353192e" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no mention of a maester or any character named Volarik. The only known maester bound to Casterly Rock is Creylen, who is serving House Lannister at the time of the books. It is unknown who the maester at Casterly Rock was twenty to thirty years ago, during Jaime and Tyrion's youth.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Creylen}}"}" data-rte-instance="130814-146461369756cca7353192e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-146461369756cca7353192e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Lannister navbox","placeholder":1,"wikitext":"{{Lannister navbox}}"}" data-rte-instance="130814-146461369756cca7353192e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Volarik
+| image=
+| season=4
+| first=
+| last=
+| mentioned=\The mountain and the viper\
+| aka=
+| titles=Maester
+| status=uncertain
+| allegiance=Order of maestersCasterly Rock
+}}}
+
+ Casterly Rock
+}}} data-rte-instance130814-146461369756cca7353192e classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Volarik is an unseen character mentioned in the episode The Mountain and the Viper. He was the maester of Casterly Rock. Biography 
+
+Volarik was the maester serving House Lannister during the youth of Tyrion Lannister. Season 4 
+
+While reminiscing about Orson Lannister, Tyrion mentions he visited Volarik's library looking for some reading that would help him understand Orson's mindset and his tendency to kill beetles. Jaime has a quick reaction of disgust and remarks that Volarik had tried to touch (molest) him once.\The Mountain and the Viper\\/ref} data-rte-instance130814-146461369756cca7353192e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, there is no mention of a maester or any character named Volarik. The only known maester bound to Casterly Rock is Creylen, who is serving House Lannister at the time of the books. It is unknown who the maester at Casterly Rock was twenty to thirty years ago, during Jaime and Tyrion's youth. See also References 
+
+ 
+
+  Loading editor

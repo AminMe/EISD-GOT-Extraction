@@ -1,22 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Lannister-Shield-Icon.PNG\n|link = House Lannister\n}}"}" data-rte-instance="130814-107291338656cca77aedc77" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<dl data-rte-empty-lines-before="1"><dd><i>For other uses see <a data-rte-meta="{"type":"internal","text":"Lannister soldier","link":"Lannister soldier","wasblank":true,"noforce":true,"wikitext":"[[Lannister soldier]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="/wiki/Lannister_soldier" title="Lannister soldier">Lannister soldier</a>.</i>
-</dd></dl>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Lannister Soldier\n| Image=Lannister_soldier.png|thumb|149px\n| Season=[[Season 2|2]]\n| Appearances=\"[[The Prince of Winterfell]]\"\n| Titles=\n| Status=[[:Category:Status: Alive|Alive]]\n| Allegiance=[[House Lannister]]\n| Actor=[[Ciaran McMahon]]\n}}"}" data-rte-instance="130814-107291338656cca77aedc77" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Lannister Soldier</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"second season","link":"Season 2","wasblank":false,"noforce":true,"wikitext":"[[Season 2|second season]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="/wiki/Season_2" title="Season 2">second season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Ciaran McMahon","link":"Ciaran McMahon","wasblank":true,"noforce":true,"wikitext":"[[Ciaran McMahon]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="/wiki/Ciaran_McMahon" title="Ciaran McMahon">Ciaran McMahon</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"The Prince of Winterfell","link":"The Prince of Winterfell","wasblank":true,"noforce":true,"wikitext":"[[The Prince of Winterfell]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">This soldier is fighting for <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> in the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">He bumps into <a data-rte-meta="{"type":"internal","text":"Arya Stark","link":"Arya Stark","wasblank":true,"noforce":true,"wikitext":"[[Arya Stark]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> while crossing the courtyard at <a data-rte-meta="{"type":"internal","text":"Harrenhal","link":"Harrenhal","wasblank":true,"noforce":true,"wikitext":"[[Harrenhal]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="/wiki/Harrenhal" title="Harrenhal">Harrenhal</a>, making her waste the water she is carrying. He cuffs her round the head and warns her to be more careful.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Prince of Winterfell]]\"<\/ref>"}" data-rte-instance="130814-107291338656cca77aedc77" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Two Appearances","placeholder":1,"wikitext":"{{Season Two Appearances||||||||yes}}"}" data-rte-instance="130814-107291338656cca77aedc77" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-107291338656cca77aedc77" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0412\u043e\u0438\u043d \u041b\u0430\u043d\u043d\u0438\u0441\u0442\u0435\u0440\u043e\u0432 (\u041f\u0440\u0438\u043d\u0446 \u0412\u0438\u043d\u0442\u0435\u0440\u0444\u0435\u043b\u043b\u0430)","link":"ru:\u0412\u043e\u0438\u043d \u041b\u0430\u043d\u043d\u0438\u0441\u0442\u0435\u0440\u043e\u0432 (\u041f\u0440\u0438\u043d\u0446 \u0412\u0438\u043d\u0442\u0435\u0440\u0444\u0435\u043b\u043b\u0430)","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0412\u043e\u0438\u043d \u041b\u0430\u043d\u043d\u0438\u0441\u0442\u0435\u0440\u043e\u0432 (\u041f\u0440\u0438\u043d\u0446 \u0412\u0438\u043d\u0442\u0435\u0440\u0444\u0435\u043b\u043b\u0430)]]"}" data-rte-instance="130814-107291338656cca77aedc77" href="http://ru.gameofthrones.wikia.com/wiki/Воин_Ланнистеров_(Принц_Винтерфелла)" class="extiw" title="ru:Воин Ланнистеров (Принц Винтерфелла)">ru:Воин Ланнистеров (Принц Винтерфелла)</a>
-</p>
-   Loading editor
+title=Lannister soldier
+| image=Lannister_soldier.png|thumb|149px
+| season=2
+| appearances=\The prince of winterfell\
+| titles=
+| status=alive
+| allegiance=House lannister
+| actor=Ciaran mcmahon
+}}}
+
+ For other uses see Lannister soldier. 
+
+ 
+
+A Lannister Soldier is an unnamed minor character in the second season. He is played by guest star Ciaran McMahon and only appears in The Prince of Winterfell. Biography 
+
+ Background 
+
+This soldier is fighting for House Lannister in the War of the Five Kings. Season 2 
+
+He bumps into Arya Stark while crossing the courtyard at Harrenhal, making her waste the water she is carrying. He cuffs her round the head and warns her to be more careful.\The Prince of Winterfell\\/ref} data-rte-instance130814-107291338656cca77aedc77 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ References 
+
+ 
+
+ru:Воин Ланнистеров (Принц Винтерфелла)  Loading editor

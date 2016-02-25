@@ -1,23 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[Image:Shield Islands.png|right|200px|A map showing the location of the Shield Islands off the coast of Westeros.]]","title":"Shield_Islands.png","params":{"alt":"Shield Islands","align":"right","caption":"","width":200}}" data-rte-instance="130814-158232230956cca90634619" alt="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/2/24/Shield_Islands.png/revision/latest/scale-to-width-down/200?cb=20120708100503" width="200" height="516" class="image alignRight" data-image-name="Shield Islands.png" data-image-key="Shield_Islands.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->The <b>Shield Islands</b> are an archipelago of four islands located off the west coast of <a data-rte-meta="{"type":"internal","text":"the Reach","link":"the Reach","wasblank":true,"noforce":true,"wikitext":"[[the Reach]]"}" data-rte-instance="130814-158232230956cca90634619" href="/wiki/The_Reach" title="The Reach">the Reach</a>. They owe fealty to <a data-rte-meta="{"type":"internal","text":"House Tyrell","link":"House Tyrell","wasblank":true,"noforce":true,"wikitext":"[[House Tyrell]]"}" data-rte-instance="130814-158232230956cca90634619" href="/wiki/House_Tyrell" title="House Tyrell">House Tyrell</a> of <a data-rte-meta="{"type":"internal","text":"Highgarden","link":"Highgarden","wasblank":true,"noforce":true,"wikitext":"[[Highgarden]]"}" data-rte-instance="130814-158232230956cca90634619" href="/wiki/Highgarden" title="Highgarden">Highgarden</a>. The islands are located west of the mouth of the <a data-rte-meta="{"type":"internal","text":"Mander","link":"Mander","wasblank":true,"noforce":true,"wikitext":"[[Mander]]"}" data-rte-instance="130814-158232230956cca90634619" href="/wiki/Mander" title="Mander">Mander</a> River.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/highgarden\/ HBO viewers guide, season 1 map, Highgarden entry]<\/ref>"}" data-rte-instance="130814-158232230956cca90634619" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-158232230956cca90634619" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Shield Islands are named as follows:
-</p>
-<ul data-rte-empty-lines-before="1"><li data-rte-spaces-before="1">Greenshield, the easternmost of the islands, ruled by House Chester.
-</li><li data-rte-spaces-before="1">Greyshield, the westernmost of the islands, ruled by House Grimm.
-</li><li data-rte-spaces-before="1">Oakenshield, the northernmost of the islands, ruled by House Hewett.
-</li><li data-rte-spaces-before="1">Southshield, the southernmost of the islands, ruled by House Serry.
-</li></ul>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">The islands are so-named as they used to serve as a shield against <a data-rte-meta="{"type":"internal","text":"ironborn","link":"ironborn","wasblank":true,"noforce":true,"wikitext":"[[ironborn]]"}" data-rte-instance="130814-158232230956cca90634619" href="/wiki/Ironborn" title="Ironborn">ironborn</a> attacks during the days of their independence. The islands were actually held by the ironborn for centuries until <a data-rte-meta="{"type":"internal","text":"House Gardener","link":"House Gardener","wasblank":true,"noforce":true,"wikitext":"[[House Gardener]]"}" data-rte-instance="130814-158232230956cca90634619" href="/wiki/House_Gardener" title="House Gardener">House Gardener</a>, the <a data-rte-meta="{"type":"internal","text":"Kings of the Reach","link":"Kings of the Reach","wasblank":true,"noforce":true,"wikitext":"[[Kings of the Reach]]"}" data-rte-instance="130814-158232230956cca90634619" href="/wiki/Kings_of_the_Reach" title="Kings of the Reach" class="mw-redirect">Kings of the Reach</a>, liberated them almost two thousand years before the events of the series. The Gardeners fortified the islands so they could defend themselves from further attack.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">The islands are equipped with beacon fires. At the first sign of longships, the fires are lit, resulting in a relay of warnings being sent across all four islands.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-158232230956cca90634619" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-158232230956cca90634619" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Reach","placeholder":1,"wikitext":"{{The Reach}}"}" data-rte-instance="130814-158232230956cca90634619" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0429\u0438\u0442\u0430","link":"ru:\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0429\u0438\u0442\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041e\u0441\u0442\u0440\u043e\u0432\u0430 \u0429\u0438\u0442\u0430]]"}" data-rte-instance="130814-158232230956cca90634619" href="http://ru.gameofthrones.wikia.com/wiki/Острова_Щита" class="extiw" title="ru:Острова Щита">ru:Острова Щита</a>
-</p>
-   Loading editor
+
+The Shield Islands are an archipelago of four islands located off the west coast of the Reach. They owe fealty to House Tyrell of Highgarden. The islands are located west of the mouth of the Mander River.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/highgarden\/ HBO viewers guide, season 1 map, Highgarden entry\/ref} data-rte-instance130814-158232230956cca90634619 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+In the books
+In the A Song of Ice and Fire novels, the Shield Islands are named as follows:
+
+Greenshield, the easternmost of the islands, ruled by House Chester.
+Greyshield, the westernmost of the islands, ruled by House Grimm.
+Oakenshield, the northernmost of the islands, ruled by House Hewett.
+Southshield, the southernmost of the islands, ruled by House Serry.
+
+The islands are so-named as they used to serve as a shield against ironborn attacks during the days of their independence. The islands were actually held by the ironborn for centuries until House Gardener, the Kings of the Reach, liberated them almost two thousand years before the events of the series. The Gardeners fortified the islands so they could defend themselves from further attack.
+The islands are equipped with beacon fires. At the first sign of longships, the fires are lit, resulting in a relay of warnings being sent across all four islands.
+
+See also
+ (spoilers from the books)
+
+References
+
+
+ru:Острова Щита
+
+ &nbsp; Loading editor

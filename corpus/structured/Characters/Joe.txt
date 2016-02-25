@@ -1,18 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = Night's-Watch-Shield-Icon.PNG\n|link = Night's Watch\n}}"}" data-rte-instance="130814-123435700356cca7d866f28" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Joe\n| Image = \n| Season = [[Season 1|1]]\n| Mentioned = \"[[You Win or You Die]]\"\n| Status = [[:Category:Status: Alive|Alive]]\n| Death = \n| Place = \n| Allegiance = The [[Night's Watch]]\n| Family =\n| Titles = \n|Aka = One-Eyed Joe}}"}" data-rte-instance="130814-123435700356cca7d866f28" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Report to One-Eyed Joe in the stables.|[[Maester Aemon]] to [[Luke]]|You Win or You Die}}"}" data-rte-instance="130814-123435700356cca7d866f28" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> 
-<!-- RTE::{"spaces":1,"type":"LINE_BREAK"} --><b>Joe</b>, nicknamed <b>One-Eyed Joe</b>, is an unseen character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones (TV series)","wasblank":false,"noforce":true,"wikitext":"[[Game of Thrones (TV series)|Game of Thrones]]"}" data-rte-instance="130814-123435700356cca7d866f28" href="/wiki/Game_of_Thrones_(TV_series)" title="Game of Thrones (TV series)">Game of Thrones</a></i>. He is a member of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-123435700356cca7d866f28" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>, and apparently chief among the stewards stationed in the stables at <a data-rte-meta="{"type":"internal","text":"Castle Black","link":"Castle Black","wasblank":true,"noforce":true,"wikitext":"[[Castle Black]]"}" data-rte-instance="130814-123435700356cca7d866f28" href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>.
-</p>
-<h2>Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-123435700356cca7d866f28" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">When the newly graduated recruits are assigned to their orders <a data-rte-meta="{"type":"internal","text":"Luke","link":"Luke","wasblank":true,"noforce":true,"wikitext":"[[Luke]]"}" data-rte-instance="130814-123435700356cca7d866f28" href="/wiki/Luke" title="Luke">Luke</a> is told by <a data-rte-meta="{"type":"internal","text":"Maester Aemon","link":"Maester Aemon","wasblank":true,"noforce":true,"wikitext":"[[Maester Aemon]]"}" data-rte-instance="130814-123435700356cca7d866f28" href="/wiki/Maester_Aemon" title="Maester Aemon" class="mw-redirect">Maester Aemon</a> to report to One-Eyed Joe in the stables.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[You Win or You Die]]\"<\/ref>"}" data-rte-instance="130814-123435700356cca7d866f28" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-123435700356cca7d866f28" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there's no member of the Night's Watch called One-Eyed Joe.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-123435700356cca7d866f28" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Watch navbox","placeholder":1,"wikitext":"{{Watch navbox}}"}" data-rte-instance="130814-123435700356cca7d866f28" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041e\u0434\u043d\u043e\u0433\u043b\u0430\u0437\u044b\u0439 \u0414\u0436\u043e","link":"ru:\u041e\u0434\u043d\u043e\u0433\u043b\u0430\u0437\u044b\u0439 \u0414\u0436\u043e","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041e\u0434\u043d\u043e\u0433\u043b\u0430\u0437\u044b\u0439 \u0414\u0436\u043e]]"}" data-rte-instance="130814-123435700356cca7d866f28" href="http://ru.gameofthrones.wikia.com/wiki/Одноглазый_Джо" class="extiw" title="ru:Одноглазый Джо">ru:Одноглазый Джо</a>
-</p>
-   Loading editor
+title=Joe
+| image=
+| season=1
+| mentioned=\You win or you die\
+| status=alive
+| death=
+| place=
+| allegiance=The night's watch
+| family=
+| titles=
+|Aka = one-eyed joe}}}
+
+ Joe, nicknamed One-Eyed Joe, is an unseen character in Game of Thrones. He is a member of the Night's Watch, and apparently chief among the stewards stationed in the stables at Castle Black. Biography 
+
+ Season 1 
+
+When the newly graduated recruits are assigned to their orders Luke is told by Maester Aemon to report to One-Eyed Joe in the stables.\You Win or You Die\\/ref} data-rte-instance130814-123435700356cca7d866f28 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, there's no member of the Night's Watch called One-Eyed Joe. References 
+
+ 
+
+ru:Одноглазый Джо  Loading editor

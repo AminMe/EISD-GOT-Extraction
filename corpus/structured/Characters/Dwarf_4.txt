@@ -1,26 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Dwarf 4\n|Image = Dwarf Robb.png\n|Season = [[Season 4|4]]\n|Appearances = \"[[The Lion and the Rose]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = For hire\n|Actor = [[George Appleby]]}}"}" data-rte-instance="130814-206046810456cca7279945e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|I'm the King in the North!|The dwarf as \"Robb Stark.|The Lion and the Rose}}"}" data-rte-instance="130814-206046810456cca7279945e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>dwarf</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"George Appleby","link":"George Appleby","wasblank":true,"noforce":true,"wikitext":"[[George Appleby]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/George_Appleby" title="George Appleby">George Appleby</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"The Lion and the Rose","link":"The Lion and the Rose","wasblank":true,"noforce":true,"wikitext":"[[The Lion and the Rose]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>".
-</p>
-<h2>Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">A <a data-rte-meta="{"type":"internal","text":"dwarf","link":"Dwarfism","wasblank":false,"noforce":true,"wikitext":"[[Dwarfism|dwarf]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/Dwarfism" title="Dwarfism">dwarf</a>, he makes a living by performing for other peoples' amusement.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">Along with a group of other dwarfs, he takes part in a mock "reenactment" of the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a> at <a data-rte-meta="{"type":"internal","text":"King Joffrey's wedding","link":"Purple Wedding","wasblank":false,"noforce":true,"wikitext":"[[Purple Wedding|King Joffrey's wedding]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/Purple_Wedding" title="Purple Wedding">King Joffrey's wedding</a>. He dresses as <a data-rte-meta="{"type":"internal","text":"Robb Stark","link":"Robb Stark","wasblank":true,"noforce":true,"wikitext":"[[Robb Stark]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/Robb_Stark" title="Robb Stark">Robb Stark</a> and rides a horse while wearing a wolf's head helmet - cruelly mocking how Robb's corpse was desecrated at the <a data-rte-meta="{"type":"internal","text":"Red Wedding","link":"Red Wedding","wasblank":true,"noforce":true,"wikitext":"[[Red Wedding]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/Red_Wedding" title="Red Wedding">Red Wedding</a>, by having his head cut off and his <a data-rte-meta="{"type":"internal","text":"direwolf","link":"direwolf","wasblank":true,"noforce":true,"wikitext":"[[direwolf]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/Direwolf" title="Direwolf" class="mw-redirect">direwolf</a> <a data-rte-meta="{"type":"internal","text":"Grey Wind","link":"Grey Wind","wasblank":true,"noforce":true,"wikitext":"[[Grey Wind]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/Grey_Wind" title="Grey Wind">Grey Wind</a>'s head sewn on in its place. <a data-rte-meta="{"type":"internal","text":"Sansa Stark","link":"Sansa Stark","wasblank":true,"noforce":true,"wikitext":"[[Sansa Stark]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a> is visibly upset by this cruel mockery of her deceased brother.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Lion and the Rose]]\"<\/ref>"}" data-rte-instance="130814-206046810456cca7279945e" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Four Appearances","placeholder":1,"wikitext":"{{Template:Season Four Appearances||yes}}"}" data-rte-instance="130814-206046810456cca7279945e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2>In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there are only two dwarfs jousting. The one meant as a mockery of Robb bears a shield depicting the direwolf of <a data-rte-meta="{"type":"internal","text":"House Stark","link":"House Stark","wasblank":true,"noforce":true,"wikitext":"[[House Stark]]"}" data-rte-instance="130814-206046810456cca7279945e" href="/wiki/House_Stark" title="House Stark">House Stark</a>. They ride live animals, a dog and a sow.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Oppo}}"}" data-rte-instance="130814-206046810456cca7279945e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Penny}}"}" data-rte-instance="130814-206046810456cca7279945e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-206046810456cca7279945e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041a\u0430\u0440\u043b\u0438\u043a 4","link":"ru:\u041a\u0430\u0440\u043b\u0438\u043a 4","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041a\u0430\u0440\u043b\u0438\u043a 4]]"}" data-rte-instance="130814-206046810456cca7279945e" href="http://ru.gameofthrones.wikia.com/wiki/Карлик_4" class="extiw" title="ru:Карлик 4">ru:Карлик 4</a>
-</p>
-   Loading editor
+title=Dwarf 4
+|image=Dwarf robb.png
+|season=4
+|appearances=\The lion and the rose\
+|status=alive
+|allegiance=For hire
+|actor=George appleby}}}
+
+ Adwarf is an unnamed minor character in the fourth season. He is played by guest star George Appleby andonly appears in The Lion and the Rose. Biography 
+
+ Background 
+
+A dwarf, he makes a living by performing for other peoples' amusement. Season 4 
+
+Along with a group of other dwarfs, he takes part in a mock reenactment of the War of the Five Kings at King Joffrey's wedding. He dresses as Robb Stark and rides a horse while wearing a wolf's head helmet - cruelly mocking how Robb's corpse was desecrated at the Red Wedding, by having his head cut off and his direwolf Grey Wind's head sewn on in its place. Sansa Stark is visibly upset by this cruel mockery of her deceased brother.\The Lion and the Rose\\/ref} data-rte-instance130814-206046810456cca7279945e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, there are only two dwarfs jousting. The one meant as a mockery of Robb bears a shield depicting the direwolf of House Stark. They ride live animals, a dog and a sow. See also (spoilers from the books) (MAJOR spoilers from the books) References 
+
+ 
+
+ru:Карлик 4  Loading editor

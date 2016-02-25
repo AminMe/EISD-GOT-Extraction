@@ -1,3 +1,31 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=House Kenway\n| Image=\n| Sigil=A black eagle on a gold field.\n| Words='''\"Dust To Dust.\"'''\n| Titles=[[King of the Iron Islands]]<br>[[Lord Reaper of Pyke]]<br>[[Son of the Sea Wind]]<br>[[King of Salt and Rock]]<br>[[Lord of the Iron Islands]]\n| Seat=Frontier\n| Region=The [[Crownlands]]\n| Lord=Steve Kenway\n| Heir=none\n| Allegiance=Soveriegn<br>[[House Targaryen]] (formerly)\n| Vassals=\n| Age=unknown\n| Founder=Lord Edward Kenway\n|Military = 30 armored cavalry,<br> 1,500 archers (supporting infantry) <br> 2,000 Guardsmen (defensive infantry)}}"}" data-rte-instance="130814-125507162956cca9b526347" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House kenway
+| image=
+| sigil=A black eagle on a gold field.
+| words= '\dust to dust.\
+| titles=King of the iron islandsLord Reaper of PykeSon of the Sea WindKing of Salt and RockLord of the Iron Islands
+| Seat=Frontier
+| Region=The Crownlands
+| Lord=Steve Kenway
+| Heir=none
+| Allegiance=SoveriegnHouse Targaryen (formerly)
+| Vassals=
+| Age=unknown
+| Founder=Lord Edward Kenway
+|Military = 30 armored cavalry, 1,500 archers (supporting infantry)  2,000 Guardsmen (defensive infantry)}}}
+
+Lord Reaper of Pyke 
+Son of the Sea Wind 
+King of Salt and Rock 
+Lord of the Iron Islands
+| Seat=Frontier
+| Region=The Crownlands
+| Lord=Steve Kenway
+| Heir=none
+| Allegiance=Soveriegn 
+House Targaryen (formerly)
+| Vassals=
+| Age=unknown
+| Founder=Lord Edward Kenway
+|Military = 30 armored cavalry, 
+ 1,500 archers (supporting infantry) 
+ 2,000 Guardsmen (defensive infantry)}}} data-rte-instance130814-125507162956cca9b526347 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets /  Loading editor

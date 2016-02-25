@@ -1,18 +1,32 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:Heraldry\n","placeholder":1,"wikitext":"{{Template:Heraldry\n|image = Second Sons shield icon.png\n|link = Second Sons\n}}"}" data-rte-instance="130814-11680388756cca7cc70e1f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Second Son\n| Image = 5x04_Second_Son.png\n| Season = [[Season 5|5]]\n| First=\n| Last=\n| Appearances=\"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"\n| Status= [[:Category:Status: Dead|Deceased]]\n| Titles=\n| Aka=\n| Place = [[Meereen]]\n| Family =\n| Allegiance =[[Second Sons]]<br>[[House Targaryen]]\n| Actor =[[Slavko Sobin]]\n|Death = Throat slit by a [[Sons of the Harpy|Son of the Harpy]]\n|DeathEp = \"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"}}"}" data-rte-instance="130814-11680388756cca7cc70e1f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Second Son</b> is a character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Season_5" title="Season 5">fifth season</a>. He is portrayed by <a data-rte-meta="{"type":"internal","text":"Slavko Sobin","link":"Slavko Sobin","wasblank":true,"noforce":true,"wikitext":"[[Slavko Sobin]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Slavko_Sobin" title="Slavko Sobin">Slavko Sobin</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/imgur.com\/ffKPumP]<\/ref>"}" data-rte-instance="130814-11680388756cca7cc70e1f" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Background </h3>
-<p data-rte-fromparser="true">This man is a member of the <a data-rte-meta="{"type":"internal","text":"Second Sons","link":"Second Sons","wasblank":true,"noforce":true,"wikitext":"[[Second Sons]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Second_Sons" title="Second Sons">Second Sons</a>, an <a data-rte-meta="{"type":"internal","text":"Essos","link":"Essos","wasblank":true,"noforce":true,"wikitext":"[[Essos]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Essos" title="Essos">Essosi</a> <a data-rte-meta="{"type":"internal","text":"mercenary","link":"mercenary","wasblank":true,"noforce":true,"wikitext":"[[mercenary]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Mercenary" title="Mercenary">mercenary</a> company hired by <a data-rte-meta="{"type":"internal","text":"Yunkai","link":"Yunkai","wasblank":true,"noforce":true,"wikitext":"[[Yunkai]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Yunkai" title="Yunkai">Yunkai</a> to fight against <a data-rte-meta="{"type":"internal","text":"Daenerys Targaryen","link":"Daenerys Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Daenerys Targaryen]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a> that went over to her.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">The Second Son is flirting with a <a data-rte-meta="{"type":"internal","text":"prostitute","link":"Meereenese prostitute","wasblank":false,"noforce":true,"wikitext":"[[Meereenese prostitute|prostitute]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Meereenese_prostitute" title="Meereenese prostitute">prostitute</a> in <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Meereen" title="Meereen">Meereenese</a> tavern/brothel, when he has his throat slit by a <a data-rte-meta="{"type":"internal","text":"Son of the Harpy","link":"Sons of the Harpy","wasblank":false,"noforce":true,"wikitext":"[[Sons of the Harpy|Son of the Harpy]]"}" data-rte-instance="130814-11680388756cca7cc70e1f" href="/wiki/Sons_of_the_Harpy" title="Sons of the Harpy">Son of the Harpy</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances||||yes|||}}"}" data-rte-instance="130814-11680388756cca7cc70e1f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-11680388756cca7cc70e1f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Second son
+| image=5x04_Second_Son.png
+| season=5
+| first=
+| last=
+| appearances=\sons harpy\
+| status=deceased
+| titles=
+| aka=
+| place=Meereen
+| family=
+| allegiance=Second sonsHouse Targaryen
+| Actor =Slavko Sobin
+|Death = Throat slit by a Son of the Harpy
+|DeathEp = \Sons of the Harpy\}}}
+
+ House Targaryen
+| Actor =Slavko Sobin
+|Death = Throat slit by a Son of the Harpy
+|DeathEp  \Sons of the Harpy\}}} data-rte-instance130814-11680388756cca7cc70e1f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+
+A Second Son is a character in the fifth season. He is portrayed by Slavko Sobin.http:\/\/imgur.com\/ffKPumP\/ref} data-rte-instance130814-11680388756cca7cc70e1f classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Biography 
+
+ Background 
+
+This man is a member of the Second Sons, an Essosi mercenary company hired by Yunkai to fight against Daenerys Targaryen that went over to her. Season 5 
+
+The Second Son is flirting with a prostitute in Meereenese tavern/brothel, when he has his throat slit by a Son of the Harpy. Appearances 
+
+ References 
+
+  Loading editor

@@ -1,22 +1,19 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Theomar Smallwood\n|Season = [[Season 5|5]]\n|Mentioned = \"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"\n|Titles = [[Lord of Acorn Hall]]\n|Status = [[:Category:Status: Alive|Alive]]\n|Place = [[Acorn Hall]]\n|Allegiance = [[House Smallwood]]}}"}" data-rte-instance="130814-76234800556cca83fb47d8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Lord Smallwood.|[[Samwell Tarly]] to [[Jon Snow]]|Sons of the Harpy (episode)}}"}" data-rte-instance="130814-76234800556cca83fb47d8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Theomar Smallwood</b> is an unseen character mentioned in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-76234800556cca83fb47d8" href="/wiki/Season_5" title="Season 5">fifth season</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Theomar Smallwood is the head of <a data-rte-meta="{"type":"internal","text":"House Smallwood","link":"House Smallwood","wasblank":true,"noforce":true,"wikitext":"[[House Smallwood]]"}" data-rte-instance="130814-76234800556cca83fb47d8" href="/wiki/House_Smallwood" title="House Smallwood">House Smallwood</a> and the <a data-rte-meta="{"type":"internal","text":"Lord of Acorn Hall","link":"Lord of Acorn Hall","wasblank":true,"noforce":true,"wikitext":"[[Lord of Acorn Hall]]"}" data-rte-instance="130814-76234800556cca83fb47d8" href="/wiki/Lord_of_Acorn_Hall" title="Lord of Acorn Hall">Lord of Acorn Hall</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-76234800556cca83fb47d8" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">Lord Smallwood sends a message to Lord Commander <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-76234800556cca83fb47d8" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> in which he agrees to send men to join the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-76234800556cca83fb47d8" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"<\/ref>"}" data-rte-instance="130814-76234800556cca83fb47d8" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-76234800556cca83fb47d8" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Lord Theomar Smallwood is the head of <a data-rte-meta="{"type":"internal","text":"House Smallwood","link":"House Smallwood","wasblank":true,"noforce":true,"wikitext":"[[House Smallwood]]"}" data-rte-instance="130814-76234800556cca83fb47d8" href="/wiki/House_Smallwood" title="House Smallwood">House Smallwood</a> and the <a data-rte-meta="{"type":"internal","text":"Lord of Acorn Hall","link":"Lord of Acorn Hall","wasblank":true,"noforce":true,"wikitext":"[[Lord of Acorn Hall]]"}" data-rte-instance="130814-76234800556cca83fb47d8" href="/wiki/Lord_of_Acorn_Hall" title="Lord of Acorn Hall">Lord of Acorn Hall</a>. He is married to Lady Ravella Swann with whom he has a daughter, Carellen.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-76234800556cca83fb47d8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-76234800556cca83fb47d8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Smallwood navbox","placeholder":1,"wikitext":"{{Smallwood navbox}}"}" data-rte-instance="130814-76234800556cca83fb47d8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Theomar smallwood
+|season=5
+|mentioned=\sons harpy\
+|titles=Lord acorn hall
+|status=alive
+|place=Acorn hall
+|allegiance=House smallwood}}}
+
+ Theomar Smallwood is an unseen character mentioned in the fifth season. Biography 
+
+ Background 
+
+Theomar Smallwood is the head of House Smallwood and the Lord of Acorn Hall. Season 5 
+
+Lord Smallwood sends a message to Lord Commander Jon Snow in which he agrees to send men to join the Night's Watch.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref} data-rte-instance130814-76234800556cca83fb47d8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, Lord Theomar Smallwood is the head of House Smallwood and the Lord of Acorn Hall. He is married to Lady Ravella Swann with whom he has a daughter, Carellen. See also References 
+
+  Loading editor

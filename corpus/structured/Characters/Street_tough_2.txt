@@ -1,17 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Street tough 2\n| Image = Street Tough 2.jpg\n| Season = [[Season 5|5]]\n| First=\n| Last=\n| Appearances=\"[[The House of Black and White]]\"\n| Status= [[:Category:Status: Alive|Alive]]\n| Titles=\n| Aka=\n| Place =[[Braavos]]\n| Family =\n| Allegiance =\n| Actor =[[Winston Davis]]}}"}" data-rte-instance="130814-78382690056cca7f6a95ed" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>street tough</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/Season_5" title="Season 5">fifth season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Winston Davis","link":"Winston Davis","wasblank":true,"noforce":true,"wikitext":"[[Winston Davis]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/Winston_Davis" title="Winston Davis">Winston Davis</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"The House of Black and White","link":"The House of Black and White","wasblank":true,"noforce":true,"wikitext":"[[The House of Black and White]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/The_House_of_Black_and_White" title="The House of Black and White">The House of Black and White</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">He and <a data-rte-meta="{"type":"internal","text":"his comrade","link":"Street tough","wasblank":false,"noforce":true,"wikitext":"[[Street tough|his comrade]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/Street_tough" title="Street tough">his comrade</a> see <a data-rte-meta="{"type":"internal","text":"Arya Stark","link":"Arya Stark","wasblank":true,"noforce":true,"wikitext":"[[Arya Stark]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> cutting the heads off pigeons with her sword <a data-rte-meta="{"type":"internal","text":"Needle","link":"Needle","wasblank":true,"noforce":true,"wikitext":"[[Needle]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/Needle" title="Needle">Needle</a> on the streets of <a data-rte-meta="{"type":"internal","text":"Braavos","link":"Braavos","wasblank":true,"noforce":true,"wikitext":"[[Braavos]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/Braavos" title="Braavos">Braavos</a>. They advance on her intending to steal the sword, but flee when they see an <a data-rte-meta="{"type":"internal","text":"old man","link":"Jaqen H'ghar","wasblank":false,"noforce":true,"wikitext":"[[Jaqen H'ghar|old man]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/Jaqen_H'ghar" title="Jaqen H'ghar">old man</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The House of Black and White]]\"<\/ref>"}" data-rte-instance="130814-78382690056cca7f6a95ed" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances||yes}}"}" data-rte-instance="130814-78382690056cca7f6a95ed" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no parallel to this character. He and his companions are perhaps based loosely on two <a data-rte-meta="{"type":"internal","text":"Bravos","link":"Bravos","wasblank":true,"noforce":true,"wikitext":"[[Bravos]]"}" data-rte-instance="130814-78382690056cca7f6a95ed" href="/wiki/Bravos" title="Bravos">Bravos</a> named Terro and Orbelo, who pick on someone at night. Arya spots them, intervenes and threatens the Bravos with her knife, and they go away.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-78382690056cca7f6a95ed" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Street tough 2
+| image=Street 2.jpg
+| season=5
+| first=
+| last=
+| appearances=\The house of black and white\
+| status=alive
+| titles=
+| aka=
+| place=Braavos
+| family=
+| allegiance=
+| actor=Winston davis}}}
+
+ A street tough is an unnamed minor character in the fifth season. He is played by guest star Winston Davis and only appears in The House of Black and White. Biography 
+
+ Season 5 
+
+He and his comrade see Arya Stark cutting the heads off pigeons with her sword Needle on the streets of Braavos. They advance on her intending to steal the sword, but flee when they see an old man.\The House of Black and White\\/ref} data-rte-instance130814-78382690056cca7f6a95ed classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, there is no parallel to this character. He and his companions are perhaps based loosely on two Bravosnamed Terro and Orbelo, who pick on someone at night. Arya spots them, intervenes and threatens the Bravos with her knife, and they go away. References 
+
+  Loading editor

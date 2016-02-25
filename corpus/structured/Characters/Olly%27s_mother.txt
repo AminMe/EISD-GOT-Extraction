@@ -1,20 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Olly's mother\n|Image = Guymon's mother.png\n|Season = [[Season 4|4]]\n|Appearances = \"[[Breaker of Chains]]\"\n|Status = [[:Category:Status: Dead|Deceased]]\n|Culture = [[Northmen]]\n|Family = {[[Guymon]]} - husband<br>[[Olly]] - son\n|Actor = [[Raewyn Lippert]]|Death = Slaughtered by [[Styr]]|Place = Unnamed village, [[the Gift]]|DeathEp = \"Breaker of Chains\"}}"}" data-rte-instance="130814-200233776756cca77586ddd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Quote","placeholder":1,"wikitext":"{{Quote|Hide! HIDE!|Her last words|Breaker of Chains}}"}" data-rte-instance="130814-200233776756cca77586ddd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><b>Olly's mother</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/Season_4" title="Season 4">fourth season</a>. She is played by guest star <a data-rte-meta="{"type":"internal","text":"Raewyn Lippert","link":"Raewyn Lippert","wasblank":true,"noforce":true,"wikitext":"[[Raewyn Lippert]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/Raewyn_Lippert" title="Raewyn Lippert">Raewyn Lippert</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"Breaker of Chains","link":"Breaker of Chains","wasblank":true,"noforce":true,"wikitext":"[[Breaker of Chains]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a>".
-</p>
-<h2>Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">She lives with her husband <a data-rte-meta="{"type":"internal","text":"Guymon","link":"Guymon","wasblank":true,"noforce":true,"wikitext":"[[Guymon]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/Guymon" title="Guymon">Guymon</a> and son <a data-rte-meta="{"type":"internal","text":"Olly","link":"Olly","wasblank":true,"noforce":true,"wikitext":"[[Olly]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/Olly" title="Olly">Olly</a> in a village close to <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/The_Wall" title="The Wall">the Wall</a>.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">When her husband is killed in a <a data-rte-meta="{"type":"internal","text":"wildling","link":"Free Folk","wasblank":false,"noforce":true,"wikitext":"[[Free Folk|wildling]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/Free_Folk" title="Free Folk">wildling</a> attack on their village, she orders her son to hide. She is then killed by <a data-rte-meta="{"type":"internal","text":"Styr","link":"Styr","wasblank":true,"noforce":true,"wikitext":"[[Styr]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/Styr" title="Styr">Styr</a>. He scares Olly by saying he will eat his dead mother and father.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Breaker of Chains]]\"<\/ref>"}" data-rte-instance="130814-200233776756cca77586ddd" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2>Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Four Appearances","placeholder":1,"wikitext":"{{Template:Season Four Appearances|||yes}}"}" data-rte-instance="130814-200233776756cca77586ddd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">​In the books</h2>
-<p data-rte-fromparser="true">​In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no character parallel to her.
-</p>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-200233776756cca77586ddd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />​
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041c\u0430\u0442\u044c \u041e\u043b\u043b\u0438","link":"ru:\u041c\u0430\u0442\u044c \u041e\u043b\u043b\u0438","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041c\u0430\u0442\u044c \u041e\u043b\u043b\u0438]]"}" data-rte-instance="130814-200233776756cca77586ddd" href="http://ru.gameofthrones.wikia.com/wiki/Мать_Олли" class="extiw" title="ru:Мать Олли">ru:Мать Олли</a>
-</p>
-   Loading editor
+title=Olly's mother
+|image=Guymon's mother.png
+|season=4
+|appearances=\Breaker of chains\
+|status=deceased
+|culture=Northmen
+|Family = guymon - husbandOlly - son
+|Actor  Raewyn Lippert|Death  Slaughtered by Styr|Place  Unnamed village, the Gift|DeathEp  \Breaker of Chains\}}}
+
+Olly - son
+|Actor  Raewyn Lippert|Death  Slaughtered by Styr|Place  Unnamed village, the Gift|DeathEp  \Breaker of Chains\}}} data-rte-instance130814-200233776756cca77586ddd classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets /Olly's mother is an unnamed minor character in the fourth season. She is played by guest star Raewyn Lippert and only appears in Breaker of Chains. Biography 
+
+ Background 
+
+She lives with her husband Guymon and son Olly in a village close to the Wall. Season 4 
+
+When her husband is killed in a wildling attack on their village, she orders her son to hide. She is then killed by Styr. He scares Olly by saying he will eat his dead mother and father.\Breaker of Chains\\/ref} data-rte-instance130814-200233776756cca77586ddd classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ ​In the books 
+
+​Inthe A Song of Ice and Fire novels, there is no character parallel to her. References 
+
+​ 
+
+ru:Мать Олли  Loading editor

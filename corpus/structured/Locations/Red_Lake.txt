@@ -1,16 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Red Lake\n| Image=\n| Image size=\n| Location=[[The Reach]], [[Westeros]]\n| Type=Castle\n| Population=\n| Rulers=\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-109966182656cca923a6f91" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[Image:Red Lake Pin.png|thumb|right|200px|A map showing the location of Red Lake on the continent of Westeros.]]","title":"Red_Lake_Pin.png","params":{"thumbnail":true,"alt":"Red Lake Pin","align":"right","caption":"A map showing the location of Red Lake on the continent of Westeros.","width":200,"captionParsed":"A map showing the location of Red Lake on the continent of Westeros."}}" data-rte-instance="130814-109966182656cca923a6f91" alt="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/0/03/Red_Lake_Pin.png/revision/latest/scale-to-width-down/200?cb=20120625172434" width="200" height="516" class="image thumb alignRight withCaption" data-image-name="Red Lake Pin.png" data-image-key="Red_Lake_Pin.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Red Lake</b> is a castle in <a data-rte-meta="{"type":"internal","text":"the Reach","link":"the Reach","wasblank":true,"noforce":true,"wikitext":"[[the Reach]]"}" data-rte-instance="130814-109966182656cca923a6f91" href="/wiki/The_Reach" title="The Reach">the Reach</a>, the region controlled by <a data-rte-meta="{"type":"internal","text":"House Tyrell","link":"House Tyrell","wasblank":true,"noforce":true,"wikitext":"[[House Tyrell]]"}" data-rte-instance="130814-109966182656cca923a6f91" href="/wiki/House_Tyrell" title="House Tyrell">House Tyrell</a> of <a data-rte-meta="{"type":"internal","text":"Highgarden","link":"Highgarden","wasblank":true,"noforce":true,"wikitext":"[[Highgarden]]"}" data-rte-instance="130814-109966182656cca923a6f91" href="/wiki/Highgarden" title="Highgarden">Highgarden</a>. The castle is located north-west of Highgarden and due west of <a data-rte-meta="{"type":"internal","text":"Goldengrove","link":"Goldengrove","wasblank":true,"noforce":true,"wikitext":"[[Goldengrove]]"}" data-rte-instance="130814-109966182656cca923a6f91" href="/wiki/Goldengrove" title="Goldengrove">Goldengrove</a>, near the border with <a data-rte-meta="{"type":"internal","text":"the Westerlands","link":"the Westerlands","wasblank":true,"noforce":true,"wikitext":"[[the Westerlands]]"}" data-rte-instance="130814-109966182656cca923a6f91" href="/wiki/The_Westerlands" title="The Westerlands">the Westerlands</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/highgarden\/ HBO viewers guide, season 1 map, Highgarden entry]<\/ref>"}" data-rte-instance="130814-109966182656cca923a6f91" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-109966182656cca923a6f91" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Red Lake is the seat of House Crane. It is located along the shores of a large lake of the same name. According to legend, in the Dawn Age the lake was originally called Blue Lake until one of Garth Greenhand's sons, Brandon of the Bloody Blade fought a battle there to expel the giants from the Reach, after this battle the lake became known as Red Lake.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-109966182656cca923a6f91" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-109966182656cca923a6f91" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Reach","placeholder":1,"wikitext":"{{The Reach}}"}" data-rte-instance="130814-109966182656cca923a6f91" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u041e\u0437\u0435\u0440\u043e","link":"ru:\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u041e\u0437\u0435\u0440\u043e","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041a\u0440\u0430\u0441\u043d\u043e\u0435 \u041e\u0437\u0435\u0440\u043e]]"}" data-rte-instance="130814-109966182656cca923a6f91" href="http://ru.gameofthrones.wikia.com/wiki/Красное_Озеро" class="extiw" title="ru:Красное Озеро">ru:Красное Озеро</a>
-</p>
-   Loading editor
+title=Red lake
+| image size=
+| location=The reach, westeros
+| typedouble-brackets population
+| rulers=
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ Red Lake is a castle in the Reach, the region controlled by House Tyrell of Highgarden. The castle is located north-west of Highgarden and due west of Goldengrove, near the border with the Westerlands.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/highgarden\/ HBO viewers guide, season 1 map, Highgarden entry\/ref} data-rte-instance130814-109966182656cca923a6f91 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, Red Lake is the seat of House Crane. It is located along the shores of a large lake of the same name. According to legend, in the Dawn Age the lake was originally called Blue Lake until one of Garth Greenhand's sons, Brandon of the Bloody Blade fought a battle there to expel the giants from the Reach, after this battle the lake became known as Red Lake. See also References 
+
+ 
+
+ru:Красное Озеро  Loading editor

@@ -1,18 +1,14 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble_house\n","placeholder":1,"wikitext":"{{Noble_house\n|Title = House Marsh\n|Sigil = Ten green frogs, 4-3-2-1, on yellow\n|Words = \n|Seat = \n|Region = [[The Neck]], [[the North]]\n|Allegiance = [[House Reed]]|Image = |ImageSize = }}"}" data-rte-instance="130814-213799995256cca978c0ce7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Marsh</b> is a vassal house from <a data-rte-meta="{"type":"internal","text":"the Neck","link":"the Neck","wasblank":true,"noforce":true,"wikitext":"[[the Neck]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="/wiki/The_Neck" title="The Neck">the Neck</a>. They are sworn to <a data-rte-meta="{"type":"internal","text":"House Reed","link":"House Reed","wasblank":true,"noforce":true,"wikitext":"[[House Reed]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="/wiki/House_Reed" title="House Reed">House Reed</a> of <a data-rte-meta="{"type":"internal","text":"Greywater Watch","link":"Greywater Watch","wasblank":true,"noforce":true,"wikitext":"[[Greywater Watch]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="/wiki/Greywater_Watch" title="Greywater Watch">Greywater Watch</a>.
-</p>
-<h2>Members</h2>
-<ul><li data-rte-spaces-before="1"><a data-rte-meta="{"type":"internal","text":"Bowen Marsh","link":"Bowen Marsh","wasblank":true,"noforce":true,"wikitext":"[[Bowen Marsh]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="/wiki/Bowen_Marsh" title="Bowen Marsh">Bowen Marsh</a>, currently a <a data-rte-meta="{"type":"internal","text":"First Steward","link":"First Steward","wasblank":true,"noforce":true,"wikitext":"[[First Steward]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="/wiki/First_Steward" title="First Steward">First Steward</a> of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Marsh are crannogmen sworn to House Reed. Their sigil is ten green frogs, 4-3-2-1, on yellow.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-213799995256cca978c0ce7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"North Houses","placeholder":1,"wikitext":"{{North Houses}}"}" data-rte-instance="130814-213799995256cca978c0ce7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Marsh","link":"de:Haus Marsh","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Marsh]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="http://de.gameofthrones.wikia.com/wiki/Haus_Marsh" class="extiw" title="de:Haus Marsh">de:Haus Marsh</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"es:Casa Marsh","link":"es:Casa Marsh","wasblank":true,"noforce":true,"wikitext":"[[es:Casa Marsh]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="http://hieloyfuego.wikia.com/wiki/Casa_Marsh" class="extiw" title="es:Casa Marsh">es:Casa Marsh</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u9a6c\u5c14\u9521\u5bb6\u65cf","link":"zh:\u9a6c\u5c14\u9521\u5bb6\u65cf","wasblank":true,"noforce":true,"wikitext":"[[zh:\u9a6c\u5c14\u9521\u5bb6\u65cf]]"}" data-rte-instance="130814-213799995256cca978c0ce7" href="http://zh.asoiaf.wikia.com/wiki/马尔锡家族" class="extiw" title="zh:马尔锡家族">zh:马尔锡家族</a>
-</p>
-   Loading editor
+title=House marsh
+|sigil=Ten green frogs, 4-3-2-1, on yellow
+|words=
+|Seat = 
+|region=The neck, the north
+|allegianceHouse reed|image|ImageSize }}}
+
+ House Marsh is a vassal house from the Neck. They are sworn to House Reed of Greywater Watch. Members Bowen Marsh, currently aFirst Steward of the Night's Watch. In the books 
+
+In the A Song of Ice and Fire novels, House Marsh are crannogmen sworn to House Reed. Their sigil is ten green frogs, 4-3-2-1, on yellow. See also (MAJOR spoilers from the books) 
+
+ 
+
+de:Haus Marsh es:Casa Marsh zh:马尔锡家族  Loading editor

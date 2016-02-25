@@ -1,17 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=House Mollen\n| Image=\n| Sigil=A pine tree covered with snow in a pale green pile, on white\n| Titles=\n| Seat=\n| Region=The [[North]]\n| Lord=\n| Heir=\n| Allegiance=[[House Stark]]\n| Vassals=\n| Age=\n| Founder=\n|ImageSize =}}"}" data-rte-instance="130814-93641350656cca98385dd9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Mollen</b> is a vassal house of <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-93641350656cca98385dd9" href="/wiki/The_North" title="The North">the North</a>. They serve <a data-rte-meta="{"type":"internal","text":"House Stark","link":"House Stark","wasblank":true,"noforce":true,"wikitext":"[[House Stark]]"}" data-rte-instance="130814-93641350656cca98385dd9" href="/wiki/House_Stark" title="House Stark">House Stark</a> of <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-93641350656cca98385dd9" href="/wiki/Winterfell" title="Winterfell">Winterfell</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Known members</h2>
-<ul><li><a data-rte-meta="{"type":"internal","text":"Hallis Mollen","link":"Hallis Mollen","wasblank":true,"noforce":true,"wikitext":"[[Hallis Mollen]]"}" data-rte-instance="130814-93641350656cca98385dd9" href="/wiki/Hallis_Mollen" title="Hallis Mollen">Hallis Mollen</a>, captain of guards at <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-93641350656cca98385dd9" href="/wiki/Winterfell" title="Winterfell">Winterfell</a> after Jory Cassel's departure. Whereabouts unknown.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-93641350656cca98385dd9" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Mollen is a lesser house in service of the Starks of Winterfell. Their sigil is a pine tree covered with snow in a pale green pile, on white.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-93641350656cca98385dd9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"North Houses","placeholder":1,"wikitext":"{{North Houses}}"}" data-rte-instance="130814-93641350656cca98385dd9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Mollen, House","placeholder":1,"wikitext":"{{DEFAULTSORT:Mollen, House}}"}" data-rte-instance="130814-93641350656cca98385dd9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Mollen","link":"de:Haus Mollen","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Mollen]]"}" data-rte-instance="130814-93641350656cca98385dd9" href="http://de.gameofthrones.wikia.com/wiki/Haus_Mollen" class="extiw" title="de:Haus Mollen">de:Haus Mollen</a>
-</p>
-   Loading editor
+title=House mollen
+| image=
+| sigil=A pine tree covered with snow in a pale green pile, on white
+| titles=
+| seat=
+| region=The north
+| lord=
+| heir=
+| allegiance=House stark
+| vassals=
+| age=
+| founder=
+|ImageSize =}}}
+
+ 
+
+House Mollen is a vassal house of the North. They serve House Stark of Winterfell. Known members Hallis Mollen, captain of guards at Winterfell after Jory Cassel's departure. Whereabouts unknown. In the books 
+
+In the A Song of Ice and Fire novels, House Mollen is a lesser house in service of the Starks of Winterfell. Their sigil is a pine tree covered with snow in a pale green pile, on white. See also (spoilers from the books) 
+
+ 
+
+de:Haus Mollen  Loading editor

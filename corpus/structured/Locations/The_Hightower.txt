@@ -1,14 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=The Hightower\n| Image=Oldtown.jpg\n| Image size=\n| Location=[[Oldtown]], [[the Reach]]\n| Type=Lighthouse\n| Population=\n| Rulers=[[House Hightower]]\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=Several thousand years\n| Founder=\n}}"}" data-rte-instance="130814-85257787956cca8b926995" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Wealthy, proud, and solitary, there have been Hightowers who wouldn't come down from their great lighthouse for decades. Its name, fittingly, the Hightower.|[[Margaery Tyrell]]|The Reach (Histories & Lore)}}"}" data-rte-instance="130814-85257787956cca8b926995" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>The Hightower</b> is a massive lighthouse located in <a data-rte-meta="{"type":"internal","text":"Oldtown","link":"Oldtown","wasblank":true,"noforce":true,"wikitext":"[[Oldtown]]"}" data-rte-instance="130814-85257787956cca8b926995" href="/wiki/Oldtown" title="Oldtown">Oldtown</a>, the oldest city of <a data-rte-meta="{"type":"internal","text":"Westeros","link":"Westeros","wasblank":true,"noforce":true,"wikitext":"[[Westeros]]"}" data-rte-instance="130814-85257787956cca8b926995" href="/wiki/Westeros" title="Westeros">Westeros</a>. It serves as the seat of <a data-rte-meta="{"type":"internal","text":"House Hightower","link":"House Hightower","wasblank":true,"noforce":true,"wikitext":"[[House Hightower]]"}" data-rte-instance="130814-85257787956cca8b926995" href="/wiki/House_Hightower" title="House Hightower">House Hightower</a>, proud and wealthy bannermen of <a data-rte-meta="{"type":"internal","text":"House Tyrell","link":"House Tyrell","wasblank":true,"noforce":true,"wikitext":"[[House Tyrell]]"}" data-rte-instance="130814-85257787956cca8b926995" href="/wiki/House_Tyrell" title="House Tyrell">House Tyrell</a> of Highgarden.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">In the <i>A Song of Ice and Fire</i> novels, the Hightower is described as being 800 feet tall - a hundred feet taller than <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-85257787956cca8b926995" href="/wiki/The_Wall" title="The Wall">the Wall</a> itself (though still not approaching the sheer scale of the Wall, which stretches from one side of the continent to the other). It is the tallest structure in all of Westeros.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul data-rte-empty-lines-before="1"><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Hightower}}"}" data-rte-instance="130814-85257787956cca8b926995" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Reach","placeholder":1,"wikitext":"{{The Reach}}"}" data-rte-instance="130814-85257787956cca8b926995" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Hightower,The","placeholder":1,"wikitext":"{{DEFAULTSORT:Hightower,The}}"}" data-rte-instance="130814-85257787956cca8b926995" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=The hightower
+| image size=
+| location=Oldtown, the reach
+| typedouble-brackets population
+| rulers=House hightower
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=Several thousand years
+| founder=
+}}}
+
+ 
+
+ 
+
+The Hightower is a massive lighthouse located in Oldtown, the oldest city of Westeros. It serves as the seat of House Hightower, proud and wealthy bannermen of House Tyrell of Highgarden. In the books 
+
+In the A Song of Ice and Fire novels, the Hightower is described as being 800 feet tall - a hundred feet taller than the Wall itself (though still not approaching the sheer scale of the Wall, which stretches from one side of the continent to the other). It is the tallest structure in all of Westeros. See also (MAJOR spoilers from the books) 
+
+  Loading editor

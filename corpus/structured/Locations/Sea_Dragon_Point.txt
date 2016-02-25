@@ -1,20 +1,20 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[Image:Sea Dragon Point.png|thumb|right|200px|A map showing the location of Sea Dragon Point on the continent of Westeros.]]","title":"Sea_Dragon_Point.png","params":{"thumbnail":true,"alt":"Sea Dragon Point","align":"right","caption":"A map showing the location of Sea Dragon Point on the continent of Westeros.","width":200,"captionParsed":"A map showing the location of Sea Dragon Point on the continent of Westeros."}}" data-rte-instance="130814-41798501656cca8e557f12" alt="" src="http://vignette3.wikia.nocookie.net/gameofthrones/images/3/3f/Sea_Dragon_Point.png/revision/latest/scale-to-width-down/200?cb=20120625195413" width="200" height="516" class="image thumb alignRight withCaption" data-image-name="Sea Dragon Point.png" data-image-key="Sea_Dragon_Point.png"  type="image" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Sea Dragon Point</b> is a large peninsula in <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="/wiki/The_North" title="The North">the North</a>. It extends northwards, separating the <a data-rte-meta="{"type":"internal","text":"Bay of Ice","link":"Bay of Ice","wasblank":true,"noforce":true,"wikitext":"[[Bay of Ice]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="/wiki/Bay_of_Ice" title="Bay of Ice">Bay of Ice</a> to the east from the <a data-rte-meta="{"type":"internal","text":"Sunset Sea","link":"Sunset Sea","wasblank":true,"noforce":true,"wikitext":"[[Sunset Sea]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="/wiki/Sunset_Sea" title="Sunset Sea">Sunset Sea</a> in the west. It is located west of the <a data-rte-meta="{"type":"internal","text":"Wolfswood","link":"Wolfswood","wasblank":true,"noforce":true,"wikitext":"[[Wolfswood]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="/wiki/Wolfswood" title="Wolfswood">Wolfswood</a>. The nearest major castle is <a data-rte-meta="{"type":"internal","text":"Deepwood Motte","link":"Deepwood Motte","wasblank":true,"noforce":true,"wikitext":"[[Deepwood Motte]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="/wiki/Deepwood_Motte" title="Deepwood Motte">Deepwood Motte</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/bear-island\/ HBO viewers guide, season 2 map, Bear Island entry]<\/ref>"}" data-rte-instance="130814-41798501656cca8e557f12" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true">During the <a data-rte-meta="{"type":"internal","text":"Greyjoy Rebellion","link":"Greyjoy Rebellion","wasblank":true,"noforce":true,"wikitext":"[[Greyjoy Rebellion]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="/wiki/Greyjoy_Rebellion" title="Greyjoy Rebellion">Greyjoy Rebellion</a>, <a data-rte-meta="{"type":"internal","text":"ironborn","link":"ironborn","wasblank":true,"noforce":true,"wikitext":"[[ironborn]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="/wiki/Ironborn" title="Ironborn">ironborn</a> moored on Sea Dragon Point, although they were <a data-rte-meta="{"type":"internal","text":"beaten back","link":"Raid on Sea Dragon Point","wasblank":false,"noforce":true,"wikitext":"[[Raid on Sea Dragon Point|beaten back]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="/wiki/Raid_on_Sea_Dragon_Point" title="Raid on Sea Dragon Point">beaten back</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Sea Dragon Point is in the same location.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-41798501656cca8e557f12" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-41798501656cca8e557f12" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The North","placeholder":1,"wikitext":"{{The North}}"}" data-rte-instance="130814-41798501656cca8e557f12" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"es:Punta Drag\u00f3n Marino","link":"es:Punta Drag\u00f3n Marino","wasblank":true,"noforce":true,"wikitext":"[[es:Punta Drag\u00f3n Marino]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="http://hieloyfuego.wikia.com/wiki/Punta_Dragón_Marino" class="extiw" title="es:Punta Dragón Marino">es:Punta Dragón Marino</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u041e\u0441\u0442\u0440\u0438\u0451 \u041c\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u0414\u0440\u0430\u043a\u043e\u043d\u0430","link":"ru:\u041e\u0441\u0442\u0440\u0438\u0451 \u041c\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u0414\u0440\u0430\u043a\u043e\u043d\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041e\u0441\u0442\u0440\u0438\u0451 \u041c\u043e\u0440\u0441\u043a\u043e\u0433\u043e \u0414\u0440\u0430\u043a\u043e\u043d\u0430]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="http://ru.gameofthrones.wikia.com/wiki/Остриё_Морского_Дракона" class="extiw" title="ru:Остриё Морского Дракона">ru:Остриё Морского Дракона</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u6d77\u9f99\u89d2","link":"zh:\u6d77\u9f99\u89d2","wasblank":true,"noforce":true,"wikitext":"[[zh:\u6d77\u9f99\u89d2]]"}" data-rte-instance="130814-41798501656cca8e557f12" href="http://zh.asoiaf.wikia.com/wiki/海龙角" class="extiw" title="zh:海龙角">zh:海龙角</a>
-</p>
-   Loading editor
+
+Sea Dragon Point is a large peninsula in the North. It extends northwards, separating the Bay of Ice to the east from the Sunset Sea in the west. It is located west of the Wolfswood. The nearest major castle is Deepwood Motte.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/bear-island\/ HBO viewers guide, season 2 map, Bear Island entry\/ref} data-rte-instance130814-41798501656cca8e557f12 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+History
+During the Greyjoy Rebellion, ironborn moored on Sea Dragon Point, although they were beaten back.
+
+In the books
+In the A Song of Ice and Fire novels, Sea Dragon Point is in the same location.
+
+See also
+
+
+References
+
+
+es:Punta Dragón Marino
+ru:Остриё Морского Дракона
+zh:海龙角
+
+ &nbsp; Loading editor

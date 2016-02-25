@@ -1,28 +1,41 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Forrester-Shield-Icon.PNG\n|link=House Forrester\n}}"}" data-rte-instance="130814-178319985456cca67382269" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Image=TLL Erik Pissed.png\n| Season=''[[Game of Thrones: A Telltale Games Series]]''\n| First=\"[[Iron From Ice]]\"\n| Titles =Steward (player-determined)\n| Last=\"[[Sons of Winter]]\" or \"[[The Ice Dragon]]\" (player-determined)\n| Appearances= 1 or 2 or 4 episodes\n| Place=\n| Status= [[:Category:Status: Determinant|Determinant]] \n| Death= Stabbed by [[Harys]] \n| DeathEp= \"[[The Ice Dragon]]\" (player-determined)\n| Allegiance=[[House Forrester]]<br>[[Night\u2019s Watch]] \n| Family=\n| Actor= [[Yuri Lowenthal]]\n|Culture = [[Northmen]]\n|Title = Erik}}"}" data-rte-instance="130814-178319985456cca67382269" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Dialogue a-b","placeholder":1,"wikitext":"{{Dialogue a-b|Ethan|We are in this together.|Erik|You say that, but it won't be you who's starving come winter.|[[Ethan Forrester]] and Erik|Iron From Ice}}"}" data-rte-instance="130814-178319985456cca67382269" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Erik</b> was a soldier for <a data-rte-meta="{"type":"internal","text":"House Forrester","link":"House Forrester","wasblank":true,"noforce":true,"wikitext":"[[House Forrester]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/House_Forrester" title="House Forrester">House Forrester</a> who was caught stealing some weapons in <a data-rte-meta="{"type":"internal","text":"Ironrath","link":"Ironrath","wasblank":true,"noforce":true,"wikitext":"[[Ironrath]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Ironrath" title="Ironrath">Ironrath</a>, he is brought before <a data-rte-meta="{"type":"internal","text":"Ethan Forrester","link":"Ethan Forrester","wasblank":true,"noforce":true,"wikitext":"[[Ethan Forrester]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Ethan_Forrester" title="Ethan Forrester">Ethan Forrester</a> to be judged.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>"<a data-rte-meta="{"type":"internal","text":"Iron From Ice","link":"Iron From Ice","wasblank":true,"noforce":true,"wikitext":"[[Iron From Ice]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Iron_From_Ice" title="Iron From Ice">Iron From Ice</a>"</h3>
-<p data-rte-fromparser="true">Erik was caught stealing weapons by Ser <a data-rte-meta="{"type":"internal","text":"Royland Degore","link":"Royland Degore","wasblank":true,"noforce":true,"wikitext":"[[Royland Degore]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Royland_Degore" title="Royland Degore">Royland Degore</a> and brought to Ethan to be judged, Ethan has three options: he can remove three fingers the same way <a data-rte-meta="{"type":"internal","text":"his father","link":"Gregor Forrester","wasblank":false,"noforce":true,"wikitext":"[[Gregor Forrester|his father]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Gregor_Forrester" title="Gregor Forrester">his father</a> punished thieves, sent to join the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a> or he can be freed and given food. If it's the last choice Erik is grateful but Ethan's advisers worry that it will lead to more like him. If one of the former two is chosen Erik is horrified but Ethan's advisers are satisfied.
-</p>
-<h3 data-rte-empty-lines-before="1">"<a data-rte-meta="{"type":"internal","text":"The Lost Lords","link":"The Lost Lords","wasblank":true,"noforce":true,"wikitext":"[[The Lost Lords]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/The_Lost_Lords" title="The Lost Lords">The Lost Lords</a>"</h3>
-<p data-rte-fromparser="true">If Erik was sent to <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/The_Wall" title="The Wall">the Wall</a> then <a data-rte-meta="{"type":"internal","text":"Gared Tuttle","link":"Gared Tuttle","wasblank":true,"noforce":true,"wikitext":"[[Gared Tuttle]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Gared_Tuttle" title="Gared Tuttle">Gared Tuttle</a> can find and speak to him there where Erik is extremely bitter about his situation and very angry with the Forresters, he wishes he could have had his fingers removed instead as he would have at least been able to go home afterwards.
-</p>
-<h3 data-rte-empty-lines-before="1">"<a data-rte-meta="{"type":"internal","text":"The Sword in the Darkness","link":"The Sword in the Darkness","wasblank":true,"noforce":true,"wikitext":"[[The Sword in the Darkness]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/The_Sword_in_the_Darkness" title="The Sword in the Darkness">The Sword in the Darkness</a>"</h3>
-<p data-rte-fromparser="true">If Erik was sent to the Wall then he is briefly seen in this episode where he is assigned to be a steward.
-</p>
-<h3 data-rte-empty-lines-before="1">"<a data-rte-meta="{"type":"internal","text":"Sons of Winter","link":"Sons of Winter","wasblank":true,"noforce":true,"wikitext":"[[Sons of Winter]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Sons_of_Winter" title="Sons of Winter">Sons of Winter</a>"</h3>
-<p data-rte-fromparser="true">If Erik was sent to the Wall in <a data-rte-meta="{"type":"internal","text":"Iron From Ice","link":"Iron From Ice","wasblank":true,"noforce":true,"wikitext":"[[Iron From Ice]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Iron_From_Ice" title="Iron From Ice">Iron From Ice</a>, he is briefly seen while <a data-rte-meta="{"type":"internal","text":"Britt's","link":"Britt Warrick","wasblank":false,"noforce":true,"wikitext":"[[Britt Warrick|Britt's]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Britt_Warrick" title="Britt Warrick">Britt's</a> body is burned.
-</p>
-<h3 data-rte-empty-lines-before="1">"<a data-rte-meta="{"type":"internal","text":"The Ice Dragon","link":"The Ice Dragon","wasblank":true,"noforce":true,"wikitext":"[[The Ice Dragon]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/The_Ice_Dragon" title="The Ice Dragon">The Ice Dragon</a>"</h3>
-<p data-rte-fromparser="true">If Erik was shown mercy by Ethan, he appears as a Forrester man-at-arms and accompanies <a data-rte-meta="{"type":"internal","text":"Asher","link":"Asher Forrester","wasblank":false,"noforce":true,"wikitext":"[[Asher Forrester|Asher]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Asher_Forrester" title="Asher Forrester">Asher</a> or <a data-rte-meta="{"type":"internal","text":"Rodrik","link":"Rodrik Forrester","wasblank":false,"noforce":true,"wikitext":"[[Rodrik Forrester|Rodrik]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Rodrik_Forrester" title="Rodrik Forrester">Rodrik</a> to meet <a data-rte-meta="{"type":"internal","text":"Ludd Whitehill","link":"Ludd Whitehill","wasblank":true,"noforce":true,"wikitext":"[[Ludd Whitehill]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Ludd_Whitehill" title="Ludd Whitehill">Ludd Whitehill</a> at the gates of Ironrath.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Later, if Bowen was left behind, Asher was saved, and if <a data-rte-meta="{"type":"internal","text":"Elissa Forrester","link":"Elissa Forrester","wasblank":true,"noforce":true,"wikitext":"[[Elissa Forrester]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Elissa_Forrester" title="Elissa Forrester">Elissa Forrester</a> &amp; <a data-rte-meta="{"type":"internal","text":"Ludd Whitehill","link":"Ludd Whitehill","wasblank":true,"noforce":true,"wikitext":"[[Ludd Whitehill]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Ludd_Whitehill" title="Ludd Whitehill">Ludd Whitehill</a> succumbed to the poison, then Erik will stab Harys on the back in a manner of protecting Asher but is fatally stabbed by <a data-rte-meta="{"type":"internal","text":"Harys","link":"Harys","wasblank":true,"noforce":true,"wikitext":"[[Harys]]"}" data-rte-instance="130814-178319985456cca67382269" href="/wiki/Harys" title="Harys">Harys</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Telltale Game Series Appearances","placeholder":1,"wikitext":"{{Telltale Game Series Appearances|yes|yes|yes|yes||yes}}"}" data-rte-instance="130814-178319985456cca67382269" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Forrester navbox","placeholder":1,"wikitext":"{{Forrester navbox}}"}" data-rte-instance="130814-178319985456cca67382269" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u042d\u0440\u0438\u043a","link":"ru:\u042d\u0440\u0438\u043a","wasblank":true,"noforce":true,"wikitext":"[[ru:\u042d\u0440\u0438\u043a]]"}" data-rte-instance="130814-178319985456cca67382269" href="http://ru.gameofthrones.wikia.com/wiki/Эрик" class="extiw" title="ru:Эрик">ru:Эрик</a>
-</p>
-   Loading editor
+titles=Steward (player-determined)
+| last\Sons winter\ or \the ice dragon\ appearances1 2 4 episodes
+| place=
+| status=determinant 
+| deathStabbed by harys deathep\The allegiance=[[House forresterNight\u2019s Watch 
+| Family=
+| Actor= Yuri Lowenthal
+|Culture = Northmen
+|Title = Erik}}}
+
+ 
+
+Night\u2019s Watch 
+| Family=
+| Actor= Yuri Lowenthal
+|Culture = Northmen
+|Title  Erik}}} data-rte-instance130814-178319985456cca67382269 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+
+ 
+
+Erik was a soldier for House Forrester who was caught stealing some weapons in Ironrath, he is brought before Ethan Forrester to be judged. Biography 
+
+ Iron From Ice 
+
+Erik was caught stealing weapons by Ser Royland Degore and brought to Ethan to be judged, Ethan has three options: he can remove three fingers the same way his father punished thieves, sent to join the Night's Watch or he can be freed and given food. If it's the last choice Erik is grateful but Ethan's advisers worry that it will lead to more like him. If one of the former two is chosen Erik is horrified but Ethan's advisers are satisfied. The Lost Lords 
+
+If Erik was sent to the Wall then Gared Tuttle can find and speak to him there where Erik is extremely bitter about his situation and very angry with the Forresters, he wishes he could have had his fingers removed instead as he would have at least been able to go home afterwards. The Sword in the Darkness 
+
+If Erik was sent to the Wall then he is briefly seen in this episode where he is assigned to be a steward. Sons of Winter 
+
+If Erik was sent to the Wall in Iron From Ice, he is briefly seen while Britt's body is burned. The Ice Dragon 
+
+If Erik was shown mercy by Ethan, he appears as a Forrester man-at-arms and accompanies Asher or Rodrik to meet Ludd Whitehill at the gates of Ironrath. 
+
+Later, if Bowen was left behind, Asher was saved, and if Elissa Forrester &amp; Ludd Whitehill succumbed to the poison, then Erik will stab Harys on the back in a manner of protecting Asher but is fatally stabbed by Harys. Appearances 
+
+ 
+
+ 
+
+ru:Эрик  Loading editor

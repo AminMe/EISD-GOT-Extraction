@@ -1,20 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Musician 2\n|Image = Percussionist.jpg\n|Season = [[Season 4|4]]\n|Appearances = \"[[The Lion and the Rose]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = For hire\n|Actor = [[Georg H\u00f3lm]]}}"}" data-rte-instance="130814-1563381256cca7d28f707" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />A <b>musician </b>​is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Georg H\u00f3lm","link":"Georg H\u00f3lm","wasblank":true,"noforce":true,"wikitext":"[[Georg H\u00f3lm]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="/wiki/Georg_Hólm" title="Georg Hólm">Georg Hólm</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"The Lion and the Rose","link":"The Lion and the Rose","wasblank":true,"noforce":true,"wikitext":"[[The Lion and the Rose]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>".
-</p>
-<h2>Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">He is a musician who performs in a group with two others, in which he plays percussion.
-</p>
-<h3>​<a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">His group perform "<a data-rte-meta="{"type":"internal","text":"The Rains of Castamere","link":"The Rains of Castamere (song)","wasblank":false,"noforce":true,"wikitext":"[[The Rains of Castamere (song)|The Rains of Castamere]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="/wiki/The_Rains_of_Castamere_(song)" title="The Rains of Castamere (song)">The Rains of Castamere</a>" at the <a data-rte-meta="{"type":"internal","text":"Purple Wedding","link":"Purple Wedding","wasblank":true,"noforce":true,"wikitext":"[[Purple Wedding]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="/wiki/Purple_Wedding" title="Purple Wedding">Purple Wedding</a>, though King <a data-rte-meta="{"type":"internal","text":"Joffrey Baratheon","link":"Joffrey Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Joffrey Baratheon]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="/wiki/Joffrey_Baratheon" title="Joffrey Baratheon">Joffrey Baratheon</a> quickly grows bored with their performance and throws coins at them. They pick up as many coins as they can before leaving.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Lion and the Rose]]\"<\/ref>"}" data-rte-instance="130814-1563381256cca7d28f707" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2>Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Four Appearances","placeholder":1,"wikitext":"{{Template:Season Four Appearances||yes}}"}" data-rte-instance="130814-1563381256cca7d28f707" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2>In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, "<a data-rte-meta="{"type":"internal","text":"The Rains of Castamere","link":"The Rains of Castamere (song)","wasblank":false,"noforce":true,"wikitext":"[[The Rains of Castamere (song)|The Rains of Castamere]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="/wiki/The_Rains_of_Castamere_(song)" title="The Rains of Castamere (song)">The Rains of Castamere</a>" is performed several times at the Purple Wedding by musicians such as Hamish the Harper and Collio Quaynis.
-</p>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-1563381256cca7d28f707" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041c\u0443\u0437\u044b\u043a\u0430\u043d\u0442 2 (\u041b\u0435\u0432 \u0438 \u0440\u043e\u0437\u0430)","link":"ru:\u041c\u0443\u0437\u044b\u043a\u0430\u043d\u0442 2 (\u041b\u0435\u0432 \u0438 \u0440\u043e\u0437\u0430)","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041c\u0443\u0437\u044b\u043a\u0430\u043d\u0442 2 (\u041b\u0435\u0432 \u0438 \u0440\u043e\u0437\u0430)]]"}" data-rte-instance="130814-1563381256cca7d28f707" href="http://ru.gameofthrones.wikia.com/wiki/Музыкант_2_(Лев_и_роза)" class="extiw" title="ru:Музыкант 2 (Лев и роза)">ru:Музыкант 2 (Лев и роза)</a>
-</p>
-   Loading editor
+title=Musician 2
+|image=Percussionist.jpg
+|Season = 4
+|appearances=\The lion and the rose\
+|status=alive
+|allegiance=For hire
+|actor=Georg h\u00f3lm}}}
+
+Amusician​is an unnamed minor character in the fourth season. He is played by guest star Georg Hólm andonly appears in The Lion and the Rose. Biography 
+
+ Background 
+
+He is a musician who performs in a group with two others, in which he plays percussion. ​Season 4 
+
+His group perform The Rains of Castamere at the Purple Wedding, though King Joffrey Baratheon quickly grows bored with their performance and throws coins at them. They pick up as many coins as they can before leaving.\The Lion and the Rose\\/ref} data-rte-instance130814-1563381256cca7d28f707 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, The Rains of Castamere is performed several times at the Purple Wedding by musicians such as Hamish the Harper and Collio Quaynis. References 
+
+ 
+
+ru:Музыкант 2 (Лев и роза)  Loading editor

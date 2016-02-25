@@ -1,14 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Steffon\n| Image=\n| Season=[[Season 1|1]]\n| First= \"[[A Golden Crown]]\"\n| Last=\n| Mentioned = \n| Aka=\n| Titles=\n| Status= [[:Category:Status: Alive|Alive]]\n| Death=\n| Place=\n| Allegiance=\n| Family=\n| Actor=}}"}" data-rte-instance="130814-47516691956cca780ac316" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Steffon</b> is a turnip-cart driver who travels between <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-47516691956cca780ac316" href="/wiki/Winterfell" title="Winterfell">Winterfell</a> and <a data-rte-meta="{"type":"internal","text":"White Harbor","link":"White Harbor","wasblank":true,"noforce":true,"wikitext":"[[White Harbor]]"}" data-rte-instance="130814-47516691956cca780ac316" href="/wiki/White_Harbor" title="White Harbor">White Harbor</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-47516691956cca780ac316" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[Image:Ros.jpg|thumb|Ros takes a ride in the turnip cart belonging to Steffon (behind her at right).]]","title":"Ros.jpg","params":{"thumbnail":true,"alt":"Ros","caption":"Ros takes a ride in the turnip cart belonging to Steffon (behind her at right).","captionParsed":"Ros takes a ride in the turnip cart belonging to Steffon (behind her at right)."}}" data-rte-instance="130814-47516691956cca780ac316" alt="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/b/b6/Ros.jpg/revision/latest/scale-to-width-down/180?cb=20110525020340" width="180" height="101" class="image thumb withCaption" data-image-name="Ros.jpg" data-image-key="Ros.jpg"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->At the outbreak of the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-47516691956cca780ac316" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a>, all of the men from Winterfell leave to fight in the conflict, so the prostitute <a data-rte-meta="{"type":"internal","text":"Ros","link":"Ros","wasblank":true,"noforce":true,"wikitext":"[[Ros]]"}" data-rte-instance="130814-47516691956cca780ac316" href="/wiki/Ros" title="Ros">Ros</a> decides to relocate to <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-47516691956cca780ac316" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a>. She travels in the back of Steffon's turnip cart, and encounters <a data-rte-meta="{"type":"internal","text":"Theon Greyjoy","link":"Theon Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Theon Greyjoy]]"}" data-rte-instance="130814-47516691956cca780ac316" href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Theon Greyjoy</a> as she leaves. She explains that she is only taking the cart to White Harbor, where she will buy passage on a ship to King's Landing.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Golden Crown]]\"<\/ref>"}" data-rte-instance="130814-47516691956cca780ac316" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-47516691956cca780ac316" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Steffon","placeholder":1,"wikitext":"{{DEFAULTSORT:Steffon}}"}" data-rte-instance="130814-47516691956cca780ac316" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"de:Steffan","link":"de:Steffan","wasblank":true,"noforce":true,"wikitext":"[[de:Steffan]]"}" data-rte-instance="130814-47516691956cca780ac316" href="http://de.gameofthrones.wikia.com/wiki/Steffan" class="extiw" title="de:Steffan">de:Steffan</a>
-</p>
-   Loading editor
+title=Steffon
+| image=
+| season=1
+| first=\A golden crown\
+| last=
+| mentioned=
+| aka=
+| titles=
+| status=alive
+| death=
+| place=
+| allegiance=
+| family=
+| actor=}}}
+
+ 
+
+Steffon is a turnip-cart driver who travels between Winterfell and White Harbor. History 
+
+ Season 1 
+
+ At the outbreak of the War of the Five Kings, all of the men from Winterfell leave to fight in the conflict, so the prostitute Ros decides to relocate to King's Landing. She travels in the back of Steffon's turnip cart, and encounters Theon Greyjoy as she leaves. She explains that she is only taking the cart to White Harbor, where she will buy passage on a ship to King's Landing.\A Golden Crown\\/ref} data-rte-instance130814-47516691956cca780ac316 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / References 
+
+ de:Steffan  Loading editor

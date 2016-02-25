@@ -1,29 +1,42 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|leftimage=Martell shield icon.png\n|rightimage=Sand mini shield.png\n|leftlink=House Martell\n|rightlink=Sand Snakes\n}}"}" data-rte-instance="130814-163814787956cca62117c76" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title =Elia Sand\n|Season = [[Season 4|4]]\n|Image=\n|Mentioned = \"[[First of His Name]]\"\n|Titles = \n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[House Martell]]\n|Family ={[[Oberyn Martell]]} - father<br>[[Ellaria Sand]] - mother<br>[[Obara Sand]] - half-sister<br>[[Nymeria Sand]] - half-sister<br>[[Tyene Sand]] - sister<br>[[Sarella Sand]] - half-sister<br>[[Obella Sand]] - sister<br>[[Dorea Sand]] - sister<br>[[Loreza Sand]] - sister<br>[[Doran Martell]] - uncle<br>[[Trystane Martell]] - first cousin<br>{[[Elia Martell]]} - aunt<br>{[[Rhaegar Targaryen]]} - uncle by marriage<br>{[[Rhaenys Targaryen (daughter of Rhaegar)|Rhaenys Targaryen]]} - first cousin<br>{[[Aegon Targaryen (Son of Rhaegar)|Aegon Targaryen]]} - first cousin<br>{[[Lewyn Martell]]} - great-uncle\n|Actor = \n|Culture = [[Dornishmen]]}}"}" data-rte-instance="130814-163814787956cca62117c76" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Elia Sand</b> is an unseen character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Season_4" title="Season 4">fourth season</a>. She is first mentioned in "<a data-rte-meta="{"type":"internal","text":"First of His Name","link":"First of His Name","wasblank":true,"noforce":true,"wikitext":"[[First of His Name]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/First_of_His_Name" title="First of His Name">First of His Name</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Elia Sand is the fifth of the eight <a data-rte-meta="{"type":"internal","text":"bastard","link":"Bastardy","wasblank":false,"noforce":true,"wikitext":"[[Bastardy|bastard]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Bastardy" title="Bastardy">bastard</a> daughters of <a data-rte-meta="{"type":"internal","text":"Prince","link":"Prince","wasblank":true,"noforce":true,"wikitext":"[[Prince]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Prince" title="Prince">Prince</a> <a data-rte-meta="{"type":"internal","text":"Oberyn Martell","link":"Oberyn Martell","wasblank":true,"noforce":true,"wikitext":"[[Oberyn Martell]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Oberyn_Martell" title="Oberyn Martell">Oberyn Martell</a>, known as the "<a data-rte-meta="{"type":"internal","text":"Sand Snakes","link":"Sand Snakes","wasblank":true,"noforce":true,"wikitext":"[[Sand Snakes]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Sand_Snakes" title="Sand Snakes">Sand Snakes</a>". Her mother is Oberyn's <a data-rte-meta="{"type":"internal","text":"paramour","link":"paramour","wasblank":true,"noforce":true,"wikitext":"[[paramour]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Paramour" title="Paramour">paramour</a>, <a data-rte-meta="{"type":"internal","text":"Ellaria Sand","link":"Ellaria Sand","wasblank":true,"noforce":true,"wikitext":"[[Ellaria Sand]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Ellaria_Sand" title="Ellaria Sand">Ellaria Sand</a>. She was named after her aunt, the late Princess <a data-rte-meta="{"type":"internal","text":"Elia Martell","link":"Elia Martell","wasblank":true,"noforce":true,"wikitext":"[[Elia Martell]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Elia_Martell" title="Elia Martell">Elia Martell</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">Oberyn writes a poem to Elia and mentions her willful behavior to Queen <a data-rte-meta="{"type":"internal","text":"Cersei Lannister","link":"Cersei Lannister","wasblank":true,"noforce":true,"wikitext":"[[Cersei Lannister]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a>. He explains that he named her after his murdered sister, but this ended up making him sad when he talks to her, which in turn leads to him being angry around her. Cersei, in a rare moment of genuine motherly insight, suggests that this may be the cause of her behavior.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[First of His Name]]\"<\/ref>"}" data-rte-instance="130814-163814787956cca62117c76" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Family Tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:House Martell family tree","placeholder":1,"wikitext":"{{Template:House Martell family tree}}"}" data-rte-instance="130814-163814787956cca62117c76" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-163814787956cca62117c76" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Elia Sand is described as wearing her black hair in a braid and having her father's eyes. She's fond of horses and jousting, for which she often smells like a horse to her mother's despair. Her weapon of choice is the lance, for which she's dubbed "Lady Lance". Her mother affectionately refers to her as "El".
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-163814787956cca62117c76" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-163814787956cca62117c76" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Martell navbox","placeholder":1,"wikitext":"{{Martell navbox}}"}" data-rte-instance="130814-163814787956cca62117c76" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Sand, Elia","placeholder":1,"wikitext":"{{DEFAULTSORT:Sand, Elia}}"}" data-rte-instance="130814-163814787956cca62117c76" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"es:Elia Arena","link":"es:Elia Arena","wasblank":true,"noforce":true,"wikitext":"[[es:Elia Arena]]"}" data-rte-instance="130814-163814787956cca62117c76" href="http://hieloyfuego.wikia.com/wiki/Elia_Arena" class="extiw" title="es:Elia Arena">es:Elia Arena</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"pl:Elia Sand","link":"pl:Elia Sand","wasblank":true,"noforce":true,"wikitext":"[[pl:Elia Sand]]"}" data-rte-instance="130814-163814787956cca62117c76" href="http://graotron.wikia.com/wiki/Elia_Sand" class="extiw" title="pl:Elia Sand">pl:Elia Sand</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u4f0a\u8389\u4e9a\u00b7\u6c99\u5fb7","link":"zh:\u4f0a\u8389\u4e9a\u00b7\u6c99\u5fb7","wasblank":true,"noforce":true,"wikitext":"[[zh:\u4f0a\u8389\u4e9a\u00b7\u6c99\u5fb7]]"}" data-rte-instance="130814-163814787956cca62117c76" href="http://zh.asoiaf.wikia.com/wiki/伊莉亚·沙德" class="extiw" title="zh:伊莉亚·沙德">zh:伊莉亚·沙德</a>
-</p>
-   Loading editor
+title=Elia sand
+|season=4
+|image=
+|Mentioned = \first of his name\
+|titles=
+|Status alive
+|allegiance=House martell
+|family=Oberyn martell - fatherEllaria Sand - motherObara Sand - half-sisterNymeria Sand - half-sisterTyene Sand - sisterSarella Sand - half-sisterObella Sand - sisterDorea Sand - sisterLoreza Sand - sisterDoran Martell - uncleTrystane Martell - first cousinElia Martell - auntRhaegar Targaryen - uncle by marriageRhaenys Targaryen - first cousinAegon Targaryen - first cousinLewyn Martell - great-uncle
+|Actor = 
+|Culture = Dornishmen}}}
+
+ Ellaria Sand - mother 
+Obara Sand - half-sister 
+Nymeria Sand - half-sister 
+Tyene Sand - sister 
+Sarella Sand - half-sister 
+Obella Sand - sister 
+Dorea Sand - sister 
+Loreza Sand - sister 
+Doran Martell - uncle 
+Trystane Martell - first cousin 
+Elia Martell - aunt 
+Rhaegar Targaryen - uncle by marriage 
+Rhaenys Targaryen - first cousin 
+Aegon Targaryen - first cousin 
+Lewyn Martell - great-uncle
+|Actor = 
+|Culture  Dornishmen} data-rte-instance130814-163814787956cca62117c76 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Elia Sand is an unseen character in the fourth season. She is first mentioned in First of His Name. Biography 
+
+ Background 
+
+Elia Sand is the fifth of the eight bastard daughters of Prince Oberyn Martell, known as the Sand Snakes. Her mother is Oberyn's paramour, Ellaria Sand. She was named after her aunt, the late Princess Elia Martell. Season 4 
+
+Oberyn writes a poem to Elia and mentions her willful behavior to Queen Cersei Lannister. He explains that he named her after his murdered sister, but this ended up making him sad when he talks to her, which in turn leads to him being angry around her. Cersei, in a rare moment of genuine motherly insight, suggests that this may be the cause of her behavior.\First of His Name\\/ref} data-rte-instance130814-163814787956cca62117c76 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family Tree 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Elia Sand is described as wearing her black hair in a braid and having her father's eyes. She's fond of horses and jousting, for which she often smells like a horse to her mother's despair. Her weapon of choice is the lance, for which she's dubbed Lady Lance. Her mother affectionately refers to her as El. See also (MAJOR spoilers from the books) References 
+
+ 
+
+es:Elia Arena pl:Elia Sand zh:伊莉亚·沙德  Loading editor

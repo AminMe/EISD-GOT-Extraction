@@ -1,20 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Stark-Main-Shield.PNG\n|link = House Stark\n}}"}" data-rte-instance="130814-148166237556cca725a4058" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Heward\n| Image=Heward-and-Wyl.jpg\n| Season=[[Season 1|1]]\n| First=\"[[The Wolf and the Lion]]\"\n| Mentioned=\n| Status=[[:Category:Status: Dead|Deceased]]\n| Titles=\n| Death=Killed by Lannister guardsmen\n|DeathEp = \"[[The Wolf and the Lion]]\"\n| Place=[[Winterfell]]\n| Allegiance=[[House Stark]]\n| Family= \n| Actor=\n}}"}" data-rte-instance="130814-148166237556cca725a4058" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Dialogue a-b-a","placeholder":1,"wikitext":"{{Dialogue a-b-a|Eddard Stark|Who are your best two swords?|Jory Cassel|Heward and Wyl.|Find them, and meet me at the stables.|Eddard Stark and [[Jory Cassel]]|You Win or You Die}}"}" data-rte-instance="130814-148166237556cca725a4058" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Heward</b> is a character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-148166237556cca725a4058" href="/wiki/Season_1" title="Season 1">first season</a>. He is a guardsman sworn to <a data-rte-meta="{"type":"internal","text":"House Stark","link":"House Stark","wasblank":true,"noforce":true,"wikitext":"[[House Stark]]"}" data-rte-instance="130814-148166237556cca725a4058" href="/wiki/House_Stark" title="House Stark">House Stark</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-148166237556cca725a4058" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">Heward travels south with Lord <a data-rte-meta="{"type":"internal","text":"Eddard Stark","link":"Eddard Stark","wasblank":true,"noforce":true,"wikitext":"[[Eddard Stark]]"}" data-rte-instance="130814-148166237556cca725a4058" href="/wiki/Eddard_Stark" title="Eddard Stark">Eddard Stark</a> when the latter is appointed <a data-rte-meta="{"type":"internal","text":"Hand of the King","link":"Hand of the King","wasblank":true,"noforce":true,"wikitext":"[[Hand of the King]]"}" data-rte-instance="130814-148166237556cca725a4058" href="/wiki/Hand_of_the_King" title="Hand of the King">Hand of the King</a>. He accompanies Lord Stark to one of <a data-rte-meta="{"type":"internal","text":"Petyr Baelish","link":"Petyr Baelish","wasblank":true,"noforce":true,"wikitext":"[[Petyr Baelish]]"}" data-rte-instance="130814-148166237556cca725a4058" href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish</a>'s brothels, and is killed by Lannister guardsmen on the orders of <a data-rte-meta="{"type":"internal","text":"Ser","link":"Ser","wasblank":true,"noforce":true,"wikitext":"[[Ser]]"}" data-rte-instance="130814-148166237556cca725a4058" href="/wiki/Ser" title="Ser" class="mw-redirect">Ser</a> <a data-rte-meta="{"type":"internal","text":"Jaime","link":"Jaime","wasblank":true,"noforce":true,"wikitext":"[[Jaime]]"}" data-rte-instance="130814-148166237556cca725a4058" href="/wiki/Jaime" title="Jaime" class="mw-redirect">Jaime</a> .<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Wolf and the Lion]]\"<\/ref>"}" data-rte-instance="130814-148166237556cca725a4058" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-148166237556cca725a4058" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Heward is also a guardsman sworn to House Stark. He is killed by the same manner as in the show.
-</p>
-<h2>See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-148166237556cca725a4058" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-148166237556cca725a4058" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Stark navbox","placeholder":1,"wikitext":"{{Stark navbox}}"}" data-rte-instance="130814-148166237556cca725a4058" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Heward
+| image=Heward-and-Wyl.jpg
+| season=1
+| first=\The wolf and the lion\
+| mentioned=
+| status=deceased
+| titles=
+| death=Killed by lannister guardsmen
+|deathep\The place[[Winterfell
+| allegiance=House stark
+| family=
+| actor=
+}}}
+
+ 
+
+ 
+
+Heward is a character in the first season. He is a guardsman sworn to House Stark. Biography 
+
+ Season 1 
+
+Heward travels south with Lord Eddard Stark when the latter is appointed Hand of the King. He accompanies Lord Stark to one of Petyr Baelish's brothels, and is killed by Lannister guardsmen on the orders of Ser Jaime .\The Wolf and the Lion\\/ref} data-rte-instance130814-148166237556cca725a4058 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, Heward is also a guardsman sworn to House Stark. He is killed by the same manner as in the show. See also References 
+
+  Loading editor

@@ -1,24 +1,32 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Sally\n|Image = Sally.png\n|Season = [[Season 4|4]]\n|Appearances = \"[[Breaker of Chains]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = \n|Religion = [[Faith of the Seven]]\n|Family = [[Farmer]] - Father\n|Actor = [[Trixiebelle Harrowell]]\n}}"}" data-rte-instance="130814-131419858156cca70f15377" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Quote","placeholder":1,"wikitext":"{{Quote|Sally here makes rabbit stew just like her mom used to do.|The farmer to [[Sandor Clegane]] and [[Arya Stark]]|Breaker of Chains}}"}" data-rte-instance="130814-131419858156cca70f15377" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Sally</b>​ is an minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/Season_4" title="Season 4">fourth season</a>. She is played by guest star <a data-rte-meta="{"type":"internal","text":"Trixiebelle Harrowell","link":"Trixiebelle Harrowell","wasblank":true,"noforce":true,"wikitext":"[[Trixiebelle Harrowell]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/Trixiebelle_Harrowell" title="Trixiebelle Harrowell">Trixiebelle Harrowell</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"Breaker of Chains","link":"Breaker of Chains","wasblank":true,"noforce":true,"wikitext":"[[Breaker of Chains]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/Breaker_of_Chains" title="Breaker of Chains">Breaker of Chains</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">She lives near <a data-rte-meta="{"type":"internal","text":"Fairmarket","link":"Fairmarket","wasblank":true,"noforce":true,"wikitext":"[[Fairmarket]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/Fairmarket" title="Fairmarket">Fairmarket</a> with her <a data-rte-meta="{"type":"internal","text":"father","link":"Farmer","wasblank":false,"noforce":true,"wikitext":"[[Farmer|father]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/Farmer" title="Farmer">father</a>. Her mother died some time ago. She also has an uncle in <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/The_North" title="The North">the North</a>. According to her father, she makes an excellent rabbit stew.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">Sally and her father find Sandor Clegane and Arya Stark on their land, and give them shelter when Arya tells them that they fought for House Tully. The farmer offers Sandor fair pay to assist with farmwork and drive off raiders. Sandor agrees to this, however the next day he overpowers the farmer and steals his silver. Arya criticizes Sandor for this, but Sandor replies that the farmer is weak and that he and Sally will both be dead when winter comes.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Breaker of Chains]]\"<\/ref>"}" data-rte-instance="130814-131419858156cca70f15377" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1">Appearance</h3>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Four Appearances","placeholder":1,"wikitext":"{{Template:Season Four Appearances|||yes}}"}" data-rte-instance="130814-131419858156cca70f15377" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">​In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no character parallel to Sally. Arya and the Hound do not take shelter with any peasant on their way to the <a data-rte-meta="{"type":"internal","text":"Vale of Arryn","link":"Vale of Arryn","wasblank":true,"noforce":true,"wikitext":"[[Vale of Arryn]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/Vale_of_Arryn" title="Vale of Arryn" class="mw-redirect">Vale of Arryn</a>.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">In the book, while Arya and the Hound are on their way to the Vale, they come to a small village in the foothall of the <a data-rte-meta="{"type":"internal","text":"Mountains of the Moon","link":"Mountains of the Moon","wasblank":true,"noforce":true,"wikitext":"[[Mountains of the Moon]]"}" data-rte-instance="130814-131419858156cca70f15377" href="/wiki/Mountains_of_the_Moon" title="Mountains of the Moon">Mountains of the Moon</a>. The Hound decides to stay there for a while. The villagers need help to build a wooden palisade around their homes, and they offer the Hound and Arya food and shelter and money for work. The Hound agrees, on condition that he gets wine as well. They stay in the village for several weeks. The Hound works at day, and drinks himself to sleep each night.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Arya finds the village quiet and boring. The villagers think she is the Hound's daughter, and she is too tired to correct them. She stays distant from the villagers. The village elder's daughter follows Arya everywhere, much to Arya's annoyance, though she keeps telling the girl to leave her alone. Finally Arya takes the girl's doll and tears it apart, then the girl stops pestering her. Sally is perhaps loosely based on that girl.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">When the work is done, the village elder tells them they must leave, because the villagers do not have enough food for strangers when winter comes, and a man like the Hound brings blood. The Hound accepts that without taking any violent action against the villagers. As a payment he receives a pouch full of coppers, a skin of sour ale and a new sword, then he and Arya leave.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-131419858156cca70f15377" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u0430\u043b\u043b\u0438","link":"ru:\u0421\u0430\u043b\u043b\u0438","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u0430\u043b\u043b\u0438]]"}" data-rte-instance="130814-131419858156cca70f15377" href="http://ru.gameofthrones.wikia.com/wiki/Салли" class="extiw" title="ru:Салли">ru:Салли</a>
-</p>
-   Loading editor
+title=Sally
+|Image = sally.png
+|season=4
+|appearances=\Breaker of chains\
+|status=alive
+|allegiance=
+|Religion faith the seven
+|family=Farmer - father
+|actor=Trixiebelle harrowell
+}}}
+
+ Sally​ is an minor character in the fourth season. She is played by guest star Trixiebelle Harrowell and only appears in Breaker of Chains. Biography 
+
+ Background 
+
+She lives near Fairmarket with her father. Her mother died some time ago. She also has an uncle in the North. According to her father, she makes an excellent rabbit stew. Season 4 
+
+Sally and her father find Sandor Clegane and Arya Stark on their land, and give them shelter when Arya tells them that they fought for House Tully. The farmer offers Sandor fair pay to assist with farmwork and drive off raiders. Sandor agrees to this, however the next day he overpowers the farmer and steals his silver. Arya criticizes Sandor for this, but Sandor replies that the farmer is weak and that he and Sally will both be dead when winter comes.\Breaker of Chains\\/ref} data-rte-instance130814-131419858156cca70f15377 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ ​In the books 
+
+Inthe A Song of Ice and Fire novels, there is no character parallel to Sally. Arya and the Hound do not take shelter with any peasant on their way to the Vale of Arryn. 
+
+In the book, while Arya and the Hound are on their way to the Vale, they come to a small village in the foothall of theMountains of the Moon. The Hound decides to stay there for a while. The villagers need help to build a wooden palisade around their homes, and they offer the Hound and Arya food and shelter and money for work. The Hound agrees, on condition that he gets wine as well. They stay in the village for several weeks. The Hound works at day, and drinks himself to sleep each night. 
+
+Arya finds the village quiet and boring. The villagers think she is the Hound's daughter, and she is too tired to correct them. She stays distant from the villagers. The village elder's daughter follows Arya everywhere, much to Arya's annoyance, though she keeps telling the girl to leave her alone. Finally Arya takes the girl's doll and tears it apart, then the girl stops pestering her. Sally is perhaps loosely based on that girl. 
+
+When the work is done, the village elder tells them they must leave, because the villagers do not have enough food for strangers when winter comes, and a man like the Hound brings blood. The Hound accepts that without taking any violent action against the villagers. As a payment he receives a pouch full of coppers, a skin of sour ale and a new sword, then he and Arya leave. References 
+
+ 
+
+ru:Салли  Loading editor

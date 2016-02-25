@@ -1,12 +1,12 @@
-<p data-rte-fromparser="true">The <b>​House of Qaggaz</b> is one of the noble <a data-rte-meta="{"type":"internal","text":"slaver","link":"Slavery","wasblank":false,"noforce":true,"wikitext":"[[Slavery|slaver]]"}" data-rte-instance="130814-137250330256cca9b0017d9" href="/wiki/Slavery" title="Slavery">slaver</a> families from the city of <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-137250330256cca9b0017d9" href="/wiki/Meereen" title="Meereen">Meereen</a>. They continue to secretly practice slavery in the area outside Meereen despite the fact that it is abolished.
-</p>
-<h2 data-rte-empty-lines-before="1">Known members</h2>
-<ul><li data-rte-spaces-before="1"><a data-rte-meta="{"type":"internal","text":"Yezzan zo Qaggaz","link":"Yezzan zo Qaggaz","wasblank":true,"noforce":true,"wikitext":"[[Yezzan zo Qaggaz]]"}" data-rte-instance="130814-137250330256cca9b0017d9" href="/wiki/Yezzan_zo_Qaggaz" title="Yezzan zo Qaggaz">Yezzan zo Qaggaz</a>
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i>A Song of ice and Fire</i> novels the House of Qaggaz is one of the most powerful families of <a data-rte-meta="{"type":"internal","text":"Yunkai","link":"Yunkai","wasblank":true,"noforce":true,"wikitext":"[[Yunkai]]"}" data-rte-instance="130814-137250330256cca9b0017d9" href="/wiki/Yunkai" title="Yunkai">Yunkai</a>. The known members of the family are Yezzan zo Qaggaz and his four nephews, and his heirs, one of which is killed by either the <a data-rte-meta="{"type":"internal","text":"Second Sons","link":"Second Sons (mercenary company)","wasblank":false,"noforce":true,"wikitext":"[[Second Sons (mercenary company)|Second Sons]]"}" data-rte-instance="130814-137250330256cca9b0017d9" href="/wiki/Second_Sons_(mercenary_company)" title="Second Sons (mercenary company)" class="mw-redirect">Second Sons</a> or the <a data-rte-meta="{"type":"internal","text":"Stormcrows","link":"Stormcrows","wasblank":true,"noforce":true,"wikitext":"[[Stormcrows]]"}" data-rte-instance="130814-137250330256cca9b0017d9" href="/wiki/Stormcrows" title="Stormcrows">Stormcrows</a> when the Yunkish forces march on Meereen.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-137250330256cca9b0017d9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+The&nbsp;​House&nbsp;of Qaggaz is one of the noble&nbsp;slaver families from the city of Meereen. They continue to secretly practice slavery in the area outside Meereen despite the fact that it is abolished.
+
+Known members
+Yezzan zo Qaggaz
+
+In the books
+In the A Song of ice and Fire novels the House of Qaggaz is one of the most powerful families of Yunkai. The known members of the family are Yezzan zo Qaggaz and his four nephews, and his heirs, one of which is killed by either the Second Sons or the Stormcrows when the Yunkish forces march on Meereen.
+
+References
+
+
+ &nbsp; Loading editor

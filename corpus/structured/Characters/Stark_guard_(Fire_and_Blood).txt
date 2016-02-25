@@ -1,19 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Stark-Main-Shield.PNG\n|link = House Stark\n}}"}" data-rte-instance="130814-86087796756cca83d6e42d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<dl><dd><i>For other articles see <a data-rte-meta="{"type":"internal","text":"Stark guard","link":"Stark guard","wasblank":true,"noforce":true,"wikitext":"[[Stark guard]]"}" data-rte-instance="130814-86087796756cca83d6e42d" href="/wiki/Stark_guard" title="Stark guard">Stark guard</a>.</i>
-</dd></dl>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title =Stark guard\n|Season = [[Season 1|1]]\n|Image=Stark guard (Fire and Blood).jpg\n|Appearances = \"[[Fire and Blood]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[House Stark]]\n|Actor = [[Faolan Morgan]]}}"}" data-rte-instance="130814-86087796756cca83d6e42d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Stark guard</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-86087796756cca83d6e42d" href="/wiki/Season_1" title="Season 1">first season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Faolan Morgan","link":"Faolan Morgan","wasblank":true,"noforce":true,"wikitext":"[[Faolan Morgan]]"}" data-rte-instance="130814-86087796756cca83d6e42d" href="/wiki/Faolan_Morgan" title="Faolan Morgan">Faolan Morgan</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"Fire and Blood","link":"Fire and Blood","wasblank":true,"noforce":true,"wikitext":"[[Fire and Blood]]"}" data-rte-instance="130814-86087796756cca83d6e42d" href="/wiki/Fire_and_Blood" title="Fire and Blood">Fire and Blood</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-86087796756cca83d6e42d" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">He shows <a data-rte-meta="{"type":"internal","text":"Catelyn Stark","link":"Catelyn Stark","wasblank":true,"noforce":true,"wikitext":"[[Catelyn Stark]]"}" data-rte-instance="130814-86087796756cca83d6e42d" href="/wiki/Catelyn_Stark" title="Catelyn Stark">Catelyn Stark</a> to <a data-rte-meta="{"type":"internal","text":"Jaime Lannister","link":"Jaime Lannister","wasblank":true,"noforce":true,"wikitext":"[[Jaime Lannister]]"}" data-rte-instance="130814-86087796756cca83d6e42d" href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a>'s cell in the Stark camp.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Fire and Blood]]\"<\/ref>"}" data-rte-instance="130814-86087796756cca83d6e42d" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|8=||||||||||yes}}"}" data-rte-instance="130814-86087796756cca83d6e42d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-86087796756cca83d6e42d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u043a \u0421\u0442\u0430\u0440\u043a\u043e\u0432 (\u041f\u043b\u0430\u043c\u044f \u0438 \u043a\u0440\u043e\u0432\u044c)","link":"ru:\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u043a \u0421\u0442\u0430\u0440\u043a\u043e\u0432 (\u041f\u043b\u0430\u043c\u044f \u0438 \u043a\u0440\u043e\u0432\u044c)","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0421\u0442\u0440\u0430\u0436\u043d\u0438\u043a \u0421\u0442\u0430\u0440\u043a\u043e\u0432 (\u041f\u043b\u0430\u043c\u044f \u0438 \u043a\u0440\u043e\u0432\u044c)]]"}" data-rte-instance="130814-86087796756cca83d6e42d" href="http://ru.gameofthrones.wikia.com/wiki/Стражник_Старков_(Пламя_и_кровь)" class="extiw" title="ru:Стражник Старков (Пламя и кровь)">ru:Стражник Старков (Пламя и кровь)</a>
-</p>
-   Loading editor
+title=Stark guard
+|season=1
+|image=Stark guard (fire and blood).jpg
+|appearances=\Fire blood\
+|status=alive
+|allegiance=House stark
+|actor=Faolan morgan}}}
+
+ For other articles see Stark guard. 
+
+ 
+
+A Stark guard is an unnamed minor character in the first season. He is played by guest star Faolan Morgan and only appears in Fire and Blood. Biography 
+
+ Season 1 
+
+He shows Catelyn Stark to Jaime Lannister's cell in the Stark camp.\Fire and Blood\\/ref} data-rte-instance130814-86087796756cca83d6e42d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ References 
+
+ 
+
+ru:Стражник Старков (Пламя и кровь)  Loading editor

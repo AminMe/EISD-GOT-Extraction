@@ -1,30 +1,45 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|leftimage=House-Whent-Shield-Icon.PNG\n|rightimage=House-Tully-Main-Shield.PNG\n|leftlink=House Whent\n|rightlink=House Tully}}"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title= Minisa Tully \n| Image=Minisa Tully.png\n| Season=[[Season 2|2]]\n| First=\n| Last=\n| Mentioned=\"[[The Ghost of Harrenhal]]\"\n| Aka=\n| Status=[[:Category:Status: Dead|Deceased]]\n| Death= Died in childbirth\n| Place=[[Harrenhal]]\n| Allegiance=[[House Tully]] - by marriage<br>[[House Whent]] - by birth\n| Family= {[[Hoster Tully]]} - husband<br>{[[Catelyn Stark]]} - daughter<br>{[[Lysa Arryn]]} - daughter<br>[[Edmure Tully]] - son<br>[[Brynden Tully]] - brother-in-law<br>{[[Eddard Stark]]} - son-in-law<br>{[[Jon Arryn]]} - son-in-law<br>[[Petyr Baelish]] - son-in-law<br>[[Roslin Frey]] - daughter-in-law<br>{[[Robb Stark]]} - grandson<br>[[Sansa Stark]] - granddaughter<br>[[Arya Stark]] - granddaughter<br>[[Bran Stark]] - grandson<br>[[Rickon Stark]] - grandson<br>[[Robin Arryn]] - grandson\n| Actor=}}"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|My own mother died on the birthing bed when I was very young.|[[Catelyn Stark]]|The Ghost of Harrenhal}}"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Minisa Tully</b>, née <b>Whent</b>, is an unseen character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Game_of_Thrones" title="Game of Thrones" class="mw-redirect">Game of Thrones</a></i>. She was the mother of <a data-rte-meta="{"type":"internal","text":"Catelyn Stark","link":"Catelyn Stark","wasblank":true,"noforce":true,"wikitext":"[[Catelyn Stark]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Catelyn_Stark" title="Catelyn Stark">Catelyn Stark</a>, <a data-rte-meta="{"type":"internal","text":"Lysa Arryn","link":"Lysa Arryn","wasblank":true,"noforce":true,"wikitext":"[[Lysa Arryn]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Lysa_Arryn" title="Lysa Arryn">Lysa Arryn</a> and <a data-rte-meta="{"type":"internal","text":"Edmure Tully","link":"Edmure Tully","wasblank":true,"noforce":true,"wikitext":"[[Edmure Tully]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Edmure_Tully" title="Edmure Tully">Edmure Tully</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Minisa was born into <a data-rte-meta="{"type":"internal","text":"House Whent","link":"House Whent","wasblank":true,"noforce":true,"wikitext":"[[House Whent]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/House_Whent" title="House Whent">House Whent</a> and married <a data-rte-meta="{"type":"internal","text":"Hoster Tully","link":"Hoster Tully","wasblank":true,"noforce":true,"wikitext":"[[Hoster Tully]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Hoster_Tully" title="Hoster Tully">Hoster Tully</a>, the head of <a data-rte-meta="{"type":"internal","text":"House Tully","link":"House Tully","wasblank":true,"noforce":true,"wikitext":"[[House Tully]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/House_Tully" title="House Tully">House Tully</a> and <a data-rte-meta="{"type":"internal","text":"Lord of Riverrun","link":"Lord of Riverrun","wasblank":true,"noforce":true,"wikitext":"[[Lord of Riverrun]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Lord_of_Riverrun" title="Lord of Riverrun">Lord of Riverrun</a>. They had two daughters, <a data-rte-meta="{"type":"internal","text":"Catleyn","link":"Catelyn Stark","wasblank":false,"noforce":true,"wikitext":"[[Catelyn Stark|Catleyn]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Catelyn_Stark" title="Catelyn Stark">Catleyn</a> and <a data-rte-meta="{"type":"internal","text":"Lysa","link":"Lysa Arryn","wasblank":false,"noforce":true,"wikitext":"[[Lysa Arryn|Lysa]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Lysa_Arryn" title="Lysa Arryn">Lysa</a>, and a son and heir, <a data-rte-meta="{"type":"internal","text":"Edmure","link":"Edmure Tully","wasblank":false,"noforce":true,"wikitext":"[[Edmure Tully|Edmure]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Edmure_Tully" title="Edmure Tully">Edmure</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref name=\"House Tully viewers guide\">[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/tully\/ HBO viewers guide, season 2 guide to houses, House Tully entry]<\/ref>"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">When <a data-rte-meta="{"type":"internal","text":"Brienne of Tarth","link":"Brienne of Tarth","wasblank":true,"noforce":true,"wikitext":"[[Brienne of Tarth]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/Brienne_of_Tarth" title="Brienne of Tarth">Brienne of Tarth</a> mentions she never knew her mother, Catelyn sympathizes and tells her own mother died in childbirth when Catelyn was still a young girl.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[[The Ghost of Harrenhal]]<\/ref>"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Family tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Tully family tree","placeholder":1,"wikitext":"{{House Tully family tree}}"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Lady Minisa Whent bore Hoster Tully two daughters (Catelyn and Lysa) and four sons, but of these only Edmure survived (Edmure was not her youngest son). Minisa died giving birth to her fourth and youngest son, who also perished, and afterwards Catelyn feels that some of the life has gone out of Lord Hoster as well. Catelyn recalls her mother was always calm as well as having a warm smile and soft hands. Catelyn wonders how their lives would have been different if her mother had not died.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Minisa Whent}}"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Tully navbox","placeholder":1,"wikitext":"{{Tully navbox}}"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Tully, Minisa","placeholder":1,"wikitext":"{{DEFAULTSORT:Tully, Minisa}}"}" data-rte-instance="130814-195331543056cca6e5be30d" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Minisa Tully","link":"de:Minisa Tully","wasblank":true,"noforce":true,"wikitext":"[[de:Minisa Tully]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="http://de.gameofthrones.wikia.com/wiki/Minisa_Tully" class="extiw" title="de:Minisa Tully">de:Minisa Tully</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"pl:Minisa Whent","link":"pl:Minisa Whent","wasblank":true,"noforce":true,"wikitext":"[[pl:Minisa Whent]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="http://graotron.wikia.com/wiki/Minisa_Whent" class="extiw" title="pl:Minisa Whent">pl:Minisa Whent</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u041c\u0438\u043d\u0438\u0441\u0430 \u0422\u0430\u043b\u043b\u0438","link":"ru:\u041c\u0438\u043d\u0438\u0441\u0430 \u0422\u0430\u043b\u043b\u0438","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041c\u0438\u043d\u0438\u0441\u0430 \u0422\u0430\u043b\u043b\u0438]]"}" data-rte-instance="130814-195331543056cca6e5be30d" href="http://ru.gameofthrones.wikia.com/wiki/Миниса_Талли" class="extiw" title="ru:Миниса Талли">ru:Миниса Талли</a>
-</p>
-   Loading editor
+title=Minisa tully 
+| image=Minisa tully.png
+| season=2
+| first=
+| last=
+| mentioned=\The ghost of harrenhal\
+| aka=
+| status=deceased
+| death=Died in childbirth
+| place=Harrenhal
+| allegiance=House tully - by marriageHouse Whent - by birth
+| Family= Hoster Tully - husbandCatelyn Stark - daughterLysa Arryn - daughterEdmure Tully - sonBrynden Tully - brother-in-lawEddard Stark - son-in-lawJon Arryn - son-in-lawPetyr Baelish - son-in-lawRoslin Frey - daughter-in-lawRobb Stark - grandsonSansa Stark - granddaughterArya Stark - granddaughterBran Stark - grandsonRickon Stark - grandsonRobin Arryn - grandson
+| Actor=}}}
+
+ House Whent - by birth
+| Family= Hoster Tully - husband 
+Catelyn Stark - daughter 
+Lysa Arryn - daughter 
+Edmure Tully - son 
+Brynden Tully - brother-in-law 
+Eddard Stark - son-in-law 
+Jon Arryn - son-in-law 
+Petyr Baelish - son-in-law 
+Roslin Frey - daughter-in-law 
+Robb Stark - grandson 
+Sansa Stark - granddaughter 
+Arya Stark - granddaughter 
+Bran Stark - grandson 
+Rickon Stark - grandson 
+Robin Arryn - grandson
+| Actor}}} data-rte-instance130814-195331543056cca6e5be30d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Minisa Tully, née Whent, is an unseen character in Game of Thrones. She was the mother of Catelyn Stark, Lysa Arryn and Edmure Tully. Biography 
+
+ Background 
+
+Minisa was born into House Whent and married Hoster Tully, the head of House Tully and Lord of Riverrun. They had two daughters, Catleyn and Lysa, and a son and heir, Edmure.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/tully\/ HBO viewers guide, season 2 guide to houses, House Tully entry\/ref} data-rte-instance130814-195331543056cca6e5be30d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 2 
+
+When Brienne of Tarth mentions she never knew her mother, Catelyn sympathizes and tells her own mother died in childbirth when Catelyn was still a young girl.The Ghost of Harrenhal\/ref} data-rte-instance130814-195331543056cca6e5be30d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family tree 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Lady Minisa Whent bore Hoster Tully two daughters (Catelyn and Lysa) and four sons, but of these only Edmure survived (Edmure was not her youngest son). Minisa died giving birth to her fourth and youngest son, who also perished, and afterwards Catelyn feels that some of the life has gone out of Lord Hoster as well. Catelyn recalls her mother was always calm as well as having a warm smile and soft hands. Catelyn wonders how their lives would have been different if her mother had not died. See also References 
+
+ 
+
+de:Minisa Tully pl:Minisa Whent ru:Миниса Талли  Loading editor

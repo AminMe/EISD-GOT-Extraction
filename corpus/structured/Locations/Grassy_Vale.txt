@@ -1,16 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Grassy Vale\n| Image=\n| Image size=\n| Location=[[The Reach]], [[Westeros]]\n| Type=Castle\n| Population=\n| Rulers=\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-151084566556cca8ffe69d6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[Image:Grassy Vale Pin.png|thumb|right|200px|A map showing the location of Grassy Valve on the continent of Westeros.]]","title":"Grassy_Vale_Pin.png","params":{"thumbnail":true,"alt":"Grassy Vale Pin","align":"right","caption":"A map showing the location of Grassy Valve on the continent of Westeros.","width":200,"captionParsed":"A map showing the location of Grassy Valve on the continent of Westeros."}}" data-rte-instance="130814-151084566556cca8ffe69d6" alt="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/1/1e/Grassy_Vale_Pin.png/revision/latest/scale-to-width-down/200?cb=20120429204725" width="200" height="516" class="image thumb alignRight withCaption" data-image-name="Grassy Vale Pin.png" data-image-key="Grassy_Vale_Pin.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Grassy Vale</b> is a castle in <a data-rte-meta="{"type":"internal","text":"the Reach","link":"the Reach","wasblank":true,"noforce":true,"wikitext":"[[the Reach]]"}" data-rte-instance="130814-151084566556cca8ffe69d6" href="/wiki/The_Reach" title="The Reach">the Reach</a>, the region controlled by <a data-rte-meta="{"type":"internal","text":"House Tyrell","link":"House Tyrell","wasblank":true,"noforce":true,"wikitext":"[[House Tyrell]]"}" data-rte-instance="130814-151084566556cca8ffe69d6" href="/wiki/House_Tyrell" title="House Tyrell">House Tyrell</a> of <a data-rte-meta="{"type":"internal","text":"Highgarden","link":"Highgarden","wasblank":true,"noforce":true,"wikitext":"[[Highgarden]]"}" data-rte-instance="130814-151084566556cca8ffe69d6" href="/wiki/Highgarden" title="Highgarden">Highgarden</a>. The castle is located on the <a data-rte-meta="{"type":"internal","text":"Blueburn","link":"Blueburn","wasblank":true,"noforce":true,"wikitext":"[[Blueburn]]"}" data-rte-instance="130814-151084566556cca8ffe69d6" href="/wiki/Blueburn" title="Blueburn">Blueburn</a> river near the border with <a data-rte-meta="{"type":"internal","text":"the Stormlands","link":"the Stormlands","wasblank":true,"noforce":true,"wikitext":"[[the Stormlands]]"}" data-rte-instance="130814-151084566556cca8ffe69d6" href="/wiki/The_Stormlands" title="The Stormlands">the Stormlands</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/highgarden\/ HBO viewers guide, season 1 map, Highgarden entry]<\/ref>"}" data-rte-instance="130814-151084566556cca8ffe69d6" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-151084566556cca8ffe69d6" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Grassy Vale is the seat of House Meadows. Its location is the same.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-151084566556cca8ffe69d6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-151084566556cca8ffe69d6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Reach","placeholder":1,"wikitext":"{{The Reach}}"}" data-rte-instance="130814-151084566556cca8ffe69d6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0422\u0440\u0430\u0432\u044f\u043d\u0430\u044f \u0414\u043e\u043b\u0438\u043d\u0430","link":"ru:\u0422\u0440\u0430\u0432\u044f\u043d\u0430\u044f \u0414\u043e\u043b\u0438\u043d\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0422\u0440\u0430\u0432\u044f\u043d\u0430\u044f \u0414\u043e\u043b\u0438\u043d\u0430]]"}" data-rte-instance="130814-151084566556cca8ffe69d6" href="http://ru.gameofthrones.wikia.com/wiki/Травяная_Долина" class="extiw" title="ru:Травяная Долина">ru:Травяная Долина</a>
-</p>
-   Loading editor
+title=Grassy vale
+| image size=
+| location=The reach, westeros
+| typedouble-brackets population
+| rulers=
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ Grassy Vale is a castle in the Reach, the region controlled by House Tyrell of Highgarden. The castle is located on the Blueburn river near the border with the Stormlands.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/highgarden\/ HBO viewers guide, season 1 map, Highgarden entry\/ref} data-rte-instance130814-151084566556cca8ffe69d6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, Grassy Vale is the seat of House Meadows. Its location is the same. See also References 
+
+ 
+
+ru:Травяная Долина  Loading editor

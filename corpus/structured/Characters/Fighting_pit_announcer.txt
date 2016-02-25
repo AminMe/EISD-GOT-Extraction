@@ -1,13 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Fighting pit announcer\n| Image = FightingPitAnnouncer.PNG\n| Season = [[Season 5|5]]\n| First=\n| Last=\n| Appearances=\"[[The Dance of Dragons]]\"\n| Status= [[:Category:Status: Uncertain|Uncertain]]\n| Titles=\n| Aka=\n| Place = [[Meereen]]\n| Family =\n| Allegiance =[[Great Masters]]\n| Actor =[[Nick Boulton]]|Culture = [[Ghiscari]]\n|Religion = [[Ghiscari religion]]}}"}" data-rte-instance="130814-180816275856cca80d721b8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Free citizens of Meereen! By the blessing of the Graces, and her majesty the Queen, welcome to the Great Games!|'''Fighting pit announcer'''|The Dance of Dragons}}"}" data-rte-instance="130814-180816275856cca80d721b8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->The <b>fighting pit announcer</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-180816275856cca80d721b8" href="/wiki/Season_5" title="Season 5">fifth season</a>. He is played by <a data-rte-meta="{"type":"internal","text":"Nick Boulton","link":"Nick Boulton","wasblank":true,"noforce":true,"wikitext":"[[Nick Boulton]]"}" data-rte-instance="130814-180816275856cca80d721b8" href="/wiki/Nick_Boulton" title="Nick Boulton">Nick Boulton</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"The Dance of Dragons","link":"The Dance of Dragons","wasblank":true,"noforce":true,"wikitext":"[[The Dance of Dragons]]"}" data-rte-instance="130814-180816275856cca80d721b8" href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">This man is a <a data-rte-meta="{"type":"internal","text":"Ghiscari","link":"Ghiscari","wasblank":true,"noforce":true,"wikitext":"[[Ghiscari]]"}" data-rte-instance="130814-180816275856cca80d721b8" href="/wiki/Ghiscari" title="Ghiscari">Ghiscari</a> citizen of <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-180816275856cca80d721b8" href="/wiki/Meereen" title="Meereen">Meereen</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-180816275856cca80d721b8" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-180816275856cca80d721b8" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Fighting pit announcer
+| image=FightingPitAnnouncer.PNG
+| season=5
+| first=
+| last=
+| appearances=\The dance of dragons\
+| status=uncertain
+| titles=
+| aka=
+| place=Meereen
+| family=
+| allegiance=Great masters
+| actorNick boulton|cultureGhiscari
+|Religion = ghiscari religion}}}
+
+ The fighting pit announcer is an unnamed minor character in the fifth season. He is played by Nick Boulton and only appears in The Dance of Dragons. Biography 
+
+ Background 
+
+This man is a Ghiscari citizen of Meereen. Season 5 
+
+ References 
+
+  Loading editor

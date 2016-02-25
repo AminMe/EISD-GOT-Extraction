@@ -7,116 +7,116 @@
 | Title=The North
 | Image=The North.png
 | Image size=
-| Location=[[Westeros]]
-| Formerly=Independent [[Kingdom of the North]]
-| Type=Administrative region of the [[Seven Kingdoms]]
-| Geography=Rivers and plains, with forests and mountains in the northwest; temperate to sub-arctic.<br>Swamps in [[the Neck]] along southern border.
-| Population=[[Northmen]] <br>[[Crannogmen]] in [[the Neck]]
-| Rulers=[[House Bolton]] (formerly [[House Stark]]) (contested)
-| Religion=[[Old Gods of the Forest]] (majority)<br/>[[Faith of the Seven]] (minority)
-| Culture=[[First Men]] (majority)<br/>[[Andal]] (small minority)
+| Location=Westeros
+| Formerly=Independent Kingdom of the North
+| Type=Administrative region of the Seven Kingdoms
+| Geography=Rivers and plains, with forests and mountains in the northwest; temperate to sub-arctic.Swamps in the Neck along southern border.
+| Population=Northmen Crannogmen in the Neck
+| Rulers=House Bolton (formerly House Stark) (contested)
+| Religion=Old Gods of the Forest (majority)Faith of the Seven (minority)
+| Culture=First Men (majority)Andal (small minority)
 | Military=
-| Regional capital=[[Winterfell]] (currently) <br>[[The Dreadfort]] (currently)
-| Cities=[[White Harbor]]
-| Towns=[[Barrowton]]
+| Regional capital=Winterfell (currently) The Dreadfort (currently)
+| Cities=White Harbor
+| Towns=Barrowton
 | Villages=
-| Castles=[[Castle Cerwyn]] • [[Deepwood Motte]]  • [[Flint's Finger]] • [[Greywater Watch]] • [[Highpoint]] • [[Hornwood]] • [[Ironrath]] • [[Karhold]] • [[Last Hearth]] • [[Moat Cailin]] • [[Oldcastle]] • [[Queenscrown]] • [[Ramsgate]] • [[Rillwater Crossing]] • [[The Dreadfort]] * [[Torrhen's Square]] • [[Widow's Watch]] 
-| Capital=[[Winterfell]]
-| Places=[[Barrowlands]] • [[Bay of Ice]] • [[Bay of Seals]] • [[Bear Island]] • [[The Bite]] • [[Blazewater Bay]] • [[Broken Branch]] • [[Cape Kraken]] • [[The Gift]] • [[The Grey Cliffs]] • [[Ironman's Bay]] • [[Last River]] • [[Long Lake]] • [[The Neck]] • [[The Rills]] • [[Sea Dragon Point]] • [[Skagos]] • [[Skane]] • [[Stony Shore]] • [[The Wall]] • [[Weeping Water]] • [[White Knife]] • [[Wolfswood]]
+| Castles=Castle Cerwyn • Deepwood Motte  • Flint's Finger • Greywater Watch • Highpoint • Hornwood • Ironrath • Karhold • Last Hearth • Moat Cailin • Oldcastle • Queenscrown • Ramsgate • Rillwater Crossing • The Dreadfort * Torrhen's Square • Widow's Watch 
+| Capital=Winterfell
+| Places=Barrowlands • Bay of Ice • Bay of Seals • Bear Island • The Bite • Blazewater Bay • Broken Branch • Cape Kraken • The Gift • The Grey Cliffs • Ironman's Bay • Last River • Long Lake • The Neck • The Rills • Sea Dragon Point • Skagos • Skane • Stony Shore • The Wall • Weeping Water • White Knife • Wolfswood
 | Founding=
 | Age=
 | Founder=
 }}
 
-{{Quote|Ride 700 miles that way, you're still in the North. 400 miles that way. 300 miles that way. The North is larger than the other six kingdoms combined. And I am the Warden of the North. The North is <u>mine</u>.|[[Roose Bolton|Roose]] to [[Ramsay Bolton]]|The Mountain and the Viper}}
+Quote|Ride 700 miles that way, you're still in the North. 400 miles that way. 300 miles that way. The North is larger than the other six kingdoms combined. And I am the Warden of the North. The North is mine.|Roose to Ramsay Bolton|The Mountain and the Viper
 
-[[Image:Distant Winterfell.jpg|thumb|right|250px|Travelers in the North, with the castle of Winterfell in the distance.]]
-[[Image:North.PNG|thumb|right|200px|Map of the continent of Westeros, marking the location of the North in red.]]
+thumb|right|250px|Travelers in the North, with the castle of Winterfell in the distance.
+thumb|right|200px|Map of the continent of Westeros, marking the location of the North in red.
 
-'''The North''' is one of the constituent regions of the [[Seven Kingdoms]], and was formerly a sovereign nation known as the [[Kingdom of the North]] before the [[Targaryen]] conquest.
+The North is one of the constituent regions of the Seven Kingdoms, and was formerly a sovereign nation known as the Kingdom of the North before the Targaryen conquest.
 
-The North is ruled from the castle of [[Winterfell]] by [[House Bolton]] following the fall of [[House Stark]] during the [[War of the Five Kings]]. It is the largest of the nine major regions of the continent, almost equal in size to the other eight combined. <!--I have commented this out because it has been challenged and a source asked for: "However, due to its harsh climate it has one of the smallest populations of any major region in the Seven Kingdoms, and is the most sparsely populated." It should not be restored to the article without adding a source. [[User:Opark 77]]--> 
+The North is ruled from the castle of Winterfell by House Bolton following the fall of House Stark during the War of the Five Kings. It is the largest of the nine major regions of the continent, almost equal in size to the other eight combined.  
 
-According to legend, the [[Kingdom of the North]] was established eight thousand years ago by [[Brandon Stark (the Builder)|Bran the Builder]], the founder of House Stark, who constructed [[the Wall]] as a shield against the possible return of the [[White Walkers]].  The North is the only region where the [[First Men]] were able to resist the [[Andal Invasion]], six thousand years before the [[War of the Five Kings]].  As a result the North is the only region of Westeros in which the [[Northerner|ethnic]] makeup is predominantly First Men, and the only region where the culture, customs, and traditions of the First Men still predominate. Among these is the belief that the man who passes the sentence of death must swing the sword himself.  In particular, the religion of the First Men, the worship of the [[Old Gods of the Forest]], is still the dominant faith in the North. The [[Faith of the Seven]] introduced into southern Westeros by the [[Andals]] has found little foothold in the North. As a result, warriors from the North are not "knights", because "[[knighthood]]" is a code of values associated with the Faith of the Seven.  However, mounted warriors are still an honored and esteemed military asset in the North, so that while northmen like [[Eddard Stark|Ned Stark]] may not carry the title "Ser", Northern cavalry are functionally equivalent to mounted knights.  
+According to legend, the Kingdom of the North was established eight thousand years ago by Bran the Builder, the founder of House Stark, who constructed the Wall as a shield against the possible return of the White Walkers.  The North is the only region where the First Men were able to resist the Andal Invasion, six thousand years before the War of the Five Kings.  As a result the North is the only region of Westeros in which the ethnic makeup is predominantly First Men, and the only region where the culture, customs, and traditions of the First Men still predominate. Among these is the belief that the man who passes the sentence of death must swing the sword himself.  In particular, the religion of the First Men, the worship of the Old Gods of the Forest, is still the dominant faith in the North. The Faith of the Seven introduced into southern Westeros by the Andals has found little foothold in the North. As a result, warriors from the North are not knights, because knighthood is a code of values associated with the Faith of the Seven.  However, mounted warriors are still an honored and esteemed military asset in the North, so that while northmen like Ned Stark may not carry the title Ser, Northern cavalry are functionally equivalent to mounted knights.  
 
-[[Bastardy|Bastards]] born in the North are given the surname '''Snow'''. People of the North are known as '''[[Northmen]]''' (or Northerners), and, derogatorily as '''wolves''', in reference to the sigil of House Stark.
+Bastards born in the North are given the surname Snow. People of the North are known as Northmen (or Northerners), and, derogatorily as wolves, in reference to the sigil of House Stark.
 
-==Geography==
+Geography
 
-The borders of the North are held to be the sea to the west and east, [[the Wall]] to the north and the hills and bogs of [[the Neck]] to the south. [[Greywater Watch]] and its ruling house, [[House Reed]], are the southern-most noble family owing fealty to Winterfell.
+The borders of the North are held to be the sea to the west and east, the Wall to the north and the hills and bogs of the Neck to the south. Greywater Watch and its ruling house, House Reed, are the southern-most noble family owing fealty to Winterfell.
 
-The climate of the North, though harsh overall, varies from cool (maritime) temperate around the Neck, to cold temperate around Winterfell, and to subarctic at the Wall. The lands south of Winterfell leading to the Neck are almost as fertile as [[the Riverlands]] to the south, and are the most agriculturally productive region of the North.  The Neck itself is filled with swamps.  Snowfall generally increases as one moves north along the [[Kingsroad]].
+The climate of the North, though harsh overall, varies from cool (maritime) temperate around the Neck, to cold temperate around Winterfell, and to subarctic at the Wall. The lands south of Winterfell leading to the Neck are almost as fertile as the Riverlands to the south, and are the most agriculturally productive region of the North.  The Neck itself is filled with swamps.  Snowfall generally increases as one moves north along the Kingsroad.
 
-===Castles===
-* [[File:Bolton shield icon.png|30px]] [[Winterfell]], the ancient seat of [[House Stark]], capital of the North, the new seat of House Bolton.
-** [[File:Mormont mini shield.png|30px]] [[Bear Island]], the seat of [[House Mormont]].
-** [[File:Cerwyn shield icon.png|30px]] [[Castle Cerwyn]], the seat of [[House Cerwyn]].
-** [[File:Greyjoy shield icon.png|30px]] [[Deepwood Motte]], the seat of [[House Glover]], occupied by [[House Greyjoy]].
-** [[File:Bolton shield icon.png|30px]] [[The Dreadfort]], the seat of [[House Bolton]] (though they have since moved to Winterfell).
-** [[File:Reed shield icon.png|30px]] [[Greywater Watch]], the seat of [[House Reed]], the southernmost house sworn to Winterfell.
-** [[File:Hornwood shield icon.png|30px]] [[Hornwood|The Hornwood]], the seat of [[House Hornwood]].
-** [[File:Karstark shield icon.png|30px]] [[Karhold]], the seat of [[House Karstark]].
-** [[File:Umber shield icon.png|30px]] [[Last Hearth]], the seat of [[House Umber]].
-** [[Torrhen's Square]], the seat of [[House Tallhart]].
-** [[White Harbor]], the seat of [[House Manderly]], the principal city and port of the North.
-** [[Flint's Finger]]
-** [[File:Bolton shield icon.png|30px]] [[Moat Cailin]], a ruined castle at the northern edge of [[the Neck]].
-** [[Barrowton]], a holdfast in the [[Barrowlands]], seat of [[House Dustin]].
-** [[Oldcastle]]
-** [[Ramsgate]], a holdfast at the mouth of [[Broken Branch]].
-** [[Widow's Watch]]
-** [[File:Forrester shield icon.png|30px]] [[Ironrath]], the seat of [[House Forrester]], vassals of [[House Glover]].
-** [[File:Whitehill shield icon.png|30px]] [[Highpoint]], the seat of [[House Whitehill]], vassals of [[House Bolton]].
-** [[File:Glenmore.png|30px]] [[Rillwater Crossing]], the seat of [[House Glenmore]], vassals of [[House Ryswell]].
+Castles
+* 30px Winterfell, the ancient seat of House Stark, capital of the North, the new seat of House Bolton.
+** 30px Bear Island, the seat of House Mormont.
+** 30px Castle Cerwyn, the seat of House Cerwyn.
+** 30px Deepwood Motte, the seat of House Glover, occupied by House Greyjoy.
+** 30px The Dreadfort, the seat of House Bolton (though they have since moved to Winterfell).
+** 30px Greywater Watch, the seat of House Reed, the southernmost house sworn to Winterfell.
+** 30px The Hornwood, the seat of House Hornwood.
+** 30px Karhold, the seat of House Karstark.
+** 30px Last Hearth, the seat of House Umber.
+** Torrhen's Square, the seat of House Tallhart.
+** White Harbor, the seat of House Manderly, the principal city and port of the North.
+** Flint's Finger
+** 30px Moat Cailin, a ruined castle at the northern edge of the Neck.
+** Barrowton, a holdfast in the Barrowlands, seat of House Dustin.
+** Oldcastle
+** Ramsgate, a holdfast at the mouth of Broken Branch.
+** Widow's Watch
+** 30px Ironrath, the seat of House Forrester, vassals of House Glover.
+** 30px Highpoint, the seat of House Whitehill, vassals of House Bolton.
+** 30px Rillwater Crossing, the seat of House Glenmore, vassals of House Ryswell.
 
-===Regions===
-*[[The Neck]]
-*[[The Rills]], ruled by [[House Ryswell]]
-*[[Cape Kraken]]
-*The [[Barrowlands]]
-*[[Stony Shore]]
-*[[Sea Dragon Point]]
-*[[Wolfswood]]
-*[[The Grey Cliffs]]
+Regions
+*The Neck
+*The Rills, ruled by House Ryswell
+*Cape Kraken
+*The Barrowlands
+*Stony Shore
+*Sea Dragon Point
+*Wolfswood
+*The Grey Cliffs
 
-===Islands===
-*[[Bear Island]]
-* [[Skagos]]
-* [[Skane]]
+Islands
+*Bear Island
+* Skagos
+* Skane
 
-====Coastal Areas====
-*[[Bay of Ice]]
-*[[Bay of Seals]]
-*[[Blazewater Bay]]
-*[[The Bite]]
+Coastal Areas
+*Bay of Ice
+*Bay of Seals
+*Blazewater Bay
+*The Bite
 
-===Rivers and lakes===
-*[[White Knife]]
-*[[Broken Branch]]
-*[[Weeping Water]]
-*The [[Last River]]
-*[[Long Lake]]
+Rivers and lakes
+*White Knife
+*Broken Branch
+*Weeping Water
+*The Last River
+*Long Lake
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, the North is an area vast in size but relatively light in population. The North, due to its location, is particularly badly affected during the long winters, with thousands of people killed and famine not an uncommon occurrence due to the inability to raise crops for years on end, outside of special greenhouses and castles built on or near hot springs, like Winterfell, or volcanic vents, like the Dreadfort of House Bolton.
+In the books
+In the A Song of Ice and Fire novels, the North is an area vast in size but relatively light in population. The North, due to its location, is particularly badly affected during the long winters, with thousands of people killed and famine not an uncommon occurrence due to the inability to raise crops for years on end, outside of special greenhouses and castles built on or near hot springs, like Winterfell, or volcanic vents, like the Dreadfort of House Bolton.
 
-The people of the North, popularly called "northmen" or "notherners", are known as a hardy, tough breed who hold the comforts of the warm, "soft" south in disdain. They worship the old gods of the forest, and the "new gods" of the Andals have made little headway in the North. With a few exceptions, the warriors of the North refuse to take holy orders and thus cannot become [[knights]].
+The people of the North, popularly called northmen or notherners, are known as a hardy, tough breed who hold the comforts of the warm, soft south in disdain. They worship the old gods of the forest, and the new gods of the Andals have made little headway in the North. With a few exceptions, the warriors of the North refuse to take holy orders and thus cannot become knights.
 
-Some of the northmen live in remote, distant areas where they act little more as clans and tribes of savage warriors. Even these remote folk are vassals of the Starks, however, and are allowed to maintain their own ways and traditions as long as they remain loyal to Winterfell - which most of them usually do, as the Starks have a history of being just and honorable rulers. The Starks treated the mountain clans with respect by referring to them as if they were small-scale noble Houses, i.e. calling them "House Wull" and "House Norrey", instead of dismissively thinking of them as lowly "clans".
+Some of the northmen live in remote, distant areas where they act little more as clans and tribes of savage warriors. Even these remote folk are vassals of the Starks, however, and are allowed to maintain their own ways and traditions as long as they remain loyal to Winterfell - which most of them usually do, as the Starks have a history of being just and honorable rulers. The Starks treated the mountain clans with respect by referring to them as if they were small-scale noble Houses, i.e. calling them House Wull and House Norrey, instead of dismissively thinking of them as lowly clans.
 
-Characters in the novels frequently remark that the North is almost as large as the rest of the Seven Kingdoms put together (a remark repeated in the TV series).  In the ''World of Ice and Fire'' sourcebook (2014), the in-universe author Maester Yandel explains that while this is a very common saying, maesters have conducted fairly accurate land surveys over the centuries, which have revealed that the North is actually closer to about one third of the total land area of the Seven Kingdoms, not one half.
+Characters in the novels frequently remark that the North is almost as large as the rest of the Seven Kingdoms put together (a remark repeated in the TV series).  In the World of Ice and Fire sourcebook (2014), the in-universe author Maester Yandel explains that while this is a very common saying, maesters have conducted fairly accurate land surveys over the centuries, which have revealed that the North is actually closer to about one third of the total land area of the Seven Kingdoms, not one half.
 
-==See also==
-* {{AWOIAF|North}}
-* [http://viewers-guide.hbo.com/game-of-thrones/season2/#!/map/ HBO Viewer's Guide]
+See also
+* AWOIAF|North
+* http://viewers-guide.hbo.com/game-of-thrones/season2/#!/map/ HBO Viewer's Guide
 
-==References==
-{{reflist}}
-{{Regions of the Known World}}
-{{The North}}
-{{North_Houses}}
-{{Bolton navbox}}
+References
+reflist
+Regions of the Known World
+The North
+North_Houses
+Bolton navbox
 
-[[de:Norden]]
-[[ru:Север]]
-   Loading editor
+de:Norden
+ru:Север
+ &nbsp; Loading editor

@@ -1,11 +1,11 @@
-<p data-rte-fromparser="true">The <b>Arsenal</b> is an island citadel guarding the sea entrance to the <a data-rte-meta="{"type":"internal","text":"Free City","link":"Free City","wasblank":true,"noforce":true,"wikitext":"[[Free City]]"}" data-rte-instance="130814-24098175856cca8b01a78a" href="/wiki/Free_City" title="Free City" class="mw-redirect">Free City</a> of <a data-rte-meta="{"type":"internal","text":"Braavos","link":"Braavos","wasblank":true,"noforce":true,"wikitext":"[[Braavos]]"}" data-rte-instance="130814-24098175856cca8b01a78a" href="/wiki/Braavos" title="Braavos">Braavos</a>. It is located  at the entrance to the lagoon, just beyond the <a data-rte-meta="{"type":"internal","text":"Titan","link":"Titan of Braavos","wasblank":false,"noforce":true,"wikitext":"[[Titan of Braavos|Titan]]"}" data-rte-instance="130814-24098175856cca8b01a78a" href="/wiki/Titan_of_Braavos" title="Titan of Braavos">Titan</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-24098175856cca8b01a78a" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels the Arsenal sits upon a knob of rock, fortified with stone battlements and bristling with scorpions, trebuchets, and spitfires. The Arsenal is also a dock with room for dozens of galleys. It houses the defense fleet of the city and is the center of shipbuilding in Braavos. It is said that a war galley can be built in a day there.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-24098175856cca8b01a78a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Braavos","placeholder":1,"wikitext":"{{Braavos}}"}" data-rte-instance="130814-24098175856cca8b01a78a" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+The Arsenal is an island citadel guarding the sea entrance to the Free City of Braavos. It is located  at the entrance to the lagoon, just beyond the Titan.
+
+In the books
+In the A Song of Ice and Fire novels the Arsenal sits upon a knob of rock, fortified with stone battlements and bristling with scorpions, trebuchets, and spitfires. The Arsenal is also a dock with room for dozens of galleys. It houses the defense fleet of the city and is the center of shipbuilding in Braavos. It is said that a war galley can be built in a day there.
+
+See also
+
+
+
+
+ &nbsp; Loading editor

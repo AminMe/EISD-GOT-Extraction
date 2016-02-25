@@ -4,50 +4,50 @@
 {{Character
 | Title=Orell
 | Image=Orell S3 Crop.jpeg
-| Season=[[Season 3|3]]
-| First="[[Dark Wings, Dark Words]]"
-| Last="[[The Rains of Castamere (episode)|The Rains of Castamere]]"
-| Appearances=6 episodes <small>([[#Appearances|see below]])</small>
+| Season=3
+| First=Dark Wings, Dark Words
+| Last=The Rains of Castamere
+| Appearances=6 episodes (see below)
 | Titles=
 | Aka=
-| Status= [[:Category:Status: Alive|Alive]]; human body killed by [[Jon Snow]] ("[[The Rains of Castamere (episode)|The Rains of Castamere]]")
+| Status= Alive; human body killed by Jon Snow (The Rains of Castamere)
 | Death=
 | Place=
-| Allegiance=[[Free Folk]]
+| Allegiance=Free Folk
 | Family=
-| Actor=[[Mackenzie Crook]]|Culture = Free Folk}}
-{{Quote|People work together when it suits 'em. They're loyal when it suits 'em. Love each other when it suits 'em. And they kill each other when it suits 'em.|Orell|The Bear and the Maiden Fair (episode)}}
-'''Orell''' is a recurring character in the [[Season 3|third season]]. He is played by guest star [[Mackenzie Crook]] and debuts in [[Dark Wings, Dark Words]].<ref name=ComicCon>[http://www.westeros.org/GoT/News/Entry/Massive_Comic-Con_Casting_Reveals/ Massive Comic-Con Casting Reveals]</ref> He is a [[wildling]] and a [[warg]] who can assume the conciousness of an eagle he uses for reconnaissance.
+| ActorMackenzie Crook|Culture  Free Folk}}
+Quote|People work together when it suits 'em. They're loyal when it suits 'em. Love each other when it suits 'em. And they kill each other when it suits 'em.|Orell|The Bear and the Maiden Fair (episode)
+Orell is a recurring character in the third season. He is played by guest star Mackenzie Crook and debuts in Dark Wings, Dark Words.http://www.westeros.org/GoT/News/Entry/Massive_Comic-Con_Casting_Reveals/ Massive Comic-Con Casting Reveals He is a wildling and a warg who can assume the conciousness of an eagle he uses for reconnaissance.
 
-==Biography==
-===[[Season 3]]===
+Biography
+Season 3
 
-While the massive host of the [[Free Folk]] marches out of [[Skirling Pass]] through [[the Frostfangs]], Orell scouts the [[Fist of the First Men]] by warging into his pet eagle. He discovers dead "[[Night's Watch|crows]]" - the result of the [[Battle of the Fist of the First Men]].<ref>"[[Dark Wings, Dark Words]]"</ref>
+While the massive host of the Free Folk marches out of Skirling Pass through the Frostfangs, Orell scouts the Fist of the First Men by warging into his pet eagle. He discovers dead crows - the result of the Battle of the Fist of the First Men.Dark Wings, Dark Words
 
-Orell is among the party that reaches the Fist of the First Men alongside [[Jon Snow]] and [[Mance Rayder]]. Here they encounter the bloody aftermath of assault on the Night's Watch by the [[White Walkers]] and their army of undead [[Wights]]. Except for corpses of horses, there is no sign of any human corpses - which Orell had seen when he scouted ahead earlier by warging into his eagle.<ref>"[[Walk of Punishment]]"</ref>
+Orell&nbsp;is among the party that reaches the Fist of the First Men alongside Jon Snow and Mance Rayder. Here they encounter the bloody aftermath of assault on the Night's Watch by the White Walkers and their army of undead Wights. Except for corpses of horses, there is no sign of any human corpses - which Orell had seen when he scouted ahead earlier by warging into his eagle.Walk of Punishment
 
-While climbing [[The Wall|the Wall]], a crack within the ice causes an avalanche. Losing their footing, Orell yells to [[Tormund]] they must cut Jon and [[Ygritte]]'s rope. Orell eventually cuts the rope, and Jon is able to swing Ygritte and himself to safety before it snaps.<ref>"[[The Climb]]"</ref>
-[[File:Jon kills Orell.jpg|thumb|left|Jon Snow kills Orell]]When a horse breeder is chased by the wildling party, consisting of Ygritte, Tormund, Jon Snow and others, they manage to successfully capture the man. As Tormund is about to murder the breeder, Orell intervenes and says that the "crow" should do it. Jon walks forward and presses his sword against the man's jugular, but stops the murder and shoves him away, only to be shot by Ygritte. Orell shouts and claims that Jon always was a "crow" and a battle ensues. After a few moments of sword fighting, Jon shoves his sword into Orell's chest and whispers "You were right the whole time", before pulling it out and leaving Orell on the ground to die.
+While climbing the Wall, a crack within the ice causes an avalanche. Losing their footing, Orell yells to Tormund they must cut Jon and Ygritte's rope. Orell eventually cuts the rope, and Jon is able to swing Ygritte and himself to safety before it snaps.The Climb
+thumb|left|Jon Snow kills OrellWhen a horse breeder is chased by the wildling party, consisting of Ygritte, Tormund, Jon Snow and others, they manage to successfully capture the man. As Tormund is about to murder the breeder, Orell intervenes and says that the crow should do it. Jon walks forward and presses his sword against the man's jugular, but stops the murder and shoves him away, only to be shot by Ygritte. Orell shouts and claims that Jon always was a crow and a battle ensues. After a few moments of sword fighting, Jon shoves his sword into Orell's chest and whispers You were right the whole time,&nbsp;before pulling it out and leaving&nbsp;Orell on the ground to die.
 
-Orell manages to cheat death, however, warging into the mind of his eagle with his dying breath. As Jon stands over Orell's dead human body, Orell's consciousness controlling the eagle's body attempts to exact revenge by clawing at Jon's face with his beak and talons, but Jon is able to fight him off.<ref>"[[The Rains of Castamere (episode)]]"</ref>
+Orell manages to cheat death, however, warging into the mind of his eagle with his dying breath. As Jon stands over Orell's dead human body, Orell's consciousness controlling the eagle's body attempts to exact revenge by clawing at Jon's face with his beak and talons, but Jon is able to fight him off.The Rains of Castamere (episode)
 
-==Appearances==
-{{Season Three Appearances|2=yes||yes|yes||yes|yes|yes||yes}}
+Appearances
+Season Three Appearances|2=yes||yes|yes||yes|yes|yes||yes
 
-==Image gallery==
-<gallery hideaddbutton="true">
+Image gallery
+
 OrellS3.jpg|Orell in Season 3
 OrellWarg.jpg|Orell while warging
 Rain_of_castamere_orell.png|Orell is killed by Jon Snow
-</gallery>
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, Orell is a [[wildling]] raider in the same band as Ygritte. He has an affinity for animals including his pet eagle. Orell is killed in the confrontation with [[Qhorin Halfhand]]'s scouting party, during which Orell is inhabiting his eagle. A portion of Orell's consciousness remains within the eagle, and develops a deep hatred of Jon. The eagle then aids Rattleshirt in tracking and capturing Jon and Qhorin and attacks Jon.  It attempts to claw out Jon's eyes but fails, though it leaves him with some scars.
 
-==See also==
-* {{AWOIAF}} (MAJOR spoilers from the books)
-==References==
-{{Reflist}}
+In the books
+In the A Song of Ice and Fire novels, Orell is a wildling raider in the same band as Ygritte. He has an affinity for animals including his pet eagle. Orell is killed in the confrontation with Qhorin Halfhand's scouting party, during which Orell is inhabiting his eagle. A portion of Orell's consciousness remains within the eagle, and develops a deep hatred of Jon. The eagle then aids Rattleshirt in tracking and capturing Jon and Qhorin and attacks Jon.  It attempts to claw out Jon's eyes but fails, though it leaves him with some scars.
 
-[[de:Orell]]
-[[ru:Орелл]]
+See also
+* AWOIAF (MAJOR spoilers from the books)
+References
+Reflist
+
+de:Orell
+ru:Орелл

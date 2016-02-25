@@ -1,29 +1,32 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Bolton-Shield-Icon.PNG\n|link=House Bolton\n}}"}" data-rte-instance="130814-116496654656cca67a0ac15" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Walton\n| Image=Steelshanks-Profile-HD.png\n| Season=[[Season 3|3]]\n| First=\n| Last=\n| Appearances=\"[[The Bear and the Maiden Fair (episode)|The Bear and the Maiden Fair]]\"\n| Titles=\n| Aka=\n| Status= [[:Category:Status: Alive|Alive]]\n| Death=\n| Place= \n| Allegiance=[[House Bolton]]\n| Family=\n| Actor=[[Jamie Michie]]}}"}" data-rte-instance="130814-116496654656cca67a0ac15" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Lord Bolton charged me with bringing [[Jaime Lannister|him]] back to King's Landing... alive. And that's what I aim to do.|Steelshanks to Locke|The Bear and the Maiden Fair (episode)}}"}" data-rte-instance="130814-116496654656cca67a0ac15" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Walton "Steelshanks"</b> is a minor character the <a data-rte-meta="{"type":"internal","text":"third season","link":"Season 3","wasblank":false,"noforce":true,"wikitext":"[[Season 3|third season]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Season_3" title="Season 3">third season</a>. He is portrayed by <a data-rte-meta="{"type":"internal","text":"Jamie Michie","link":"Jamie Michie","wasblank":true,"noforce":true,"wikitext":"[[Jamie Michie]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Jamie_Michie" title="Jamie Michie">Jamie Michie</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Steelshanks is a Northern man-at-arms sworn to <a data-rte-meta="{"type":"internal","text":"House Bolton","link":"House Bolton","wasblank":true,"noforce":true,"wikitext":"[[House Bolton]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/House_Bolton" title="House Bolton">House Bolton</a> and fighting for his liege lord in the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[File:Steelshanks_and_Locke_-_The_Bear_and_the_Maiden_Fair.png|thumb|Steelshanks needs Jaime alive]]","title":"Steelshanks_and_Locke_-_The_Bear_and_the_Maiden_Fair.png","params":{"thumbnail":true,"alt":"Steelshanks and Locke - The Bear and the Maiden Fair","caption":"Steelshanks needs Jaime alive","captionParsed":"Steelshanks needs Jaime alive"}}" data-rte-instance="130814-116496654656cca67a0ac15" alt="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/35/Steelshanks_and_Locke_-_The_Bear_and_the_Maiden_Fair.png/revision/latest/scale-to-width-down/180?cb=20140531190314" width="180" height="117" class="image thumb withCaption" data-image-name="Steelshanks and Locke - The Bear and the Maiden Fair.png" data-image-key="Steelshanks_and_Locke_-_The_Bear_and_the_Maiden_Fair.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->Lord <a data-rte-meta="{"type":"internal","text":"Roose Bolton","link":"Roose Bolton","wasblank":true,"noforce":true,"wikitext":"[[Roose Bolton]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Roose_Bolton" title="Roose Bolton">Roose Bolton</a> charges Steelshanks with escorting <a data-rte-meta="{"type":"internal","text":"Jaime Lannister","link":"Jaime Lannister","wasblank":true,"noforce":true,"wikitext":"[[Jaime Lannister]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a> safely back to <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a>. When Jaime decides to return to <a data-rte-meta="{"type":"internal","text":"Harrenhal","link":"Harrenhal","wasblank":true,"noforce":true,"wikitext":"[[Harrenhal]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Harrenhal" title="Harrenhal">Harrenhal</a> to save <a data-rte-meta="{"type":"internal","text":"Brienne","link":"Brienne of Tarth","wasblank":false,"noforce":true,"wikitext":"[[Brienne of Tarth|Brienne]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Brienne_of_Tarth" title="Brienne of Tarth">Brienne</a> from <a data-rte-meta="{"type":"internal","text":"Locke","link":"Locke","wasblank":true,"noforce":true,"wikitext":"[[Locke]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Locke" title="Locke">Locke</a>, he forces Steelshanks to accompany him by threatening to dishonestly tell his father <a data-rte-meta="{"type":"internal","text":"Tywin Lannister","link":"Tywin Lannister","wasblank":true,"noforce":true,"wikitext":"[[Tywin Lannister]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a> that Steelshanks is responsible for Jaime's missing hand, but also offers to lie and say he was the one who saved him.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">As Jaime attempts to rescue Brienne from the <a data-rte-meta="{"type":"internal","text":"bear","link":"Bears","wasblank":false,"noforce":true,"wikitext":"[[Bears|bear]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/Bears" title="Bears">bear</a> in the pit, Steelshanks is angrily questioned by Locke as to why he is attacking his bear, and Steelshanks explains that Roose Bolton charged him with bringing Jaime back to King's Landing alive.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Bear and the Maiden Fair (episode)]]\"<\/ref>"}" data-rte-instance="130814-116496654656cca67a0ac15" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Three Appearances","placeholder":1,"wikitext":"{{Season Three Appearances|7=yes}}"}" data-rte-instance="130814-116496654656cca67a0ac15" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, "Steelshanks" Walton is a man-at-arms sworn to House Bolton. He serves Roose Bolton as his captain. He got his nickname from the steel greaves he wears over his long legs. According to Jaime, Walton is blunt, brusque, brutal, at heart a simple soldier.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Walton|Steelshanks}}"}" data-rte-instance="130814-116496654656cca67a0ac15" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-116496654656cca67a0ac15" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Bolton navbox","placeholder":1,"wikitext":"{{Bolton navbox}}"}" data-rte-instance="130814-116496654656cca67a0ac15" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0435 \u0418\u043a\u0440\u044b","link":"ru:\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0435 \u0418\u043a\u0440\u044b","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0435 \u0418\u043a\u0440\u044b]]"}" data-rte-instance="130814-116496654656cca67a0ac15" href="http://ru.gameofthrones.wikia.com/wiki/Железные_Икры" class="extiw" title="ru:Железные Икры">ru:Железные Икры</a>
-</p>
-   Loading editor
+title=Walton
+| image=Steelshanks-Profile-HD.png
+| season=3
+| first=
+| last=
+| appearances=\the fair\
+| titles=
+| aka=
+| status=alive
+| death=
+| place=
+| allegiance=House bolton
+| family=
+| actor=Jamie michie}}}
+
+ Walton Steelshanks is a minor character the third season. He is portrayed by Jamie Michie. Biography 
+
+ Background 
+
+Steelshanks is a Northern man-at-arms sworn to House Bolton and fighting for his liege lord in the War of the Five Kings. Season 3 
+
+ Lord Roose Bolton charges Steelshanks with escorting Jaime Lannister safely back to King's Landing. When Jaime decides to return to Harrenhal to save Brienne from Locke, he forces Steelshanks to accompany him by threatening to dishonestly tell his fatherTywin Lannister that Steelshanks is responsible for Jaime's missing hand, but also offers to lie and say he was the one who saved him. 
+
+As Jaime attempts to rescue Briennefrom the bear in the pit, Steelshanks is angrily questioned by Locke as to why he is attacking his bear, and Steelshanks explains that Roose Bolton charged him with bringing Jaime back to King's Landing alive.\The Bear and the Maiden Fair (episode)\\/ref} data-rte-instance130814-116496654656cca67a0ac15 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Steelshanks Walton is a man-at-arms sworn to House Bolton. He serves Roose Bolton as his captain. He got his nickname from the steel greaves he wears over his long legs. According to Jaime, Walton is blunt, brusque, brutal, at heart a simple soldier. See also (MAJOR spoilers from the books) References 
+
+ 
+
+ru:Железные Икры  Loading editor

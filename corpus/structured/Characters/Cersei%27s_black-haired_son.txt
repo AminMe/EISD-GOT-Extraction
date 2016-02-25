@@ -1,24 +1,74 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Baratheon-Main-Shield.PNG\n|link=House Baratheon\n}}"}" data-rte-instance="130814-127894043256cca6027b640" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Cersei's black-haired son\n| Season=[[Season 1|1]]\n| First=\n| Last=\n| Mentioned=\"[[The Kingsroad]]\"<br>\"[[The Wolf and the Lion]]\"\n| Status= [[:Category:Status: Dead|Deceased]]\n| Age=\n| Birth=\n| Death=Died of fever\n| Allegiance=[[House Baratheon]]\n| Family= {[[Robert Baratheon]]} - father<br>[[Cersei Lannister]] - mother<br>{[[Stannis Baratheon]]} - paternal uncle<br>{[[Renly Baratheon]]} - paternal uncle<br>[[Jaime Lannister]] - maternal uncle<br>[[Tyrion Lannister]] - maternal uncle<br>\n{[[Shireen Baratheon]]} - paternal first cousin<br>\n{[[Joffrey Baratheon]]} - maternal half-brother\/cousin <br>\n{[[Myrcella Baratheon]]} - maternal half-sister\/cousin <br>\n[[Tommen Baratheon]] - maternal half-brother\/cousin<br>\n[[Gendry]] - paternal half-brother<br>\n{[[Barra]]} - paternal half-sister<br>\nVarious other paternal bastard siblings<br>\n{[[Steffon Baratheon]]} - paternal grandfather<br>\n{[[Cassana Baratheon]]} - paternal grandmother<br>\n{[[Tywin Lannister]]} - maternal grandfather<br>\n{[[Joanna Lannister]]} maternal grandmother<br>\n| Actor=}}"}" data-rte-instance="130814-127894043256cca6027b640" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Such a little thing. A bird without feathers. They came to take his body away and Robert held me. I screamed and I battled, but he held me. That little bundle. They took him away and I never saw him again.|Cersei Lannister|The Kingsroad}}"}" data-rte-instance="130814-127894043256cca6027b640" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Cersei's black-haired son</b> is an unseen character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones (TV series)","wasblank":false,"noforce":true,"wikitext":"[[Game of Thrones (TV series)|Game of Thrones]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Game_of_Thrones_(TV_series)" title="Game of Thrones (TV series)">Game of Thrones</a></i>. He is deceased when the events of the series begin and is not expected to appear in the series. He is first mentioned by <a data-rte-meta="{"type":"internal","text":"Cersei Lannister","link":"Cersei Lannister","wasblank":true,"noforce":true,"wikitext":"[[Cersei Lannister]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Cersei_Lannister" title="Cersei Lannister">Cersei Lannister</a> in "<a data-rte-meta="{"type":"internal","text":"The Kingsroad","link":"The Kingsroad","wasblank":true,"noforce":true,"wikitext":"[[The Kingsroad]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/The_Kingsroad" title="The Kingsroad">The Kingsroad</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Cersei's black-haired son is her first-born child, and the only of her children whose father is King <a data-rte-meta="{"type":"internal","text":"Robert Baratheon","link":"Robert Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Robert Baratheon]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Robert_Baratheon" title="Robert Baratheon">Robert Baratheon</a>. Very little is known about him: that he had black hair; resembled Robert a lot; and died as a result of a fever. His name, year of birth and age at the point of his demise are unknown.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">When <a data-rte-meta="{"type":"internal","text":"Catelyn Stark","link":"Catelyn Stark","wasblank":true,"noforce":true,"wikitext":"[[Catelyn Stark]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Catelyn_Stark" title="Catelyn Stark">Catelyn Stark</a> watches over <a data-rte-meta="{"type":"internal","text":"Bran","link":"Bran Stark","wasblank":false,"noforce":true,"wikitext":"[[Bran Stark|Bran]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Bran_Stark" title="Bran Stark">Bran</a>, who has not woken up after having fell from the tower, Cersei comes to visit. She tells Catelyn that years ago she has lost her first boy, a little black-haired beauty. She and Robert were nearly driven mad by the child's death.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Kingsroad]]\"<\/ref>"}" data-rte-instance="130814-127894043256cca6027b640" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Robert and Cersei talk about the imminent <a data-rte-meta="{"type":"internal","text":"Dothraki","link":"Dothraki","wasblank":true,"noforce":true,"wikitext":"[[Dothraki]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Dothraki" title="Dothraki">Dothraki</a>'s invasion and their unhappy marriage. Cersei says that she has felt something for Robert once, even after they lost their first boy, for quite a while.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Wolf and the Lion]]\"<\/ref>"}" data-rte-instance="130814-127894043256cca6027b640" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Family tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:House Baratheon family tree","placeholder":1,"wikitext":"{{Template:House Baratheon family tree}}"}" data-rte-instance="130814-127894043256cca6027b640" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Cersei never gave birth to any of Robert's children. When <a data-rte-meta="{"type":"internal","text":"Eddard Stark","link":"Eddard Stark","wasblank":true,"noforce":true,"wikitext":"[[Eddard Stark]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Eddard_Stark" title="Eddard Stark">Eddard Stark</a> confronts her about the identity of the father of her children, she admits that <a data-rte-meta="{"type":"internal","text":"Jaime","link":"Jaime Lannister","wasblank":false,"noforce":true,"wikitext":"[[Jaime Lannister|Jaime]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime</a> is their father, and that she loathes Robert since their first night, for coming to their bed drunk and calling her by <a data-rte-meta="{"type":"internal","text":"Lyanna","link":"Lyanna Stark","wasblank":false,"noforce":true,"wikitext":"[[Lyanna Stark|Lyanna]]"}" data-rte-instance="130814-127894043256cca6027b640" href="/wiki/Lyanna_Stark" title="Lyanna Stark">Lyanna</a>'s name. She also reveals that Robert got her pregnant once, and her brother found a woman that could end the pregnancy. Robert was unaware of both the pregnancy and the abortion.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-127894043256cca6027b640" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"de:Cerseis schwarzhaariger Sohn","link":"de:Cerseis schwarzhaariger Sohn","wasblank":true,"noforce":true,"wikitext":"[[de:Cerseis schwarzhaariger Sohn]]"}" data-rte-instance="130814-127894043256cca6027b640" href="http://de.gameofthrones.wikia.com/wiki/Cerseis_schwarzhaariger_Sohn" class="extiw" title="de:Cerseis schwarzhaariger Sohn">de:Cerseis schwarzhaariger Sohn</a>
-</p>
-   Loading editor
+title=Cersei's black-haired son
+| season=1
+| first=
+| last=
+| mentioned=\The kingsroad\\The Wolf and the Lion\
+| Status= Deceased
+| Age=
+| Birth=
+| Death=Died of fever
+| Allegiance=House Baratheon
+| Family= Robert Baratheon - fatherCersei Lannister - motherStannis Baratheon - paternal uncleRenly Baratheon - paternal uncleJaime Lannister - maternal uncleTyrion Lannister - maternal uncle
+Shireen Baratheon - paternal first cousin
+Joffrey Baratheon - maternal half-brother\/cousin 
+Myrcella Baratheon - maternal half-sister\/cousin 
+Tommen Baratheon - maternal half-brother\/cousin
+Gendry - paternal half-brother
+Barra - paternal half-sister
+Various other paternal bastard siblings
+Steffon Baratheon - paternal grandfather
+Cassana Baratheon - paternal grandmother
+Tywin Lannister - maternal grandfather
+Joanna Lannister maternal grandmother
+| Actor=}}}
+
+ \The Wolf and the Lion\
+| Status= Deceased
+| Age=
+| Birth=
+| Death=Died of fever
+| Allegiance=House Baratheon
+| Family= Robert Baratheon - father 
+Cersei Lannister - mother 
+Stannis Baratheon - paternal uncle 
+Renly Baratheon - paternal uncle 
+Jaime Lannister - maternal uncle 
+Tyrion Lannister - maternal uncle 
+
+Shireen Baratheon - paternal first cousin 
+
+Joffrey Baratheon - maternal half-brother\/cousin 
+
+Myrcella Baratheon - maternal half-sister\/cousin 
+
+Tommen Baratheon - maternal half-brother\/cousin 
+
+Gendry - paternal half-brother 
+
+Barra - paternal half-sister 
+
+Various other paternal bastard siblings 
+
+Steffon Baratheon - paternal grandfather 
+
+Cassana Baratheon - paternal grandmother 
+
+Tywin Lannister - maternal grandfather 
+
+Joanna Lannister maternal grandmother 
+
+| Actor}}} data-rte-instance130814-127894043256cca6027b640 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Cersei's black-haired son is an unseen character in Game of Thrones. He is deceased when the events of the series begin and is not expected to appear in the series. He is first mentioned by Cersei Lannister in The Kingsroad. Biography 
+
+ Background 
+
+Cersei's black-haired son is her first-born child, and the only of her children whose father is King Robert Baratheon. Very little is known about him: that he had black hair; resembled Robert a lot; and died as a result of a fever. His name, year of birth and age at the point of his demise are unknown. Season 1 
+
+When Catelyn Stark watches over Bran, who has not woken up after having fell from the tower, Cersei comes to visit. She tells Catelyn that years ago she has lost her first boy, a little black-haired beauty. She and Robert were nearly driven mad by the child's death.\The Kingsroad\\/ref} data-rte-instance130814-127894043256cca6027b640 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+
+Robert and Cersei talk about the imminent Dothraki's invasion and their unhappy marriage. Cersei says that she has felt something for Robert once, even after they lost their first boy, for quite a while.\The Wolf and the Lion\\/ref} data-rte-instance130814-127894043256cca6027b640 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family tree 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Cersei never gave birth to any of Robert's children. When Eddard Stark confronts her about the identity of the father of her children, she admits that Jaime is their father, and that she loathes Robert since their first night, for coming to their bed drunk and calling her by Lyanna's name. She also reveals that Robert got her pregnant once, and her brother found a woman that could end the pregnancy. Robert was unaware of both the pregnancy and the abortion. References 
+
+ de:Cerseis schwarzhaariger Sohn  Loading editor

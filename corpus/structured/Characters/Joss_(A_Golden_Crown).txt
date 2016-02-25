@@ -1,27 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Joss\n|Season = [[Season 1|1]]\n|Image=Riverlands refugee.jpg\n|Appearances = \"[[A Golden Crown]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[House Tully]]\n|Actor = [[Niall Cusack]]}}"}" data-rte-instance="130814-125421306556cca740c0449" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|They burned almost everything in the Riverlands. Our fields... our granaries... our homes! They took our women. Then they... took 'em again. When they was done them... butchered them as if they was animals. They covered... our children in pitch... and lit them on fire.|Joss recounts [[Gregor Clegane|Gregor Clegane's]] attrocities.|A Golden Crown}}"}" data-rte-instance="130814-125421306556cca740c0449" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Joss</b> is a minor character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/Season_1" title="Season 1">first season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Niall Cusack","link":"Niall Cusack","wasblank":true,"noforce":true,"wikitext":"[[Niall Cusack]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/Niall_Cusack" title="Niall Cusack">Niall Cusack</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"A Golden Crown","link":"A Golden Crown","wasblank":true,"noforce":true,"wikitext":"[[A Golden Crown]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/A_Golden_Crown" title="A Golden Crown">A Golden Crown</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true">Joss is a peasant from <a data-rte-meta="{"type":"internal","text":"the Riverlands","link":"the Riverlands","wasblank":true,"noforce":true,"wikitext":"[[the Riverlands]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a>.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">He attends court in <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a> escorted by some bannermen of <a data-rte-meta="{"type":"internal","text":"House Tully","link":"House Tully","wasblank":true,"noforce":true,"wikitext":"[[House Tully]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/House_Tully" title="House Tully">House Tully</a> to report a series of brutal raids being carried out by <a data-rte-meta="{"type":"internal","text":"Gregor Clegane","link":"Gregor Clegane","wasblank":true,"noforce":true,"wikitext":"[[Gregor Clegane]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/Gregor_Clegane" title="Gregor Clegane">Gregor Clegane</a> in <a data-rte-meta="{"type":"internal","text":"the Riverlands","link":"the Riverlands","wasblank":true,"noforce":true,"wikitext":"[[the Riverlands]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a>. He wears the sigil of <a data-rte-meta="{"type":"internal","text":"House Tully","link":"House Tully","wasblank":true,"noforce":true,"wikitext":"[[House Tully]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/House_Tully" title="House Tully">House Tully</a> on his sleeve. He brings a sack of dead fish that had been left by Clegane at the scene of his atrocities. <a data-rte-meta="{"type":"internal","text":"Eddard Stark","link":"Eddard Stark","wasblank":true,"noforce":true,"wikitext":"[[Eddard Stark]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/Eddard_Stark" title="Eddard Stark">Eddard Stark</a> responds by stripping Clegane of his titles and ordering his execution.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Golden Crown]]\"<\/ref>"}" data-rte-instance="130814-125421306556cca740c0449" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|6=yes}}"}" data-rte-instance="130814-125421306556cca740c0449" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"Song of Ice and Fire","link":"Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[Song of Ice and Fire]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/Song_of_Ice_and_Fire" title="Song of Ice and Fire" class="mw-redirect">Song of Ice and Fire</a></i> novels, the handful of surviving smallfolk from the town of Sherrer are brought before the <a data-rte-meta="{"type":"internal","text":"Iron Throne","link":"Iron Throne","wasblank":true,"noforce":true,"wikitext":"[[Iron Throne]]"}" data-rte-instance="130814-125421306556cca740c0449" href="/wiki/Iron_Throne" title="Iron Throne">Iron Throne</a> by a trio of knights from the Riverlands (Karyl Vance, Marq Piper, and Raymun Darry). The commoner who speaks directly to Ned Stark, and indicates that Gregor Clegane was responsible for the attack, is a brewer from Sherrer named Joss.  The TV series credits only listed him as "Riverlands refugee", but it is clear which book character he was portraying.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-125421306556cca740c0449" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Raymun Darry}}"}" data-rte-instance="130814-125421306556cca740c0449" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Marq Piper}}"}" data-rte-instance="130814-125421306556cca740c0449" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Karyl Vance}}"}" data-rte-instance="130814-125421306556cca740c0449" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-125421306556cca740c0449" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0414\u0436\u043e\u0441\u0441","link":"ru:\u0414\u0436\u043e\u0441\u0441","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0414\u0436\u043e\u0441\u0441]]"}" data-rte-instance="130814-125421306556cca740c0449" href="http://ru.gameofthrones.wikia.com/wiki/Джосс" class="extiw" title="ru:Джосс">ru:Джосс</a>
-</p>
-   Loading editor
+title=Joss
+|Season = 1
+|image=Riverlands refugee.jpg
+|appearances=\A golden crown\
+|status=alive
+|allegiance=House tully
+|actor=Niall cusack}}}
+
+ 
+
+ 
+
+Joss is a minor character in the first season. He is played by guest star Niall Cusack and only appears in A Golden Crown. Biography 
+
+Joss is a peasant from the Riverlands. Season 1 
+
+He attends court in King's Landing escorted by some bannermen of House Tully to report a series of brutal raids being carried out by Gregor Clegane in the Riverlands. He wears the sigil of House Tully on his sleeve. He brings a sack of dead fish that had been left by Clegane at the scene of his atrocities. Eddard Stark responds by stripping Clegane of his titles and ordering his execution.\A Golden Crown\\/ref} data-rte-instance130814-125421306556cca740c0449 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the Song of Ice and Fire novels, the handful of surviving smallfolk from the town of Sherrer are brought before the Iron Throne by a trio of knights from the Riverlands (Karyl Vance, Marq Piper, and Raymun Darry). The commoner who speaks directly to Ned Stark, and indicates that Gregor Clegane was responsible for the attack, is a brewer from Sherrer named Joss. The TV series credits only listed him as Riverlands refugee, but it is clear which book character he was portraying. See also References 
+
+ 
+
+ru:Джосс  Loading editor

@@ -1,19 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Oros\n| Image=\n| Image size=\n| Location=[[Essos]], the Valyrian Penninsula\n| Type=City\n| Population=\n| Rulers=\n| Religion=\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-69942038956cca8ae835b9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[Image:Oros Pin.png|thumb|right|200px|A map showing the location of the city of Oros on the continent of Essos.]]","title":"Oros_Pin.png","params":{"thumbnail":true,"alt":"Oros Pin","align":"right","caption":"A map showing the location of the city of Oros on the continent of Essos.","width":200,"captionParsed":"A map showing the location of the city of Oros on the continent of Essos."}}" data-rte-instance="130814-69942038956cca8ae835b9" alt="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/3/3b/Oros_Pin.png/revision/latest/scale-to-width-down/200?cb=20120625170229" width="200" height="161" class="image thumb alignRight withCaption" data-image-name="Oros Pin.png" data-image-key="Oros_Pin.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Oros</b> is a ruined city in <a data-rte-meta="{"type":"internal","text":"Essos","link":"Essos","wasblank":true,"noforce":true,"wikitext":"[[Essos]]"}" data-rte-instance="130814-69942038956cca8ae835b9" href="/wiki/Essos" title="Essos">Essos</a>. The city is located at what used to be the meeting point of the Valyrian Peninsula and the Essosi mainland. The area immediately south of Oros was obliterated in the <a data-rte-meta="{"type":"internal","text":"Doom of Valyria","link":"Doom of Valyria","wasblank":true,"noforce":true,"wikitext":"[[Doom of Valyria]]"}" data-rte-instance="130814-69942038956cca8ae835b9" href="/wiki/Doom_of_Valyria" title="Doom of Valyria">Doom of Valyria</a> four centuries ago, creating the <a data-rte-meta="{"type":"internal","text":"Smoking Sea","link":"Smoking Sea","wasblank":true,"noforce":true,"wikitext":"[[Smoking Sea]]"}" data-rte-instance="130814-69942038956cca8ae835b9" href="/wiki/Smoking_Sea" title="Smoking Sea">Smoking Sea</a>. The ruins of <a data-rte-meta="{"type":"internal","text":"Tyria","link":"Tyria","wasblank":true,"noforce":true,"wikitext":"[[Tyria]]"}" data-rte-instance="130814-69942038956cca8ae835b9" href="/wiki/Tyria" title="Tyria">Tyria</a> lie across the sea to the south.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/valyria\/ HBO viewers guide, season 2 map, Valyria entry]<\/ref>"}" data-rte-instance="130814-69942038956cca8ae835b9" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-69942038956cca8ae835b9" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Oros is connected by a Valyrian road to <a data-rte-meta="{"type":"internal","text":"Mantarys","link":"Mantarys","wasblank":true,"noforce":true,"wikitext":"[[Mantarys]]"}" data-rte-instance="130814-69942038956cca8ae835b9" href="/wiki/Mantarys" title="Mantarys">Mantarys</a>. It was located close to the Fourteen Fires, the great volcanic mountain range stretching across the neck of the Valyrian Peninsula. Given its close proximity to the volcanoes, it was likely laid waste during the Doom.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-69942038956cca8ae835b9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-69942038956cca8ae835b9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Regions of the Known World","placeholder":1,"wikitext":"{{Regions of the Known World}}"}" data-rte-instance="130814-69942038956cca8ae835b9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"ValyrianPeninsula","placeholder":1,"wikitext":"{{ValyrianPeninsula}}"}" data-rte-instance="130814-69942038956cca8ae835b9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"pl:Oros","link":"pl:Oros","wasblank":true,"noforce":true,"wikitext":"[[pl:Oros]]"}" data-rte-instance="130814-69942038956cca8ae835b9" href="http://graotron.wikia.com/wiki/Oros" class="extiw" title="pl:Oros">pl:Oros</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u041e\u0440\u043e\u0441","link":"ru:\u041e\u0440\u043e\u0441","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041e\u0440\u043e\u0441]]"}" data-rte-instance="130814-69942038956cca8ae835b9" href="http://ru.gameofthrones.wikia.com/wiki/Орос" class="extiw" title="ru:Орос">ru:Орос</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"uk:\u041e\u0440\u043e\u0441","link":"uk:\u041e\u0440\u043e\u0441","wasblank":true,"noforce":true,"wikitext":"[[uk:\u041e\u0440\u043e\u0441]]"}" data-rte-instance="130814-69942038956cca8ae835b9" href="http://uk.gameofthrones.wikia.com/wiki/Орос" class="extiw" title="uk:Орос">uk:Орос</a>
-</p>
-   Loading editor
+title=Oros
+| image size=
+| location=Essos, the valyrian penninsula
+| typedouble-brackets population
+| rulers=
+| religion=
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ Oros is a ruined city in Essos. The city is located at what used to be the meeting point of the Valyrian Peninsula and the Essosi mainland. The area immediately south of Oros was obliterated in the Doom of Valyria four centuries ago, creating the Smoking Sea. The ruins of Tyria lie across the sea to the south.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/valyria\/ HBO viewers guide, season 2 map, Valyria entry\/ref} data-rte-instance130814-69942038956cca8ae835b9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, Oros is connected by a Valyrian road to Mantarys. It was located close to the Fourteen Fires, the great volcanic mountain range stretching across the neck of the Valyrian Peninsula. Given its close proximity to the volcanoes, it was likely laid waste during the Doom. See also (spoilers from the books) References 
+
+ 
+
+pl:Oros ru:Орос uk:Орос  Loading editor

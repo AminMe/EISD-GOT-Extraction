@@ -1,21 +1,31 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Mudd]]\n| Image=House-Mudd-heraldry.jpg\n| ImageSize=150px\n| Sigil=A golden crown studded with emeralds over a red-brown field\n| Motto=\n| Titles=[[King of the Rivers and Hills]]\n| Seat=\n| Region=[[The Riverlands]]\n| Lord=Extinct\n| Heir=Extinct\n| Allegiance=Sovereign\n| Vassals=\n| Cadets=\n| Age=\n| Founder=}}"}" data-rte-instance="130814-116912470456cca98bd26fb" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|House Mudd once ruled as Kings of the Rivers and Hills. But after a thousand years their line was exhausted and fell to the Storm Kings, who fell to the ironborn.|Ser [[Brynden Tully]]|The Riverlands (Histories & Lore)}}"}" data-rte-instance="130814-116912470456cca98bd26fb" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Mudd</b> is an extinct great house that once ruled <a data-rte-meta="{"type":"internal","text":"the Riverlands","link":"the Riverlands","wasblank":true,"noforce":true,"wikitext":"[[the Riverlands]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a> as <a data-rte-meta="{"type":"internal","text":"Kings of the Rivers and Hills","link":"King of the Rivers and Hills","wasblank":false,"noforce":true,"wikitext":"[[King of the Rivers and Hills|Kings of the Rivers and Hills]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/King_of_the_Rivers_and_Hills" title="King of the Rivers and Hills">Kings of the Rivers and Hills</a>. Eventually, however, their line was seemingly extinguished after being defeated by the <a data-rte-meta="{"type":"internal","text":"Storm King","link":"Storm King","wasblank":true,"noforce":true,"wikitext":"[[Storm King]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/Storm_King" title="Storm King">Storm Kings</a> of <a data-rte-meta="{"type":"internal","text":"House Durrandon","link":"House Durrandon","wasblank":true,"noforce":true,"wikitext":"[[House Durrandon]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/House_Durrandon" title="House Durrandon">House Durrandon</a>.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> In the books </h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Mudd was the last dynasty of <a data-rte-meta="{"type":"internal","text":"First Men","link":"First Men","wasblank":true,"noforce":true,"wikitext":"[[First Men]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/First_Men" title="First Men">First Men</a> that ruled <a data-rte-meta="{"type":"internal","text":"the Riverlands","link":"the Riverlands","wasblank":true,"noforce":true,"wikitext":"[[the Riverlands]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a>. Their seat was a castle now in ruins and called Oldstones. Under King Tristifer IV, "the Hammer of Justice", they resisted the <a data-rte-meta="{"type":"internal","text":"Andal Invasion","link":"Andal Invasion","wasblank":true,"noforce":true,"wikitext":"[[Andal Invasion]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/Andal_Invasion" title="Andal Invasion">Andal Invasion</a>. Tristifer IV was said to have been victorious in ninety nine battles, but was defeated at his hundreth, in which seven Kings banded against him. Under his successor, King Tristifer V, House Mudd fell to the Andals.  
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">​Tr​istan Mudd was a <a data-rte-meta="{"type":"internal","text":"Lord Commander","link":"Lord Commander","wasblank":true,"noforce":true,"wikitext":"[[Lord Commander]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/Lord_Commander" title="Lord Commander">Lord Commander</a> of the <a data-rte-meta="{"type":"internal","text":"Night's&nbsp;Watch","link":"Night's\u00a0Watch","wasblank":false,"noforce":true,"wikitext":"[[Night's\u00a0Watch|Night's&nbsp;Watch]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/Night's_Watch" title="Night's Watch">Night's<span data-rte-entity="nbsp">&nbsp;</span>Watch</a> and is remembered as one of the worst Lord Commanders the Night's Watch has ever had. 
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">In <a data-rte-meta="{"type":"internal","text":"Essos","link":"Essos","wasblank":true,"noforce":true,"wikitext":"[[Essos]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="/wiki/Essos" title="Essos">Essos</a> there are still Westerosi exiles with the surname Mudd, but it is unknown if these are true descendants of House Mudd.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> See also </h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-116912470456cca98bd26fb" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-116912470456cca98bd26fb" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Great Houses navbox","placeholder":1,"wikitext":"{{Great Houses navbox}}"}" data-rte-instance="130814-116912470456cca98bd26fb" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"River Houses","placeholder":1,"wikitext":"{{River Houses}}"}" data-rte-instance="130814-116912470456cca98bd26fb" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Seven Kingdoms Kings","placeholder":1,"wikitext":"{{Seven Kingdoms Kings}}"}" data-rte-instance="130814-116912470456cca98bd26fb" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Mudd, House","placeholder":1,"wikitext":"{{DEFAULTSORT:Mudd, House}}"}" data-rte-instance="130814-116912470456cca98bd26fb" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Schlamm","link":"de:Haus Schlamm","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Schlamm]]"}" data-rte-instance="130814-116912470456cca98bd26fb" href="http://de.gameofthrones.wikia.com/wiki/Haus_Schlamm" class="extiw" title="de:Haus Schlamm">de:Haus Schlamm</a>
-</p>
-   Loading editor
+title=House mudd
+| image=House-Mudd-heraldry.jpg
+| imagesize=150px
+| sigil=A golden crown studded with emeralds over a red-brown field
+| motto=
+| titles=King of the rivers and hills
+| seat=
+| region=The riverlands
+| lord=Extinct
+| heir=Extinct
+| allegiance=Sovereign
+| vassals=
+| cadets=
+| age=
+| founder=}}}
+
+ 
+
+ 
+
+House Mudd is an extinct great house that once ruled the Riverlands as Kings of the Rivers and Hills. Eventually, however, their line was seemingly extinguished after being defeated by the Storm Kings of House Durrandon. In the books 
+
+In the A Song of Ice and Fire novels, House Mudd was the last dynasty of First Men that ruled the Riverlands. Their seat was a castle now in ruins and called Oldstones. Under King Tristifer IV, the Hammer of Justice, they resisted the Andal Invasion. Tristifer IV was said to have been victorious in ninety nine battles, but was defeated at his hundreth, in which seven Kings banded against him. Under his successor, King Tristifer V, House Mudd fell to the Andals. 
+
+​Tr​istan Mudd was a Lord Commander of theNight'sWatch and is remembered as one of the worst Lord Commanders the Night's Watch has ever had. 
+
+In Essos there are still Westerosi exiles with the surname Mudd, but it is unknown if these are true descendants of House Mudd. See also (spoilers from the books) References 
+
+ 
+
+de:Haus Schlamm  Loading editor

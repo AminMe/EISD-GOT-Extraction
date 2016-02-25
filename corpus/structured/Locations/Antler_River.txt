@@ -1,14 +1,14 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Quote","placeholder":1,"wikitext":"{{Quote|We're only a few days out from the Antler River. We cross a bridge the [[First Men]] built and from there we can try to find the [[North Grove]]...right, [[Sylvi]]?|[[Cotter]]|A Nest of Vipers}}"}" data-rte-instance="130814-11156049956cca8fde09ad" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->The <b>Antler River</b> is a river located <a data-rte-meta="{"type":"internal","text":"beyond the Wall","link":"beyond the Wall","wasblank":true,"noforce":true,"wikitext":"[[beyond the Wall]]"}" data-rte-instance="130814-11156049956cca8fde09ad" href="/wiki/Beyond_the_Wall" title="Beyond the Wall">beyond the Wall</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Nest of Vipers]]\"<\/ref>"}" data-rte-instance="130814-11156049956cca8fde09ad" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-11156049956cca8fde09ad" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Antler River is formed by several arches originating in the northeast of the <a data-rte-meta="{"type":"internal","text":"Haunted Forest","link":"Haunted Forest","wasblank":true,"noforce":true,"wikitext":"[[Haunted Forest]]"}" data-rte-instance="130814-11156049956cca8fde09ad" href="/wiki/Haunted_Forest" title="Haunted Forest">Haunted Forest</a>. From there, it flows southeast into the <a data-rte-meta="{"type":"internal","text":"Shivering Sea","link":"Shivering Sea","wasblank":true,"noforce":true,"wikitext":"[[Shivering Sea]]"}" data-rte-instance="130814-11156049956cca8fde09ad" href="/wiki/Shivering_Sea" title="Shivering Sea">Shivering Sea</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-11156049956cca8fde09ad" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-11156049956cca8fde09ad" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"BeyondWall","placeholder":1,"wikitext":"{{BeyondWall}}"}" data-rte-instance="130814-11156049956cca8fde09ad" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+
+The Antler River is a river located beyond the Wall.\A Nest of Vipers\\/ref} data-rte-instance130814-11156049956cca8fde09ad classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+In the books
+In the A Song of Ice and Fire novels, the Antler River is formed by several arches originating in the northeast of the Haunted Forest. From there, it flows southeast into the Shivering Sea.
+
+See also
+
+
+References
+
+
+
+ &nbsp; Loading editor

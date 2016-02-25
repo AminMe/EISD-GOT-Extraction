@@ -5,71 +5,71 @@
 {{Character
 | Title = Mandon Moore
 | Image = Mandon_2x09.png
-| Season = [[Season 1|1]], [[Season 2|2]]
-| First = "[[You Win or You Die]]"
-| Last = "[[Blackwater]]"
-| Appearances = 4 episodes <small>([[#Appearances|see below]])</small>
-| Status = [[:Category:Status: Dead|Deceased]]
-| Allegiance = [[House Moore]]<br>The [[Kingsguard]]
-| Titles = [[Ser]]
-| Death = Impaled by [[Podrick Payne]] during the [[Battle of the Blackwater]]
-| DeathEp = "Blackwater"
-| Actor = [[:Category:Performer Unidentified|Unidentified extra(s)]]<br>(until "Blackwater")<br>
-[[James Doran]] ("Blackwater")
+| Season = 1, 2
+| First = You Win or You Die
+| Last = Blackwater
+| Appearances = 4 episodes (see below)
+| Status = Deceased
+| Allegiance = House MooreThe Kingsguard
+| Titles = Ser
+| Death = Impaled by Podrick Payne during the Battle of the Blackwater
+| DeathEp = Blackwater
+| Actor = Unidentified extra(s)(until Blackwater)
+James Doran (Blackwater)
 }}
-{{Quote|The lads caught a groom and two maids trying to sneak away with a stolen horse and some gold cups.|Ser Mandon to Queen Cersei|Blackwater}} Ser '''Mandon Moore''' is a recurring character in the [[Season 1|first season]] and [[Season 2|second season]]. He is initially played by an unidentified extra and first identified in "[[The Prince of Winterfell]]". The role was recast for the episode "[[Blackwater]]" with guest star [[James Doran]] taking over. Ser Mandon Moore is a member of the [[Kingsguard]] and defends King [[Joffrey Baratheon]] as he defended King [[Robert Baratheon]] before him.
+Quote|The lads caught a groom and two maids trying to sneak away with a stolen horse and some gold cups.|Ser Mandon to Queen Cersei|Blackwater&nbsp;Ser&nbsp;Mandon Moore is a recurring character in the first season and second season. He is initially played by an unidentified extra and first identified in The Prince of Winterfell. The role was recast for the episode Blackwater with guest star James Doran taking over. Ser Mandon Moore is a member of the Kingsguard and defends King Joffrey Baratheon as he defended King Robert Baratheon before him.
 
-==Biography==
-===Background===
-Ser Mandon Moore is a member of [[House Moore]], a noble house from the [[Vale of Arryn|Vale]].
+Biography
+Background
+Ser Mandon Moore is a member of House Moore, a noble house from the Vale.
 
-===[[Season 1]]===
-Ser Mandon was among the Kingsguard that attacked [[Eddard Stark]] when he tried to de-throne King Joffrey.<ref>"[[You Win or You Die]]"</ref> He was also present when Ser [[Barristan Selmy]] was dismissed from the Kingsguard.<ref>"[[The Pointy End]]"</ref>
+Season 1
+Ser Mandon was among the Kingsguard that attacked Eddard Stark when he tried to de-throne King Joffrey.You Win or You Die He was also present when Ser Barristan Selmy was dismissed from the Kingsguard.The Pointy End
 
-===[[Season 2]]===
-Ser Mandon stands guard during a dinner held by Queen [[Cersei]] and [[Tyrion Lannister]] during which Cersei claims to have imprisoned Tyrion's lover/whore. The Queen orders the knight to bring her before them. Ser Mandon and one of his sworn brothers then bring in [[Ros]], whom Cersei mistook for Tyrion's lover (which was actually [[Shae]]).<ref>"[[The Prince of Winterfell]]"</ref>
+Season 2
+Ser Mandon stands guard during a dinner held by Queen Cersei and Tyrion Lannister during which Cersei&nbsp;claims to&nbsp;have imprisoned Tyrion's lover/whore. The Queen orders the knight to bring her before them. Ser Mandon and one of his sworn brothers then bring in Ros, whom Cersei mistook for Tyrion's lover (which was actually Shae).The Prince of Winterfell
 
-Immediately prior to the [[Battle of the Blackwater]], Ser Mandon informs Queen Cersei of a groom and two maids attempting to flee with a stolen horse and some gold cups. The Queen orders Ser Mandon to have [[Ilyn Payne]] put their heads on spikes outside the stables as a warning.<ref name="E19">"[[Blackwater (episode)|Blackwater]]"</ref>
+Immediately prior to the Battle of the Blackwater, Ser Mandon informs Queen Cersei of a groom and two maids attempting to flee with a stolen horse and some gold cups. The Queen orders Ser Mandon to have Ilyn Payne put their heads on spikes outside the stables as a warning.Blackwater
 
-During the battle, Ser Mandon and Ser [[Boros Blount]] remain at the side of King [[Joffrey]] as he oversees the [[King's Landing|city]]'s defenses alongside [[Tyrion Lannister]], the [[Hand of the King]]. When the forces of [[Stannis Baratheon]] reach the city and begin invading it, Joffrey departs for the safety of the [[Red Keep]], at the urge of Queen [[Cersei]], and orders Ser Mandon and Ser Boros to aid Tyrion.<ref name="E19"/>
+During the battle, Ser Mandon and Ser Boros Blount remain at the side of King Joffrey as he oversees the city's defenses alongside Tyrion Lannister, the Hand of the King. When the forces of Stannis Baratheon reach the city and begin invading it, Joffrey departs for the safety of the Red Keep, at the urge of Queen Cersei, and orders Ser Mandon and Ser Boros to aid Tyrion.
 
-[[File:Mandon_death.jpg|thumb|208px|Podrick kills Mandon when he tries to kill Tyrion.]]
-Tyrion urges a host of men-at-arms to help him fight the invaders and orders Ser Mandon and Ser Boros to join him in leading the battle. Ser Mandon is also ordered to carry the royal banner. In the midst of battle, Ser Mandon attempts to murder Tyrion, right after Tyrion thought he was safe and took his own helmet off. Ser Mandon narrowly misses making a killing stroke, by mere inches – the stroke only succeeded in badly slashing Tyrion across the face. Mandon readies to kill Tyrion with a second swordstroke but is then killed by Tyrion's squire, [[Podrick Payne]], who drives a lance through the back of his head.<ref name="E19"/>
+thumb|208px|Podrick kills Mandon when he tries to kill Tyrion.
+Tyrion urges a host of men-at-arms to help him fight the invaders and orders Ser Mandon and Ser Boros to join him in leading the battle. Ser Mandon is also ordered to carry the royal banner. In the midst of battle, Ser Mandon attempts to murder Tyrion, right after Tyrion thought he was safe and took his own helmet off. Ser Mandon narrowly misses making a killing stroke, by mere inches – the stroke only succeeded in badly slashing Tyrion across the face. Mandon readies to kill Tyrion with a second swordstroke but is then killed by&nbsp;Tyrion's squire, Podrick Payne, who drives a lance through the back of his head.
 
-===[[Season 3|Season&nbsp;3]]===
-While pondering over their new forced marriages, Tyrion asks Cersei whether or not she employed Ser Mandon to kill him while on the Blackwater. She refuses to reply and Tyrion suspects King Joffrey to be the one who gave the order.<ref>"[[The Climb]]"</ref>
+Season&nbsp;3
+While pondering over their new forced marriages, Tyrion asks Cersei whether or not she employed Ser Mandon to kill him while on the Blackwater. She refuses to reply and Tyrion suspects King Joffrey to be the one who gave the order.The Climb
 
-===[[Season 4]]===
-During their mission to locate [[Sansa Stark]], [[Brienne of Tarth|Brienne]] asks Podrick if he did anything remotely related to combat while he squired for Tyrion. He proceeds to tell Brienne how he killed Ser Mandon to protect Tyrion during the Battle of the Blackwater.<ref>"[[First of His Name]]"</ref>
+Season 4
+During their mission to locate Sansa Stark, Brienne asks Podrick if he did anything remotely related to combat while he squired for Tyrion. He proceeds to tell Brienne how he killed Ser Mandon to protect Tyrion during the Battle of the Blackwater.First of His Name
 
-==Appearances==
-{{Season One Appearances|7=yes|8=yes}}
-{{Season Two Appearances|8=yes|9=yes}}
+Appearances
+Season One Appearances|7yes|8yes
+Season Two Appearances|8yes|9yes
 
-==Gallery==
-<gallery>
-Mandon Moore.png|Ser Mandon Moore guarding the Queen Regent in "[[The Prince of Winterfell]]".
-Tyrion speech.jpg|Kingsguard behind Tyrion as he rallies the troops in "[[Blackwater]]".
-</gallery>
+Gallery
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, Mandon Moore is a member of Robert Baratheon's Kingsguard. [[Jaime Lannister]] considers him the most dangerous after himself because his face gives nothing away. In ''A Clash of Kings'', Ser Mandon is not present when Cersei reveals Tyrion she has captured the whore she believes to be his lover. In the books, Ser Mandon is also killed by Podrick Payne, but Pod shoves him into Blackwater Bay as he attempts to assassinate Tyrion Lannister; Moore is dragged underwater by the weight of his armor and drowns.
+Mandon Moore.png|Ser Mandon Moore guarding the Queen Regent in The Prince of Winterfell.
+Tyrion speech.jpg|Kingsguard behind Tyrion as he rallies the troops in Blackwater.
 
-Very little is known about Mandon. He came from [[the Vale]] and was brought to [[King's Landing]] by Lord [[Jon Arryn]]. [[Robert Baratheon]] made him a member of the Kingsguard, but neither Robert or even Jon loved him very much - possibly implying that Jon brought him from the Vale at [[Lysa Arryn]]'s request. In turn, this would suggest that Lysa was influenced to make this request by [[Petyr Baelish]], and therefore that Mandon may have actually been one of Littlefinger's agents.
 
-He was never close to his fellow members of the Kingsguard. [[Barristan Selmy]] said of him that he had no friends but his sword and no life but duty. [[Jaime Lannister]] regarded him as a dangerous man, but not a man others would follow. Unlike his sworn brothers [[Meryn Trant]] and [[Boros Blount]], who are regarded as being loyal to the Queen, Ser Mandon's true allegiance remains a mystery and is the subject of speculation. So far, it is unknown who sent him to kill Tyrion.
+In the books
+In the A Song of Ice and Fire novels, Mandon Moore is a member of Robert Baratheon's Kingsguard. Jaime Lannister considers him the most dangerous after himself because his face gives nothing away. In A Clash of Kings, Ser Mandon is not present when Cersei reveals Tyrion she has captured the whore she believes to be his lover. In the books, Ser Mandon is also killed by Podrick Payne, but Pod shoves him into Blackwater Bay as he attempts to assassinate Tyrion Lannister; Moore is dragged underwater by the weight of his armor and drowns.
+
+Very little is known about Mandon. He came from the Vale and was brought to King's Landing by Lord Jon Arryn. Robert Baratheon made him a member of the Kingsguard, but neither Robert or even Jon loved him very much - possibly implying that Jon brought him from the Vale at Lysa Arryn's request. In turn, this would suggest that Lysa was influenced to make this request by Petyr Baelish, and therefore that Mandon may have actually been one of Littlefinger's agents.
+
+He was never close to his fellow members of the Kingsguard. Barristan Selmy said of him that he had no friends but his sword and no life but duty. Jaime Lannister regarded him as a dangerous man, but not a man others would follow. Unlike his sworn brothers Meryn Trant and Boros Blount, who are regarded as being loyal to the Queen, Ser Mandon's true allegiance remains a mystery and is the subject of speculation. So far, it is unknown who sent him to kill Tyrion.
 
 In the TV series, Tyrion rationalizes that only Cersei or Joffrey could have ordered a Kingsguard to kill him, but even Cersei isn't stupid enough to make such a clumsy assassination attempt: while Joffrey probably hoped that Tyrion's assassination would go unnoticed in the confusion of the battle, it would still have happened in front of his entire army and thus leave dozens of witnesses. Moreover, any witnesses would know that only Cersei or Joffrey could have ordered Ser Mandon, and it would have been more intelligent to order a random sellsword to kill Tyrion than a Kingsguard. On the other hand this hasn't been officially confirmed within the TV series, it is only Tyrion's speculation - it doesn't occur to Tyrion that an allegedly honorable Kingsguard could simply have been corrupted into doing it by almost anyone (i.e. Littlefinger, Varys, etc.).
 
-==See also==
-* {{AWOIAF}}
+See also
+* AWOIAF
 
-==References==
-{{Reflist|2}}
-{{Kingsguard navbox}}
-{{King's Landing Baratheon navbox}}
-{{DEFAULTSORT:Moore, Mandon}}
-<!--For initial appearances-->
+References
+Reflist|2
+Kingsguard navbox
+King's Landing Baratheon navbox
+DEFAULTSORT:Moore, Mandon
 
-[[ru:Мендон Мур]]
-[[zh:曼登·穆尔]]
+
+ru:Мендон Мур
+zh:曼登·穆尔

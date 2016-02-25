@@ -6,46 +6,46 @@
 {{Character
 |Title=Armeca
 |Image=Armeca.jpg
-|Season=[[Season 1|1]], [[Season 2|2]]
-|First="[[You Win or You Die]]"
-|Last="[[Blackwater]]"
-|Appearances=4 episodes <small>([[#Appearances|see below]])</small>
-|Status = [[:Category:Status: Alive|Alive]]
-|Allegiance = [[Petyr Baelish]]
-|Place=[[Flea Bottom]], [[King's Landing]]
-|Actor = [[Sahara Knite]]
+|Season=1, 2
+|First=You Win or You Die
+|Last=Blackwater
+|Appearances=4 episodes (see below)
+|Status = Alive
+|Allegiance = Petyr Baelish
+|Place=Flea Bottom, King's Landing
+|Actor = Sahara Knite
 }}
 
-{{Quote|I like your nose. How many times did you break it?|Armeca to [[Bronn]]|Blackwater}}
+Quote|I like your nose. How many times did you break it?|Armeca to Bronn|Blackwater
 
-'''Armeca''' is a recurring character in the [[Season 1|first]] and [[Season 2|second]] seasons. She is played by guest star [[Sahara Knite]] and debuts in "[[You Win or You Die]]." Armeca is a [[Prostitution|prostitute]] working in the brothel owned by [[Petyr Baelish|Petyr "Littlefinger" Baelish]] in [[King's Landing]].
+Armeca is a recurring character in the first and second seasons. She is played by guest star Sahara Knite and debuts in You Win or You Die. Armeca is a prostitute working in the brothel owned by Petyr Littlefinger Baelish in King's Landing.
 
-==Biography==
-===Background===
-Armeca is a [[Prostitution|prostitute]] working in a brothel in [[King's Landing]] owned by [[Petyr Baelish|Lord Petyr Baelish]].
+Biography
+Background
+Armeca is a prostitute working in a brothel in King's Landing owned by Lord Petyr Baelish.
 
-===[[Season 1]]===
-She is "tutored" by the newly-arrived [[Ros]], while Petyr lectures them on the art of seduction.<ref>"[[You Win or You Die]]"</ref>
+Season 1
+She is tutored by the newly-arrived Ros, while Petyr lectures them on the art of seduction.You Win or You Die
 
-===[[Season 2]]===
-She continues to work for Lord [[Petyr Baelish]] and feigns that she cannot speak the [[Common Tongue]] to appear exotic to her customers despite being from [[Flea Bottom]] in [[King's Landing]] itself. [[Ros]] is aware of her using this ploy. She is present at Lord Baelish's brothel when the [[City Watch|gold cloaks]], led by Lord [[Janos Slynt]], appear to find [[Mhaegen]] and kill her daughter [[Barra]], one of the late King [[Robert Baratheon|Robert]]'s bastard children.<ref>"[[The North Remembers]]"</ref> When Ros is too upset to work because of this incident Lord Petyr assigns her customer to Armeca, who has only just finished with one of her own. Petyr mistakenly calls her "Aremca".<ref>"[[The Night Lands]]"</ref>
+Season 2
+She continues to work for Lord Petyr Baelish and feigns that she cannot speak the Common Tongue to appear exotic to her customers despite being from Flea Bottom in King's Landing itself. Ros is aware of her using this ploy. She is present at Lord Baelish's brothel when the gold cloaks, led by Lord Janos Slynt, appear to find Mhaegen and kill her daughter Barra, one of the late King Robert's bastard children.The North Remembers When Ros is too upset to work because of this incident Lord Petyr assigns her customer to Armeca, who has only just finished with one of her own. Petyr mistakenly calls her Aremca.The Night Lands
 
-Armeca is in the [[Red Keep]] entertaining [[Bronn]] immediately before the [[Battle  of the Blackwater|Battle of the Blackwater]]. She admires his broken nose and asks how many times he has injured it. He tells her as he publicly undresses her. Their time is cut short by the arrival of [[Sandor Clegane]], who antagonizes Bronn. They face off against one another but are interrupted when the bells sound a call to arms.<ref>"[[Blackwater]]"</ref>
+Armeca is in the Red Keep entertaining Bronn immediately before the Battle of the Blackwater. She admires his broken nose and asks how many times he has injured it. He tells her as he publicly undresses her. Their time is cut short by the arrival of Sandor Clegane, who antagonizes Bronn. They face off against one another but are interrupted when the bells sound a call to arms.Blackwater
 
-==Appearances==
-{{Season One Appearances|7=yes}}
-{{Season Two Appearances|yes|yes|9=yes}}
+Appearances
+Season One Appearances|7=yes
+Season Two Appearances|yes|yes|9=yes
 
-==In the books==
-Armeca is the second character (after [[Ros]]) created specifically for the television series and does not appear in the [[A Song of Ice and Fire|novels]].
+In the books
+Armeca is the second character (after Ros) created specifically for the television series and does not appear in the novels.
 
-==See also==
-*{{AWOIAF}}
+See also
+*AWOIAF
 
-==References==
-{{Reflist|2}}
+References
+Reflist|2
 
-{{Characters significantly changed between books and TV series}}
+Characters significantly changed between books and TV series
 
-[[de:Armeca]]
-[[ru:Армека]]
+de:Armeca
+ru:Армека

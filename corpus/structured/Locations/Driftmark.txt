@@ -1,19 +1,34 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Driftmark\n| Image=\n| Image size=\n| Location=[[Blackwater Bay]], [[Westeros]]\n| Type=Island<br \/>Castle\n| Population=\n| Rulers=[[House Velaryon]]\n| Religion=\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=More than 500 years\n| Founder=\n}}"}" data-rte-instance="130814-114215399556cca8f99affe" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Driftmark</b> is an island in <a data-rte-meta="{"type":"internal","text":"Blackwater Bay","link":"Blackwater Bay","wasblank":true,"noforce":true,"wikitext":"[[Blackwater Bay]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="/wiki/Blackwater_Bay" title="Blackwater Bay">Blackwater Bay</a> near <a data-rte-meta="{"type":"internal","text":"Dragonstone","link":"Dragonstone","wasblank":true,"noforce":true,"wikitext":"[[Dragonstone]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="/wiki/Dragonstone" title="Dragonstone" class="mw-redirect">Dragonstone</a>. It is the seat of <a data-rte-meta="{"type":"internal","text":"House Velaryon","link":"House Velaryon","wasblank":true,"noforce":true,"wikitext":"[[House Velaryon]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="/wiki/House_Velaryon" title="House Velaryon">House Velaryon</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Golden Crown]]\"<\/ref>"}" data-rte-instance="130814-114215399556cca8f99affe" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true"><i><a data-rte-meta="{"type":"internal","text":"The Lineages and Histories of the Great Houses of the Seven Kingdoms","link":"The Lineages and Histories of the Great Houses of the Seven Kingdoms","wasblank":true,"noforce":true,"wikitext":"[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="/wiki/The_Lineages_and_Histories_of_the_Great_Houses_of_the_Seven_Kingdoms" title="The Lineages and Histories of the Great Houses of the Seven Kingdoms">The Lineages and Histories of the Great Houses of the Seven Kingdoms</a></i> mentions that the firstborn son of <a data-rte-meta="{"type":"internal","text":"Orys Baratheon","link":"Orys Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Orys Baratheon]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="/wiki/Orys_Baratheon" title="Orys Baratheon">Orys Baratheon</a> married <a data-rte-meta="{"type":"internal","text":"Monica Velaryon","link":"Monica Velaryon","wasblank":true,"noforce":true,"wikitext":"[[Monica Velaryon]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="/wiki/Monica_Velaryon" title="Monica Velaryon" class="mw-redirect">Monica Velaryon</a> at Driftmark when he was seventeen.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[A Golden Crown]]\"<\/ref>"}" data-rte-instance="130814-114215399556cca8f99affe" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-114215399556cca8f99affe" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-114215399556cca8f99affe" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Crownlands","placeholder":1,"wikitext":"{{The Crownlands}}"}" data-rte-instance="130814-114215399556cca8f99affe" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"es:Marcaderiva","link":"es:Marcaderiva","wasblank":true,"noforce":true,"wikitext":"[[es:Marcaderiva]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="http://hieloyfuego.wikia.com/wiki/Marcaderiva" class="extiw" title="es:Marcaderiva">es:Marcaderiva</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"pl:Driftmark","link":"pl:Driftmark","wasblank":true,"noforce":true,"wikitext":"[[pl:Driftmark]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="http://graotron.wikia.com/wiki/Driftmark" class="extiw" title="pl:Driftmark">pl:Driftmark</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u0414\u0440\u0438\u0444\u0442\u043c\u0430\u0440\u043a","link":"ru:\u0414\u0440\u0438\u0444\u0442\u043c\u0430\u0440\u043a","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0414\u0440\u0438\u0444\u0442\u043c\u0430\u0440\u043a]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="http://ru.gameofthrones.wikia.com/wiki/Дрифтмарк" class="extiw" title="ru:Дрифтмарк">ru:Дрифтмарк</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u6f6e\u5934\u5c9b","link":"zh:\u6f6e\u5934\u5c9b","wasblank":true,"noforce":true,"wikitext":"[[zh:\u6f6e\u5934\u5c9b]]"}" data-rte-instance="130814-114215399556cca8f99affe" href="http://zh.asoiaf.wikia.com/wiki/潮头岛" class="extiw" title="zh:潮头岛">zh:潮头岛</a>
-</p>
-   Loading editor
+title=Driftmark
+| image size=
+| location=Blackwater bay, westeros
+| type=IslandCastle
+| Population=
+| Rulers=House Velaryon
+| Religion=
+| Military=
+| Institutions=
+| Places=
+| Founding=
+| Age=More than 500 years
+| Founder=
+}}}
+
+Castle
+| Population=
+| Rulers=House Velaryon
+| Religion=
+| Military=
+| Institutions=
+| Places=
+| Founding=
+| Age=More than 500 years
+| Founder=
+}}} data-rte-instance130814-114215399556cca8f99affe classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Driftmark is an island in Blackwater Bay near Dragonstone. It is the seat of House Velaryon.\A Golden Crown\\/ref} data-rte-instance130814-114215399556cca8f99affe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
+
+ Season 1 
+
+The Lineages and Histories of the Great Houses of the Seven Kingdoms mentions that the firstborn son of Orys Baratheon married Monica Velaryon at Driftmark when he was seventeen.\A Golden Crown\\/ref} data-rte-instance130814-114215399556cca8f99affe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / See also References 
+
+ 
+
+es:Marcaderiva pl:Driftmark ru:Дрифтмарк zh:潮头岛  Loading editor

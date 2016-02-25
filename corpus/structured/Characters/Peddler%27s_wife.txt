@@ -1,7 +1,19 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Peddler's wife\n| Image = \n| Season = [[Season 5|5]]\n| First=\n| Last=\n| Appearances=\n| Status= [[:Category:Status: Alive|Alive]]\n| Titles=\n| Aka=\n| Place = [[Meereen]]\n| Family =\n| Allegiance =\n| Family=[[Meereenese peddler]] - husband\n| Actor =[[Fisun Burgess]]}}"}" data-rte-instance="130814-134979644756cca83bd3e46" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>peddler's wife</b> is a character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-134979644756cca83bd3e46" href="/wiki/Season_5" title="Season 5">fifth season</a>. She will be played by <a data-rte-meta="{"type":"internal","text":"Fisun Burgess","link":"Fisun Burgess","wasblank":true,"noforce":true,"wikitext":"[[Fisun Burgess]]"}" data-rte-instance="130814-134979644756cca83bd3e46" href="/wiki/Fisun_Burgess" title="Fisun Burgess">Fisun Burgess</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/www.spotlight.com\/interactive\/cv\/1\/F4708.html]<\/ref>"}" data-rte-instance="130814-134979644756cca83bd3e46" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-134979644756cca83bd3e46" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Peddler's wife
+| image=
+| season=5
+| first=
+| last=
+| appearances=
+| status=alive
+| titles=
+| aka=
+| place=Meereen
+| family[[Meereenese allegiance
+| peddler]] - husband
+| actor=Fisun burgess}}}
+
+ 
+
+A peddler's wife is a character in the fifth season. She will be played by Fisun Burgess.http:\/\/www.spotlight.com\/interactive\/cv\/1\/F4708.html\/ref} data-rte-instance130814-134979644756cca83bd3e46 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / References 
+
+  Loading editor

@@ -1,24 +1,41 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Petyr Baratheon\n|Image =  Baratheon_stillborns_Kissed_by_Fire.png\n|Season = [[Season 3]]\n|First = \"[[Kissed by Fire]]\"\n|Last = \n|Appearances = 1 episode <small>[[#Appearances|(see below)]]<\/small>\n|Status = [[:Category:Status: Dead|Deceased]]\n|Death=Stillborn\n|DeathEp = \n|Family = {[[Stannis Baratheon]]} - father<br>{[[Selyse Baratheon]]} - mother<br>{[[Shireen Baratheon]]} - sister<br>{[[Tommard Baratheon]]} - brother (stillborn)<br>{[[Edric Baratheon]]} - brother (stillborn)<br>{[[Robert Baratheon]]} - uncle<br>{[[Renly Baratheon]]} - uncle<br>{[[Imry Florent]]} - uncle<br> [[Gendry]] - cousin<br>{[[Barra]]} - cousin\n|Actor = }}"}" data-rte-instance="130814-102719307056cca6a810d68" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|My sweet boys. Petyr, Tommard, Edric...|Queen [[Selyse Baratheon]]|Kissed by Fire}}"}" data-rte-instance="130814-102719307056cca6a810d68" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Petyr Baratheon</b> is one of the stillborn sons of <a data-rte-meta="{"type":"internal","text":"Stannis Baratheon","link":"Stannis Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Stannis Baratheon]]"}" data-rte-instance="130814-102719307056cca6a810d68" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> by his wife <a data-rte-meta="{"type":"internal","text":"Selyse Florent","link":"Selyse Florent","wasblank":true,"noforce":true,"wikitext":"[[Selyse Florent]]"}" data-rte-instance="130814-102719307056cca6a810d68" href="/wiki/Selyse_Florent" title="Selyse Florent" class="mw-redirect">Selyse Florent</a>. His mother keeps his corpse in a glass jar on display in her chamber along with his also stillborn brothers, <a data-rte-meta="{"type":"internal","text":"Tommard","link":"Tommard Baratheon","wasblank":false,"noforce":true,"wikitext":"[[Tommard Baratheon|Tommard]]"}" data-rte-instance="130814-102719307056cca6a810d68" href="/wiki/Tommard_Baratheon" title="Tommard Baratheon">Tommard</a> and <a data-rte-meta="{"type":"internal","text":"Edric","link":"Edric Baratheon","wasblank":false,"noforce":true,"wikitext":"[[Edric Baratheon|Edric]]"}" data-rte-instance="130814-102719307056cca6a810d68" href="/wiki/Edric_Baratheon" title="Edric Baratheon">Edric</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Three Appearances","placeholder":1,"wikitext":"{{Season Three Appearances|5=yes}}"}" data-rte-instance="130814-102719307056cca6a810d68" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">Family tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Baratheon family tree","placeholder":1,"wikitext":"{{House Baratheon family tree}}"}" data-rte-instance="130814-102719307056cca6a810d68" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">Gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"4973d1c6604fceaf93e5de204e07f1c4","id":0,"images":[{"name":"Selyse Fetus Jar Concept Art.jpg","caption":"Concept art of the fetus jars.","link":"","linktext":"","shorttext":"","data-caption":"Concept art of the fetus jars."}],"imagesShown":[{"name":"Selyse Fetus Jar Concept Art.jpg","caption":"Concept art of the fetus jars.","link":"","linktext":"","shorttext":"","data-caption":"Concept art of the fetus jars."}],"params":{},"type":1,"wikitext":"<gallery>\nSelyse Fetus Jar Concept Art.jpg|Concept art of the fetus jars.\n<\/gallery>"}" data-rte-instance="130814-102719307056cca6a810d68" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-<h2 data-rte-empty-lines-before="1">Behind the scenes</h2>
-<p data-rte-fromparser="true">Staff writer <a data-rte-meta="{"type":"internal","text":"Bryan Cogman","link":"Bryan Cogman","wasblank":true,"noforce":true,"wikitext":"[[Bryan Cogman]]"}" data-rte-instance="130814-102719307056cca6a810d68" href="/wiki/Bryan_Cogman" title="Bryan Cogman">Bryan Cogman</a> came up with the idea of the stillborn fetuses being preserved in jars. Cogman said in an interview, "<i>It was a proud day for me as a writer when I walked on set and saw those magnificently nasty prop dead babies floating in those jars.</i>"<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/www.hbo.com\/game-of-thrones\/episodes\/3\/25-kissed-by-fire\/interview\/bryan-cogman.html HBO: Game of Thrones: Interview With Bryan Cogman]<\/ref>"}" data-rte-instance="130814-102719307056cca6a810d68" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-102719307056cca6a810d68" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> book series, there is no mention Selyse Baratheon having any stillborn sons.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-102719307056cca6a810d68" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Baratheon, Petyr","placeholder":1,"wikitext":"{{DEFAULTSORT:Baratheon, Petyr}}"}" data-rte-instance="130814-102719307056cca6a810d68" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Petyr baratheon
+|image=Baratheon_stillborns_Kissed_by_Fire.png
+|Season = season 3
+|first=\Kissed by fire\
+|last=
+|Appearances 1 episode (see below)\/small
+|Status = Deceased
+|Death=Stillborn
+|DeathEp = 
+|Family = Stannis Baratheon - fatherSelyse Baratheon - motherShireen Baratheon - sisterTommard Baratheon - brother (stillborn)Edric Baratheon - brother (stillborn)Robert Baratheon - uncleRenly Baratheon - uncleImry Florent - uncle Gendry - cousinBarra - cousin
+|Actor = }}}
+
+(see below)\/small
+|Status = Deceased
+|Death=Stillborn
+|DeathEp = 
+|Family = Stannis Baratheon - father 
+Selyse Baratheon - mother 
+Shireen Baratheon - sister 
+Tommard Baratheon - brother (stillborn) 
+Edric Baratheon - brother (stillborn) 
+Robert Baratheon - uncle 
+Renly Baratheon - uncle 
+Imry Florent - uncle 
+ Gendry - cousin 
+Barra - cousin
+|Actor  }}} data-rte-instance130814-102719307056cca6a810d68 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Petyr Baratheon is one of the stillborn sons of Stannis Baratheon by his wife Selyse Florent. His mother keeps his corpse in a glass jar on display in her chamber along with his also stillborn brothers, Tommard andEdric. Appearances 
+
+ Family tree 
+
+ Gallery 
+
+
+Selyse Fetus Jar Concept Art.jpg|Concept art of the fetus jars.
+\/gallery} data-rte-instance130814-102719307056cca6a810d68 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Behind the scenes 
+
+Staff writer Bryan Cogman came up with the idea of the stillborn fetuses being preserved in jars. Cogman said in an interview, It was a proud day for me as a writer when I walked on set and saw those magnificently nasty prop dead babies floating in those jars.http:\/\/www.hbo.com\/game-of-thrones\/episodes\/3\/25-kissed-by-fire\/interview\/bryan-cogman.html HBO: Game of Thrones: Interview With Bryan Cogman\/ref} data-rte-instance130814-102719307056cca6a810d68 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
+
+In the A Song of Ice and Fire book series, there is no mention Selyse Baratheon having any stillborn sons. References 
+
+  Loading editor

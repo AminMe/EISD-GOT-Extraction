@@ -1,20 +1,31 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Mooton]]\n| Image=\n| Image size=\n| Sigil=A red salmon on a white field\n| Motto=\n| Titles=\n| Seat=[[Maidenpool]]\n| Region=The [[Riverlands]]\n| Lord=\n| Heir=\n| Allegiance=[[House Tully]]\n| Vassals=\n| Cadet branches=\n| Date of founding=\n| Age=\n| Founder=\n| Ancestral weapon=\n}}"}" data-rte-instance="130814-169521339356cca991c6537" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Mooton</b> of <a data-rte-meta="{"type":"internal","text":"Maidenpool","link":"Maidenpool","wasblank":true,"noforce":true,"wikitext":"[[Maidenpool]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Maidenpool" title="Maidenpool">Maidenpool</a> is a vassal house that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Tully","link":"House Tully","wasblank":true,"noforce":true,"wikitext":"[[House Tully]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/House_Tully" title="House Tully">House Tully</a> of <a data-rte-meta="{"type":"internal","text":"Riverrun","link":"Riverrun","wasblank":true,"noforce":true,"wikitext":"[[Riverrun]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Riverrun" title="Riverrun">Riverrun</a>. They control Maidenpool, a port town near the border between the <a data-rte-meta="{"type":"internal","text":"Riverlands","link":"Riverlands","wasblank":true,"noforce":true,"wikitext":"[[Riverlands]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Riverlands" title="Riverlands" class="mw-redirect">Riverlands</a> and the <a data-rte-meta="{"type":"internal","text":"Crownlands","link":"Crownlands","wasblank":true,"noforce":true,"wikitext":"[[Crownlands]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Crownlands" title="Crownlands" class="mw-redirect">Crownlands</a>, on the Bay of Crabs. Their sigil is a red salmon.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">To protect her identity, <a data-rte-meta="{"type":"internal","text":"Arya Stark","link":"Arya Stark","wasblank":true,"noforce":true,"wikitext":"[[Arya Stark]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a> claims to be from Maidenpool while serving <a data-rte-meta="{"type":"internal","text":"Tywin Lannister","link":"Tywin Lannister","wasblank":true,"noforce":true,"wikitext":"[[Tywin Lannister]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Tywin_Lannister" title="Tywin Lannister">Tywin Lannister</a> as a <a data-rte-meta="{"type":"internal","text":"cupbearer","link":"cupbearer","wasblank":true,"noforce":true,"wikitext":"[[cupbearer]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Cupbearer" title="Cupbearer">cupbearer</a> at <a data-rte-meta="{"type":"internal","text":"Harrenhal","link":"Harrenhal","wasblank":true,"noforce":true,"wikitext":"[[Harrenhal]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Harrenhal" title="Harrenhal">Harrenhal</a>. Tywin catches her out in her lie when she cannot identify the sigil of House Mooton. Arya then claims to be from <a data-rte-meta="{"type":"internal","text":"Barrowton","link":"Barrowton","wasblank":true,"noforce":true,"wikitext":"[[Barrowton]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/Barrowton" title="Barrowton">Barrowton</a> in <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/The_North" title="The North">the North</a> instead, and accurately identifies its rulers, <a data-rte-meta="{"type":"internal","text":"House Dustin","link":"House Dustin","wasblank":true,"noforce":true,"wikitext":"[[House Dustin]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/House_Dustin" title="House Dustin">House Dustin</a>, and their sigil. Tywin is convinced.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Ghost of Harrenhal]]\"<\/ref>"}" data-rte-instance="130814-169521339356cca991c6537" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-169521339356cca991c6537" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Mooton are the rulers of Maidenpool and their motto is "Wisdom and Strength." Their current lord is William Mooton.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-169521339356cca991c6537" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-169521339356cca991c6537" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"River Houses","placeholder":1,"wikitext":"{{River Houses}}"}" data-rte-instance="130814-169521339356cca991c6537" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Muton","link":"de:Haus Muton","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Muton]]"}" data-rte-instance="130814-169521339356cca991c6537" href="http://de.gameofthrones.wikia.com/wiki/Haus_Muton" class="extiw" title="de:Haus Muton">de:Haus Muton</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u6155\u987f\u5bb6\u65cf","link":"zh:\u6155\u987f\u5bb6\u65cf","wasblank":true,"noforce":true,"wikitext":"[[zh:\u6155\u987f\u5bb6\u65cf]]"}" data-rte-instance="130814-169521339356cca991c6537" href="http://zh.asoiaf.wikia.com/wiki/慕顿家族" class="extiw" title="zh:慕顿家族">zh:慕顿家族</a>
-</p>
-   Loading editor
+title=House mooton
+| image size=
+| sigil=A red salmon on a white field
+| motto=
+| titles=
+| seat=Maidenpool
+| region=The riverlands
+| lord=
+| heir=
+| allegiance=House tully
+| vassals=
+| cadet branches=
+| date of founding=
+| age=
+| founder=
+| ancestral weapon=
+}}}
+
+ 
+
+House Mooton of Maidenpool is a vassal house that holds fealty to House Tully of Riverrun. They control Maidenpool, a port town near the border between the Riverlands and the Crownlands, on the Bay of Crabs. Their sigil is a red salmon. History 
+
+ Season 2 
+
+To protect her identity, Arya Stark claims to be from Maidenpool while serving Tywin Lannister as a cupbearer at Harrenhal. Tywin catches her out in her lie when she cannot identify the sigil of House Mooton. Arya then claims to be from Barrowton in the North instead, and accurately identifies its rulers, House Dustin, and their sigil. Tywin is convinced.\The Ghost of Harrenhal\\/ref} data-rte-instance130814-169521339356cca991c6537 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, House Mooton are the rulers of Maidenpool and their motto is Wisdom and Strength. Their current lord is William Mooton. See also (spoilers from the books) References 
+
+ 
+
+de:Haus Muton zh:慕顿家族  Loading editor

@@ -1,15 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Harroway]]\n| Image=Harroway sigil.png\n| Sigil=Per bend sinister orange and black rayonne, a castle countercharged.\n| Titles=\n| Seat=[[Harrenhal]]\n| Region=The [[Riverlands]]\n| Lord=\n| Heir=\n| Allegiance=[[House Tully]]\n| Vassals=\n| Age=\n| Founder=\n|ImageSize =250 px}}"}" data-rte-instance="130814-154019035556cca9a43cca6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Harroway</b> is an extinct noble house of <a data-rte-meta="{"type":"internal","text":"the Riverlands","link":"the Riverlands","wasblank":true,"noforce":true,"wikitext":"[[the Riverlands]]"}" data-rte-instance="130814-154019035556cca9a43cca6" href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a>. Their sigil was per bend sinister orange and black rayonne, a castle countercharged.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Their seat was the castle of <a data-rte-meta="{"type":"internal","text":"Harrenhal","link":"Harrenhal","wasblank":true,"noforce":true,"wikitext":"[[Harrenhal]]"}" data-rte-instance="130814-154019035556cca9a43cca6" href="/wiki/Harrenhal" title="Harrenhal">Harrenhal</a>, which was granted to them after the extinction of <a data-rte-meta="{"type":"internal","text":"House Towers","link":"House Towers","wasblank":true,"noforce":true,"wikitext":"[[House Towers]]"}" data-rte-instance="130814-154019035556cca9a43cca6" href="/wiki/House_Towers" title="House Towers">House Towers</a>. However, the Harroways also died out, and the castle was passed on to <a data-rte-meta="{"type":"internal","text":"House Strong","link":"House Strong","wasblank":true,"noforce":true,"wikitext":"[[House Strong]]"}" data-rte-instance="130814-154019035556cca9a43cca6" href="/wiki/House_Strong" title="House Strong">House Strong</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-154019035556cca9a43cca6" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Harroway's backstory is the same. There is a town, called Lord Harroway's Town, that is named after a former lord of the house.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">King <a data-rte-meta="{"type":"internal","text":"Maegor the Cruel","link":"Maegor Targaryen","wasblank":false,"noforce":true,"wikitext":"[[Maegor Targaryen|Maegor the Cruel]]"}" data-rte-instance="130814-154019035556cca9a43cca6" href="/wiki/Maegor_Targaryen" title="Maegor Targaryen">Maegor the Cruel</a>, who kept a harem of wives, was married to Alys Harroway.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-154019035556cca9a43cca6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"River Houses","placeholder":1,"wikitext":"{{River Houses}}"}" data-rte-instance="130814-154019035556cca9a43cca6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Harroway,House","placeholder":1,"wikitext":"{{DEFAULTSORT:Harroway,House}}"}" data-rte-instance="130814-154019035556cca9a43cca6" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House harroway
+| image=Harroway sigil.png
+| sigil=Per bend sinister orange and black rayonne, a castle countercharged.
+| titles=
+| seat=Harrenhal
+| region=The riverlands
+| lord=
+| heir=
+| allegiance=House tully
+| vassals=
+| age=
+| founder=
+|ImageSize =250 px}}}
+
+ 
+
+House Harroway is an extinct noble house of the Riverlands. Their sigil was per bend sinister orange and black rayonne, a castle countercharged. 
+
+Their seat was the castle of Harrenhal, which was granted to them after the extinction of House Towers. However, the Harroways also died out, and the castle was passed on to House Strong. In the books 
+
+In the A Song of Ice and Fire novels, House Harroway's backstory is the same. There is a town, called Lord Harroway's Town, that is named after a former lord of the house. 
+
+King Maegor the Cruel, who kept a harem of wives, was married to Alys Harroway. See also (spoilers from the books) 
+
+  Loading editor

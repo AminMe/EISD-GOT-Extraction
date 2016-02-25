@@ -1,14 +1,14 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Dialogue a-b","placeholder":1,"wikitext":"{{Dialogue a-b|Tormund|Most of them are at Hardhome. You know where that is?|Jon Snow|Up at Storrold's Point.|Jon Snow making peace between the Free Folk and the Night's Watch.|Kill the Boy}}"}" data-rte-instance="130814-86310169956cca8bd9ef2e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Storrold's Point</b> is a large peninsula in the southeast of the lands <a data-rte-meta="{"type":"internal","text":"beyond","link":"Beyond the Wall","wasblank":false,"noforce":true,"wikitext":"[[Beyond the Wall|beyond]]"}" data-rte-instance="130814-86310169956cca8bd9ef2e" href="/wiki/Beyond_the_Wall" title="Beyond the Wall">beyond</a> <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-86310169956cca8bd9ef2e" href="/wiki/The_Wall" title="The Wall">the Wall</a> and on the shores of the <a data-rte-meta="{"type":"internal","text":"Shivering Sea","link":"Shivering Sea","wasblank":true,"noforce":true,"wikitext":"[[Shivering Sea]]"}" data-rte-instance="130814-86310169956cca8bd9ef2e" href="/wiki/Shivering_Sea" title="Shivering Sea">Shivering Sea</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>Season 2 Bluray: War of the Five Kings feature - Beyond the Wall section<\/ref>"}" data-rte-instance="130814-86310169956cca8bd9ef2e" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Hardhome","link":"Hardhome","wasblank":true,"noforce":true,"wikitext":"[[Hardhome]]"}" data-rte-instance="130814-86310169956cca8bd9ef2e" href="/wiki/Hardhome" title="Hardhome">Hardhome</a>, a large settlement of <a data-rte-meta="{"type":"internal","text":"wildlings","link":"wildlings","wasblank":true,"noforce":true,"wikitext":"[[wildlings]]"}" data-rte-instance="130814-86310169956cca8bd9ef2e" href="/wiki/Wildlings" title="Wildlings" class="mw-redirect">wildlings</a>, is located in a sheltered cove at the tip of the peninsula.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Kill the Boy]]\"<\/ref>"}" data-rte-instance="130814-86310169956cca8bd9ef2e" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-86310169956cca8bd9ef2e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-86310169956cca8bd9ef2e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"BeyondWall","placeholder":1,"wikitext":"{{BeyondWall}}"}" data-rte-instance="130814-86310169956cca8bd9ef2e" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041c\u044b\u0441 \u0421\u0442\u043e\u0440\u0440\u043e\u043b\u0434\u0430","link":"ru:\u041c\u044b\u0441 \u0421\u0442\u043e\u0440\u0440\u043e\u043b\u0434\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041c\u044b\u0441 \u0421\u0442\u043e\u0440\u0440\u043e\u043b\u0434\u0430]]"}" data-rte-instance="130814-86310169956cca8bd9ef2e" href="http://ru.gameofthrones.wikia.com/wiki/Мыс_Сторролда" class="extiw" title="ru:Мыс Сторролда">ru:Мыс Сторролда</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u65af\u6258\u5fb7\u4e4b\u89d2","link":"zh:\u65af\u6258\u5fb7\u4e4b\u89d2","wasblank":true,"noforce":true,"wikitext":"[[zh:\u65af\u6258\u5fb7\u4e4b\u89d2]]"}" data-rte-instance="130814-86310169956cca8bd9ef2e" href="http://zh.asoiaf.wikia.com/wiki/斯托德之角" class="extiw" title="zh:斯托德之角">zh:斯托德之角</a>
-</p>
-   Loading editor
+
+Storrold's Point is a large peninsula in the southeast of the lands beyond the Wall and on the shores of the Shivering Sea.Season 2 Bluray: War of the Five Kings feature - Beyond the Wall section\/ref} data-rte-instance130814-86310169956cca8bd9ef2e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Hardhome, a large settlement of wildlings, is located in a sheltered cove at the tip of the peninsula.\Kill the Boy\\/ref} data-rte-instance130814-86310169956cca8bd9ef2e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+See also
+
+
+References
+
+
+ru:Мыс Сторролда
+zh:斯托德之角
+
+ &nbsp; Loading editor

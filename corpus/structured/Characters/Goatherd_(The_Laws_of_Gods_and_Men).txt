@@ -1,17 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Goatherd\n|Image = Goatherd.jpg\n|Season = [[Season 4|4]]\n|First = \"[[The Laws of Gods and Men]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Place = [[Meereen]]\n|Allegiance =\n|Culture = \n|Actor = [[Philip Arditti]]|Family = [[Goatherd's son|Unnamed son]]}}"}" data-rte-instance="130814-168460733956cca7a41f899" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>goatherd</b> from <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/Meereen" title="Meereen">Meereen</a> is a minor unnamed character who appears in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/Season_4" title="Season 4">fourth season</a>. He is played by <a data-rte-meta="{"type":"internal","text":"Philip Arditti","link":"Philip Arditti","wasblank":true,"noforce":true,"wikitext":"[[Philip Arditti]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/Philip_Arditti" title="Philip Arditti">Philip Arditti</a>.
-</p>
-<h2>Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">The <a data-rte-meta="{"type":"internal","text":"goatherd's son","link":"goatherd's son","wasblank":true,"noforce":true,"wikitext":"[[goatherd's son]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/Goatherd's_son" title="Goatherd's son">goatherd's son</a> witnesses <a data-rte-meta="{"type":"internal","text":"Drogon","link":"Drogon","wasblank":true,"noforce":true,"wikitext":"[[Drogon]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/Drogon" title="Drogon">Drogon</a> scorch the fields where his father's goats are grazing, before snatching one away in his talons. The goatherd brings a sack of charred remains before <a data-rte-meta="{"type":"internal","text":"Daenerys","link":"Daenerys Targaryen","wasblank":false,"noforce":true,"wikitext":"[[Daenerys Targaryen|Daenerys]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys</a> in her throne room atop the <a data-rte-meta="{"type":"internal","text":"Great Pyramid","link":"Great Pyramid","wasblank":true,"noforce":true,"wikitext":"[[Great Pyramid]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/Great_Pyramid" title="Great Pyramid">Great Pyramid</a> of Meereen. She promises him he'll be repaid thrice the value of his lost livestock in compensation. Grateful for her generosity, he stumbles away backwards out of the throne room.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Laws of Gods and Men]]\"<\/ref>"}" data-rte-instance="130814-168460733956cca7a41f899" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Four Appearances","placeholder":1,"wikitext":"{{Season Four Appearances|6=yes}}"}" data-rte-instance="130814-168460733956cca7a41f899" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Daenerys hears cases from several shepherds and goatherds of their livestock being carried away by her dragons, all of whom are promised fair compensation for their losses. As the number of claims increase, some of them are false, so Daenerys decrees that claimants must present themselves at the <a data-rte-meta="{"type":"internal","text":"Temple of the Graces","link":"Temple of the Graces","wasblank":true,"noforce":true,"wikitext":"[[Temple of the Graces]]"}" data-rte-instance="130814-168460733956cca7a41f899" href="/wiki/Temple_of_the_Graces" title="Temple of the Graces">Temple of the Graces</a> and swear a holy oath before the gods of Ghis that their claims are genuine.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-168460733956cca7a41f899" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Goatherd
+|Image = goatherd.jpg
+|season=4
+|first=\The laws of gods and men\
+|status=alive
+|place=Meereen
+|Allegiance =
+|culture=
+|Actor philip arditti|family=unnamed son}}}
+
+ A goatherd from Meereen is a minor unnamed character who appears in the fourth season. He is played by Philip Arditti. Biography 
+
+ Season 4 
+
+The goatherd's son witnesses Drogon scorch the fields where his father's goats are grazing, before snatching one away in his talons. The goatherd brings a sack of charred remains before Daenerys in her throne room atop the Great Pyramid of Meereen. She promises him he'll be repaid thrice the value of his lost livestock in compensation. Grateful for her generosity, he stumbles away backwards out of the throne room.\The Laws of Gods and Men\\/ref} data-rte-instance130814-168460733956cca7a41f899 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Daenerys hears cases from several shepherds and goatherds of their livestock being carried away by her dragons, all of whom are promised fair compensation for their losses. As the number of claims increase, some of them are false, so Daenerys decrees that claimants must present themselves at the Temple of the Graces and swear a holy oath before the gods of Ghis that their claims are genuine. References 
+
+  Loading editor

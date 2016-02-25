@@ -1,25 +1,44 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Night's-Watch-Main-Shield.PNG\n|link=Night's Watch\n}}"}" data-rte-instance="130814-127742537456cca75f1b866" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Duncan Liddle\n| Image=\n| Season=[[Season 5|5]]\n| First=\"[[Hardhome (episode)|Hardhome]]\"\n| Last=\n| Appearances=1 episode <small>([[#Appearances|see below]])<\/small>\n| Titles=\n| Aka=\n| Status= [[:Category:Status: Alive|Alive]]\n| Death= \n| Place=\n| Allegiance=[[Night's Watch]]\n| Family=\n| Actor=}}"}" data-rte-instance="130814-127742537456cca75f1b866" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Duncan! Hold the line! Hold the line!|[[Jon Snow]] to Duncan|Hardhome (episode)}}"}" data-rte-instance="130814-127742537456cca75f1b866" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Duncan Liddle</b> is a minor character appearing in <a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/Season_5" title="Season 5">Season 5</a>. He's played by an unidentified extra and debuts in "<a data-rte-meta="{"type":"internal","text":"Hardhome","link":"Hardhome (episode)","wasblank":false,"noforce":true,"wikitext":"[[Hardhome (episode)|Hardhome]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/Hardhome_(episode)" title="Hardhome (episode)">Hardhome</a>". Duncan Liddle is a <a data-rte-meta="{"type":"internal","text":"Ranger","link":"Ranger","wasblank":true,"noforce":true,"wikitext":"[[Ranger]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/Ranger" title="Ranger">Ranger</a> of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">Duncan accompanies <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> on his expedition to <a data-rte-meta="{"type":"internal","text":"Hardhome","link":"Hardhome","wasblank":true,"noforce":true,"wikitext":"[[Hardhome]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/Hardhome" title="Hardhome">Hardhome</a> to convince the <a data-rte-meta="{"type":"internal","text":"wildlings","link":"wildlings","wasblank":true,"noforce":true,"wikitext":"[[wildlings]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/Wildlings" title="Wildlings" class="mw-redirect">wildlings</a> to join him at <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/The_Wall" title="The Wall">the Wall</a>. When the <a data-rte-meta="{"type":"internal","text":"White Walkers","link":"White Walkers","wasblank":true,"noforce":true,"wikitext":"[[White Walkers]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/White_Walkers" title="White Walkers">White Walkers</a> attack the settlement and their <a data-rte-meta="{"type":"internal","text":"wights","link":"wights","wasblank":true,"noforce":true,"wikitext":"[[wights]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/Wights" title="Wights">wights</a> attempt to break through Hardhome's gates, the Free Folk attempt en masse to board boats to reach safety. Jon orders Duncan to hold the line.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Hardhome (episode)|Hardhome]]\"<\/ref>"}" data-rte-instance="130814-127742537456cca75f1b866" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances|8=yes}}"}" data-rte-instance="130814-127742537456cca75f1b866" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the only Duncan mentioned as part of the Night's Watch is Duncan Liddle, known as Big Liddle, the eldest son of Torren Liddle, the head or clan chief of the Liddles, one of the <a data-rte-meta="{"type":"internal","text":"northern","link":"The North","wasblank":false,"noforce":true,"wikitext":"[[The North|northern]]"}" data-rte-instance="130814-127742537456cca75f1b866" href="/wiki/The_North" title="The North">northern</a> mountain clans.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Duncan Liddle is first mentioned in the Appendix of <i>A Dance with Dragons</i>. He is not mentioned as being part of the expedition to Hardhome.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-127742537456cca75f1b866" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-127742537456cca75f1b866" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Liddle, Duncan","placeholder":1,"wikitext":"{{DEFAULTSORT:Liddle, Duncan}}"}" data-rte-instance="130814-127742537456cca75f1b866" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Duncan liddle
+| image=
+| season=5
+| first=\hardhome\
+| last=
+| appearances=1 episode (see below)\/small
+| Titles=
+| Aka=
+| Status= Alive
+| Death= 
+| Place=
+| Allegiance=Night's Watch
+| Family=
+| Actor=}}}
+
+ 
+
+(see below)\/small
+| Titles=
+| Aka=
+| Status= Alive
+| Death= 
+| Place=
+| Allegiance=Night's Watch
+| Family=
+| Actor}}} data-rte-instance130814-127742537456cca75f1b866 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+
+ 
+
+Duncan Liddle is a minor character appearing in Season 5. He's played by an unidentified extra and debuts in Hardhome. Duncan Liddle is a Ranger of the Night's Watch. Biography 
+
+ Background 
+
+ Season 5 
+
+Duncan accompanies Jon Snow on his expedition to Hardhome to convince the wildlings to join him at the Wall. When the White Walkers attack the settlement and their wights attempt to break through Hardhome's gates, the Free Folk attempt en masse to board boats to reach safety. Jon orders Duncan to hold the line.\Hardhome (episode)|Hardhome\\/ref} data-rte-instance130814-127742537456cca75f1b866 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, the only Duncan mentioned as part of the Night's Watch is Duncan Liddle, known as Big Liddle, the eldest son of Torren Liddle, the head or clan chief of the Liddles, one of the northern mountain clans. 
+
+Duncan Liddle is first mentioned in the Appendix of A Dance with Dragons. He is not mentioned as being part of the expedition to Hardhome. See also (spoilers from the books) References 
+
+  Loading editor

@@ -1,18 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = Mini harpy.png\n|link = Great Masters}}"}" data-rte-instance="130814-151420745156cca6f8534fc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Great Master\n| Image =eatonepisode5.png \n| Season = [[Season 5|5]]\n| Appearances=\"[[Kill the Boy]]\"\n| Status= [[:Category:Status: Dead|Deceased]]\n| Place =[[Meereen]]\n| Allegiance =[[Great Masters]]\n| Actor =[[Gianpiero Cognoli]]\n|Death = Burned alive and eaten by [[Rhaegal]] and [[Viserion]]\n|DeathEp = \"[[Kill the Boy]]\"\n|Culture = [[Ghiscari]]}}"}" data-rte-instance="130814-151420745156cca6f8534fc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">This <b>former Great Master</b> is a minor character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-151420745156cca6f8534fc" href="/wiki/Season_5" title="Season 5">fifth season</a>. He is played by <a data-rte-meta="{"type":"internal","text":"Gianpiero Cognoli","link":"Gianpiero Cognoli","wasblank":true,"noforce":true,"wikitext":"[[Gianpiero Cognoli]]"}" data-rte-instance="130814-151420745156cca6f8534fc" href="/wiki/Gianpiero_Cognoli" title="Gianpiero Cognoli">Gianpiero Cognoli</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"Kill the Boy","link":"Kill the Boy","wasblank":true,"noforce":true,"wikitext":"[[Kill the Boy]]"}" data-rte-instance="130814-151420745156cca6f8534fc" href="/wiki/Kill_the_Boy" title="Kill the Boy">Kill the Boy</a>". He is a citizen of <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-151420745156cca6f8534fc" href="/wiki/Meereen" title="Meereen">Meereen</a> and head of the ancient noble families of the city.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Behind the scenes </h2>
-<p data-rte-fromparser="true">The character was originally listed as "Master Eaton" in the actor's CV, however "Eaton" doesn't fit the established naming conventions of the <a data-rte-meta="{"type":"internal","text":"Ghiscari","link":"Ghiscari","wasblank":true,"noforce":true,"wikitext":"[[Ghiscari]]"}" data-rte-instance="130814-151420745156cca6f8534fc" href="/wiki/Ghiscari" title="Ghiscari">Ghiscari</a> of <a data-rte-meta="{"type":"internal","text":"Slaver's Bay","link":"Slaver's Bay","wasblank":true,"noforce":true,"wikitext":"[[Slaver's Bay]]"}" data-rte-instance="130814-151420745156cca6f8534fc" href="/wiki/Slaver's_Bay" title="Slaver's Bay">Slaver's Bay</a>. Some CV's have already shown typing mistakes in character names, in this case a case of misreading "Eaten master" or "Maester eaten", in reference to the character's fate.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> In the books </h2>
-<p data-rte-fromparser="true">In the <a data-rte-meta="{"type":"internal","text":"<i>A Song of Ice and Fire<\/i>","link":"A Song of Ice and Fire","wasblank":false,"noforce":true,"wikitext":"[[A Song of Ice and Fire|''A Song of Ice and Fire'']]"}" data-rte-instance="130814-151420745156cca6f8534fc" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire"><i>A Song of Ice and Fire</i></a><i> </i>novels there is no equivalent character. Daenerys doesn't have the head of the ancient slaver families arrested as a reaction to the murders carried out by the Sons of the Harpy. Instead, she has each family of dubious loyalty deliver a child hostage, hoping this will diminish the violence. When this measure fails, Dany's counselor and noted loyalist Skahaz mo Kandaq urges her to kill a hostage for every murder of the Sons but she still refuses to harm them.
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Template:Season Five Appearances","placeholder":1,"wikitext":"{{Template:Season Five Appearances|||||yes}}"}" data-rte-instance="130814-151420745156cca6f8534fc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-151420745156cca6f8534fc" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u043c\u0430\u0441\u0442\u0435\u0440 (\u0423\u0431\u0435\u0439 \u043c\u0430\u043b\u044c\u0447\u0438\u0448\u043a\u0443)","link":"ru:\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u043c\u0430\u0441\u0442\u0435\u0440 (\u0423\u0431\u0435\u0439 \u043c\u0430\u043b\u044c\u0447\u0438\u0448\u043a\u0443)","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0412\u0435\u043b\u0438\u043a\u0438\u0439 \u043c\u0430\u0441\u0442\u0435\u0440 (\u0423\u0431\u0435\u0439 \u043c\u0430\u043b\u044c\u0447\u0438\u0448\u043a\u0443)]]"}" data-rte-instance="130814-151420745156cca6f8534fc" href="http://ru.gameofthrones.wikia.com/wiki/Великий_мастер_(Убей_мальчишку)" class="extiw" title="ru:Великий мастер (Убей мальчишку)">ru:Великий мастер (Убей мальчишку)</a>
-</p>
-   Loading editor
+title=Great master
+| image=eatonepisode5.png 
+| season=5
+| appearances=\Kill the boy\
+| status=deceased
+| place=Meereen
+| allegiance=Great masters
+| actor=Gianpiero cognoli
+|death=Burned alive and eaten by rhaegal viserion
+|deathep=\Kill boy\
+|culture=Ghiscari}}}
+
+ 
+
+This former Great Master is a minor character in the fifth season. He is played by Gianpiero Cognoli and only appears in Kill the Boy. He is a citizen of Meereen and head of the ancient noble families of the city. Behind the scenes 
+
+The character was originally listed as Master Eaton in the actor's CV, however Eaton doesn't fit the established naming conventions of the Ghiscari of Slaver's Bay. Some CV's have already shown typing mistakes in character names, in this case a case of misreading Eaten master or Maester eaten, in reference to the character's fate. In the books 
+
+In the A Song of Ice and Fire\/i,link:A Song of Ice and Fire,wasblank:false,noforce:true,wikitext:A Song of Ice and Fire|A Song of Ice and Fire} data-rte-instance130814-151420745156cca6f8534fc href/wiki/A_Song_of_Ice_and_Fire title=A Song of Ice and FireA Song of Ice and Fire novels there is no equivalent character. Daenerys doesn't have the head of the ancient slaver families arrested as a reaction to the murders carried out by the Sons of the Harpy. Instead, she has each family of dubious loyalty deliver a child hostage, hoping this will diminish the violence. When this measure fails, Dany's counselor and noted loyalist Skahaz mo Kandaq urges her to kill a hostage for every murder of the Sons but she still refuses to harm them. Appearances 
+
+ References 
+
+ 
+
+ru:Великий мастер (Убей мальчишку)  Loading editor

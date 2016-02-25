@@ -1,25 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = Wildling shield icon.png\n|link = Free Folk}}"}" data-rte-instance="130814-171774028156cca6c48b5cd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Craster's wife\n|Image = Craster's wife 2.png\n|Season = [[Season 4|4]]\n|Appearances = \"[[Oathkeeper]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Place = [[Craster's Keep]]\n|Allegiance = [[Craster]]\n|Culture = [[Free Folk]]\n|Religion = [[White Walkers]]\n|Family = {[[Craster]]} - father\/husband\n|Actor = [[Aeryn Walker]]}}"}" data-rte-instance="130814-171774028156cca6c48b5cd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|You hear that, boys? Fuck 'em till they're dead!|[[Karl Tanner]]|Oathkeeper}}"}" data-rte-instance="130814-171774028156cca6c48b5cd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>A wife of <a data-rte-meta="{"type":"internal","text":"Craster","link":"Craster","wasblank":true,"noforce":true,"wikitext":"[[Craster]]"}" data-rte-instance="130814-171774028156cca6c48b5cd" href="/wiki/Craster" title="Craster">Craster</a></b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-171774028156cca6c48b5cd" href="/wiki/Season_4" title="Season 4">fourth season</a>. She is played by guest star <a data-rte-meta="{"type":"internal","text":"Aeryn Walker","link":"Aeryn Walker","wasblank":true,"noforce":true,"wikitext":"[[Aeryn Walker]]"}" data-rte-instance="130814-171774028156cca6c48b5cd" href="/wiki/Aeryn_Walker" title="Aeryn Walker">Aeryn Walker</a> and debuts in "<a data-rte-meta="{"type":"internal","text":"Oathkeeper","link":"Oathkeeper","wasblank":true,"noforce":true,"wikitext":"[[Oathkeeper]]"}" data-rte-instance="130814-171774028156cca6c48b5cd" href="/wiki/Oathkeeper" title="Oathkeeper">Oathkeeper</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">She is one of <a data-rte-meta="{"type":"internal","text":"Craster","link":"Craster","wasblank":true,"noforce":true,"wikitext":"[[Craster]]"}" data-rte-instance="130814-171774028156cca6c48b5cd" href="/wiki/Craster" title="Craster">Craster</a>'s daughters who he has married.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-171774028156cca6c48b5cd" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">She's been kept by the <a data-rte-meta="{"type":"internal","text":"Mutineers","link":"Betrayers","wasblank":false,"noforce":true,"wikitext":"[[Betrayers|Mutineers]]"}" data-rte-instance="130814-171774028156cca6c48b5cd" href="/wiki/Betrayers" title="Betrayers" class="mw-redirect">Mutineers</a>, who have repeatedly raped her.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Oathkeeper]]\"<\/ref>"}" data-rte-instance="130814-171774028156cca6c48b5cd" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Four Appearances","placeholder":1,"wikitext":"{{Season Four Appearances||||yes}}"}" data-rte-instance="130814-171774028156cca6c48b5cd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-171774028156cca6c48b5cd" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Craster's harem is composed of women of all ages, the majority of his wives are also his daughters.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Craster's wives}}"}" data-rte-instance="130814-171774028156cca6c48b5cd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-171774028156cca6c48b5cd" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Craster's wife
+|image=Craster's wife 2.png
+|season=4
+|appearances=\Oathkeeper\
+|Status = alive
+|place=Craster's keep
+|allegiance=Craster
+|Culture free folk
+|religion=White walkers
+|family=Craster - father\ usband
+|actor=Aeryn walker}}}
+
+ A wife of Craster is an unnamed minor character in the fourth season. She is played by guest star Aeryn Walker and debuts in Oathkeeper. Biography 
+
+ Background 
+
+She is one of Craster's daughters who he has married. Season 4 
+
+She's been kept by the Mutineers, who have repeatedly raped her.\Oathkeeper\\/ref} data-rte-instance130814-171774028156cca6c48b5cd classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Craster's harem is composed of women of all ages, the majority of his wives are also his daughters. See also (MAJOR spoilers from the books) References 
+
+  Loading editor

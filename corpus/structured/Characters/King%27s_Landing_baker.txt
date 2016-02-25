@@ -1,19 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = King&#39;s Landing baker\n|Season = [[Season 1|1]]\n|Image=King&#39;s Landing baker.jpg\n|Appearances = \"[[Baelor]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = \n|Actor = [[Edward Mercieca]]}}"}" data-rte-instance="130814-145603527956cca7e8eb835" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Go on, piss off!|The baker to Arya Stark|Baelor}}"}" data-rte-instance="130814-145603527956cca7e8eb835" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>King<span data-rte-entity="#39">&#39;</span>s Landing baker</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-145603527956cca7e8eb835" href="/wiki/Season_1" title="Season 1">first season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Edward Mercieca","link":"Edward Mercieca","wasblank":true,"noforce":true,"wikitext":"[[Edward Mercieca]]"}" data-rte-instance="130814-145603527956cca7e8eb835" href="/wiki/Edward_Mercieca" title="Edward Mercieca">Edward Mercieca</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"Baelor","link":"Baelor","wasblank":true,"noforce":true,"wikitext":"[[Baelor]]"}" data-rte-instance="130814-145603527956cca7e8eb835" href="/wiki/Baelor" title="Baelor">Baelor</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-145603527956cca7e8eb835" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">He refuses <a data-rte-meta="{"type":"internal","text":"Arya Stark","link":"Arya Stark","wasblank":true,"noforce":true,"wikitext":"[[Arya Stark]]"}" data-rte-instance="130814-145603527956cca7e8eb835" href="/wiki/Arya_Stark" title="Arya Stark">Arya Stark</a>'s efforts to trade a pigeon she has caught for bread and then refuses to give her stale or burned bread.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Baelor]]\"<\/ref>"}" data-rte-instance="130814-145603527956cca7e8eb835" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|9=yes}}"}" data-rte-instance="130814-145603527956cca7e8eb835" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-145603527956cca7e8eb835" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Arya tries to trade the pigeon to a man selling pies, first asking for lemon, but then any kind. When he refuses, she considers grabbing it and running as the man has a limp, but as there are <a data-rte-meta="{"type":"internal","text":"gold cloaks","link":"City Watch","wasblank":false,"noforce":true,"wikitext":"[[City Watch|gold cloaks]]"}" data-rte-instance="130814-145603527956cca7e8eb835" href="/wiki/City_Watch" title="City Watch">gold cloaks</a> patrolling nearby she thinks better of it. Earlier she had been successful in trading pigeons she caught to a pot-shop (apparently as an ingredient in <a data-rte-meta="{"type":"internal","text":"bowls of brown","link":"Bowl of brown","wasblank":false,"noforce":true,"wikitext":"[[Bowl of brown|bowls of brown]]"}" data-rte-instance="130814-145603527956cca7e8eb835" href="/wiki/Bowl_of_brown" title="Bowl of brown">bowls of brown</a>), which in return would give her back half of the pigeon's meat cooked - before this, she had to eat the pigeon meat raw.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-145603527956cca7e8eb835" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041f\u0435\u043a\u0430\u0440\u044c \u0438\u0437 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 \u0433\u0430\u0432\u0430\u043d\u0438","link":"ru:\u041f\u0435\u043a\u0430\u0440\u044c \u0438\u0437 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 \u0433\u0430\u0432\u0430\u043d\u0438","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041f\u0435\u043a\u0430\u0440\u044c \u0438\u0437 \u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u043a\u043e\u0439 \u0433\u0430\u0432\u0430\u043d\u0438]]"}" data-rte-instance="130814-145603527956cca7e8eb835" href="http://ru.gameofthrones.wikia.com/wiki/Пекарь_из_Королевской_гавани" class="extiw" title="ru:Пекарь из Королевской гавани">ru:Пекарь из Королевской гавани</a>
-</p>
-   Loading editor
+title=King's landing baker
+|season=1
+|image=King's baker.jpg
+|appearances=\Baelor\
+|Status = alive
+|allegiance=
+|Actor edward mercieca}}}
+
+ A King's Landing baker is an unnamed minor character in the first season. He is played by guest star Edward Mercieca and only appears in Baelor. Biography 
+
+ Season 1 
+
+He refuses Arya Stark's efforts to trade a pigeon she has caught for bread and then refuses to give her stale or burned bread.\Baelor\\/ref} data-rte-instance130814-145603527956cca7e8eb835 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Arya tries to trade the pigeon to a man selling pies, first asking for lemon, but then any kind. When he refuses, she considers grabbing it and running as the man has a limp, but as there are gold cloaks patrolling nearby she thinks better of it. Earlier she had been successful in trading pigeons she caught to a pot-shop (apparently as an ingredient in bowls of brown), which in return would give her back half of the pigeon's meat cooked - before this, she had to eat the pigeon meat raw. References 
+
+ 
+
+ru:Пекарь из Королевской гавани  Loading editor

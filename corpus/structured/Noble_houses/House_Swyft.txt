@@ -1,36 +1,32 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Swyft]]\n| Image=House-Swyft-Main-Shield.PNG\n| Sigil=A blue bantam rooster on yellow\n| Words='''\"Awake! Awake!\"'''\n| Titles=[[Knight of Cornfield]]\n| Seat=[[Cornfield]]\n| Region=[[The Westerlands]]\n| Lord=Ser [[Harys Swyft]]\n| Heir=\n| Allegiance=[[House Lannister]]\n| Vassals=\n| Age=\n| Founder=\n|ImageSize = 250px}}"}" data-rte-instance="130814-26223518056cca96c64ac0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Swyft</b> is a vassal house that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> of <a data-rte-meta="{"type":"internal","text":"Casterly Rock","link":"Casterly Rock","wasblank":true,"noforce":true,"wikitext":"[[Casterly Rock]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Casterly_Rock" title="Casterly Rock">Casterly Rock</a>. Their seat is <a data-rte-meta="{"type":"internal","text":"Cornfield","link":"Cornfield","wasblank":true,"noforce":true,"wikitext":"[[Cornfield]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Cornfield" title="Cornfield">Cornfield</a>, located north-east of <a data-rte-meta="{"type":"internal","text":"Crakehall","link":"Crakehall","wasblank":true,"noforce":true,"wikitext":"[[Crakehall]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Crakehall" title="Crakehall">Crakehall</a> and south of <a data-rte-meta="{"type":"internal","text":"Clegane's Keep","link":"Clegane's Keep","wasblank":true,"noforce":true,"wikitext":"[[Clegane's Keep]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Clegane's_Keep" title="Clegane's Keep">Clegane's Keep</a>. They are landed knights rather than a full noble house.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/cornfield\/]<\/ref>"}" data-rte-instance="130814-26223518056cca96c64ac0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Its sigil is a blue bantam rooster on yellow.
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<ul><li>Ser <a data-rte-meta="{"type":"internal","text":"Harys Swyft","link":"Harys Swyft","wasblank":true,"noforce":true,"wikitext":"[[Harys Swyft]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Harys_Swyft" title="Harys Swyft">Harys Swyft</a>, the <a data-rte-meta="{"type":"internal","text":"Knight of Cornfield","link":"Knight of Cornfield","wasblank":true,"noforce":true,"wikitext":"[[Knight of Cornfield]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Knight_of_Cornfield" title="Knight of Cornfield">Knight of Cornfield</a> and head of the House.
-<ul><li data-rte-spaces-before="1"><a data-rte-meta="{"type":"internal","text":"Dorna Swyft","link":"Dorna Lannister","wasblank":false,"noforce":true,"wikitext":"[[Dorna Lannister|Dorna Swyft]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Dorna_Lannister" title="Dorna Lannister">Dorna Swyft</a>. Married to Ser <a data-rte-meta="{"type":"internal","text":"Kevan Lannister","link":"Kevan Lannister","wasblank":true,"noforce":true,"wikitext":"[[Kevan Lannister]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Kevan_Lannister" title="Kevan Lannister">Kevan Lannister</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref name=\"House Lannister viewers guide\">[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/lannister\/ HBO viewers guide, season 2 guide to houses, House Lannister entry]<\/ref>"}" data-rte-instance="130814-26223518056cca96c64ac0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</li></ul>
-</li></ul>
-<h2 data-rte-empty-lines-before="1">Image gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"2c798db67a475802ab8f620306e3ef66","id":0,"images":[{"name":"House Swyft.png","caption":"The icon of House Swyft from the HBO viewers guide.","link":"","linktext":"","shorttext":"","data-caption":"The icon of House Swyft from the HBO viewers guide."},{"name":"Swyft-small.png","caption":"Small icon of House Swyft from the HBO viewers guide.","link":"","linktext":"","shorttext":"","data-caption":"Small icon of House Swyft from the HBO viewers guide."}],"imagesShown":[{"name":"House Swyft.png","caption":"The icon of House Swyft from the HBO viewers guide.","link":"","linktext":"","shorttext":"","data-caption":"The icon of House Swyft from the HBO viewers guide."},{"name":"Swyft-small.png","caption":"Small icon of House Swyft from the HBO viewers guide.","link":"","linktext":"","shorttext":"","data-caption":"Small icon of House Swyft from the HBO viewers guide."}],"params":{"captionalign":"left"},"type":1,"wikitext":"<gallery captionalign=\"left\">\nHouse Swyft.png|The icon of House Swyft from the HBO viewers guide.\nSwyft-small.png|Small icon of House Swyft from the HBO viewers guide.\n<\/gallery>"}" data-rte-instance="130814-26223518056cca96c64ac0" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Swyft is counted as a strong vassal and ally of House Lannister. However, <a data-rte-meta="{"type":"internal","text":"Tyrion Lannister","link":"Tyrion Lannister","wasblank":true,"noforce":true,"wikitext":"[[Tyrion Lannister]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a> considers Ser Harys to be a chinless craven and lickspittle of little worth. Dorna is described as "equally chinless" as her father.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">House Swyft joined their Lannister lieges in siding with King <a data-rte-meta="{"type":"internal","text":"Aegon II Targaryen","link":"Aegon II Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Aegon II Targaryen]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Aegon_II_Targaryen" title="Aegon II Targaryen">Aegon II Targaryen</a> during the Dance of the Dragons.  At this time they were a full <a data-rte-meta="{"type":"internal","text":"noble house","link":"noble house","wasblank":true,"noforce":true,"wikitext":"[[noble house]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Noble_house" title="Noble house">noble house</a>, but by the time the series begins they are a <a data-rte-meta="{"type":"internal","text":"knightly house","link":"Knightly House","wasblank":false,"noforce":true,"wikitext":"[[Knightly House|knightly house]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Knightly_House" title="Knightly House" class="mw-redirect">knightly house</a>. How the Swyfts lost their lordship is unknown.​
-</p>
-<h3 data-rte-empty-lines-before="1">Members</h3>
-<ul><li data-rte-spaces-before="1">Ser Harys Swyft, the Knight of Cornfield
-<ul><li data-rte-spaces-before="1">His eldest daughter, <a data-rte-meta="{"type":"internal","text":"Dorna","link":"Dorna","wasblank":true,"noforce":true,"wikitext":"[[Dorna]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Dorna" title="Dorna" class="mw-redirect">Dorna</a>. Married to Ser <a data-rte-meta="{"type":"internal","text":"Kevan Lannister","link":"Kevan Lannister","wasblank":true,"noforce":true,"wikitext":"[[Kevan Lannister]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="/wiki/Kevan_Lannister" title="Kevan Lannister">Kevan Lannister</a>.
-</li><li data-rte-spaces-before="1">His son and heir, Ser Steffon Swyft.
-<ul><li data-rte-spaces-before="1">His daughter, Joanna Swyft.
-</li></ul>
-</li><li data-rte-spaces-before="1">His youngest daughter, Shierle Swyft.
-</li></ul>
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-26223518056cca96c64ac0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-26223518056cca96c64ac0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Western Houses","placeholder":1,"wikitext":"{{Western Houses}}"}" data-rte-instance="130814-26223518056cca96c64ac0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Swyft navbox","placeholder":1,"wikitext":"{{Swyft navbox}}"}" data-rte-instance="130814-26223518056cca96c64ac0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"de:Haus Swyft","link":"de:Haus Swyft","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Swyft]]"}" data-rte-instance="130814-26223518056cca96c64ac0" href="http://de.gameofthrones.wikia.com/wiki/Haus_Swyft" class="extiw" title="de:Haus Swyft">de:Haus Swyft</a>
-</p>
-   Loading editor
+title=House swyft
+| image=House-Swyft-Main-Shield.PNG
+| sigil=A blue bantam rooster on yellow
+| words= '\awake! awake!\
+| titles=Knight of cornfield
+| seat=Cornfield
+| region=The westerlands
+| lordSer [[harys heir
+| allegiance=House lannister
+| vassals=
+| age=
+| founder=
+|ImageSize = 250px}}}
+
+ 
+
+House Swyft is a vassal house that holds fealty to House Lannister of Casterly Rock. Their seat is Cornfield, located north-east of Crakehall and south of Clegane's Keep. They are landed knights rather than a full noble house.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/cornfield\/\/ref} data-rte-instance130814-26223518056cca96c64ac0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+
+Its sigil is a blue bantam rooster on yellow. Members Ser Harys Swyft, the Knight of Cornfield and head of the House. Dorna Swyft. Married to Ser Kevan Lannister.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/lannister\/ HBO viewers guide, season 2 guide to houses, House Lannister entry\/ref} data-rte-instance130814-26223518056cca96c64ac0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Image gallery 
+
+
+House Swyft.png|The icon of House Swyft from the HBO viewers guide.
+Swyft-small.png|Small icon of House Swyft from the HBO viewers guide.
+\/gallery} data-rte-instance=130814-26223518056cca96c64ac0 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+
+In the A Song of Ice and Fire novels, House Swyft is counted as a strong vassal and ally of House Lannister. However, Tyrion Lannister considers Ser Harys to be a chinless craven and lickspittle of little worth. Dorna is described as equally chinless as her father. 
+
+House Swyftjoined their Lannisterlieges in siding with King Aegon II Targaryenduring the Dance of the Dragons. At this time they were a full noble house, but by the time the series begins they are a knightly house. How the Swyftslost their lordship is unknown.​ Members Ser Harys Swyft, the Knight of Cornfield His eldest daughter, Dorna. Married to Ser Kevan Lannister. His son and heir, Ser Steffon Swyft. His daughter, Joanna Swyft. His youngest daughter, Shierle Swyft. References 
+
+ See also (spoilers from the books) 
+
+ de:Haus Swyft  Loading editor

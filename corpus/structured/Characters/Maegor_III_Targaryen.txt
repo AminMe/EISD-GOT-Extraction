@@ -2,16 +2,16 @@
 |image = Targaryen mini shield.png
 |link = House Targaryen
 }}
-{{Quote|Did you know that at one point Maegor the Third tried to outlaw it in the Seven Kingdoms? Wanted to arrest anyone caught charging interest and cut off both their hands.|[[Mace Tyrell]] to [[Tycho Nestoris]]|The Dance of Dragons}}
-{{Character|Title = Maegor III Targaryen|Image =|Season = [[Season 5|5]]|Mentioned = "[[The Dance of Dragons]]"|Titles = [[King]]|Status = [[:Category:Status: Dead|Deceased]]|Place = [[Red Keep]], [[King's Landing]]|Allegiance = [[House Targaryen]]|Culture = [[Valyrian]]|Family = }}
-'''Maegor III Targaryen''' is an unseen character in ''[[Game of Thrones (TV series)|Game of Thrones]]''. He is long dead by the time of the series. He was a King of the [[House Targaryen|Targaryen dynasty]].
+Quote|Did you know that at one point Maegor the Third tried to outlaw it in the Seven Kingdoms? Wanted to arrest anyone caught charging interest and cut off both their hands.|Mace Tyrell to Tycho Nestoris|The Dance of Dragons
+Character|Title  Maegor III Targaryen|Image |Season  5|Mentioned  The Dance of Dragons|Titles  King|Status  Deceased|Place  Red Keep, King's Landing|Allegiance  House Targaryen|Culture  Valyrian|Family  
+Maegor III Targaryen is an unseen character in Game of Thrones. He is long dead by the time of the series. He was a King of the Targaryen dynasty.
 
-==Biography==
-At some point Maegor the Third tried to outlaw the practice of usury, and cut off both the hands of anyone caught charging interest on loans.<ref>"[[The Dance of Dragons]]"</ref>
+Biography
+At some point Maegor the Third tried to outlaw the practice of usury, and cut off both the hands of anyone caught charging interest on loans.The Dance of Dragons
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, there is no such character. Indeed, there has never been any other member of House Targaryen named Maegor since the infamous "Maegor the Cruel", such was Maegor's repute that later members of the house deliberately shunned the name. So far, it is unknown if the mention of the name is a deliberate choice by the production, a mistake from the writers, or a mistake from the actor.
+In the books
+In the A Song of Ice and Fire novels, there is no such character. Indeed, there has never been any other member of House Targaryen named Maegor since the infamous Maegor the Cruel, such was Maegor's repute that later members of the house deliberately shunned the name. So far, it is unknown if the mention of the name is a deliberate choice by the production, a mistake from the writers, or a mistake from the actor.
 
-==References==
-{{Reflist}}
-{{Targaryen navbox}}
+References
+Reflist
+Targaryen navbox

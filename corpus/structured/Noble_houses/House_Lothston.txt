@@ -1,22 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Lothston]]\n| Image=Lothston sigil.png\n| Sigil= a single black bat, on a field party per bend argent and or\n| Titles=\n| Seat=[[Harrenhal]]\n| Region=The [[Riverlands]]\n| Lord=\n| Heir=\n| Allegiance=[[House Tully]]\n| Vassals=\n| Age=\n| Founder=\n|ImageSize =200 px}}"}" data-rte-instance="130814-72433267056cca97e4ff67" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Lothston</b> is an extinct noble house of <a data-rte-meta="{"type":"internal","text":"the Riverlands","link":"the Riverlands","wasblank":true,"noforce":true,"wikitext":"[[the Riverlands]]"}" data-rte-instance="130814-72433267056cca97e4ff67" href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a>. Their sigil was a black bat on a field divided bendwise, silver and gold.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Their seat was the castle of <a data-rte-meta="{"type":"internal","text":"Harrenhal","link":"Harrenhal","wasblank":true,"noforce":true,"wikitext":"[[Harrenhal]]"}" data-rte-instance="130814-72433267056cca97e4ff67" href="/wiki/Harrenhal" title="Harrenhal">Harrenhal</a>, which was granted to them after the extinction of <a data-rte-meta="{"type":"internal","text":"House Strong","link":"House Strong","wasblank":true,"noforce":true,"wikitext":"[[House Strong]]"}" data-rte-instance="130814-72433267056cca97e4ff67" href="/wiki/House_Strong" title="House Strong">House Strong</a>. However, the Lothstons also died out, like all the Houses to hold Harrenhal, and the castle was passed on to <a data-rte-meta="{"type":"internal","text":"House Whent","link":"House Whent","wasblank":true,"noforce":true,"wikitext":"[[House Whent]]"}" data-rte-instance="130814-72433267056cca97e4ff67" href="/wiki/House_Whent" title="House Whent">House Whent</a>.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">One of the members of House Lothston is the stuff of tales. Lady <a data-rte-meta="{"type":"internal","text":"Danelle Lothston","link":"Danelle Lothston","wasblank":true,"noforce":true,"wikitext":"[[Danelle Lothston]]"}" data-rte-instance="130814-72433267056cca97e4ff67" href="/wiki/Danelle_Lothston" title="Danelle Lothston">Danelle Lothston</a>, also known as "Mad Lady Lothston", who was said to send a giant bat to capture children for her cookpots, to bathe in blood, and serve feasts of human flesh.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-72433267056cca97e4ff67" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Lothston's backstory is the same. They are considered an ill-omened house, and their sigil is reviled in several places. Descendants of the Lothstons still live in exile in the <a data-rte-meta="{"type":"internal","text":"Free Cities","link":"Free Cities","wasblank":true,"noforce":true,"wikitext":"[[Free Cities]]"}" data-rte-instance="130814-72433267056cca97e4ff67" href="/wiki/Free_Cities" title="Free Cities">Free Cities</a>. Among their known members are:
-</p>
-<ul data-rte-empty-lines-before="1"><li>Jeyne Lothston, a mistress of <a data-rte-meta="{"type":"internal","text":"Aegon IV Targaryen","link":"Aegon IV Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Aegon IV Targaryen]]"}" data-rte-instance="130814-72433267056cca97e4ff67" href="/wiki/Aegon_IV_Targaryen" title="Aegon IV Targaryen">Aegon IV Targaryen</a>.
-</li><li data-rte-spaces-before="1">Lord Lucas Lothston, known as "the Pander"
-<ul><li data-rte-spaces-before="1">Manfryd Lothston, known as "Manfryd o' the Black Hood", who betrayed <a data-rte-meta="{"type":"internal","text":"Daemon Blackfyre","link":"Daemon Blackfyre","wasblank":true,"noforce":true,"wikitext":"[[Daemon Blackfyre]]"}" data-rte-instance="130814-72433267056cca97e4ff67" href="/wiki/Daemon_Blackfyre" title="Daemon Blackfyre">Daemon Blackfyre</a>
-</li></ul>
-</li></ul>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">The Lothstons held Harrenhal during the time of the <i>Tales of Dunk and Egg</i> prequel novellas.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-72433267056cca97e4ff67" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"River Houses","placeholder":1,"wikitext":"{{River Houses}}"}" data-rte-instance="130814-72433267056cca97e4ff67" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Lothston,House","placeholder":1,"wikitext":"{{DEFAULTSORT:Lothston,House}}"}" data-rte-instance="130814-72433267056cca97e4ff67" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House lothston
+| image=Lothston sigil.png
+| sigil=a single black bat, on a field party per bend argent and or
+| titles=
+| seat=Harrenhal
+| region=The riverlands
+| lord=
+| heir=
+| allegiance=House tully
+| vassals=
+| age=
+| founder=
+|ImageSize =200 px}}}
+
+ 
+
+House Lothston is an extinct noble house of the Riverlands. Their sigil was a black bat on a field divided bendwise, silver and gold. 
+
+Their seat was the castle of Harrenhal, which was granted to them after the extinction of House Strong. However, the Lothstons also died out, like all the Houses to hold Harrenhal, and the castle was passed on to House Whent. 
+
+One of the members of House Lothston is the stuff of tales. Lady Danelle Lothston, also known as Mad Lady Lothston, who was said to send a giant bat to capture children for her cookpots, to bathe in blood, and serve feasts of human flesh. In the books 
+
+In the A Song of Ice and Fire novels, House Lothston's backstory is the same. They are considered an ill-omened house, and their sigil is reviled in several places. Descendants of the Lothstons still live in exile in the Free Cities. Among their known members are: Jeyne Lothston, a mistress of Aegon IV Targaryen. Lord Lucas Lothston, known as the Pander Manfryd Lothston, known as Manfryd o' the Black Hood, who betrayed Daemon Blackfyre 
+
+The Lothstons held Harrenhal during the time of the Tales of Dunk and Egg prequel novellas. See also (spoilers from the books) 
+
+  Loading editor

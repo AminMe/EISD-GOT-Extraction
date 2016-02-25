@@ -1,29 +1,25 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Corbray]]\n| Image=Corbray.png\n| Sigil=Argent, a raven volant sable holding a heart gule\n| Motto=\n| Titles=\n| Seat=\n| Region=The [[Vale of Arryn]]\n| Lord=\n| Heir=\n| Allegiance=[[House Arryn]]\n| Vassals=\n| Age=\n| Founder=\n| ImageSize=250px|Weapon = [[Lady Forlorn]]}}"}" data-rte-instance="130814-27046119756cca96d663f9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[Image:Vance_Corbray.png|thumb|Vance Corbray]]","title":"Vance_Corbray.png","params":{"thumbnail":true,"alt":"Vance Corbray","caption":"Vance Corbray","captionParsed":"Vance Corbray"}}" data-rte-instance="130814-27046119756cca96d663f9" alt="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/0/09/Vance_Corbray.png/revision/latest/scale-to-width-down/180?cb=20140603000924" width="180" height="239" class="image thumb withCaption" data-image-name="Vance Corbray.png" data-image-key="Vance_Corbray.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[Image:Vale heraldry.jpg|thumb|A Lord Corbray wearing a tunic displaying House Corbray's heraldry.]]","title":"Vale_heraldry.jpg","params":{"thumbnail":true,"alt":"Vale heraldry","caption":"A Lord Corbray wearing a tunic displaying House Corbray's heraldry.","captionParsed":"A Lord Corbray wearing a tunic displaying House Corbray's heraldry."}}" data-rte-instance="130814-27046119756cca96d663f9" alt="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/b/b5/Vale_heraldry.jpg/revision/latest/scale-to-width-down/180?cb=20140326175821" width="180" height="100" class="image thumb withCaption" data-image-name="Vale heraldry.jpg" data-image-key="Vale_heraldry.jpg"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Corbray</b> is a vassal house which holds fealty to <a data-rte-meta="{"type":"internal","text":"House Arryn","link":"House Arryn","wasblank":true,"noforce":true,"wikitext":"[[House Arryn]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/House_Arryn" title="House Arryn">House Arryn</a> of <a data-rte-meta="{"type":"internal","text":"the Eyrie","link":"the Eyrie","wasblank":true,"noforce":true,"wikitext":"[[the Eyrie]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/The_Eyrie" title="The Eyrie">the Eyrie</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Vale (Histories & Lore)]]\"<\/ref>"}" data-rte-instance="130814-27046119756cca96d663f9" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"A Braavosi sellsword","link":"Baelish (founder)","wasblank":false,"noforce":true,"wikitext":"[[Baelish (founder)|A Braavosi sellsword]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/Baelish_(founder)" title="Baelish (founder)">A Braavosi sellsword</a> in service to House Corbray resettled in the Vale of Arryn. His great-grandson is Lord <a data-rte-meta="{"type":"internal","text":"Petyr Baelish also known as Littlefinger","link":"Petyr Baelish","wasblank":false,"noforce":true,"wikitext":"[[Petyr Baelish|Petyr Baelish also known as Littlefinger]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/Petyr_Baelish" title="Petyr Baelish">Petyr Baelish also known as Littlefinger</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[House Baelish (Histories & Lore)]]\"<\/ref>"}" data-rte-instance="130814-27046119756cca96d663f9" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" /> 
-</p>
-<h2 data-rte-empty-lines-before="1">Known members</h2>
-<ul><li>Ser <a data-rte-meta="{"type":"internal","text":"Vance Corbray","link":"Vance Corbray","wasblank":true,"noforce":true,"wikitext":"[[Vance Corbray]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/Vance_Corbray" title="Vance Corbray">Vance Corbray</a>, a <a data-rte-meta="{"type":"internal","text":"knight","link":"knight","wasblank":true,"noforce":true,"wikitext":"[[knight]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/Knight" title="Knight" class="mw-redirect">knight</a>
-</li></ul>
-<h3>Ancestors</h3>
-<ul><li>Ser {<a data-rte-meta="{"type":"internal","text":"Gwayne Corbray","link":"Gwayne Corbray","wasblank":true,"noforce":true,"wikitext":"[[Gwayne Corbray]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/Gwayne_Corbray" title="Gwayne Corbray">Gwayne Corbray</a>}, knight of the <a data-rte-meta="{"type":"internal","text":"Kingsguard","link":"Kingsguard","wasblank":true,"noforce":true,"wikitext":"[[Kingsguard]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/Kingsguard" title="Kingsguard">Kingsguard</a>.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Corbrays are an old but poor house. They hold the <a data-rte-meta="{"type":"internal","text":"Valyrian steel","link":"Valyrian steel","wasblank":true,"noforce":true,"wikitext":"[[Valyrian steel]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/Valyrian_steel" title="Valyrian steel">Valyrian steel</a> blade known as <a data-rte-meta="{"type":"internal","text":"Lady Forlorn","link":"Lady Forlorn","wasblank":true,"noforce":true,"wikitext":"[[Lady Forlorn]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="/wiki/Lady_Forlorn" title="Lady Forlorn">Lady Forlorn</a>.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">The heraldry of House Corbray in the books is three black ravens in flight, each holding a separate red heart, on a white field. In the TV series continuity (as briefly glimpsed in an animated featurette), it is a single black raven rather than three.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-27046119756cca96d663f9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-27046119756cca96d663f9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Vale Houses","placeholder":1,"wikitext":"{{Vale Houses}}"}" data-rte-instance="130814-27046119756cca96d663f9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Corbray, House","placeholder":1,"wikitext":"{{DEFAULTSORT:Corbray, House}}"}" data-rte-instance="130814-27046119756cca96d663f9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Corbray","link":"de:Haus Corbray","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Corbray]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="http://de.gameofthrones.wikia.com/wiki/Haus_Corbray" class="extiw" title="de:Haus Corbray">de:Haus Corbray</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u041a\u043e\u0440\u0431\u0440\u0435\u0438","link":"ru:\u041a\u043e\u0440\u0431\u0440\u0435\u0438","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041a\u043e\u0440\u0431\u0440\u0435\u0438]]"}" data-rte-instance="130814-27046119756cca96d663f9" href="http://ru.gameofthrones.wikia.com/wiki/Корбреи" class="extiw" title="ru:Корбреи">ru:Корбреи</a>
-</p>
-   Loading editor
+title=House corbray
+| image=Corbray.png
+| sigil=Argent, a raven volant sable holding heart gule
+| motto=
+| titles=
+| seat=
+| region=The vale of arryn
+| lord=
+| heir=
+| allegiance[[House vassals
+| age=
+| founder=
+| imagesize250px|Weapon  lady forlorn}}}
+
+ House Corbray is a vassal house which holds fealty to House Arryn of the Eyrie.\The Vale (Histories &amp; Lore)\\/ref} data-rte-instance130814-27046119756cca96d663f9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
+
+A Braavosi sellsword in service to House Corbray resettled in the Vale of Arryn. His great-grandson is Lord Petyr Baelish also known as Littlefinger.\House Baelish (Histories &amp; Lore)\\/ref} data-rte-instance130814-27046119756cca96d663f9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Known members Ser Vance Corbray, a knight Ancestors Ser Gwayne Corbray, knight of the Kingsguard. In the books 
+
+In the A Song of Ice and Fire novels, the Corbrays are an old but poor house. They hold the Valyrian steel blade known as Lady Forlorn. 
+
+The heraldry of House Corbray in the books is three black ravens in flight, each holding a separate red heart, on a white field. In the TV series continuity (as briefly glimpsed in an animated featurette), it is a single black raven rather than three. See also (MAJOR spoilers from the books) References 
+
+ 
+
+de:Haus Corbray ru:Корбреи  Loading editor

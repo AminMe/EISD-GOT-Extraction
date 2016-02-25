@@ -1,14 +1,17 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Stub","placeholder":1,"wikitext":"{{Stub}}"}" data-rte-instance="130814-140532065256cca7d34b04b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Maester's mini chain.png\n|link=Maesters\n}}"}" data-rte-instance="130814-140532065256cca7d34b04b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Kaeth\n| Image=\n| Season=[[Season 1|1]]\n| First=\n| Last=\n| Mentioned=\"[[The Lion and the Rose]]\"\n| Aka=\n| Titles=[[Grand Maester]]\n| Status= [[:Category:Status: Dead|Deceased]]\n| Allegiance=[[Maesters|Order of Maesters]]\n}}"}" data-rte-instance="130814-140532065256cca7d34b04b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Kaeth</b> is an character mentioned in the episode "<a data-rte-meta="{"type":"internal","text":"The Lion and the Rose","link":"The Lion and the Rose","wasblank":true,"noforce":true,"wikitext":"[[The Lion and the Rose]]"}" data-rte-instance="130814-140532065256cca7d34b04b" href="/wiki/The_Lion_and_the_Rose" title="The Lion and the Rose">The Lion and the Rose</a>". He is deceased when the events of the series begin and is not expected to appear in the series. He was a <a data-rte-meta="{"type":"internal","text":"Grand Maester","link":"Grand Maester","wasblank":true,"noforce":true,"wikitext":"[[Grand Maester]]"}" data-rte-instance="130814-140532065256cca7d34b04b" href="/wiki/Grand_Maester" title="Grand Maester">Grand Maester</a> and the author of the book <i><a data-rte-meta="{"type":"internal","text":"Lives of Four Kings","link":"Lives of Four Kings","wasblank":true,"noforce":true,"wikitext":"[[Lives of Four Kings]]"}" data-rte-instance="130814-140532065256cca7d34b04b" href="/wiki/Lives_of_Four_Kings" title="Lives of Four Kings">Lives of Four Kings</a></i>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-140532065256cca7d34b04b" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Kaeth was made Grand Maester at the age of eighty, and sent to the court of King <a data-rte-meta="{"type":"internal","text":"Aegon V Targaryen","link":"Aegon V Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Aegon V Targaryen]]"}" data-rte-instance="130814-140532065256cca7d34b04b" href="/wiki/Aegon_V_Targaryen" title="Aegon V Targaryen">Aegon V Targaryen</a>. He died within a year of his appointment and was succeeded by Grand Maester Ellendor.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Kaeth's <i>Lives of Four Kings</i> is considered a literary classic, despite scanting <a data-rte-meta="{"type":"internal","text":"Viserys II Targaryen","link":"Viserys II Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Viserys II Targaryen]]"}" data-rte-instance="130814-140532065256cca7d34b04b" href="/wiki/Viserys_II_Targaryen" title="Viserys II Targaryen">Viserys II Targaryen</a>, and his hand-drawn illuminations to be a masterpiece; only four original copies of his book survived, until Joffrey senselessly destroyed one at his <a data-rte-meta="{"type":"internal","text":"wedding feast","link":"Purple Wedding","wasblank":false,"noforce":true,"wikitext":"[[Purple Wedding|wedding feast]]"}" data-rte-instance="130814-140532065256cca7d34b04b" href="/wiki/Purple_Wedding" title="Purple Wedding">wedding feast</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-140532065256cca7d34b04b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
+title=Kaeth
+| image=
+| season=1
+| first=
+| last=
+| mentioned=\The lion and the rose\
+| aka=
+| titles=Grand maester
+| status=deceased
+| allegiance=Order of maesters
+}}}
 
-   Loading editor
+ Kaeth is an character mentioned in the episode The Lion and the Rose. He is deceased when the events of the series begin and is not expected to appear in the series. He was a Grand Maester and the author of the book Lives of Four Kings. In the books 
+
+In the A Song of Ice and Fire novels, Kaeth was made Grand Maester at the age of eighty, and sent to the court of King Aegon V Targaryen. He died within a year of his appointment and was succeeded by Grand Maester Ellendor. 
+
+Kaeth's Lives of Four Kings is considered a literary classic, despite scanting Viserys II Targaryen, and his hand-drawn illuminations to be a masterpiece; only four original copies of his book survived, until Joffrey senselessly destroyed one at his wedding feast. See also  Loading editor

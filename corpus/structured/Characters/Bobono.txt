@@ -1,18 +1,28 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Bobono\n| Image = \n| Season = [[Season 6|6]]\n| First= \n| Last=\n| Appearances=\n| Status= [[:Category:Status: Alive|Alive]]\n| Titles= \n| Aka= \n| Place = [[Braavos]]\n| Family =\n| Allegiance =\n| Religion=\n| Actor =[[Leigh Gill]]}}"}" data-rte-instance="130814-47336117756cca74bc5da2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Bobono</b> is a recurring character in the <a data-rte-meta="{"type":"internal","text":"sixth season","link":"Season 6","wasblank":false,"noforce":true,"wikitext":"[[Season 6|sixth season]]"}" data-rte-instance="130814-47336117756cca74bc5da2" href="/wiki/Season_6" title="Season 6">sixth season</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/watchersonthewall.com\/oldtown-filming-today-confirmed-plus-nikolaj-coster-waldau-in-girona-and-more\/ Watchers on the Wall \u2014 Oldtown filming today confirmed; plus Nikolaj Coster-Waldau in Girona and more!]<\/ref>"}" data-rte-instance="130814-47336117756cca74bc5da2" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" /> He is an actor in <a data-rte-meta="{"type":"internal","text":"Izembaro","link":"Izembaro","wasblank":true,"noforce":true,"wikitext":"[[Izembaro]]"}" data-rte-instance="130814-47336117756cca74bc5da2" href="/wiki/Izembaro" title="Izembaro">Izembaro</a>'s <a data-rte-meta="{"type":"internal","text":"Braavos","link":"Braavos","wasblank":true,"noforce":true,"wikitext":"[[Braavos]]"}" data-rte-instance="130814-47336117756cca74bc5da2" href="/wiki/Braavos" title="Braavos">Braavosi</a> theater troupe. Bobono is played by <a data-rte-meta="{"type":"internal","text":"Leigh Gill","link":"Leigh Gill","wasblank":true,"noforce":true,"wikitext":"[[Leigh Gill]]"}" data-rte-instance="130814-47336117756cca74bc5da2" href="/wiki/Leigh_Gill" title="Leigh Gill">Leigh Gill</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Bobono is a <a data-rte-meta="{"type":"internal","text":"dwarf","link":"Dwarfism","wasblank":false,"noforce":true,"wikitext":"[[Dwarfism|dwarf]]"}" data-rte-instance="130814-47336117756cca74bc5da2" href="/wiki/Dwarfism" title="Dwarfism">dwarf</a> who works as an actor in Braavos.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 6","link":"Season 6","wasblank":true,"noforce":true,"wikitext":"[[Season 6]]"}" data-rte-instance="130814-47336117756cca74bc5da2" href="/wiki/Season_6" title="Season 6">Season 6</a></h3>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-47336117756cca74bc5da2" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Bobono is an actor in Izembaro's theater troupe in Braavos.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Bobono}}"}" data-rte-instance="130814-47336117756cca74bc5da2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-47336117756cca74bc5da2" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Bobono
+| image=
+| season=6
+| first=
+| last=
+| appearances=
+| status=alive
+| titles=
+| aka=
+| place=Braavos
+| family=
+| allegiance=
+| religion=
+| actor=Leigh gill}}}
+
+ 
+
+Bobono is a recurring character in the sixth season.http:\/\/watchersonthewall.com\/oldtown-filming-today-confirmed-plus-nikolaj-coster-waldau-in-girona-and-more\/ Watchers on the Wall \u2014 Oldtown filming today confirmed; plus Nikolaj Coster-Waldau in Girona and more!\/ref} data-rte-instance130814-47336117756cca74bc5da2 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / He is an actor in Izembaro's Braavosi theater troupe. Bobono is played by Leigh Gill. Biography 
+
+ Background 
+
+Bobono is a dwarf who works as an actor in Braavos. Season 6 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Bobono is an actor in Izembaro's theater troupe in Braavos. See also (MAJOR spoilers from the books) References 
+
+  Loading editor

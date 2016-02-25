@@ -1,15 +1,20 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry","placeholder":1,"wikitext":"{{Heraldry|leftimage = Wildling shield icon.png|leftlink = Free Folk|rightimage = NK mini sigil.png|rightlink = White Walkers}}"}" data-rte-instance="130814-99256859856cca7033f676" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Wildling girl\n|Image = Wight.png\n|Season = [[Season 1|1]]\n|Appearances = \"[[Winter is Coming (episode)|Winter is Coming]]\"\n|Status= [[:Category:Status: Dead|Deceased]]\n|Actor = [[Claire Wright]]|Culture = [[Free Folk]]}}"}" data-rte-instance="130814-99256859856cca7033f676" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>wildling girl</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Season_1" title="Season 1">first season</a>. She is played by <a data-rte-meta="{"type":"internal","text":"Claire Wright","link":"Claire Wright","wasblank":true,"noforce":true,"wikitext":"[[Claire Wright]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Claire_Wright" title="Claire Wright">Claire Wright</a> and only appears in the <a data-rte-meta="{"type":"internal","text":"series premiere","link":"Winter is Coming (episode)","wasblank":false,"noforce":true,"wikitext":"[[Winter is Coming (episode)|series premiere]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Winter_is_Coming_(episode)" title="Winter is Coming (episode)" class="mw-redirect">series premiere</a>. She is seen as a <a data-rte-meta="{"type":"internal","text":"wight","link":"Wights","wasblank":false,"noforce":true,"wikitext":"[[Wights|wight]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Wights" title="Wights">wight</a> in the <a data-rte-meta="{"type":"internal","text":"Haunted Forest","link":"Haunted Forest","wasblank":true,"noforce":true,"wikitext":"[[Haunted Forest]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Haunted_Forest" title="Haunted Forest">Haunted Forest</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">She was originally a member of the <a data-rte-meta="{"type":"internal","text":"Free Folk","link":"Free Folk","wasblank":true,"noforce":true,"wikitext":"[[Free Folk]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Free_Folk" title="Free Folk">Free Folk</a> before turning into a wight.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">During his investigation of a <a data-rte-meta="{"type":"internal","text":"wildling","link":"Free Folk","wasblank":false,"noforce":true,"wikitext":"[[Free Folk|wildling]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Free_Folk" title="Free Folk">wildling</a> camp, <a data-rte-meta="{"type":"internal","text":"Will","link":"Will","wasblank":true,"noforce":true,"wikitext":"[[Will]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Will" title="Will">Will</a> of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a> observes her corpse nailed to a tree. A short time later, he sees her again, now standing and walking; she turns to him, and is revealed to have the blue eyes of a <a data-rte-meta="{"type":"internal","text":"wight","link":"Wights","wasblank":false,"noforce":true,"wikitext":"[[Wights|wight]]"}" data-rte-instance="130814-99256859856cca7033f676" href="/wiki/Wights" title="Wights">wight</a>. Will flees before she reacts in any way.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Winter is Coming (episode)|Winter is Coming]]\"<\/ref>"}" data-rte-instance="130814-99256859856cca7033f676" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-99256859856cca7033f676" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041e\u0434\u0438\u0447\u0430\u043b\u0430\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430","link":"ru:\u041e\u0434\u0438\u0447\u0430\u043b\u0430\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041e\u0434\u0438\u0447\u0430\u043b\u0430\u044f \u0434\u0435\u0432\u043e\u0447\u043a\u0430]]"}" data-rte-instance="130814-99256859856cca7033f676" href="http://ru.gameofthrones.wikia.com/wiki/Одичалая_девочка" class="extiw" title="ru:Одичалая девочка">ru:Одичалая девочка</a>
-</p>
-   Loading editor
+title=Wildling girl
+|image=Wight.png
+|Season = 1
+|appearances=\winter coming\
+|status=deceased
+|actorClaire wright|cultureFree folk}}}
+
+ 
+
+A wildling girl is an unnamed minor character in the first season. She is played by Claire Wright and only appears in the series premiere. She is seen as a wight in the Haunted Forest. Biography 
+
+ Background 
+
+She was originally a member of the Free Folk before turning into a wight. Season 1 
+
+During his investigation of a wildling camp, Will of the Night's Watch observes her corpse nailed to a tree. A short time later, he sees her again, now standing and walking; she turns to him, and is revealed to have the blue eyes of a wight. Will flees before she reacts in any way.\Winter is Coming (episode)|Winter is Coming\\/ref} data-rte-instance130814-99256859856cca7033f676 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / References 
+
+ 
+
+ru:Одичалая девочка  Loading editor

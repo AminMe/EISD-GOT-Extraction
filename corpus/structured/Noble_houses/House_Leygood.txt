@@ -1,19 +1,18 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble_house \n","placeholder":1,"wikitext":"{{Noble_house \n|Title = House Leygood\n|Sigil =A black threefold thunderbolt on orange\n|Motto = \n|Seat = \n|Region = [[The Reach]]\n|Allegiance = [[House Tyrell]]}}"}" data-rte-instance="130814-58450508356cca9a85e4d4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Leygood</b> is a vassal house from <a data-rte-meta="{"type":"internal","text":"the Reach","link":"the Reach","wasblank":true,"noforce":true,"wikitext":"[[the Reach]]"}" data-rte-instance="130814-58450508356cca9a85e4d4" href="/wiki/The_Reach" title="The Reach">the Reach</a> that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Tyrell","link":"House Tyrell","wasblank":true,"noforce":true,"wikitext":"[[House Tyrell]]"}" data-rte-instance="130814-58450508356cca9a85e4d4" href="/wiki/House_Tyrell" title="House Tyrell">House Tyrell</a> of <a data-rte-meta="{"type":"internal","text":"Highgarden","link":"Highgarden","wasblank":true,"noforce":true,"wikitext":"[[Highgarden]]"}" data-rte-instance="130814-58450508356cca9a85e4d4" href="/wiki/Highgarden" title="Highgarden">Highgarden</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-58450508356cca9a85e4d4" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true"><a data-rte-meta="{"type":"internal","text":"Bronn","link":"Bronn","wasblank":true,"noforce":true,"wikitext":"[[Bronn]]"}" data-rte-instance="130814-58450508356cca9a85e4d4" href="/wiki/Bronn" title="Bronn">Bronn</a> mentions to <a data-rte-meta="{"type":"internal","text":"Jaime Lannister","link":"Jaime Lannister","wasblank":true,"noforce":true,"wikitext":"[[Jaime Lannister]]"}" data-rte-instance="130814-58450508356cca9a85e4d4" href="/wiki/Jaime_Lannister" title="Jaime Lannister">Jaime Lannister</a> he's having an affair with the wife of a <a data-rte-meta="{"type":"internal","text":"knight","link":"knight","wasblank":true,"noforce":true,"wikitext":"[[knight]]"}" data-rte-instance="130814-58450508356cca9a85e4d4" href="/wiki/Knight" title="Knight" class="mw-redirect">knight</a> from House Leygood.  He mentions that the knight's sigil consisted of thunderbolts.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Lion and the Rose]]\"<\/ref>"}" data-rte-instance="130814-58450508356cca9a85e4d4" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-58450508356cca9a85e4d4" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels no member of House Leygood has been mentioned by name. House Leygood is part of the Tyrell force that participates in the <a data-rte-meta="{"type":"internal","text":"Battle of the Blackwater","link":"Battle of the Blackwater","wasblank":true,"noforce":true,"wikitext":"[[Battle of the Blackwater]]"}" data-rte-instance="130814-58450508356cca9a85e4d4" href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">Battle of the Blackwater</a>. Due to the little mention made of them, they do not appear to be one of the more powerful families in the Reach.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-58450508356cca9a85e4d4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-58450508356cca9a85e4d4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reach Houses","placeholder":1,"wikitext":"{{Reach Houses}}"}" data-rte-instance="130814-58450508356cca9a85e4d4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Leygood, House","placeholder":1,"wikitext":"{{DEFAULTSORT:Leygood, House}}"}" data-rte-instance="130814-58450508356cca9a85e4d4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House leygood
+|sigil=A black threefold thunderbolt on orange
+|motto=
+|Seat = 
+|region=The reach
+|allegiance=House tyrell}}}
+
+ 
+
+House Leygood is a vassal house from the Reach that holds fealty to House Tyrell of Highgarden. History 
+
+ Season 4 
+
+Bronn mentions to Jaime Lannister he's having an affair with the wife of a knight from House Leygood. He mentions that the knight's sigil consisted of thunderbolts.\The Lion and the Rose\\/ref} data-rte-instance130814-58450508356cca9a85e4d4 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels no member of House Leygood has been mentioned by name. House Leygood is part of the Tyrell force that participates in the Battle of the Blackwater. Due to the little mention made of them, they do not appear to be one of the more powerful families in the Reach. See also (spoilers from the books) References 
+
+  Loading editor

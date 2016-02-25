@@ -1,21 +1,28 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Child of the Forest\n|Season = [[Season 4|4]]\n|First = \"[[The Children]]\"\n|Appearances = 1 episodes <small>[[#Appearances|(see below)]]<\/small>\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[Children of the Forest]]\n|Culture = Children of the Forest\n|Religion = [[Old Gods of the Forest]]|Actor = [[Alice Hewkin]]|Image = Child_of_the_forest_2.png\n|ImageSize = 250px}}"}" data-rte-instance="130814-118579550756cca7191d8e9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|The [[First Men]] called us 'the Children', but we were born long before them.|Leaf|The Children}}"}" data-rte-instance="130814-118579550756cca7191d8e9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />This <b>child of the forest</b> is a background character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-118579550756cca7191d8e9" href="/wiki/Season_4" title="Season 4">fourth season</a>. She is a member of the non-human race known as the <a data-rte-meta="{"type":"internal","text":"Children of the Forest","link":"Children of the Forest","wasblank":true,"noforce":true,"wikitext":"[[Children of the Forest]]"}" data-rte-instance="130814-118579550756cca7191d8e9" href="/wiki/Children_of_the_Forest" title="Children of the Forest">Children of the Forest</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>​<a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-118579550756cca7191d8e9" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">When a fellow Child of the Forest, <a data-rte-meta="{"type":"internal","text":"Leaf","link":"Leaf","wasblank":true,"noforce":true,"wikitext":"[[Leaf]]"}" data-rte-instance="130814-118579550756cca7191d8e9" href="/wiki/Leaf" title="Leaf">Leaf</a>, saves <a data-rte-meta="{"type":"internal","text":"Bran Stark","link":"Bran Stark","wasblank":true,"noforce":true,"wikitext":"[[Bran Stark]]"}" data-rte-instance="130814-118579550756cca7191d8e9" href="/wiki/Bran_Stark" title="Bran Stark">Bran Stark</a> and two of his companions from <a data-rte-meta="{"type":"internal","text":"wights","link":"Wights","wasblank":false,"noforce":true,"wikitext":"[[Wights|wights]]"}" data-rte-instance="130814-118579550756cca7191d8e9" href="/wiki/Wights" title="Wights">wights</a> and leads them into the <a data-rte-meta="{"type":"internal","text":"cave","link":"Cave of the three-eyed raven","wasblank":false,"noforce":true,"wikitext":"[[Cave of the three-eyed raven|cave]]"}" data-rte-instance="130814-118579550756cca7191d8e9" href="/wiki/Cave_of_the_three-eyed_raven" title="Cave of the three-eyed raven">cave</a> of the <a data-rte-meta="{"type":"internal","text":"Three-eyed raven","link":"Three-eyed raven","wasblank":true,"noforce":true,"wikitext":"[[Three-eyed raven]]"}" data-rte-instance="130814-118579550756cca7191d8e9" href="/wiki/Three-eyed_raven" title="Three-eyed raven">Three-eyed raven</a>, this Child of the Forest looks upon them from the darkness.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Children]]\"<\/ref>"}" data-rte-instance="130814-118579550756cca7191d8e9" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Four Appearances","placeholder":1,"wikitext":"{{Season Four Appearances||||||||||yes}}"}" data-rte-instance="130814-118579550756cca7191d8e9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">​In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-118579550756cca7191d8e9" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the children of the forest at the cave are in service to the Three-eyed raven. They are described as having nut-brown skin that is dappled like a deer's with paler spots, large ears, large liquid gold and green eyes which are slitted like a cat's eyes. Their hair is a tangle of brown, red and gold, autumn colors, with vines and twigs and withered flowers woven through it. They wear a cloak of leaves. Bran thinks that from far away one of the children in particular, Leaf, looks no older than himself or one of his sisters, but close at hand she seems far older, and has a woman’s voice, high and sweet, with a strange music in it like none Bran has ever heard, and a deep sadness.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">There are at least five other Children of the Forest in the cave besides Leaf. Their real names in the True Tongue of the Children are very long and possibly unpronounceable by humans. Therefore Bran made up nicknames to refer to each of them by, including Ash, Black Knife, Coals, Scales, and Snowylocks.
-</p>
-<h2 data-rte-empty-lines-before="1"><span data-rte-washtml="1" data-rte-style="font-size:20px;" style="font-size:20px;" data-rte-attribs=" style=font-size:20px;">See also</span></h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:AWOIAF","placeholder":1,"wikitext":"{{Template:AWOIAF|Children of the Forest}}"}" data-rte-instance="130814-118579550756cca7191d8e9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-118579550756cca7191d8e9" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Child of the forest
+|season=4
+|first=\The children\
+|appearances=1 episodes (see below)\/small
+|Status = Alive
+|Allegiance = Children of the Forest
+|Culture = Children of the Forest
+|Religion  Old Gods of the Forest|Actor  Alice Hewkin|Image = Child_of_the_forest_2.png
+|ImageSize = 250px}}}
+
+(see below)\/small
+|Status = Alive
+|Allegiance = Children of the Forest
+|Culture = Children of the Forest
+|Religion  Old Gods of the Forest|Actor  Alice Hewkin|Image = Child_of_the_forest_2.png
+|ImageSize  250px}}} data-rte-instance130814-118579550756cca7191d8e9 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / This child of the forestis a background character inthe fourth season. She is a member of the non-human race known as the Children of the Forest. Biography 
+
+ ​Season 4 
+
+When a fellow Child of the Forest, Leaf, savesBran Stark and two of his companions fromwightsand leads them into the cave of the Three-eyed raven, this Child of the Forest looks upon them from the darkness.\The Children\\/ref} data-rte-instance130814-118579550756cca7191d8e9 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ ​In the books 
+
+In the A Song of Ice and Fire novels, the children of the forest at the cave are in service to the Three-eyed raven. They are described as having nut-brown skin that is dappled like a deer's with paler spots, large ears, large liquid gold and green eyes which are slitted like a cat's eyes. Their hair is a tangle of brown, red and gold, autumn colors, with vines and twigs and withered flowers woven through it. They wear a cloak of leaves. Bran thinks that from far away one of the children in particular, Leaf, looks no older than himself or one of his sisters, but close at hand she seems far older, and has a woman’s voice, high and sweet, with a strange music in it like none Bran has ever heard, and a deep sadness. 
+
+There are at least five other Children of the Forest in the cave besides Leaf. Their real names in the True Tongue of the Children are very long and possibly unpronounceable by humans. Therefore Bran made up nicknames to refer to each of them by, including Ash, Black Knife, Coals, Scales, and Snowylocks. See also (MAJOR spoilers from the books) References 
+
+  Loading editor

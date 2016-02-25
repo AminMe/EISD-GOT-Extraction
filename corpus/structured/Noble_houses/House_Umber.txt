@@ -1,44 +1,44 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=[[House Umber]]\n| Image=House-Umber-Main-Shield.PNG\n| Sigil=Four silver chains linked by a central ring on dark red\n| Words=\n| Titles=[[Lord of Last Hearth]]\n| Seat=[[Last Hearth]]\n| Region=[[The North]]\n| Lord=[[Greatjon Umber]]\n| Heir=[[Smalljon Umber]]\n| Allegiance=[[House Stark]]\n| Vassals=\n| Age=\n| Founder=}}"}" data-rte-instance="130814-4880650556cca94e85af0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|The Umbers are great warriors. Even I heard about them growing up.|[[Osha]]|The Rains of Castamere (episode)}}"}" data-rte-instance="130814-4880650556cca94e85af0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>House Umber</b> of the <a data-rte-meta="{"type":"internal","text":"Last Hearth","link":"Last Hearth","wasblank":true,"noforce":true,"wikitext":"[[Last Hearth]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Last_Hearth" title="Last Hearth">Last Hearth</a> is a vassal house that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Stark","link":"House Stark","wasblank":true,"noforce":true,"wikitext":"[[House Stark]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/House_Stark" title="House Stark">House Stark</a> of <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Winterfell" title="Winterfell">Winterfell</a>. Their lands are in the far north of the Stark territories, just south of <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/The_Wall" title="The Wall">the Wall</a> and the lands held by the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>. Their stronghold is a castle called Last Hearth and the head of the house is the <a data-rte-meta="{"type":"internal","text":"Lord of Last Hearth","link":"Lord of Last Hearth","wasblank":true,"noforce":true,"wikitext":"[[Lord of Last Hearth]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Lord_of_Last_Hearth" title="Lord of Last Hearth">Lord of Last Hearth</a>.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">House Umber's sigil is four chains linked by a central ring. Their motto is not known at present.
-</p>
-<h2 data-rte-empty-lines-before="1">Members</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[File:Greatjon.png|thumb|Greatjon Umber, head of House Umber.]]","title":"Greatjon.png","params":{"thumbnail":true,"alt":"Greatjon","caption":"Greatjon Umber, head of House Umber.","captionParsed":"Greatjon Umber, head of House Umber."}}" data-rte-instance="130814-4880650556cca94e85af0" alt="" src="http://vignette4.wikia.nocookie.net/gameofthrones/images/5/53/Greatjon.png/revision/latest/scale-to-width-down/180?cb=20150811222420" width="180" height="231" class="image thumb withCaption" data-image-name="Greatjon.png" data-image-key="Greatjon.png"  type="image" />
-</p>
-<ul><li data-rte-spaces-before="1">Lord <a data-rte-meta="{"type":"internal","text":"Greatjon Umber","link":"Greatjon Umber","wasblank":true,"noforce":true,"wikitext":"[[Greatjon Umber]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Greatjon_Umber" title="Greatjon Umber" class="mw-redirect">Greatjon Umber</a>, the current head of the family.
-<ul><li data-rte-spaces-before="1"><a data-rte-meta="{"type":"internal","text":"Smalljon Umber","link":"Smalljon Umber","wasblank":true,"noforce":true,"wikitext":"[[Smalljon Umber]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Smalljon_Umber" title="Smalljon Umber" class="mw-redirect">Smalljon Umber</a>, his son and heir.
-</li></ul>
-</li></ul>
-<h2 data-rte-empty-lines-before="1">Image Gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"a793c27d9433b69d668095d8e92c7e91","id":0,"images":[{"name":"House Umber.png","caption":"HBO viewer's guide image of the House Umber sigil","link":"","linktext":"","shorttext":"","data-caption":"HBO viewer's guide image of the House Umber sigil"},{"name":"Umber icon.png","caption":"HBO viewer's guide icon for House Umber.","link":"","linktext":"","shorttext":"","data-caption":"HBO viewer's guide icon for House Umber."},{"name":"Umber-small.png","caption":"Small icon of House Umber from the HBO viewers guide.","link":"","linktext":"","shorttext":"","data-caption":"Small icon of House Umber from the HBO viewers guide."},{"name":"House Umber tourney.jpg","caption":"The banner of House Umber at the [[Tournament|Tourney of the Hand]] in \"[[Cripples, Bastards and Broken Things]]\".","link":"","linktext":"","shorttext":"","data-caption":"The banner of House Umber at the [[Tournament|Tourney of the Hand]] in \"[[Cripples, Bastards and Broken Things]]\"."},{"name":"Umber-map-marker.jpg","caption":"A map marker used to represent the forces of House Umber.","link":"","linktext":"","shorttext":"","data-caption":"A map marker used to represent the forces of House Umber."}],"imagesShown":[{"name":"House Umber.png","caption":"HBO viewer's guide image of the House Umber sigil","link":"","linktext":"","shorttext":"","data-caption":"HBO viewer's guide image of the House Umber sigil"},{"name":"Umber icon.png","caption":"HBO viewer's guide icon for House Umber.","link":"","linktext":"","shorttext":"","data-caption":"HBO viewer's guide icon for House Umber."},{"name":"Umber-small.png","caption":"Small icon of House Umber from the HBO viewers guide.","link":"","linktext":"","shorttext":"","data-caption":"Small icon of House Umber from the HBO viewers guide."},{"name":"House Umber tourney.jpg","caption":"The banner of House Umber at the [[Tournament|Tourney of the Hand]] in \"[[Cripples, Bastards and Broken Things]]\".","link":"","linktext":"","shorttext":"","data-caption":"The banner of House Umber at the [[Tournament|Tourney of the Hand]] in \"[[Cripples, Bastards and Broken Things]]\"."},{"name":"Umber-map-marker.jpg","caption":"A map marker used to represent the forces of House Umber.","link":"","linktext":"","shorttext":"","data-caption":"A map marker used to represent the forces of House Umber."}],"params":{},"type":1,"wikitext":"<gallery>\nHouse Umber.png|HBO viewer's guide image of the House Umber sigil\nUmber icon.png|HBO viewer's guide icon for House Umber.\nUmber-small.png|Small icon of House Umber from the HBO viewers guide.\nHouse Umber tourney.jpg|The banner of House Umber at the [[Tournament|Tourney of the Hand]] in \"[[Cripples, Bastards and Broken Things]]\".\nUmber-map-marker.jpg|A map marker used to represent the forces of House Umber.\n<\/gallery>"}" data-rte-instance="130814-4880650556cca94e85af0" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-<h2 data-rte-empty-lines-before="1">Family tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Umber family tree","placeholder":1,"wikitext":"{{House Umber family tree}}"}" data-rte-instance="130814-4880650556cca94e85af0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Umbers are staunch supporters of the Starks, but truly respect strength alone. The Umbers are strong, formidable warriors who enjoy life to the full, although some of the family members are less reputable, with some Umber lords said to still practice the banned tradition of First Night. Their lands are close to the Wall and they are bitterly opposed to the <a data-rte-meta="{"type":"internal","text":"Wildlings","link":"Wildlings","wasblank":true,"noforce":true,"wikitext":"[[Wildlings]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Wildlings" title="Wildlings" class="mw-redirect">Wildlings</a>, as sometimes small wildling bands who evade the Watch raid their lands.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">The Umbers are the northernmost noble House in Westeros, and may be named after the real English county of Northumberland or the medieval Anglian kingdom of Northumbria.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">House Umber's <a data-rte-meta="{"type":"internal","text":"Heraldry","link":"Heraldry","wasblank":true,"noforce":true,"wikitext":"[[Heraldry]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Heraldry" title="Heraldry">Heraldry</a> in the books is different to the TV show. In the books, the sigil is a roaring giant in chains, but in the TV show it is just the chains.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Members:
-</p>
-<ul><li data-rte-spaces-before="1">Lord <a data-rte-meta="{"type":"internal","text":"Greatjon Umber","link":"Greatjon Umber","wasblank":true,"noforce":true,"wikitext":"[[Greatjon Umber]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Greatjon_Umber" title="Greatjon Umber" class="mw-redirect">Greatjon Umber</a>, the current head of the family. Taken captive by the Freys in the <a data-rte-meta="{"type":"internal","text":"Red Wedding","link":"Red Wedding","wasblank":true,"noforce":true,"wikitext":"[[Red Wedding]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="/wiki/Red_Wedding" title="Red Wedding">Red Wedding</a>. Grandson of Hoarfrost Umber, by Hoarfrost's eldest son.
-<ul><li data-rte-spaces-before="1">{Smalljon Umber}, the Greatjon's son and heir. Slain by the Boltons in the Red Wedding.
-</li><li data-rte-spaces-before="1">Several unnamed children (at least one son and two daughters).
-</li></ul>
-</li><li data-rte-spaces-before="1">Mors "Crowfood" Umber, the Greatjon's uncle, younger son of Hoarfrost Umber.
-</li><li data-rte-spaces-before="1">Hother "Whoresbane" Umber, the Greatjon's uncle, youngest son of Hoarfrost Umber.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-4880650556cca94e85af0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-spaces-before="1"> References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<references \/>"}" data-rte-instance="130814-4880650556cca94e85af0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Umber navbox","placeholder":1,"wikitext":"{{Umber navbox}}"}" data-rte-instance="130814-4880650556cca94e85af0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"North Houses","placeholder":1,"wikitext":"{{North Houses}}"}" data-rte-instance="130814-4880650556cca94e85af0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Haus Umber","link":"de:Haus Umber","wasblank":true,"noforce":true,"wikitext":"[[de:Haus Umber]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="http://de.gameofthrones.wikia.com/wiki/Haus_Umber" class="extiw" title="de:Haus Umber">de:Haus Umber</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"es:Casa Umber","link":"es:Casa Umber","wasblank":true,"noforce":true,"wikitext":"[[es:Casa Umber]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="http://hieloyfuego.wikia.com/wiki/Casa_Umber" class="extiw" title="es:Casa Umber">es:Casa Umber</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"ru:\u0410\u043c\u0431\u0435\u0440\u044b","link":"ru:\u0410\u043c\u0431\u0435\u0440\u044b","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0410\u043c\u0431\u0435\u0440\u044b]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="http://ru.gameofthrones.wikia.com/wiki/Амберы" class="extiw" title="ru:Амберы">ru:Амберы</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u5b89\u67cf\u5bb6\u65cf","link":"zh:\u5b89\u67cf\u5bb6\u65cf","wasblank":true,"noforce":true,"wikitext":"[[zh:\u5b89\u67cf\u5bb6\u65cf]]"}" data-rte-instance="130814-4880650556cca94e85af0" href="http://zh.asoiaf.wikia.com/wiki/安柏家族" class="extiw" title="zh:安柏家族">zh:安柏家族</a>
-</p>
-   Loading editor
+title=House umber
+| image=House-Umber-Main-Shield.PNG
+| sigil=Four silver chains linked by a central ring on dark red
+| words=
+| titles=Lord of last hearth
+| seatLast region[[The north
+| lordGreatjon heir[[Smalljon allegiance=[[House stark
+| vassals=
+| age=
+| founder=}}}
+
+ 
+
+ 
+
+House Umber of the Last Hearth is a vassal house that holds fealty to House Stark of Winterfell. Their lands are in the far north of the Stark territories, just south of the Wall and the lands held by the Night's Watch. Their stronghold is a castle called Last Hearth and the head of the house is the Lord of Last Hearth. 
+
+House Umber's sigil is four chains linked by a central ring. Their motto is not known at present. Members 
+
+ Lord Greatjon Umber, the current head of the family. Smalljon Umber, his son and heir. Image Gallery 
+
+
+House Umber.png|HBO viewer's guide image of the House Umber sigil
+Umber icon.png|HBO viewer's guide icon for House Umber.
+Umber-small.png|Small icon of House Umber from the HBO viewers guide.
+House Umber tourney.jpg|The banner of House Umber at the Tournament|Tourney of the Hand in \Cripples, Bastards and Broken Things\.
+Umber-map-marker.jpg|A map marker used to represent the forces of House Umber.
+\/gallery} data-rte-instance130814-4880650556cca94e85af0 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Family tree 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, the Umbers are staunch supporters of the Starks, but truly respect strength alone. The Umbers are strong, formidable warriors who enjoy life to the full, although some of the family members are less reputable, with some Umber lords said to still practice the banned tradition of First Night. Their lands are close to the Wall and they are bitterly opposed to the Wildlings, as sometimes small wildling bands who evade the Watch raid their lands. 
+
+The Umbers are the northernmost noble House in Westeros, and may be named after the real English county of Northumberland or the medieval Anglian kingdom of Northumbria. 
+
+House Umber's Heraldry in the books is different to the TV show. In the books, the sigil is a roaring giant in chains, but in the TV show it is just the chains. 
+
+Members: Lord Greatjon Umber, the current head of the family. Taken captive by the Freys in the Red Wedding. Grandson of Hoarfrost Umber, by Hoarfrost's eldest son. Smalljon Umber, the Greatjon's son and heir. Slain by the Boltons in the Red Wedding. Several unnamed children (at least one son and two daughters). Mors Crowfood Umber, the Greatjon's uncle, younger son of Hoarfrost Umber. Hother Whoresbane Umber, the Greatjon's uncle, youngest son of Hoarfrost Umber. See also (MAJOR spoilers from the books) References 
+
+} data-rte-instance130814-4880650556cca94e85af0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+
+ 
+
+de:Haus Umber es:Casa Umber ru:Амберы zh:安柏家族  Loading editor

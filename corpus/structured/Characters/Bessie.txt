@@ -1,15 +1,19 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Bessie\n| Image=\n| Season=[[Season 1|1]]\n| First=\n| Last=\n| Mentioned=\"[[The Kingsroad]]\"\n| Aka=\n| Titles=\n| Status= \n| Allegiance=\n}}"}" data-rte-instance="130814-73314837656cca7b78e9b7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Dialogue a-b-a","placeholder":1,"wikitext":"{{Dialogue a-b-a|Robert Baratheon|There was that one... Oh, what was her name? That common girl of yours? Becca. With the great big tits you could bury your face in.|Eddard Stark|Bessie. She was one of yours.|Bessie! Thank the gods for Bessie. And her tits.|Robert Baratheon reminiscing.|The Kingsroad}}"}" data-rte-instance="130814-73314837656cca7b78e9b7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Bessie</b> was a common girl that <a data-rte-meta="{"type":"internal","text":"Robert Baratheon","link":"Robert Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Robert Baratheon]]"}" data-rte-instance="130814-73314837656cca7b78e9b7" href="/wiki/Robert_Baratheon" title="Robert Baratheon">Robert Baratheon</a> enjoyed having sex with during <a data-rte-meta="{"type":"internal","text":"Robert's Rebellion","link":"Robert's Rebellion","wasblank":true,"noforce":true,"wikitext":"[[Robert's Rebellion]]"}" data-rte-instance="130814-73314837656cca7b78e9b7" href="/wiki/Robert's_Rebellion" title="Robert's Rebellion">Robert's Rebellion</a>.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">While reminiscing with <a data-rte-meta="{"type":"internal","text":"Ned Stark","link":"Eddard Stark","wasblank":false,"noforce":true,"wikitext":"[[Eddard Stark|Ned Stark]]"}" data-rte-instance="130814-73314837656cca7b78e9b7" href="/wiki/Eddard_Stark" title="Eddard Stark">Ned Stark</a>, Robert is trying to recall the name of Ned's mistress, confusing Bessie with <a data-rte-meta="{"type":"internal","text":"Wylla","link":"Wylla","wasblank":true,"noforce":true,"wikitext":"[[Wylla]]"}" data-rte-instance="130814-73314837656cca7b78e9b7" href="/wiki/Wylla" title="Wylla">Wylla</a>. Robert remembers her fondly as having big breasts.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[[The Kingsroad]]<\/ref>"}" data-rte-instance="130814-73314837656cca7b78e9b7" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-73314837656cca7b78e9b7" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the conversation is very similar except Ned does not correct Robert on her name not being Becca, and Robert fondly remembers her sweet big eyes rather than her big breasts.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Becca}}"}" data-rte-instance="130814-73314837656cca7b78e9b7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-73314837656cca7b78e9b7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Bessie
+| image=
+| season=1
+| first=
+| last=
+| mentioned=\The kingsroad\
+| aka=
+| titles=
+| status=
+| allegiance=
+}}}
+
+ Bessie was a common girl that Robert Baratheon enjoyed having sex with during Robert's Rebellion. 
+
+While reminiscing with Ned Stark, Robert is trying to recall the name of Ned's mistress, confusing Bessie with Wylla.Robert remembers her fondly as having big breasts.The Kingsroad\/ref} data-rte-instance130814-73314837656cca7b78e9b7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, the conversation is very similar exceptNed does not correct Robert on her name not being Becca, and Robert fondly remembers her sweet big eyes rather than her big breasts. See also References 
+
+  Loading editor

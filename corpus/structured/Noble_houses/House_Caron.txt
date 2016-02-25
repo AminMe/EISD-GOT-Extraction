@@ -1,33 +1,46 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title='''House Caron'''\n| Image=House-Caron-Main-Shield.PNG\n| Sigil=A field of black nightingales on yellow\n| Words=\"No song so sweet\"\n| Titles= Lord of the Marches<br>Lord of Nightsong\n| Seat= [[Nightsong]]\n| Region=The Dornish Marches, [[Stormlands]]\n| Lord=\n| Heir=\n| Allegiance=[[House Baratheon]]\n| Vassals=\n| Age=\n| Founder=\n|ImageSize = 250px}}"}" data-rte-instance="130814-62373367356cca9875a2f0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Caron</b> is a vassal house from the <a data-rte-meta="{"type":"internal","text":"Stormlands","link":"Stormlands","wasblank":true,"noforce":true,"wikitext":"[[Stormlands]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Stormlands" title="Stormlands" class="mw-redirect">Stormlands</a> that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Baratheon","link":"House Baratheon","wasblank":true,"noforce":true,"wikitext":"[[House Baratheon]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/House_Baratheon" title="House Baratheon">House Baratheon</a> of <a data-rte-meta="{"type":"internal","text":"Storm's End","link":"Storm's End","wasblank":true,"noforce":true,"wikitext":"[[Storm's End]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Storm's_End" title="Storm's End">Storm's End</a>. Their lands are in the <a data-rte-meta="{"type":"internal","text":"Dornish Marches","link":"Dornish Marches","wasblank":true,"noforce":true,"wikitext":"[[Dornish Marches]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Dornish_Marches" title="Dornish Marches">Dornish Marches</a> and their seat is called <a data-rte-meta="{"type":"internal","text":"Nightsong","link":"Nightsong","wasblank":true,"noforce":true,"wikitext":"[[Nightsong]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Nightsong" title="Nightsong">Nightsong</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/nightsong\/ HBO viewers guide, season 1 map, Nightsong entry]<\/ref>"}" data-rte-instance="130814-62373367356cca9875a2f0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" /> The head of the family holds the titles of Lord of Nightsong and Lord of the Marches, suggesting that they have dominion over other noble houses from the Marches, the so-called "Marcher Lords". The Caron sigil is a field of black nightingales on yellow.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">House Caron takes part in the Tourney of the Hand.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Wolf and the Lion]]\"<\/ref>"}" data-rte-instance="130814-62373367356cca9875a2f0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">Like most of the Stormlords, House Caron pledges its support to <a data-rte-meta="{"type":"internal","text":"Renly Baratheon","link":"Renly Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Renly Baratheon]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Renly_Baratheon" title="Renly Baratheon">Renly Baratheon</a>'s claim to the <a data-rte-meta="{"type":"internal","text":"Iron Throne","link":"Iron Throne","wasblank":true,"noforce":true,"wikitext":"[[Iron Throne]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Iron_Throne" title="Iron Throne">Iron Throne</a>. Following the <a data-rte-meta="{"type":"internal","text":"death","link":"Assassination of Renly I","wasblank":false,"noforce":true,"wikitext":"[[Assassination of Renly I|death]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Assassination_of_Renly_I" title="Assassination of Renly I">death</a> of Renly, the Carons go over to <a data-rte-meta="{"type":"internal","text":"Stannis","link":"Stannis Baratheon","wasblank":false,"noforce":true,"wikitext":"[[Stannis Baratheon|Stannis]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis</a> and participate in the <a data-rte-meta="{"type":"internal","text":"Battle of the Blackwater","link":"Battle of the Blackwater","wasblank":true,"noforce":true,"wikitext":"[[Battle of the Blackwater]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">Battle of the Blackwater</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>Season 2 Bluray: War of the Five Kings feature<\/ref>"}" data-rte-instance="130814-62373367356cca9875a2f0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Image gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"93ed95c735ec05d8c74382317de269c4","id":0,"images":[{"name":"House_Caron.png","caption":"HBO viewer's guide icon for House Caron","link":"","linktext":"","shorttext":"","data-caption":"HBO viewer's guide icon for House Caron"},{"name":"Caron Knight.jpg","caption":"A Knight of House Caron at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\".","link":"","linktext":"","shorttext":"","data-caption":"A Knight of House Caron at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\"."}],"imagesShown":[{"name":"House_Caron.png","caption":"HBO viewer's guide icon for House Caron","link":"","linktext":"","shorttext":"","data-caption":"HBO viewer's guide icon for House Caron"},{"name":"Caron Knight.jpg","caption":"A Knight of House Caron at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\".","link":"","linktext":"","shorttext":"","data-caption":"A Knight of House Caron at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\"."}],"params":{},"type":1,"wikitext":"<gallery>\nHouse_Caron.png|HBO viewer's guide icon for House Caron\nCaron Knight.jpg|A Knight of House Caron at the [[Tournament|Tourney of the Hand]] in \"[[The Wolf and the Lion]]\".\n<\/gallery>"}" data-rte-instance="130814-62373367356cca9875a2f0" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i>, they are a loyal vassal house to House Baratheon of Storm's End.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Lord Bryce Caron, son of the late Bryen Caron, is a respected warrior. He has a bastard brother Ser Rolland Storm, who is called the Bastard of Nightsong.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Bryce Caron, not <a data-rte-meta="{"type":"internal","text":"Davos Seaworth","link":"Davos Seaworth","wasblank":true,"noforce":true,"wikitext":"[[Davos Seaworth]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Davos_Seaworth" title="Davos Seaworth">Davos Seaworth</a>, was the one who dissuaded <a data-rte-meta="{"type":"internal","text":"Stannis Baratheon","link":"Stannis Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Stannis Baratheon]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a> from taking <a data-rte-meta="{"type":"internal","text":"Melisandre","link":"Melisandre","wasblank":true,"noforce":true,"wikitext":"[[Melisandre]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Melisandre" title="Melisandre">Melisandre</a> to the <a data-rte-meta="{"type":"internal","text":"Battle of the Blackwater","link":"Battle of the Blackwater","wasblank":true,"noforce":true,"wikitext":"[[Battle of the Blackwater]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">Battle of the Blackwater</a>, claiming that people would say Stannis owed the crown to her spells. In the battle, Bryce was killed in single combat by Ser Philip Foote. His lands, titles and incomes were granted to Ser Philip by the king.
-</p>
-<h3 data-rte-empty-lines-before="1">Members</h3>
-<ul><li>Lord {Bryen Caron}, the late Lord of the Marches.
-<ul><li data-rte-spaces-before="1">{Bryce Caron}, Lord of the Marches and Lord of <a data-rte-meta="{"type":"internal","text":"Nightsong","link":"Nightsong","wasblank":true,"noforce":true,"wikitext":"[[Nightsong]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Nightsong" title="Nightsong">Nightsong</a>. Killed in the <a data-rte-meta="{"type":"internal","text":"Battle of the Blackwater","link":"Battle of the Blackwater","wasblank":true,"noforce":true,"wikitext":"[[Battle of the Blackwater]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">Battle of the Blackwater</a>.
-</li><li>Ser Rolland Storm, his bastard brother.
-</li></ul>
-</li></ul>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-62373367356cca9875a2f0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-62373367356cca9875a2f0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Storm Houses","placeholder":1,"wikitext":"{{Storm Houses}}"}" data-rte-instance="130814-62373367356cca9875a2f0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041a\u0430\u0440\u043e\u043d\u044b","link":"ru:\u041a\u0430\u0440\u043e\u043d\u044b","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041a\u0430\u0440\u043e\u043d\u044b]]"}" data-rte-instance="130814-62373367356cca9875a2f0" href="http://ru.gameofthrones.wikia.com/wiki/Кароны" class="extiw" title="ru:Кароны">ru:Кароны</a>
-</p>
-   Loading editor
+title= 'house caron
+| image=House-Caron-Main-Shield.PNG
+| sigil=A field of black nightingales on yellow
+| words=\No song so sweet\
+| titles=Lord the marchesLord of Nightsong
+| Seat= Nightsong
+| Region=The Dornish Marches, Stormlands
+| Lord=
+| Heir=
+| Allegiance=House Baratheon
+| Vassals=
+| Age=
+| Founder=
+|ImageSize = 250px}}}
+
+Lord of Nightsong
+| Seat= Nightsong
+| Region=The Dornish Marches, Stormlands
+| Lord=
+| Heir=
+| Allegiance=House Baratheon
+| Vassals=
+| Age=
+| Founder=
+|ImageSize  250px}}} data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / House Caron is a vassal house from the Stormlands that holds fealty to House Baratheon of Storm's End. Their lands are in the Dornish Marches and their seat is called Nightsong.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/nightsong\/ HBO viewers guide, season 1 map, Nightsong entry\/ref} data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The head of the family holds the titles of Lord of Nightsong and Lord of the Marches, suggesting that they have dominion over other noble houses from the Marches, the so-called Marcher Lords. The Caron sigil is a field of black nightingales on yellow. History 
+
+ Season 1 
+
+House Caron takes part in the Tourney of the Hand.\The Wolf and the Lion\\/ref} data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 2 
+
+Like most of the Stormlords, House Caron pledges its support to Renly Baratheon's claim to the Iron Throne. Following the death of Renly, the Carons go over to Stannis and participate in the Battle of the Blackwater.Season 2 Bluray: War of the Five Kings feature\/ref} data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Image gallery 
+
+
+House_Caron.png|HBO viewer's guide icon for House Caron
+Caron Knight.jpg|A Knight of House Caron at the Tournament|Tourney of the Hand in \The Wolf and the Lion\.
+\/gallery} data-rte-instance=130814-62373367356cca9875a2f0 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+
+In A Song of Ice and Fire, they are a loyal vassal house to House Baratheon of Storm's End. 
+
+Lord Bryce Caron, son of the late Bryen Caron, is a respected warrior. He has a bastard brother Ser Rolland Storm, who is called the Bastard of Nightsong. 
+
+Bryce Caron, not Davos Seaworth, was the one who dissuaded Stannis Baratheon from taking Melisandre to the Battle of the Blackwater, claiming that people would say Stannis owed the crown to her spells. In the battle, Bryce was killed in single combat by Ser Philip Foote. His lands, titles and incomes were granted to Ser Philip by the king. Members Lord Bryen Caron, the late Lord of the Marches. Bryce Caron, Lord of the Marches and Lord of Nightsong. Killed in the Battle of the Blackwater. Ser Rolland Storm, his bastard brother. See also (spoilers from the books) References 
+
+ 
+
+ru:Кароны  Loading editor

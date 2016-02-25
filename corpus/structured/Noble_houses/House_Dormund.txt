@@ -1,20 +1,28 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Noble house\n","placeholder":1,"wikitext":"{{Noble house\n| Title=House Dormund\n| Image=\n| Image size=\n| Sigil=\n| Motto=\n| Titles=\n| Seat=\n| Region=The [[North]]\n| Lord=\n| Heir=\n| Allegiance=[[House Stark]]\n| Vassals=\n| Religion=[[Old Gods]]\n| Cadet branches=\n| Date of founding=\n| Age=\n| Founder=\n| Ancestral weapon=\n}}"}" data-rte-instance="130814-186124823956cca9701d07b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|This letter, detailing our infantry movements was meant for Lord Damon of House Marbrand; it was sent to Lord Marlin of House Dormund!|[[Tywin Lannister]] to his bannerman|The Old Gods and the New}}"}" data-rte-instance="130814-186124823956cca9701d07b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Dormund</b> is a vassal house that holds fealty to <a data-rte-meta="{"type":"internal","text":"House Stark","link":"House Stark","wasblank":true,"noforce":true,"wikitext":"[[House Stark]]"}" data-rte-instance="130814-186124823956cca9701d07b" href="/wiki/House_Stark" title="House Stark">House Stark</a> of <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-186124823956cca9701d07b" href="/wiki/Winterfell" title="Winterfell">Winterfell</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-186124823956cca9701d07b" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">During the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-186124823956cca9701d07b" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a> a letter detailing the infantry movements of <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-186124823956cca9701d07b" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a>'s forces was accidentally sent to Lord Marlin of House Dormund, instead of Lord <a data-rte-meta="{"type":"internal","text":"Damon Marbrand","link":"Damon Marbrand","wasblank":true,"noforce":true,"wikitext":"[[Damon Marbrand]]"}" data-rte-instance="130814-186124823956cca9701d07b" href="/wiki/Damon_Marbrand" title="Damon Marbrand">Damon Marbrand</a>, due to the illiteracy of <a data-rte-meta="{"type":"internal","text":"Amory Lorch","link":"Amory Lorch","wasblank":true,"noforce":true,"wikitext":"[[Amory Lorch]]"}" data-rte-instance="130814-186124823956cca9701d07b" href="/wiki/Amory_Lorch" title="Amory Lorch">Amory Lorch</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Old Gods and the New]]\"<\/ref>"}" data-rte-instance="130814-186124823956cca9701d07b" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2>Members</h2>
-<ul><li>Lord <a data-rte-meta="{"type":"internal","text":"Marlin Dormund","link":"Marlin Dormund","wasblank":true,"noforce":true,"wikitext":"[[Marlin Dormund]]"}" data-rte-instance="130814-186124823956cca9701d07b" href="/wiki/Marlin_Dormund" title="Marlin Dormund">Marlin Dormund</a>, the head of the family.
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">No House Dormund, or Lord Marlin are mentioned at any point in the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-186124823956cca9701d07b" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels.
-</p>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-186124823956cca9701d07b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"North Houses","placeholder":1,"wikitext":"{{North Houses}}"}" data-rte-instance="130814-186124823956cca9701d07b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Dormund, House","placeholder":1,"wikitext":"{{DEFAULTSORT:Dormund, House}}"}" data-rte-instance="130814-186124823956cca9701d07b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House dormund
+| image size=
+| sigil=
+| motto=
+| titles=
+| seat=
+| region=The north
+| lord=
+| heir=
+| allegiance=House stark
+| vassals=
+| religion=Old gods
+| cadet branches=
+| date of founding=
+| age=
+| founder=
+| ancestral weapon=
+}}}
+
+ House Dormund is a vassal house that holds fealty to House Stark of Winterfell. History 
+
+ Season 2 
+
+During the War of the Five Kings a letter detailing the infantry movements of House Lannister's forces was accidentally sent to Lord Marlin of House Dormund, instead of Lord Damon Marbrand, due to the illiteracy of Amory Lorch.\The Old Gods and the New\\/ref} data-rte-instance130814-186124823956cca9701d07b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Members Lord Marlin Dormund, the head of the family. In the books 
+
+No House Dormund, or Lord Marlin are mentioned at any point in the A Song of Ice and Fire novels. References 
+
+  Loading editor

@@ -1,12 +1,12 @@
-<p data-rte-fromparser="true"><b>Ragman Lane</b> is a lane in the city of <a data-rte-meta="{"type":"internal","text":"Braavos","link":"Braavos","wasblank":true,"noforce":true,"wikitext":"[[Braavos]]"}" data-rte-instance="130814-136794412856cca9358dd8b" href="/wiki/Braavos" title="Braavos">Braavos</a>. If you turn right on Ragman Lane, you'll end up at <a data-rte-meta="{"type":"internal","text":"Ragman Harbor","link":"Ragman Harbor","wasblank":true,"noforce":true,"wikitext":"[[Ragman Harbor]]"}" data-rte-instance="130814-136794412856cca9358dd8b" href="/wiki/Ragman_Harbor" title="Ragman Harbor">Ragman Harbor</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Hardhome (episode)]]\"<\/ref>"}" data-rte-instance="130814-136794412856cca9358dd8b" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-136794412856cca9358dd8b" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-136794412856cca9358dd8b" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is not described any roads or lane in <a data-rte-meta="{"type":"internal","text":"Braavos","link":"Braavos","wasblank":true,"noforce":true,"wikitext":"[[Braavos]]"}" data-rte-instance="130814-136794412856cca9358dd8b" href="/wiki/Braavos" title="Braavos">Braavos</a>.
-</p><p data-rte-fromparser="true"><br />
-</p>
-<h2 data-rte-empty-lines-before="3">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-136794412856cca9358dd8b" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+Ragman Lane is a lane in the city of Braavos. If you turn right on Ragman Lane, you'll end up at Ragman Harbor.\Hardhome (episode)\\/ref} data-rte-instance130814-136794412856cca9358dd8b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+History
+Season 5
+In the books
+In the A Song of Ice and Fire novels, there is not described any roads or lane in Braavos.
+
+
+References
+
+
+ &nbsp; Loading editor

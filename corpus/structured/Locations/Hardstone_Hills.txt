@@ -1,13 +1,13 @@
-<p data-rte-fromparser="true">The <b>Hardstone Hills</b> are the location were <a data-rte-meta="{"type":"internal","text":"Hammerhorn","link":"Hammerhorn","wasblank":true,"noforce":true,"wikitext":"[[Hammerhorn]]"}" data-rte-instance="130814-2462660756cca9312bb94" href="/wiki/Hammerhorn" title="Hammerhorn">Hammerhorn</a>, the seat of <a data-rte-meta="{"type":"internal","text":"House Goodbrother","link":"House Goodbrother","wasblank":true,"noforce":true,"wikitext":"[[House Goodbrother]]"}" data-rte-instance="130814-2462660756cca9312bb94" href="/wiki/House_Goodbrother" title="House Goodbrother">House Goodbrother</a>, is located.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>Season 2 bluray: War of the Five Kings<\/ref>"}" data-rte-instance="130814-2462660756cca9312bb94" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-2462660756cca9312bb94" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Hardstone Hills are a series of hills on the island of Great Wyk. It is the source of ores which are mined by the <a data-rte-meta="{"type":"internal","text":"smallfolk","link":"smallfolk","wasblank":true,"noforce":true,"wikitext":"[[smallfolk]]"}" data-rte-instance="130814-2462660756cca9312bb94" href="/wiki/Smallfolk" title="Smallfolk">smallfolk</a> in service to House Goodbrother.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-2462660756cca9312bb94" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-2462660756cca9312bb94" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Iron Islands","placeholder":1,"wikitext":"{{Iron Islands}}"}" data-rte-instance="130814-2462660756cca9312bb94" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+The Hardstone Hills are the location were Hammerhorn, the seat of House Goodbrother, is located.Season 2 bluray: War of the Five Kings\/ref} data-rte-instance130814-2462660756cca9312bb94 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+In the books
+In the A Song of Ice and Fire novels, the Hardstone Hills are a series of hills on the island of Great Wyk. It is the source of ores which are mined by the smallfolk in service to House Goodbrother.
+
+See also
+ (spoilers from the books)
+
+References
+
+
+
+ &nbsp; Loading editor

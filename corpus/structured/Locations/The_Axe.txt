@@ -1,17 +1,17 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"image","wikitext":"[[Image:The Axe.png|thumb|right|200px|A map showing the location of the Axe on the continent of Essos.]]","title":"The_Axe.png","params":{"thumbnail":true,"alt":"The Axe","align":"right","caption":"A map showing the location of the Axe on the continent of Essos.","width":200,"captionParsed":"A map showing the location of the Axe on the continent of Essos."}}" data-rte-instance="130814-11758859556cca8bc4528f" alt="" src="http://vignette2.wikia.nocookie.net/gameofthrones/images/8/8e/The_Axe.png/revision/latest/scale-to-width-down/200?cb=20120330130353" width="200" height="278" class="image thumb alignRight withCaption" data-image-name="The Axe.png" data-image-key="The_Axe.png"  type="image" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>The Axe</b> is a region on the continent of <a data-rte-meta="{"type":"internal","text":"Essos","link":"Essos","wasblank":true,"noforce":true,"wikitext":"[[Essos]]"}" data-rte-instance="130814-11758859556cca8bc4528f" href="/wiki/Essos" title="Essos">Essos</a>, located to the east of <a data-rte-meta="{"type":"internal","text":"Westeros","link":"Westeros","wasblank":true,"noforce":true,"wikitext":"[[Westeros]]"}" data-rte-instance="130814-11758859556cca8bc4528f" href="/wiki/Westeros" title="Westeros">Westeros</a>. It is a large, axehead-shaped peninsular extending northwards into the <a data-rte-meta="{"type":"internal","text":"Shivering Sea","link":"Shivering Sea","wasblank":true,"noforce":true,"wikitext":"[[Shivering Sea]]"}" data-rte-instance="130814-11758859556cca8bc4528f" href="/wiki/Shivering_Sea" title="Shivering Sea">Shivering Sea</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/braavos\/ HBO viewers guide, season 2 map, Braavos entry]<\/ref>"}" data-rte-instance="130814-11758859556cca8bc4528f" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-11758859556cca8bc4528f" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Axe is a mountainous headland, an extension of the hills and mountains to the south. <a data-rte-meta="{"type":"internal","text":"Norvos","link":"Norvos","wasblank":true,"noforce":true,"wikitext":"[[Norvos]]"}" data-rte-instance="130814-11758859556cca8bc4528f" href="/wiki/Norvos" title="Norvos">Norvos</a> maintains mines in this area. Ores are taken by land down to the Darkwash River and thence to Norvos and <a data-rte-meta="{"type":"internal","text":"Qohor","link":"Qohor","wasblank":true,"noforce":true,"wikitext":"[[Qohor]]"}" data-rte-instance="130814-11758859556cca8bc4528f" href="/wiki/Qohor" title="Qohor">Qohor</a>.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">According to legend, the <a data-rte-meta="{"type":"internal","text":"Andals","link":"Andals","wasblank":true,"noforce":true,"wikitext":"[[Andals]]"}" data-rte-instance="130814-11758859556cca8bc4528f" href="/wiki/Andals" title="Andals">Andals</a> inhabited the Axe before they migrated further west to <a data-rte-meta="{"type":"internal","text":"Andalos","link":"Andalos","wasblank":true,"noforce":true,"wikitext":"[[Andalos]]"}" data-rte-instance="130814-11758859556cca8bc4528f" href="/wiki/Andalos" title="Andalos">Andalos</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-11758859556cca8bc4528f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-11758859556cca8bc4528f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Regions of the Known World","placeholder":1,"wikitext":"{{Regions of the Known World}}"}" data-rte-instance="130814-11758859556cca8bc4528f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"FreeCities","placeholder":1,"wikitext":"{{FreeCities}}"}" data-rte-instance="130814-11758859556cca8bc4528f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0422\u043e\u043f\u043e\u0440","link":"ru:\u0422\u043e\u043f\u043e\u0440","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0422\u043e\u043f\u043e\u0440]]"}" data-rte-instance="130814-11758859556cca8bc4528f" href="http://ru.gameofthrones.wikia.com/wiki/Топор" class="extiw" title="ru:Топор">ru:Топор</a>
-</p>
-   Loading editor
+
+The Axe is a region on the continent of Essos, located to the east of Westeros. It is a large, axehead-shaped peninsular extending northwards into the Shivering Sea.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/braavos\/ HBO viewers guide, season 2 map, Braavos entry\/ref} data-rte-instance130814-11758859556cca8bc4528f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+
+In the books
+In the A Song of Ice and Fire novels, the Axe is a mountainous headland, an extension of the hills and mountains to the south. Norvos maintains mines in this area. Ores are taken by land down to the Darkwash River and thence to Norvos and Qohor.
+According to legend, the Andals inhabited the Axe before they migrated further west to Andalos.
+
+See also
+
+
+References
+
+
+
+ru:Топор
+
+ &nbsp; Loading editor

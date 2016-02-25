@@ -1,18 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Tortured slave\n| Image= Tortured slave 3x03.jpg\n| Season=[[Season 3|3]]\n| First=\n| Last=\n| Appearances= \"[[Walk of Punishment]]\"\n| Aka=\n| Status=[[:Category:Status: Uncertain|Uncertain]]\n| Death=\n| Place=[[Astapor]]\n| Allegiance=\n| Family=\n| Actor=[[Mark Drake]]}}"}" data-rte-instance="130814-32798896156cca7779cba3" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>tortured slave</b> is a minor character in the <a data-rte-meta="{"type":"internal","text":"third season","link":"Season 3","wasblank":false,"noforce":true,"wikitext":"[[Season 3|third season]]"}" data-rte-instance="130814-32798896156cca7779cba3" href="/wiki/Season_3" title="Season 3">third season</a> played by guest star <a data-rte-meta="{"type":"internal","text":"Mark Drake","link":"Mark Drake","wasblank":true,"noforce":true,"wikitext":"[[Mark Drake]]"}" data-rte-instance="130814-32798896156cca7779cba3" href="/wiki/Mark_Drake" title="Mark Drake">Mark Drake</a> who debuts in "<a data-rte-meta="{"type":"internal","text":"Walk of Punishment","link":"Walk of Punishment","wasblank":true,"noforce":true,"wikitext":"[[Walk of Punishment]]"}" data-rte-instance="130814-32798896156cca7779cba3" href="/wiki/Walk_of_Punishment" title="Walk of Punishment">Walk of Punishment</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 3","link":"Season 3","wasblank":true,"noforce":true,"wikitext":"[[Season 3]]"}" data-rte-instance="130814-32798896156cca7779cba3" href="/wiki/Season_3" title="Season 3">Season 3</a></h3>
-<p data-rte-fromparser="true">He is a <a data-rte-meta="{"type":"internal","text":"slave","link":"Slavery","wasblank":false,"noforce":true,"wikitext":"[[Slavery|slave]]"}" data-rte-instance="130814-32798896156cca7779cba3" href="/wiki/Slavery" title="Slavery">slave</a> who presumably showed insubordination of some kind to his <a data-rte-meta="{"type":"internal","text":"masters","link":"Good Masters","wasblank":false,"noforce":true,"wikitext":"[[Good Masters|masters]]"}" data-rte-instance="130814-32798896156cca7779cba3" href="/wiki/Good_Masters" title="Good Masters">masters</a>, and after being viciously whipped is strapped to a cross and left to die out in public on the <a data-rte-meta="{"type":"internal","text":"Walk of Punishment","link":"Walk of Punishment (Astapor)","wasblank":false,"noforce":true,"wikitext":"[[Walk of Punishment (Astapor)|Walk of Punishment]]"}" data-rte-instance="130814-32798896156cca7779cba3" href="/wiki/Walk_of_Punishment_(Astapor)" title="Walk of Punishment (Astapor)">Walk of Punishment</a>, as a warning to all other slaves. <a data-rte-meta="{"type":"internal","text":"Daenerys Targaryen","link":"Daenerys Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Daenerys Targaryen]]"}" data-rte-instance="130814-32798896156cca7779cba3" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a> offers the man water, and he refuses to drink, saying that he just wanted to die quickly as drinking the water would only prolong his suffering.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Walk of Punishment]]\"<\/ref>"}" data-rte-instance="130814-32798896156cca7779cba3" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Three Appearances","placeholder":1,"wikitext":"{{Season Three Appearances|3=yes}}"}" data-rte-instance="130814-32798896156cca7779cba3" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">When Daenerys walks through the streets of Astapor and comes to the Plaza of Punishment, she sees a wooden platform where rebellious slaves are racked, flayed and hanged, but she does not try to help any of them.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-32798896156cca7779cba3" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041d\u0430\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0440\u0430\u0431","link":"ru:\u041d\u0430\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0440\u0430\u0431","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041d\u0430\u043a\u0430\u0437\u0430\u043d\u043d\u044b\u0439 \u0440\u0430\u0431]]"}" data-rte-instance="130814-32798896156cca7779cba3" href="http://ru.gameofthrones.wikia.com/wiki/Наказанный_раб" class="extiw" title="ru:Наказанный раб">ru:Наказанный раб</a>
-</p>
-   Loading editor
+title=Tortured slave
+| image=Tortured slave 3x03.jpg
+| season=3
+| first=
+| last=
+| appearances=\Walk of punishment\
+| aka=
+| status=uncertain
+| death=
+| place=Astapor
+| allegiance=
+| family=
+| actor=Mark drake}}}
+
+ A tortured slave is a minor character in the third season played by guest star Mark Drake who debuts in Walk of Punishment. Biography 
+
+ Season 3 
+
+He is a slave who presumably showed insubordination of some kind to his masters, and after being viciously whipped is strapped to a cross and left to die out in public on the Walk of Punishment, as a warning to all other slaves. Daenerys Targaryen offers the man water, and he refuses to drink, saying that he just wanted to die quickly as drinking the water would only prolong his suffering.\Walk of Punishment\\/ref} data-rte-instance130814-32798896156cca7779cba3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+
+ In the books 
+
+When Daenerys walks through the streets of Astapor and comes to the Plaza of Punishment, she sees a wooden platform where rebellious slaves are racked, flayed and hanged, but she does not try to help any of them. References 
+
+ 
+
+ru:Наказанный раб  Loading editor

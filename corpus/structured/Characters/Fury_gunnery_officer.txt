@@ -1,18 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Baratheon-of-Dragonstone-Shield-Icon.PNG\n|link=House Barartheon of Dragonstone\n}}"}" data-rte-instance="130814-98841467956cca811071b7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Fury gunnery officer\n| Image=Fury gunnery officer.jpg\n| Season=[[Season 2|2]]\n| Appearances=\"[[The Prince of Winterfell]]\"\n| Status=[[:Category:Status: Alive|Alive]]\n| Allegiance=[[House Baratheon of Dragonstone]]\n| Actor=[[:Category:Performer Unidentified|Unknown]]\n}}"}" data-rte-instance="130814-98841467956cca811071b7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Fury gunnery officer</b> is an unnamed background character in the <a data-rte-meta="{"type":"internal","text":"second season","link":"Season 2","wasblank":false,"noforce":true,"wikitext":"[[Season 2|second season]]"}" data-rte-instance="130814-98841467956cca811071b7" href="/wiki/Season_2" title="Season 2">second season</a>. He is played by an unidentified extra and only appears in "<a data-rte-meta="{"type":"internal","text":"The Prince of Winterfell","link":"The Prince of Winterfell","wasblank":true,"noforce":true,"wikitext":"[[The Prince of Winterfell]]"}" data-rte-instance="130814-98841467956cca811071b7" href="/wiki/The_Prince_of_Winterfell" title="The Prince of Winterfell">The Prince of Winterfell</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">He is serving aboard the <i><a data-rte-meta="{"type":"internal","text":"Fury","link":"Fury","wasblank":true,"noforce":true,"wikitext":"[[Fury]]"}" data-rte-instance="130814-98841467956cca811071b7" href="/wiki/Fury" title="Fury">Fury</a></i>, <a data-rte-meta="{"type":"internal","text":"Stannis Baratheon","link":"Stannis Baratheon","wasblank":true,"noforce":true,"wikitext":"[[Stannis Baratheon]]"}" data-rte-instance="130814-98841467956cca811071b7" href="/wiki/Stannis_Baratheon" title="Stannis Baratheon">Stannis Baratheon</a>'s <a data-rte-meta="{"type":"internal","text":"flagship","link":"Ships","wasblank":false,"noforce":true,"wikitext":"[[Ships|flagship]]"}" data-rte-instance="130814-98841467956cca811071b7" href="/wiki/Ships" title="Ships">flagship</a>, fighting for <a data-rte-meta="{"type":"internal","text":"House Baratheon of Dragonstone","link":"House Baratheon of Dragonstone","wasblank":true,"noforce":true,"wikitext":"[[House Baratheon of Dragonstone]]"}" data-rte-instance="130814-98841467956cca811071b7" href="/wiki/House_Baratheon_of_Dragonstone" title="House Baratheon of Dragonstone">House Baratheon of Dragonstone</a> in the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-98841467956cca811071b7" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-98841467956cca811071b7" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">He is seen drilling men firing the ship's ballista as the fleet approaches <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-98841467956cca811071b7" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Prince of Winterfell]]\"<\/ref>"}" data-rte-instance="130814-98841467956cca811071b7" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Two Appearances","placeholder":1,"wikitext":"{{Season Two Appearances|8=yes}}"}" data-rte-instance="130814-98841467956cca811071b7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-98841467956cca811071b7" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Fury gunnery officer
+| image=Fury officer.jpg
+| season=2
+| appearances=\The prince of winterfell\
+| status=alive
+| allegiance=House baratheon dragonstone
+| actor=unknown
+}}}
+
+ 
+
+ 
+
+A Fury gunnery officer is an unnamed background character in the second season. He is played by an unidentified extra and only appears in The Prince of Winterfell. Biography 
+
+ Background 
+
+He is serving aboard the Fury, Stannis Baratheon's flagship, fighting for House Baratheon of Dragonstone in the War of the Five Kings. Season 2 
+
+He is seen drilling men firing the ship's ballista as the fleet approaches King's Landing.\The Prince of Winterfell\\/ref} data-rte-instance130814-98841467956cca811071b7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ References 
+
+  Loading editor

@@ -1,11 +1,24 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Salt Rock\n| Image=\n| Image size=\n| Location=[[Westeros]], [[The Riverlands]]\n| Type=Town\n| Population=\n| Rulers=\n| Religion=\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-160095086756cca920475aa" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Salt Rock</b> is a town in the Riverlands. They have a local river market.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Valar Morghulis]]\"<\/ref>"}" data-rte-instance="130814-160095086756cca920475aa" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true"><br />
-</p>
-<h2 data-rte-empty-lines-before="2">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-160095086756cca920475aa" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no town of this name.
-</p>
-<h2>References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-160095086756cca920475aa" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Salt rock
+| image size=
+| location=Westeros, the riverlands
+| typedouble-brackets population
+| rulers=
+| religion=
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ 
+
+Salt Rock is a town in the Riverlands. They have a local river market.\Valar Morghulis\\/ref} data-rte-instance130814-160095086756cca920475aa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+
+ 
+ In the books 
+
+In the A Song of Ice and Fire novels, there is no town of this name. References 
+
+  Loading editor

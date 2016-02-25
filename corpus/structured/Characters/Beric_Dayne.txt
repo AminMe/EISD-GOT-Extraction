@@ -1,17 +1,20 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Dayne shield icon.png\n|link=House Dayne\n}}"}" data-rte-instance="130814-162223740656cca72024a79" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Beric Dayne\n|Season = [[Season 4|4]]\n|Mentioned = \"[[Two Swords]]\"\n|Titles = [[Lord of Starfall]]\n|Status = [[:Category:Status: Dead|Deceased]]\n|Place = [[Starfall]]\n|Allegiance = [[House Dayne]]\n|Family = {[[Arthur Dayne]]} - son|Culture = [[Dornishmen]]}}"}" data-rte-instance="130814-162223740656cca72024a79" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><b>Beric Dayne </b>​is an unseen character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones (TV series)","wasblank":false,"noforce":true,"wikitext":"[[Game of Thrones (TV series)|Game of Thrones]]"}" data-rte-instance="130814-162223740656cca72024a79" href="/wiki/Game_of_Thrones_(TV_series)" title="Game of Thrones (TV series)">Game of Thrones</a></i>. He is not expected to appear in the series, being dead by the time it starts. He was the <a data-rte-meta="{"type":"internal","text":"Lord of Starfall","link":"Lord of Starfall","wasblank":true,"noforce":true,"wikitext":"[[Lord of Starfall]]"}" data-rte-instance="130814-162223740656cca72024a79" href="/wiki/Lord_of_Starfall" title="Lord of Starfall">Lord of Starfall</a>.
-</p>
-<h2>Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Beric Dayne was the Lord of Starfall and the father of Ser <a data-rte-meta="{"type":"internal","text":"Arthur Dayne","link":"Arthur Dayne","wasblank":true,"noforce":true,"wikitext":"[[Arthur Dayne]]"}" data-rte-instance="130814-162223740656cca72024a79" href="/wiki/Arthur_Dayne" title="Arthur Dayne">Arthur Dayne</a>, the <a data-rte-meta="{"type":"internal","text":"Sword of the Morning","link":"Sword of the Morning","wasblank":true,"noforce":true,"wikitext":"[[Sword of the Morning]]"}" data-rte-instance="130814-162223740656cca72024a79" href="/wiki/Sword_of_the_Morning" title="Sword of the Morning">Sword of the Morning</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Two Swords]]\"<\/ref>"}" data-rte-instance="130814-162223740656cca72024a79" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-162223740656cca72024a79" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">He is mentioned in his son Arthur's entry in the <a data-rte-meta="{"type":"internal","text":"Book of Brothers","link":"Book of Brothers","wasblank":true,"noforce":true,"wikitext":"[[Book of Brothers]]"}" data-rte-instance="130814-162223740656cca72024a79" href="/wiki/Book_of_Brothers" title="Book of Brothers" class="mw-redirect">Book of Brothers</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-162223740656cca72024a79" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Ser Arthur Dayne's father is never named or mentioned. Ser Arthur's nephew Edric Dayne is the <a data-rte-meta="{"type":"internal","text":"Lord of Starfall","link":"Lord of Starfall","wasblank":true,"noforce":true,"wikitext":"[[Lord of Starfall]]"}" data-rte-instance="130814-162223740656cca72024a79" href="/wiki/Lord_of_Starfall" title="Lord of Starfall">Lord of Starfall</a> during the events of the series.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-162223740656cca72024a79" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:Dayne navbox","placeholder":1,"wikitext":"{{Template:Dayne navbox}}"}" data-rte-instance="130814-162223740656cca72024a79" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Beric dayne
+|season=4
+|mentioned=\Two swords\
+|titles=Lord of starfall
+|status=deceased
+|place=Starfall
+|Allegiance = house dayne
+|familyArthur dayne - son|cultureDornishmen}}}
+
+ Beric Dayne​is an unseen character in Game of Thrones. He is not expected to appear in the series, being dead by the time it starts. He was the Lord of Starfall. Biography 
+
+ Background 
+
+Beric Daynewas theLord of Starfall and the father of Ser Arthur Dayne, the Sword of the Morning.\Two Swords\\/ref} data-rte-instance130814-162223740656cca72024a79 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 4 
+
+He is mentioned in his son Arthur's entry in the Book of Brothers. In the books 
+
+In the A Song of Ice and Fire novels, Ser Arthur Dayne's father is never named or mentioned. Ser Arthur's nephew Edric Dayne is the Lord of Starfall during the events of the series. References 
+
+  Loading editor

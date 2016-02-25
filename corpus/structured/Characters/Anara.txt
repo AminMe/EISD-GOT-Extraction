@@ -1,21 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Anara\n| Image = Braavosi prostitute.png\n| Season = [[Season 5|5]]\n| First=\n| Last=\n| Appearances=\"[[The Dance of Dragons]]\"\n| Status= [[:Category:Status: Alive|Alive]]\n| Titles=\n| Aka=\n| Place = [[Braavos]]\n| Family =\n| Allegiance =\n| Actor =[[Ollie Kram]]}}"}" data-rte-instance="130814-203499874156cca69dc7e73" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Dialogue a-b","placeholder":1,"wikitext":"{{Dialogue a-b|Braavosi Madam|Our most expensive girl. But well worth it, I assure you.|Meryn Trant|Too old.|A [[Braavosi Madam|madam]] and Ser [[Meryn Trant]] on Anara.|The Dance of Dragons}}"}" data-rte-instance="130814-203499874156cca69dc7e73" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Anara</b> is a character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Season_5" title="Season 5">fifth season</a>. She is played by <a data-rte-meta="{"type":"internal","text":"Ollie Kram","link":"Ollie Kram","wasblank":true,"noforce":true,"wikitext":"[[Ollie Kram]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Ollie_Kram" title="Ollie Kram">Ollie Kram</a> and appears in "<a data-rte-meta="{"type":"internal","text":"The Dance of Dragons","link":"The Dance of Dragons","wasblank":true,"noforce":true,"wikitext":"[[The Dance of Dragons]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/The_Dance_of_Dragons" title="The Dance of Dragons">The Dance of Dragons</a>".<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/instagram.com\/p\/vjnhCkD7m-\/?modal=true]<\/ref>"}" data-rte-instance="130814-203499874156cca69dc7e73" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Anara is a <a data-rte-meta="{"type":"internal","text":"prostitute","link":"prostitute","wasblank":true,"noforce":true,"wikitext":"[[prostitute]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Prostitute" title="Prostitute" class="mw-redirect">prostitute</a> living in <a data-rte-meta="{"type":"internal","text":"Braavos","link":"Braavos","wasblank":true,"noforce":true,"wikitext":"[[Braavos]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Braavos" title="Braavos">Braavos</a>. She practices her trade in the same brothel as <a data-rte-meta="{"type":"internal","text":"Lhara","link":"Lhara","wasblank":true,"noforce":true,"wikitext":"[[Lhara]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Lhara" title="Lhara">Lhara</a> and <a data-rte-meta="{"type":"internal","text":"Brea","link":"Brea","wasblank":true,"noforce":true,"wikitext":"[[Brea]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Brea" title="Brea">Brea</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">Anara is shown to Ser <a data-rte-meta="{"type":"internal","text":"Meryn Trant","link":"Meryn Trant","wasblank":true,"noforce":true,"wikitext":"[[Meryn Trant]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Meryn_Trant" title="Meryn Trant">Meryn Trant</a> after Brea is dismissed for being too old for Meryn's tastes. Even though the <a data-rte-meta="{"type":"internal","text":"madam","link":"Braavosi Madam","wasblank":false,"noforce":true,"wikitext":"[[Braavosi Madam|madam]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Braavosi_Madam" title="Braavosi Madam" class="mw-redirect">madam</a> states Anara is the most expensive of he establishment's girls and assures Meryn she's worth the price, Meryn discards her, finding even her too old.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Dance of Dragons]]\"<\/ref>"}" data-rte-instance="130814-203499874156cca69dc7e73" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Appearances </h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances|9 = yes}}"}" data-rte-instance="130814-203499874156cca69dc7e73" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> In the books </h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a> </i>novels there's no mention of a character named Anara. During her time as "Cat of the Canals", however, <a data-rte-meta="{"type":"internal","text":"Arya","link":"Arya Stark","wasblank":false,"noforce":true,"wikitext":"[[Arya Stark|Arya]]"}" data-rte-instance="130814-203499874156cca69dc7e73" href="/wiki/Arya_Stark" title="Arya Stark">Arya</a> does meet a number of courtesans.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-203499874156cca69dc7e73" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Anara
+| image=Braavosi prostitute.png
+| season=5
+| first=
+| last=
+| appearances=\The dance of dragons\
+| status=alive
+| titles=
+| aka=
+| place=Braavos
+| family=
+| allegiance=
+| actor=Ollie kram}}}
+
+ Anara is a character in the fifth season. She is played by Ollie Kram and appears in The Dance of Dragons.http:\/\/instagram.com\/p\/vjnhCkD7m-\/?modaltrue\/ref} data-rte-instance130814-203499874156cca69dc7e73 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Biography 
+
+ Background 
+
+Anara is a prostitute living in Braavos. She practices her trade in the same brothel as Lhara and Brea. Season 5 
+
+Anara is shown to Ser Meryn Trant after Brea is dismissed for being too old for Meryn's tastes. Even though the madam states Anara is the most expensive of he establishment's girls and assures Meryn she's worth the price, Meryn discards her, finding even her too old.\The Dance of Dragons\\/ref} data-rte-instance=130814-203499874156cca69dc7e73 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ In the books 
+
+In the A Song of Ice and Fire novels there's no mention of a character named Anara. During her time as Cat of the Canals, however, Arya does meet a number of courtesans. References 
+
+  Loading editor

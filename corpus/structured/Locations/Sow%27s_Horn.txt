@@ -1,19 +1,27 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Sow's Horn\n| Image=\n| Image size=\n| Location=the [[Crownlands]], [[Westeros]]\n| Type=Town\n| Population=\n| Rulers=\n| Religion=The [[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-190649883056cca938a9911" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Sow's Horn</b> is a settlement in <a data-rte-meta="{"type":"internal","text":"the Crownlands","link":"the Crownlands","wasblank":true,"noforce":true,"wikitext":"[[the Crownlands]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/The_Crownlands" title="The Crownlands">the Crownlands</a>, the region directly sworn to the <a data-rte-meta="{"type":"internal","text":"Iron Throne","link":"Iron Throne","wasblank":true,"noforce":true,"wikitext":"[[Iron Throne]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/Iron_Throne" title="Iron Throne">Iron Throne</a> in <a data-rte-meta="{"type":"internal","text":"King's Landing","link":"King's Landing","wasblank":true,"noforce":true,"wikitext":"[[King's Landing]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/King's_Landing" title="King's Landing">King's Landing</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">Sow's Horn and its location is marked on a map of the Crownlands that Ser <a data-rte-meta="{"type":"internal","text":"Jorah Mormont","link":"Jorah Mormont","wasblank":true,"noforce":true,"wikitext":"[[Jorah Mormont]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/Jorah_Mormont" title="Jorah Mormont">Jorah Mormont</a> is looking over.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Mountain and the Viper]]\"<\/ref>"}" data-rte-instance="130814-190649883056cca938a9911" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true" data-rte-empty-lines-before="1">Sow's Horn is a small settlement that serves as an seat to House Hogg, a family of landed knights. It consists of a small village dominated by a towerhouse with thick walls. House Hogg is sworn to House Hayford, which controls the surrounding lands. Due to its proximity to the Riverlands and the frontline between the factions of the <a data-rte-meta="{"type":"internal","text":"War of the Five Kings","link":"War of the Five Kings","wasblank":true,"noforce":true,"wikitext":"[[War of the Five Kings]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/War_of_the_Five_Kings" title="War of the Five Kings">War of the Five Kings</a>, Sow's Horn has seen its share of raiders and foragers. It was raided by foragers led by Ser <a data-rte-meta="{"type":"internal","text":"Amory Lorch","link":"Amory Lorch","wasblank":true,"noforce":true,"wikitext":"[[Amory Lorch]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/Amory_Lorch" title="Amory Lorch">Amory Lorch</a>, sworn to <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a>, despite its allegiance to <a data-rte-meta="{"type":"internal","text":"House Baratheon of King's Landing","link":"House Baratheon of King's Landing","wasblank":true,"noforce":true,"wikitext":"[[House Baratheon of King's Landing]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/House_Baratheon_of_King's_Landing" title="House Baratheon of King's Landing">House Baratheon of King's Landing</a>.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">In the books, Sow's Horn is located in the western Crownlands, near the border with <a data-rte-meta="{"type":"internal","text":"the Riverlands","link":"the Riverlands","wasblank":true,"noforce":true,"wikitext":"[[the Riverlands]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/The_Riverlands" title="The Riverlands">the Riverlands</a> (it isn't quite clear if it is north or south of <a data-rte-meta="{"type":"internal","text":"Gods Eye","link":"Gods Eye","wasblank":true,"noforce":true,"wikitext":"[[Gods Eye]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/Gods_Eye" title="Gods Eye">Gods Eye</a> lake). The map that appeared on-screen in the TV series, however, inaccurately placed it north of King's Landing but south of <a data-rte-meta="{"type":"internal","text":"Antlers","link":"Antlers","wasblank":true,"noforce":true,"wikitext":"[[Antlers]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/Antlers" title="Antlers">Antlers</a>, along the <a data-rte-meta="{"type":"internal","text":"Kingsroad","link":"Kingsroad","wasblank":true,"noforce":true,"wikitext":"[[Kingsroad]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/Kingsroad" title="Kingsroad">Kingsroad</a>, which is in the core of the Crownlands (the same map also failed to mark <a data-rte-meta="{"type":"internal","text":"Duskendale","link":"Duskendale","wasblank":true,"noforce":true,"wikitext":"[[Duskendale]]"}" data-rte-instance="130814-190649883056cca938a9911" href="/wiki/Duskendale" title="Duskendale">Duskendale</a>, the Crownlands' secondary port).
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-190649883056cca938a9911" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-190649883056cca938a9911" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Crownlands","placeholder":1,"wikitext":"{{The Crownlands}}"}" data-rte-instance="130814-190649883056cca938a9911" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Sow's horn
+| image size=
+| location=the crownlands, westeros
+| typedouble-brackets population
+| rulers=
+| religion=The faith of the seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ 
+
+Sow's Horn is a settlement in the Crownlands, the region directly sworn to the Iron Throne in King's Landing. History 
+
+ Season 4 
+
+Sow's Horn and its location is marked on a map of the Crownlands that Ser Jorah Mormont is looking over.\The Mountain and the Viper\\/ref} data-rte-instance130814-190649883056cca938a9911 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+Sow's Horn is a small settlement that serves as an seat to House Hogg, a family of landed knights. It consists of a small village dominated by a towerhouse with thick walls. House Hogg is sworn to House Hayford, which controls the surrounding lands. Due to its proximity to the Riverlands and the frontline between the factions of the War of the Five Kings, Sow's Horn has seen its share of raiders and foragers. It was raided by foragers led by Ser Amory Lorch, sworn to House Lannister, despite its allegiance to House Baratheon of King's Landing. 
+
+In the books, Sow's Horn is located in the western Crownlands, near the border with the Riverlands (it isn't quite clear if it is north or south of Gods Eye lake). The map that appeared on-screen in the TV series, however, inaccurately placed it north of King's Landing but south of Antlers, along the Kingsroad, which is in the core of the Crownlands (the same map also failed to mark Duskendale, the Crownlands' secondary port). See also (MAJOR spoilers from the books) References 
+
+  Loading editor

@@ -1,20 +1,11 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Template:Noble house\n","placeholder":1,"wikitext":"{{Template:Noble house\n|Title = House Lynderly\n|Sigil = Eleven green snakes on a black field\n|Seat = \n|Motto = \n|Region = The [[Vale of Arryn]]}}"}" data-rte-instance="130814-64541495556cca99a6c5ea" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>House Lynderly</b> is a noble house from <a data-rte-meta="{"type":"internal","text":"the Vale of Arryn","link":"the Vale of Arryn","wasblank":true,"noforce":true,"wikitext":"[[the Vale of Arryn]]"}" data-rte-instance="130814-64541495556cca99a6c5ea" href="/wiki/The_Vale_of_Arryn" title="The Vale of Arryn">the Vale of Arryn</a>, sworn to <a data-rte-meta="{"type":"internal","text":"House Arryn","link":"House Arryn","wasblank":true,"noforce":true,"wikitext":"[[House Arryn]]"}" data-rte-instance="130814-64541495556cca99a6c5ea" href="/wiki/House_Arryn" title="House Arryn">House Arryn</a>, the <a data-rte-meta="{"type":"internal","text":"Lords of the Eyrie","link":"Lord of the Eyrie","wasblank":false,"noforce":true,"wikitext":"[[Lord of the Eyrie|Lords of the Eyrie]]"}" data-rte-instance="130814-64541495556cca99a6c5ea" href="/wiki/Lord_of_the_Eyrie" title="Lord of the Eyrie">Lords of the Eyrie</a> and <a data-rte-meta="{"type":"internal","text":"Lords Paramount of the Vale","link":"Lord Paramount of the Vale","wasblank":false,"noforce":true,"wikitext":"[[Lord Paramount of the Vale|Lords Paramount of the Vale]]"}" data-rte-instance="130814-64541495556cca99a6c5ea" href="/wiki/Lord_Paramount_of_the_Vale" title="Lord Paramount of the Vale">Lords Paramount of the Vale</a>.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Known members </h2>
-<ul><li data-rte-spaces-before="1"><a data-rte-meta="{"type":"internal","text":"Knight of House Lynderly","link":"Knight of House Lynderly","wasblank":true,"noforce":true,"wikitext":"[[Knight of House Lynderly]]"}" data-rte-instance="130814-64541495556cca99a6c5ea" href="/wiki/Knight_of_House_Lynderly" title="Knight of House Lynderly">Knight of House Lynderly</a>
-</li></ul>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> In the books </h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-64541495556cca99a6c5ea" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, House Lynderly is a house sworn to the Arryns. Their seat is Snakeswood and their sigil is eleven green snakes on a field of black.
-</p>
-<h3 data-rte-empty-lines-before="1">Members</h3>
-<ul><li data-rte-spaces-before="1">Lord Jon Lynderly, Lord of Snakewood
-<ul><li data-rte-spaces-before="1">Terrance Lynderly, his son
-</li></ul>
-</li></ul>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> See also </h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-64541495556cca99a6c5ea" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Vale Houses","placeholder":1,"wikitext":"{{Vale Houses}}"}" data-rte-instance="130814-64541495556cca99a6c5ea" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=House lynderly
+|sigil=Eleven green snakes on a black field
+|seat=
+|Motto = 
+|region=The vale of arryn}}}
+
+ House Lynderly is a noble house from the Vale of Arryn, sworn to House Arryn, the Lords of the Eyrie and Lords Paramount of the Vale. Known members Knight of House Lynderly In the books 
+
+In the A Song of Ice and Fire novels, House Lynderly is a house sworn to the Arryns. Their seat is Snakeswood and their sigil is eleven green snakes on a field of black. Members Lord Jon Lynderly, Lord of Snakewood Terrance Lynderly, his son See also 
+
+  Loading editor

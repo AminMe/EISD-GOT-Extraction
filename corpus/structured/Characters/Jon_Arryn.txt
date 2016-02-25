@@ -6,91 +6,91 @@
 {{Character
 |Title = Jon Arryn
 |Image = Jon_Arryn_funeral_bier.jpg
-|Season = [[Season 1|1]]
-|Appearances = "[[Winter is Coming (episode)|Winter is Coming]]"
-|Titles=[[Hand of the King]]<br>[[Lord of the Eyrie]]<br>[[Defender of the Vale]]<br>[[Warden|Warden of the East]]
-|Status= [[:Category:Status: Dead|Deceased]]
-|Death=Poisoned with the [[Tears of Lys]] by his wife, [[Lysa Arryn|Lysa]], on the orders of<br>[[Petyr Baelish]]
-|DeathEp="[[Winter is Coming]]"
-|Place = [[The Eyrie]]
-|Allegiance = [[House Arryn]]
-|Family = {[[Jasper Arryn]]}- father<br>{[[Alys Arryn]]} - sister<br>{[[Ronnel Arryn]]} - brother<br>{[[Lysa Arryn]]} - wife<br>[[Robin Arryn]] - son<br>{[[Hoster Tully]]} - father-in-law<br>{[[Minisa Tully]]} - mother-in-law<br>{[[Catelyn Tully]]} - sister-in-law<br>[[Edmure Tully]] - brother-in-law<br>{[[Robb Stark]]} - nephew by marriage<br>[[Sansa Stark]] - niece by marriage<br> [[Arya Stark]] - niece by marriage<br> [[Bran Stark]] - nephew by marriage<br> [[Rickon Stark]] - nephew by marriage
-|Actor = [[John Standing]]}}
-{{Quote|The seed is strong.|Jon Arryn's last words.|Lord Snow}}
+|Season = 1
+|Appearances = Winter is Coming
+|Titles=Hand of the KingLord of the EyrieDefender of the ValeWarden of the East
+|Status= Deceased
+|Death=Poisoned with the Tears of Lys by his wife, Lysa, on the orders ofPetyr Baelish
+|DeathEp=Winter is Coming
+|Place = The Eyrie
+|Allegiance = House Arryn
+|Family = Jasper Arryn- fatherAlys Arryn - sisterRonnel Arryn - brotherLysa Arryn - wifeRobin Arryn - sonHoster Tully - father-in-lawMinisa Tully - mother-in-lawCatelyn Tully - sister-in-lawEdmure Tully - brother-in-lawRobb Stark - nephew by marriageSansa Stark - niece by marriage Arya Stark - niece by marriage Bran Stark - nephew by marriage Rickon Stark - nephew by marriage
+|Actor = John Standing}}
+Quote|The seed is strong.|Jon Arryn's last words.|Lord Snow
 
-'''Jon Arryn''' is a minor character in the [[Season 1|first season]]. He died in [[Assassination of Jon Arryn|mysterious circumstances]] just prior to the events of the series. He is played by guest star [[John Standing]] and appears only as a corpse in the [[Winter is Coming (episode)|series premiere]]. He was the [[Lord of the Eyrie]], [[Warden|Warden of the East]], [[Lord Paramount of the Vale]], and [[Hand of the King]] to [[Robert Baratheon]].
+Jon Arryn is a minor character in the first season. He died in mysterious circumstances just prior to the events of the series. He is played by guest star John Standing and appears only as a corpse in the series premiere. He was the Lord of the Eyrie, Warden of the East, Lord Paramount of the Vale, and Hand of the King to Robert Baratheon.
 
-==Biography==
-===Background===
-[[Image:King Robert Baratheon Hand Jon Arryn.jpg|thumb|Jon Arryn held the realm together for King Robert.]]
-Jon Arryn was the [[Lord of the Eyrie]] and the head of [[House Arryn]], one of the [[Great Houses]] of [[Westeros]].    
-Jon was the Warden of the East and Defender of the Vale. He was a respected nobleman and both [[Eddard Stark]] and [[Robert Baratheon]] were fostered by him during their adolescence.<ref name="Jon Arryn viewers guide">[http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/arryn/jon-arryn/ HBO viewers guide, season 2 guide to houses, House Arryn - Jon Arryn entry]</ref> The [[Mad King]] condoned the kidnap of Eddard's sister and Robert's betrothed [[Lyanna Stark]].<ref name="E1">"[[Winter is Coming]]"</ref> The Mad King had Eddard's [[Rickard Stark|father]] and [[Brandon Stark (the elder)|brother]] killed for protesting against the kidnapping.<ref name="E3">"[[Lord Snow]]"</ref> When he then demanded that Eddard and Robert be turned over to the King's justice, Lord Arryn rebelled, calling his banners to war. [[House Stark]] and [[House Baratheon]] followed suit. The rebels forged an alliance with [[House Tully]] through marriage, with Eddard married to [[Catelyn Tully]] and the then-elderly Jon to the young [[Lysa Tully]].<ref name="Jon Arryn viewers guide"/><ref name="E1"/>
+Biography
+Background
+thumb|Jon Arryn held the realm together for King Robert.
+Jon Arryn was the Lord of the Eyrie and the head of House Arryn, one of the Great Houses of Westeros.    
+Jon was the Warden of the East and Defender of the Vale. He was a respected nobleman and both Eddard Stark and Robert Baratheon were fostered by him during their adolescence.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/housesrryn/jon-arryn/ HBO viewers guide, season 2 guide to houses, House Arryn - Jon Arryn entry The Mad King condoned the kidnap of Eddard's sister and Robert's betrothed&nbsp;Lyanna Stark.Winter is Coming The Mad King had Eddard's father and brother killed for protesting against the kidnapping.Lord Snow When he then demanded that Eddard and Robert be turned over to the King's justice, Lord Arryn rebelled, calling his banners to war. House Stark and House Baratheon followed suit. The rebels forged an alliance with House Tully through marriage, with Eddard married to Catelyn Tully and the then-elderly Jon to the young Lysa Tully.
 
-[[File:Jon_Arryn_Hand.png|thumb|left|261px|Jon Arryn serving as Hand of the King.]]After the rebel victory in the war, Robert became King and appointed Jon as his [[Hand of the King|Hand]]. Jon served the realm well for many years as Hand of the King. Indeed, Jon Arryn was essentially the man really holding the realm together for the next seventeen years, while Robert drank and ate and used whores.
+thumb|left|261px|Jon Arryn serving as Hand of the King.After the rebel victory in the war, Robert became King and appointed Jon as his Hand. Jon served the realm well for many years as Hand of the King. Indeed, Jon Arryn was essentially the man really holding the realm together for the next seventeen years, while Robert drank and ate and used whores.
 
-Jon Arryn died in [[King's Landing]] immediately prior to the events of the series, sparking King Robert's search for a replacement. Jon is survived by his wife Lysa and their six-year-old son, [[Robin Arryn]].<ref name="E1"/> Jon was investigating the legitimacy of the children of Queen [[Cersei Lannister]], and just before he died discovered that they were secretly not the biological children of Robert Baratheon.
+Jon Arryn died in King's Landing immediately prior to the events of the series, sparking King Robert's search for a replacement. Jon is survived by his wife Lysa and their six-year-old son, Robin Arryn. Jon was investigating the legitimacy of the children of Queen Cersei Lannister, and just before he died discovered that they were secretly not the biological children of Robert Baratheon.
 
-His dying words were to Robert Baratheon, "The seed is strong."
+His dying words were to Robert Baratheon, The seed is strong.
 
-===[[Season 1]]===
-[[File:Jon Arryn Silent Sisters Funeral.jpg|thumb|[[Silent Sisters]] perform the funeral ceremony for Jon Arryn.]]
-Jon Arryn's body is laid out in state in the throne room of the [[Red Keep]] in [[King's Landing]]. Ser [[Jaime Lannister]] and Queen [[Cersei Lannister|Cersei]] discuss Jon's attempts to learn the truth about their incestuous relationship and his failure to do so. Later, news of Jon's death reaches Eddard Stark at [[Winterfell]], who is shocked and upset as he considered Jon to be a second father to him. Catelyn then receives a letter from Lysa accusing House Lannister for murdering Jon.<ref name="E1"/>
+Season 1
+thumb|[[Silent Sisters perform the funeral ceremony for Jon Arryn.]]
+Jon Arryn's body is laid out in state in the throne room of the Red Keep in King's Landing. Ser Jaime Lannister and Queen Cersei discuss Jon's attempts to learn the truth about their incestuous relationship and his failure to do so. Later, news of Jon's death reaches Eddard Stark at Winterfell, who is shocked and upset as he considered Jon to be a second father to him. Catelyn&nbsp;then receives a letter from Lysa&nbsp;accusing House Lannister for murdering Jon.
 
-When Eddard Stark attends his first [[Small Council]] meeting in King's Landing, he is shocked to learn that the realm is six million [[Currency|Gold Dragons]] in debt, and refuses to believe that Jon Arryn would let this happen. [[Maesters|Grand Maester]] [[Pycelle]] and [[Renly Baratheon]] explain to Lord Stark that while Jon gave wise and prudent advice, King Robert did not always follow it.<ref name="E3"/>
+When Eddard Stark attends his first Small Council meeting in King's Landing, he is shocked to learn that the realm is six million Gold Dragons in debt, and refuses to believe that Jon Arryn would let this happen. Grand Maester Pycelle and Renly Baratheon explain to Lord Stark that while Jon gave wise and prudent advice, King Robert did not always follow it.
 
-Arryn had asked Pycelle for ''[[The Lineages and Histories of the Great Houses of the Seven Kingdoms]]'', a book detailing genealogies of the nobility, which notes the heredity preponderance for black hair in [[House Baratheon]].<ref>"[[A Golden Crown]]"</ref>
+Arryn had asked Pycelle for The Lineages and Histories of the Great Houses of the Seven Kingdoms, a book detailing genealogies of the nobility, which notes the heredity preponderance for black hair in House Baratheon.A Golden Crown
 
-Eddard Stark is told that Arryn visited with an armorer, [[Tobho Mott]], several times before his death and also talked with his apprentice [[Gendry]], inquiring about his mother. Stark immediately realizes upon meeting with Gendry that he is King Robert's [[bastard]] son.<ref>"[[A Golden Crown]]"</ref> On the day he died, Arryn met with [[Mhaegen]], a prostitute at Lord [[Petyr Baelish]]'s brothel. She showed him her infant daughter, [[Barra]], who was fathered by King Robert Baratheon.<ref name="E5">"[[The Wolf and the Lion]]"</ref>
+Eddard Stark is told that Arryn visited with an armorer, Tobho Mott, several times before his death and also talked with his apprentice Gendry, inquiring about his mother. Stark immediately realizes upon meeting with Gendry that he is King Robert's bastard son.A Golden Crown On the day he died, Arryn met with Mhaegen, a prostitute at Lord Petyr Baelish's brothel. She showed him her infant daughter, Barra, who was fathered by King Robert Baratheon.The Wolf and the Lion
 
-[[Varys]] privately warns Eddard that he thinks Jon Arryn was murdered by an unknown party for asking too many questions, using a rare and untraceable poison known as the [[Tears of Lys]].<ref name="E5" />
+Varys privately warns Eddard that he thinks Jon Arryn was murdered by an unknown party for asking too many questions, using a rare and untraceable poison known as the Tears of Lys.
 
-===[[Season 2]]===
-Under forceful interrogation by [[Tyrion Lannister]], [[Grand Maester]] [[Pycelle]] confesses that he knew that Jon Arryn had unearthed the truth upon seeing Robert's [[Bastardy|bastard]] children that Queen Cersei's three children were not conceived by Robert, but by her twin brother [[Jaime Lannister]]. Pycelle states that Jon Arryn intended to act and reveal his discovery to King Robert. When Tyrion accuses Pycelle of having Jon poisoned to keep the truth from getting out, he angrily denies that he killed him. Tyrion then points out that Pycelle must have realized that ''someone'' had poisoned Arryn (and he wasn't simply sick), but he let him succumb anyway, so he has Pycelle thrown into the [[Black Cells]].<ref>"[[What is Dead May Never Die]]"</ref>
+Season 2
+Under forceful interrogation by Tyrion Lannister, Grand Maester Pycelle confesses that he knew that Jon Arryn had unearthed the truth upon seeing Robert's bastard children that Queen Cersei's three children were not conceived&nbsp;by Robert, but by her twin brother Jaime Lannister. Pycelle states that Jon Arryn intended to act and reveal his discovery to King Robert. When Tyrion accuses Pycelle of having Jon poisoned to keep the truth from getting out, he angrily denies that he killed him. Tyrion then points out that Pycelle must have realized that someone had poisoned Arryn (and he wasn't simply sick), but he let him succumb anyway, so he has Pycelle thrown into the Black Cells.What is Dead May Never Die
 
-===[[Season 4]]===
-After being reunited with [[Petyr Baelish]], Lysa obsessively declares her love for him and the things she has done to demonstrate it, including lacing Jon's wine with Tears of Lys and then sending a letter to Catelyn accusing House Lannister of the assassination.<ref>"[[First of His Name]]"</ref>
+Season 4
+After being reunited with Petyr Baelish, Lysa obsessively declares her love for him and the things she has done to demonstrate it, including lacing Jon's wine with Tears of Lys and then sending a letter to Catelyn accusing House Lannister of the assassination.First of His Name
 
-==Appearances==
-{{Season One Appearances|yes}}
+Appearances
+Season One Appearances|yes
 
-==Family tree==
-{{House Arryn family tree}}
+Family tree
+House Arryn family tree
 
-==Quotes==
-{{dialogue a-b|Eddard Stark|Jon was a man of peace. He was Hand for 17 years – 17 good years. Why kill him?|Varys|He started asking questions.|Eddard discovering there was more to Jon Arryn's death.|The Wolf and the Lion}}
+Quotes
+dialogue a-b|Eddard Stark|Jon was a man of peace. He was Hand for 17 years – 17 good years. Why kill him?|Varys|He started asking questions.|Eddard discovering there was more to Jon Arryn's death.|The Wolf and the Lion
 
-==Behind the scenes==
-Originally it was intended that Jon Arryn's death in [[King's Landing]] would open the series, following the depiction of the book's prologue, and the event would be discussed by Grand Maester [[Pycelle]] and Queen [[Cersei Lannister]] in a new scene not in the books. This scene was not filmed for the [[pilot episode]] in favor of retaining the opening of the novel. Jon Arryn was played in these scenes by [[John Standing]].
+Behind the scenes
+Originally it was intended that Jon Arryn's death in King's Landing would open the series, following the depiction of the book's prologue, and the event would be discussed by Grand Maester Pycelle and Queen Cersei Lannister in a new scene not in the books. This scene was not filmed for the pilot episode in favor of retaining the opening of the novel. Jon Arryn was played in these scenes by John Standing.
 
-In a November 2015 interview, Standing described the death scene he filmed: Jon Arryn is feverish and bedridden (from being poisoned), but with a last desperate burst of strength he drags himself across the floor from his bed to a writing desk, and from the ground he reaches for the pen and ink on it. As he pulls it down his strength fails him, however, and he ends up spilling the ink pot all over himself. In his last seconds of life he feebly attempts to move his hand to write something with the pen - only for Cersei Lannister ([[Lena Headey]]) to stamp on his fingers to stop him, at which he dies from the poison. Standing said that filming was difficult because he found out the night before that his younger brother had died (though filming had been scheduled for weeks in advance).<ref>[https://www.youtube.com/watch?v=CEiUPb0iUWQ ]</ref>
+In a November 2015 interview, Standing described the death scene he filmed: Jon Arryn is feverish and bedridden (from being poisoned), but with a last desperate burst of strength he drags himself across the floor from his bed to a writing desk, and from the ground he reaches for the pen and ink on it. As he pulls it down his strength fails him, however, and he ends up spilling the ink pot all over himself. In his last seconds of life he feebly attempts to move his hand to write something with the pen - only for Cersei Lannister (Lena Headey) to stamp on his fingers to stop him, at which he dies from the poison. Standing said that filming was difficult because he found out the night before that his younger brother had died (though filming had been scheduled for weeks in advance).https://www.youtube.com/watch?v=CEiUPb0iUWQ 
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, Jon Arryn is a great lord, wise counselor, and canny tactician. He is loved as a second father by both Eddard and Robert, and commanded great respect in [[the Vale of Arryn]]. His nephew and heir Elbert Arryn was among [[Brandon Stark (Son of Rickard)|Brandon Stark]]'s companions who were imprisoned and killed by the Mad King, sparking Jon Arryn's decision to join the rebellion.
+In the books
+In the A Song of Ice and Fire novels, Jon Arryn is a great lord, wise counselor, and canny tactician. He is loved as a second father by both Eddard and Robert, and commanded great respect in the Vale of Arryn. His nephew and heir Elbert Arryn was among Brandon Stark's companions who were imprisoned and killed by the Mad King, sparking Jon Arryn's decision to join the rebellion.
 
-Jon Arryn's first wife, Lady Jeyne Royce, died in childbirth, and their daughter was stillborn. His second wife, Rowena, died without issue. Lysa Tully, some forty years his junior, became his third wife as part of an alliance with Lord [[Hoster Tully]] of [[Riverrun]]. The marriage was loveless and produced only one surviving child, the sickly Robert.
+Jon Arryn's first wife, Lady Jeyne Royce, died in childbirth, and their daughter was stillborn. His second wife, Rowena, died without issue. Lysa Tully, some forty years his junior, became his third wife as part of an alliance with Lord Hoster Tully of Riverrun. The marriage was loveless and produced only one surviving child, the sickly Robert.
 
-In the books, [[Eddard Stark]] discovered that Arryn and [[Stannis Baratheon]] inquired together about Cersei's children and Robert's bastards. In fact it was Stannis who initiated the investigation, while in the TV series he is not mentioned at all in respect of Arryn's actions prior to his death.
+In the books, Eddard Stark discovered that Arryn and Stannis Baratheon inquired together about Cersei's children and Robert's bastards. In fact it was Stannis who initiated the investigation, while in the TV series he is not mentioned at all in respect of Arryn's actions prior to his death.
 
-When Tyrion confronts Pycelle with his guards, Pycelle admits that Jon Arryn was being treated by maester Colemon, who was going to give him purges to get the poison out. Pycelle, aware that Arryn knew the secret of Cersei's incest, sent the other maester away and just gave Lord Arryn painkillers to ease his passing. In the TV series the emphasis is slightly different: Pycelle presents it as that he simply didn't intervene when he realized Lord Arryn was poisoned, though Tyrion points out that even his inaction when he could have saved Lord Arryn makes him an accomplice to the murder. In the TV series, Tyrion just vaguely asserts that Pycelle must have "made sure he succumbed", but in the book version he goes slightly beyond inaction, deliberately dismissing a maester who might have saved him.
+When Tyrion confronts Pycelle with his guards, Pycelle admits that Jon Arryn was being treated by maester Colemon, who was going to give him purges to get the poison out. Pycelle, aware that Arryn knew the secret of Cersei's incest, sent the other maester away and just gave Lord Arryn painkillers to ease his passing. In the TV series the emphasis is slightly different: Pycelle presents it as that he simply didn't intervene when he realized Lord Arryn was poisoned, though Tyrion points out that even his inaction when he could have saved Lord Arryn makes him an accomplice to the murder. In the TV series, Tyrion just vaguely asserts that Pycelle must have made sure he succumbed, but in the book version he goes slightly beyond inaction, deliberately dismissing a maester who might have saved him.
 
 Even in the books, Pycelle didn't know who actually poisoned Jon Arryn, but it was convenient for Pycelle that someone else poisoned him before he had to deal with it.
 
-In the book, Lysa blurts out the whole truth about Arryn's death while she is dragging [[Sansa Stark]] to the Moon Door. Littlefinger tries in vain to hush Lysa, feeling uncomfortable that she reveals this secret in the presence of Sansa and [[Marillion]].
+In the book, Lysa blurts out the whole truth about Arryn's death while she is dragging Sansa Stark to the Moon Door. Littlefinger tries in vain to hush Lysa, feeling uncomfortable that she reveals this secret in the presence of Sansa and Marillion.
 
 Lysa's reason for poisoning Jon was that he planned on having their son sent to Dragonstone to be fostered by Stannis Baratheon. Littlefinger apparently wanted him dead to trick the Starks and Lannisters into fighting each other (aided by the letter he had Lysa write to Catelyn), and also so he could later marry Lysa and take control over the Vale.
 
-==See also==
-* {{AWOIAF}} (MAJOR spoilers from the books)
+See also
+* AWOIAF (MAJOR spoilers from the books)
 
-==References==
-{{Reflist|2}}
-{{Arryn navbox}}
-{{SmallCouncil navbox}}
-{{DEFAULTSORT:Arryn, Jon}}
+References
+Reflist|2
+Arryn navbox
+SmallCouncil navbox
+DEFAULTSORT:Arryn, Jon
 
-[[de:Jon Arryn]]
-[[es:Jon Arryn]]
-[[it:Jon Arryn]]
-[[pl:Jon Arryn]]
-[[ru:Джон Аррен]]
-[[zh:琼恩·艾林]]
+de:Jon Arryn
+es:Jon Arryn
+it:Jon Arryn
+pl:Jon Arryn
+ru:Джон Аррен
+zh:琼恩·艾林

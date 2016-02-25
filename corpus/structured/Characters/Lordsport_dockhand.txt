@@ -1,18 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Lordsport dockhand\n|Season = [[Season 2|2]]\n|Image=Lordsport dockhand.png\n|Appearances = \"[[The Night Lands]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = \n|Actor = [[Jer O'Leary]]}}"}" data-rte-instance="130814-71651279256cca81a3ab2f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">A <b>Lordsport dockhand</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"second season","link":"Season 2","wasblank":false,"noforce":true,"wikitext":"[[Season 2|second season]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Season_2" title="Season 2">second season</a>. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Jer O'Leary","link":"Jer O'Leary","wasblank":true,"noforce":true,"wikitext":"[[Jer O'Leary]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Jer_O'Leary" title="Jer O'Leary">Jer O'Leary</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"The Night Lands","link":"The Night Lands","wasblank":true,"noforce":true,"wikitext":"[[The Night Lands]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/The_Night_Lands" title="The Night Lands">The Night Lands</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">He is working when <a data-rte-meta="{"type":"internal","text":"Theon Greyjoy","link":"Theon Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Theon Greyjoy]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Theon Greyjoy</a> arrives in <a data-rte-meta="{"type":"internal","text":"Lordsport","link":"Lordsport","wasblank":true,"noforce":true,"wikitext":"[[Lordsport]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Lordsport" title="Lordsport">Lordsport</a>. He is unmoved by Theon introducing himself as the heir to the <a data-rte-meta="{"type":"internal","text":"Iron Islands","link":"Iron Islands","wasblank":true,"noforce":true,"wikitext":"[[Iron Islands]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Iron_Islands" title="Iron Islands">Iron Islands</a> and last living son of <a data-rte-meta="{"type":"internal","text":"Balon Greyjoy","link":"Balon Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Balon Greyjoy]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Balon_Greyjoy" title="Balon Greyjoy">Balon Greyjoy</a>. Theon pays him to find a <a data-rte-meta="{"type":"internal","text":"horse","link":"Horses","wasblank":false,"noforce":true,"wikitext":"[[Horses|horse]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Horses" title="Horses">horse</a> to take him to <a data-rte-meta="{"type":"internal","text":"Pyke","link":"Pyke","wasblank":true,"noforce":true,"wikitext":"[[Pyke]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Pyke" title="Pyke">Pyke</a>. <a data-rte-meta="{"type":"internal","text":"Yara Greyjoy","link":"Yara Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Yara Greyjoy]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Yara_Greyjoy" title="Yara Greyjoy">Yara Greyjoy</a> offers to take Theon and Theon pays the dockhand a little more to ensure that his belongings are sent to Pyke when they are unloaded.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Night Lands]]\"<\/ref>"}" data-rte-instance="130814-71651279256cca81a3ab2f" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Two Appearances","placeholder":1,"wikitext":"{{Season Two Appearances||yes}}"}" data-rte-instance="130814-71651279256cca81a3ab2f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Theon pays the Captain of his ship to forward his belongings. He tries to buy a horse from an Innkeeper but is met by his uncle <a data-rte-meta="{"type":"internal","text":"Aeron Greyjoy","link":"Aeron Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Aeron Greyjoy]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="/wiki/Aeron_Greyjoy" title="Aeron Greyjoy">Aeron Greyjoy</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-71651279256cca81a3ab2f" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0414\u043e\u043a\u0435\u0440 \u041b\u043e\u0440\u0434\u0441\u043f\u043e\u0440\u0442\u0430","link":"ru:\u0414\u043e\u043a\u0435\u0440 \u041b\u043e\u0440\u0434\u0441\u043f\u043e\u0440\u0442\u0430","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0414\u043e\u043a\u0435\u0440 \u041b\u043e\u0440\u0434\u0441\u043f\u043e\u0440\u0442\u0430]]"}" data-rte-instance="130814-71651279256cca81a3ab2f" href="http://ru.gameofthrones.wikia.com/wiki/Докер_Лордспорта" class="extiw" title="ru:Докер Лордспорта">ru:Докер Лордспорта</a>
-</p>
-   Loading editor
+title=Lordsport dockhand
+|season=2
+|image=Lordsport dockhand.png
+|appearances=\The night lands\
+|status=alive
+|allegiance=
+|Actor = jer o'leary}}}
+
+ 
+
+A Lordsport dockhand is an unnamed minor character in the second season. He is played by guest star Jer O'Leary and only appears in The Night Lands. Biography 
+
+ Season 2 
+
+He is working when Theon Greyjoy arrives in Lordsport. He is unmoved by Theon introducing himself as the heir to the Iron Islands and last living son of Balon Greyjoy. Theon pays him to find a horse to take him to Pyke. Yara Greyjoy offers to take Theon and Theon pays the dockhand a little more to ensure that his belongings are sent to Pykewhen they are unloaded.\The Night Lands\\/ref} data-rte-instance130814-71651279256cca81a3ab2f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Theon pays the Captain of his ship to forward his belongings. He tries to buy a horse from an Innkeeper but is met by his uncle Aeron Greyjoy. References 
+
+ 
+
+ru:Докер Лордспорта  Loading editor

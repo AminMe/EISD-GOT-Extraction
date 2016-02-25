@@ -1,21 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Wildling shield icon.png\n|link=Free Folk}}"}" data-rte-instance="130814-80436601456cca75180733" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title =Horned Lord\n|Image = Horned_lord.jpg\n|Season = [[Histories & Lore]]\n|Appearances = \n|Titles=[[King-Beyond-the-Wall]]\n|Aka =  \n|Status= [[:Category:Status: Dead|Deceased]]\n|Place =[[Beyond the Wall]] \n|Allegiance =[[Free Folk]]|Mentioned = \"[[The Night's Watch (Histories & Lore)]]\"|Culture = Free Folk}}"}" data-rte-instance="130814-80436601456cca75180733" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Gendel. Raymun Redbeard. The Horned Lord. Each chosen as a King-Beyond-the-Wall, each promising victory and all fallen to the Night's Watch and the Starks.|[[Ygritte]]|The Night's Watch (Histories & Lore)}}"}" data-rte-instance="130814-80436601456cca75180733" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->The <b>Horned Lord</b> is an unseen character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones (TV series)","wasblank":false,"noforce":true,"wikitext":"[[Game of Thrones (TV series)|Game of Thrones]]"}" data-rte-instance="130814-80436601456cca75180733" href="/wiki/Game_of_Thrones_(TV_series)" title="Game of Thrones (TV series)">Game of Thrones</a></i>. He was a <a data-rte-meta="{"type":"internal","text":"King-Beyond-the-Wall","link":"King-Beyond-the-Wall","wasblank":true,"noforce":true,"wikitext":"[[King-Beyond-the-Wall]]"}" data-rte-instance="130814-80436601456cca75180733" href="/wiki/King-Beyond-the-Wall" title="King-Beyond-the-Wall">King-Beyond-the-Wall</a> of the <a data-rte-meta="{"type":"internal","text":"Free Folk","link":"Free Folk","wasblank":true,"noforce":true,"wikitext":"[[Free Folk]]"}" data-rte-instance="130814-80436601456cca75180733" href="/wiki/Free_Folk" title="Free Folk">Free Folk</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true">The Horned Lord led an invasion of <a data-rte-meta="{"type":"internal","text":"the North","link":"the North","wasblank":true,"noforce":true,"wikitext":"[[the North]]"}" data-rte-instance="130814-80436601456cca75180733" href="/wiki/The_North" title="The North">the North</a> but was defeated by the combined efforts of <a data-rte-meta="{"type":"internal","text":"House Stark","link":"House Stark","wasblank":true,"noforce":true,"wikitext":"[[House Stark]]"}" data-rte-instance="130814-80436601456cca75180733" href="/wiki/House_Stark" title="House Stark">House Stark</a> and the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-80436601456cca75180733" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Night's Watch (Histories & Lore)]]\"<\/ref>"}" data-rte-instance="130814-80436601456cca75180733" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-80436601456cca75180733" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Horned King, a.k.a. the Horned Lord, was an ancient King-Beyond-the-Wall who raided south of <a data-rte-meta="{"type":"internal","text":"the Wall","link":"the Wall","wasblank":true,"noforce":true,"wikitext":"[[the Wall]]"}" data-rte-instance="130814-80436601456cca75180733" href="/wiki/The_Wall" title="The Wall">the Wall</a>. A quote is attributed to him: "Sorcery is a sword without a hilt. There is no safe way to grasp it."
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">The Horned Lord lived about one or two thousand years ago.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-80436601456cca75180733" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-80436601456cca75180733" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"KingsBeyondTheWall","placeholder":1,"wikitext":"{{KingsBeyondTheWall}}"}" data-rte-instance="130814-80436601456cca75180733" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"de:Geh\u00f6rnter Lord","link":"de:Geh\u00f6rnter Lord","wasblank":true,"noforce":true,"wikitext":"[[de:Geh\u00f6rnter Lord]]"}" data-rte-instance="130814-80436601456cca75180733" href="http://de.gameofthrones.wikia.com/wiki/Gehörnter_Lord" class="extiw" title="de:Gehörnter Lord">de:Gehörnter Lord</a>
-</p>
-   Loading editor
+title=Horned lord
+|image=Horned_lord.jpg
+|Season = histories &amp; lore
+|appearances=
+|Titles=King-Beyond-the-Wall
+|Aka 
+|status=deceased
+|place=Beyond the wall 
+|allegianceFree folk|mentioned\The night's watch (histories lore)\|culture=Free folk}}}
+
+ The Horned Lord is an unseen character in Game of Thrones. He was a King-Beyond-the-Wall of the Free Folk. Biography 
+
+The Horned Lord led an invasion of the North but was defeated by the combined efforts of House Stark and the Night's Watch.\The Night's Watch (Histories &amp; Lore)\\/ref} data-rte-instance130814-80436601456cca75180733 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, the Horned King, a.k.a. the Horned Lord, was an ancient King-Beyond-the-Wall who raided south of the Wall. A quote is attributed to him: Sorcery is a sword without a hilt. There is no safe way to grasp it. 
+
+The Horned Lord lived about one or two thousand years ago. See also References 
+
+ 
+
+de:Gehörnter Lord  Loading editor

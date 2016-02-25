@@ -6,43 +6,43 @@
 {{Character
 | Title=Unella
 | Image=unella-s5e8.jpg
-| Season=[[Season 5|5]], [[Season 6|6]]
-| First="[[The Gift (episode)|The Gift]]"
+| Season=5, 6
+| First=The Gift
 | Last=
-| Appearances=3 episodes ([[Unella#Appearances|see below]])
+| Appearances=3 episodes (see below)
 | Aka=
-| Status=[[:Category:Status: Alive|Alive]]
+| Status=Alive
 | Death=
 | DeathEp=
 | Place=
-| Allegiance=The [[Faith of the Seven]]<br>
-[[Most Devout]]
+| Allegiance=The Faith of the Seven
+Most Devout
 | Family=
-| Actor=[[Hannah Waddingham]]}}
+| Actor=Hannah Waddingham}}
 
-{{Quote|Confess.|Septa Unella to [[Cersei Lannister]]|Hardhome (episode)}}
+Quote|Confess.|Septa Unella to Cersei Lannister|Hardhome (episode)
 
-'''Unella''' is a recurring character in the [[Season 5|fifth]] and [[Season 6|sixth]] seasons. She is played by [[Hannah Waddingham]].<ref>"[http://watchersonthewall.com/british-actress-cast-septa-unella/ Watchers on the Wall]"</ref>
-==Biography==
-Unella is a [[Septa]] of the [[Faith of the Seven]] and a devoted follower of the [[High Sparrow]]. 
-===[[Season 5]]===
-[[File:TheGiftUnellaCersei.jpg|thumb|left|180px|Septa Unella pushes Cersei into her cell]]
-Unella grabs [[Cersei Lannister]] when she is arrested by the [[High Sparrow]] and throws her into a cell underneath the [[Great Sept of Baelor]] with the aid of [[Moelle]] and [[Scolera]].<ref>"[[The Gift (episode)|The Gift]]"</ref>
+Unella is a recurring character in the fifth and sixth seasons. She is played by Hannah Waddingham.http://watchersonthewall.com/british-actress-cast-septa-unella/ Watchers on the Wall
+Biography
+Unella is a Septa of the Faith of the Seven and a devoted follower of the High Sparrow.&nbsp;
+Season 5
+thumb|left|180px|Septa Unella pushes Cersei into her cell
+Unella grabs Cersei Lannister when she is arrested by the High Sparrow and throws her into a cell underneath the Great Sept of Baelor with the aid of Moelle and Scolera.The Gift
 
-Unella routinely visits Cersei in her cell and offers her a ladle of water on the condition that she confess. Cersei, prideful and infuriated, refuses Unella's advances, repeating to the septa that her face will be the last one she sees before she dies.<ref>"[[Hardhome (episode)|The Gift]]"</ref>
+Unella routinely visits Cersei in her cell and offers her a ladle of water on the condition that she confess. Cersei, prideful and infuriated, refuses Unella's advances, repeating to the septa that her face will be the last one she sees before she dies.The Gift
 
-Eventually, however, Cersei gives in and confesses her adultery with her cousin [[Lancel]]. The High Sparrow allows Cersei to return to the [[Red Keep]] in order to be with her son King [[Tommen Baratheon|Tommen]], but first she must perform a [[walk of atonement]]. Unella is present when Cersei is stripped naked and washed by two other septas before her hair is roughly cut short. She later accompanies Cersei as she is forced to walk naked from the Great Sept of Baelor to the Red Keep with a handful of Faith Militant members to keep away the leering and jeering crowds who have gathered to see her shame and take the chance to insult a Queen. As she walks, Septa Unella accompanies her crying out "Shame!" repeatedly while ringing a bell to attract the attention of the population.<ref>"[[Mother's Mercy]]"</ref>
+Eventually, however, Cersei gives in and confesses her adultery with her cousin Lancel. The High Sparrow allows Cersei to return to the Red Keep in order to be with her son King Tommen, but first she must perform a walk of atonement. Unella is present when Cersei is stripped naked and washed by two other septas before her hair is roughly cut short. She later accompanies Cersei as she is forced to walk naked from the Great Sept of Baelor to the Red Keep with a handful of Faith Militant members to keep away the leering and jeering crowds who have gathered to see her shame and take the chance to insult a Queen. As she walks, Septa Unella accompanies her crying out Shame! repeatedly while ringing a bell to attract the attention of the population.Mother's Mercy
 
-==Appearances==
-{{Season Five Appearances|||||||yes|yes||yes}}
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, Septa Unella is described as big boned with callused hands and a scowling homely face. She is a member of the [[Most Devout]], a council of septons and septas that rule the Faith of the Seven under the leadership of the [[High Septon]] (the High Septon is essentially analogous to the Pope in the real-life Catholic Church, and the Most Devout are analogous to the College of Cardinals.)
+Appearances
+Season Five Appearances|||||||yes|yes||yes
+In the books
+In the A Song of Ice and Fire novels, Septa Unella is described as big boned with callused hands and a scowling homely face. She is a member of the Most Devout, a council of septons and septas that rule the Faith of the Seven under the leadership of the High Septon (the High Septon is essentially analogous to the Pope in the real-life Catholic Church, and the Most Devout are analogous to the College of Cardinals.)
 
-==See also==
-*{{AWOIAF}} (MAJOR spoilers from the books)
+See also
+*AWOIAF (MAJOR spoilers from the books)
 
-==References==
-{{Reflist}}
-{{DEFAULTSORT:Unella}}
+References
+Reflist
+DEFAULTSORT:Unella
 
-[[ru:Юнелла]]
+ru:Юнелла

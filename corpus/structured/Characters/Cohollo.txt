@@ -1,45 +1,45 @@
 {{Character
 |Title = Cohollo
 |Image = Cohollo1x09.jpg
-|Season = [[Season 1|1]]
-|First = "[[Winter is Coming (episode)|Winter is Coming]]"
-|Last = "[[Baelor]]"
+|Season = 1
+|First = Winter is Coming
+|Last = Baelor
 |Appearances=4 episodes 
-|Titles = [[Bloodrider]]
-|Status= [[:Category:Status: Alive|Alive]]
+|Titles = Bloodrider
+|Status= Alive
 |Death = 
 |DeathEp = 
-|Place = [[Dothraki sea]]
-|Allegiance = [[Khal Drogo]]
-|Actor = [[:Category:Performer Unidentified|Unidentified]]|Religion = [[Great Stallion]]}}
-{{Quote|Qoy Qoyi ([[Dothraki (language)|Dothraki]]: Blood of my blood)|Cohollo to [[Drogo]]|Baelor}}
-'''Cohollo''' is a recurring background character in the [[Season 1|first season]]. He is played by an unidentified extra and debuts in the [[Winter is Coming (episode)|series premiere]]. Cohollo is a [[bloodrider]] to [[Khal]] [[Drogo]].
-==Biography==
-===Background===
-Cohollo is a [[Dothraki]] [[bloodrider]] in the service of Khal Drogo. He is one of Drogo's closest allies and a stalwart warrior who favors the [[Arakh]].
+|Place = Dothraki sea
+|Allegiance = Khal Drogo
+|Actor  Unidentified|Religion  Great Stallion}}
+Quote|Qoy Qoyi (Dothraki: Blood of my blood)|Cohollo to Drogo|Baelor
+Cohollo is a recurring background character in the first season. He is played by an unidentified extra and debuts in the series premiere. Cohollo is a bloodrider to Khal Drogo.
+Biography
+Background
+Cohollo is a Dothraki bloodrider in the service of Khal Drogo. He is one of Drogo's closest allies and a stalwart warrior who favors the Arakh.
 
-===[[Season 1]]===
-Cohollo, alongside [[Qotho]] and [[Haggo]], accompanies Khal [[Drogo]] to view his bride, [[Daenerys Targaryen]].<ref>"[[Winter is Coming (episode)|Winter is Coming]]"</ref>
+Season 1
+Cohollo, alongside Qotho and Haggo, accompanies Khal Drogo to view his bride, Daenerys Targaryen.Winter is Coming
 
-When a drunken [[Viserys Targaryen|Viserys]] threatens Daenerys and her [[Rhaego|unborn child]], Qotho and Cohollo restrain him while Drogo pours molten gold over his head, killing him.<ref>"[[A Golden Crown]]"</ref>
+When a drunken Viserys threatens Daenerys and her unborn child, Qotho and Cohollo restrain him while Drogo pours molten gold over his head, killing him.A Golden Crown
 
-Following the raid of a [[Lhazareen]] village in Lhazar, [[Mago]] defies Drogo. Cohollo, along with his fellow [[bloodrider]]s, steps forward to defend Drogo's honor, only for the Khal to take matters in his own hands.<ref>"[[The Pointy End]]"</ref>
+Following the raid of a Lhazareen village in Lhazar, Mago defies Drogo. Cohollo, along with his fellow bloodriders, steps forward to defend&nbsp;Drogo's honor, only for the Khal to take matters in his own hands.The Pointy End
 
-Drogo's wound festers and he becomes seriously ill. He falls from his horse in front of the ''[[khalasar]]'', a sign of great weakness. Daenerys and then Cohollo kneel to the sides of the khal to check on him, while [[Qotho]] and [[Haggo]] remain mounted. Later, when Qotho takes [[Mirri Maz Duur]] to Drogo and Daenerys's tent, Cohollo accompanies him.<ref>"[[Baelor]]"</ref>
+Drogo's wound festers and he becomes seriously ill. He falls from his horse in front of the khalasar, a sign of great weakness. Daenerys and then Cohollo kneel to the sides of the khal to check on him, while Qotho and Haggo remain mounted. Later, when Qotho takes Mirri Maz Duur to Drogo and Daenerys's tent, Cohollo accompanies him.Baelor
 
-==Appearances==
-{{Season One Appearances|yes|||||yes||yes|yes}}
+Appearances
+Season One Appearances|yes|||||yes||yes|yes
 
-==In the books==
-In the ''[[A Song of Ice and Fire]]'' novels, Cohollo is the eldest of Drogo's three bloodriders and the most kind to Daenerys. He had saved Drogo from sellswords when he was very young. He's described as a squat bald man with a crooked nose and a mouth full of broken teeth.
+In the books
+In the A Song of Ice and Fire novels, Cohollo is the eldest of Drogo's three bloodriders and the most kind to Daenerys. He had saved Drogo from sellswords when he was very young. He's described as a squat bald man with a crooked nose and a mouth full of broken teeth.
 
-During the wedding of Daenerys and Drogo, Cohollo gives them a ''arakh'' chased in gold. When the three bloodriders attempt to stop the [[Mirri Maz Duur]]'s [[blood magic]] ritual to heal Drogo, Cohollo is killed by [[Aggo]].
+During the wedding of Daenerys and Drogo, Cohollo gives them a arakh chased in gold. When the three bloodriders attempt to stop the Mirri Maz Duur's blood magic ritual to heal Drogo, Cohollo is killed by Aggo.
 
-==See also==
-* {{AWOIAF}}
+See also
+* AWOIAF
 
-==References==
-{{Reflist|2}}
+References
+Reflist|2
 
-[[es:Cohollo]]
-[[zh:科霍罗]]
+es:Cohollo
+zh:科霍罗

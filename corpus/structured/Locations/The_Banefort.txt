@@ -1,16 +1,21 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Banefort\n| Image=\n| Image size=\n| Location=[[Westeros]], the [[Westerlands]]\n| Type=Castle\n| Population=\n| Rulers=\n| Religion=[[Faith of the Seven]]\n| Military=\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-183642099056cca8ec69573" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"image","wikitext":"[[File:Riverlands map.jpg|right|thumb|A map of the Riverlands showing the Banefort]]","title":"Riverlands_map.jpg","params":{"thumbnail":true,"alt":"Riverlands map","align":"right","caption":"A map of the Riverlands showing the Banefort","captionParsed":"A map of the Riverlands showing the Banefort"}}" data-rte-instance="130814-183642099056cca8ec69573" alt="" src="http://vignette1.wikia.nocookie.net/gameofthrones/images/6/6d/Riverlands_map.jpg/revision/latest/scale-to-width-down/180?cb=20110314205331" width="180" height="101" class="image thumb alignRight withCaption" data-image-name="Riverlands map.jpg" data-image-key="Riverlands_map.jpg"  type="image" />The <b>Banefort</b> is a castle in the <a data-rte-meta="{"type":"internal","text":"Westerlands","link":"Westerlands","wasblank":true,"noforce":true,"wikitext":"[[Westerlands]]"}" data-rte-instance="130814-183642099056cca8ec69573" href="/wiki/Westerlands" title="Westerlands" class="mw-redirect">Westerlands</a>. It is located south-westernmost point of <a data-rte-meta="{"type":"internal","text":"Ironman's Bay","link":"Ironman's Bay","wasblank":true,"noforce":true,"wikitext":"[[Ironman's Bay]]"}" data-rte-instance="130814-183642099056cca8ec69573" href="/wiki/Ironman's_Bay" title="Ironman's Bay">Ironman's Bay</a>, on the shores of the <a data-rte-meta="{"type":"internal","text":"Sunset Sea","link":"Sunset Sea","wasblank":true,"noforce":true,"wikitext":"[[Sunset Sea]]"}" data-rte-instance="130814-183642099056cca8ec69573" href="/wiki/Sunset_Sea" title="Sunset Sea">Sunset Sea</a> and north of <a data-rte-meta="{"type":"internal","text":"the Crag","link":"the Crag","wasblank":true,"noforce":true,"wikitext":"[[the Crag]]"}" data-rte-instance="130814-183642099056cca8ec69573" href="/wiki/The_Crag" title="The Crag">the Crag</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-183642099056cca8ec69573" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the Banefort is located in the same point. It is the seat of House Banefort, a noble house sworn to <a data-rte-meta="{"type":"internal","text":"House Lannister","link":"House Lannister","wasblank":true,"noforce":true,"wikitext":"[[House Lannister]]"}" data-rte-instance="130814-183642099056cca8ec69573" href="/wiki/House_Lannister" title="House Lannister">House Lannister</a> of <a data-rte-meta="{"type":"internal","text":"Casterly Rock","link":"Casterly Rock","wasblank":true,"noforce":true,"wikitext":"[[Casterly Rock]]"}" data-rte-instance="130814-183642099056cca8ec69573" href="/wiki/Casterly_Rock" title="Casterly Rock">Casterly Rock</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-183642099056cca8ec69573" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-183642099056cca8ec69573" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"The Westerlands","placeholder":1,"wikitext":"{{The Westerlands}}"}" data-rte-instance="130814-183642099056cca8ec69573" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0411\u044d\u0439\u043d\u0444\u043e\u0440\u0442","link":"ru:\u0411\u044d\u0439\u043d\u0444\u043e\u0440\u0442","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0411\u044d\u0439\u043d\u0444\u043e\u0440\u0442]]"}" data-rte-instance="130814-183642099056cca8ec69573" href="http://ru.gameofthrones.wikia.com/wiki/Бэйнфорт" class="extiw" title="ru:Бэйнфорт">ru:Бэйнфорт</a>
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><a data-rte-meta="{"type":"internal","text":"zh:\u7978\u5792","link":"zh:\u7978\u5792","wasblank":true,"noforce":true,"wikitext":"[[zh:\u7978\u5792]]"}" data-rte-instance="130814-183642099056cca8ec69573" href="http://zh.asoiaf.wikia.com/wiki/祸垒" class="extiw" title="zh:祸垒">zh:祸垒</a>
-</p>
-   Loading editor
+title=Banefort
+| image size=
+| location=Westeros, the westerlands
+| typedouble-brackets population
+| rulers=
+| religion=Faith of seven
+| military=
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ The Banefort is a castle in the Westerlands. It is located south-westernmost point of Ironman's Bay, on the shores of the Sunset Sea and north of the Crag. In the books 
+
+In the A Song of Ice and Fire novels, the Banefort is located in the same point. It is the seat of House Banefort, a noble house sworn to House Lannister of Casterly Rock. See also (spoilers from the books) References 
+
+ 
+
+ru:Бэйнфорт zh:祸垒  Loading editor

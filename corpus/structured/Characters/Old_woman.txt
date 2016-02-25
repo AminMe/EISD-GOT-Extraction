@@ -1,25 +1,43 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry","placeholder":1,"wikitext":"{{Heraldry|image = House-Stark-Main-Shield.PNG|link = House Stark}}"}" data-rte-instance="130814-101190697056cca6dd82285" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title = Old woman\n| Image =Old Lady at Mount Cailin.png \n| Season = [[Season 5|5]]\n| First=\"[[High Sparrow (episode)|High Sparrow]]\"\n| Last=\"[[Kill the Boy]]\"<br>\"[[The Gift (episode)|The Gift]]\" (corpse)\n| Appearances=3 episodes <small>[[#Appearances|(see below)]]<\/small>\n| Status= [[:Category:Status: Dead|Deceased]]\n| Titles=\n| Aka=\n| Place =\n| Family =\n| Allegiance =[[House Stark]]\n| Actor = [[Stella McCusker]]|Death = Flayed alive by [[Ramsay Bolton]]|DeathEp = (\"[[The Gift (episode)|The Gift]]\")}}"}" data-rte-instance="130814-101190697056cca6dd82285" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Welcome home, Lady Stark. The North remembers.|Old woman|High Sparrow (episode)}}"}" data-rte-instance="130814-101190697056cca6dd82285" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->An <b>old woman</b> is a minor character in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/Season_5" title="Season 5">fifth season</a>. She is played by <a data-rte-meta="{"type":"internal","text":"Stella McCusker","link":"Stella McCusker","wasblank":true,"noforce":true,"wikitext":"[[Stella McCusker]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/Stella_McCusker" title="Stella McCusker">Stella McCusker</a> and first appears in "<a data-rte-meta="{"type":"internal","text":"High Sparrow","link":"High Sparrow (episode)","wasblank":false,"noforce":true,"wikitext":"[[High Sparrow (episode)|High Sparrow]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/High_Sparrow_(episode)" title="High Sparrow (episode)">High Sparrow</a>".
-</p>
-<h2>Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">She is among the lowborn people gathered to rebuild <a data-rte-meta="{"type":"internal","text":"Winterfell","link":"Winterfell","wasblank":true,"noforce":true,"wikitext":"[[Winterfell]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/Winterfell" title="Winterfell">Winterfell</a>.
-</p>
-<h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">She greets <a data-rte-meta="{"type":"internal","text":"Sansa Stark","link":"Sansa Stark","wasblank":true,"noforce":true,"wikitext":"[[Sansa Stark]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/Sansa_Stark" title="Sansa Stark">Sansa Stark</a> after she is taken to Winterfell for her impending marriage to <a data-rte-meta="{"type":"internal","text":"Ramsay Bolton","link":"Ramsay Bolton","wasblank":true,"noforce":true,"wikitext":"[[Ramsay Bolton]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/Ramsay_Bolton" title="Ramsay Bolton">Ramsay Bolton</a>. She warmly tells her that "the <a data-rte-meta="{"type":"internal","text":"North","link":"North","wasblank":true,"noforce":true,"wikitext":"[[North]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/North" title="North" class="mw-redirect">North</a> remembers".<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[High Sparrow (episode)|High Sparrow]]\"<\/ref>"}" data-rte-instance="130814-101190697056cca6dd82285" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">Later, the women enters Sansa's chamber under the pretext of housekeeping, and tells her that she still has friends in the North. Should Sansa ever be in danger, she need only light a candle in the window of the Broken Tower.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Kill the Boy]]\"<\/ref>"}" data-rte-instance="130814-101190697056cca6dd82285" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">After Sansa urges <a data-rte-meta="{"type":"internal","text":"Theon Greyjoy","link":"Theon Greyjoy","wasblank":true,"noforce":true,"wikitext":"[[Theon Greyjoy]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/Theon_Greyjoy" title="Theon Greyjoy">Theon Greyjoy</a> to help her escape Winterfell by lighting a candle as the old woman had told her to. Theon is unexpectedly greeted to the sight of Ramsay feasting, and confesses Sansa's request. Ramsay crucifies and flays the woman for her part in aiding Sansa. Ramsay mentions that her heart gave out before Ramsay had the chance to flay her face. <img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[The Gift (episode)|The Gift]]\"<\/ref>"}" data-rte-instance="130814-101190697056cca6dd82285" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Five Appearances","placeholder":1,"wikitext":"{{Season Five Appearances|3=yes|5=yes|7 = yes}}"}" data-rte-instance="130814-101190697056cca6dd82285" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the novels there is no equivalent scene or character. However, the phrase "the North remembers" is common among certain Northern nobles who were left reeling by the betrayals House Stark and the North suffered, even those who felt slighted by the Starks (<a data-rte-meta="{"type":"internal","text":"Lady Dustin","link":"Barbrey Dustin","wasblank":false,"noforce":true,"wikitext":"[[Barbrey Dustin|Lady Dustin]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/Barbrey_Dustin" title="Barbrey Dustin">Lady Dustin</a>) or have allied with the Boltons resent <a data-rte-meta="{"type":"internal","text":"House Frey","link":"House Frey","wasblank":true,"noforce":true,"wikitext":"[[House Frey]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/House_Frey" title="House Frey">House Frey</a> for the relatives and men lost during at the <a data-rte-meta="{"type":"internal","text":"Red Wedding","link":"Red Wedding","wasblank":true,"noforce":true,"wikitext":"[[Red Wedding]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="/wiki/Red_Wedding" title="Red Wedding">Red Wedding</a>. In the novels, the level of involvement of the Boltons in the Red Wedding is not common knowledge, though it is suspected by several prominent characters.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">None of the servants in Winterfell offered to help Jeyne Poole (who was replaced in the show by Sansa), either because they did not care or too afraid from the Boltons.  Few of them even <i>were</i> direct members of the Stark household - Ramsay killed most of them when be burned Winterfell originally, except for a few women he took back as prisoners to the Dreadfort.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"reflist","placeholder":1,"wikitext":"{{reflist}}"}" data-rte-instance="130814-101190697056cca6dd82285" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041f\u0440\u0438\u0441\u043b\u0443\u0433\u0430 (\u0415\u0433\u043e \u0412\u043e\u0440\u043e\u0431\u0435\u0439\u0448\u0435\u0441\u0442\u0432\u043e)","link":"ru:\u041f\u0440\u0438\u0441\u043b\u0443\u0433\u0430 (\u0415\u0433\u043e \u0412\u043e\u0440\u043e\u0431\u0435\u0439\u0448\u0435\u0441\u0442\u0432\u043e)","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041f\u0440\u0438\u0441\u043b\u0443\u0433\u0430 (\u0415\u0433\u043e \u0412\u043e\u0440\u043e\u0431\u0435\u0439\u0448\u0435\u0441\u0442\u0432\u043e)]]"}" data-rte-instance="130814-101190697056cca6dd82285" href="http://ru.gameofthrones.wikia.com/wiki/Прислуга_(Его_Воробейшество)" class="extiw" title="ru:Прислуга (Его Воробейшество)">ru:Прислуга (Его Воробейшество)</a>
-</p>
-   Loading editor
+title=Old woman
+| image=Old lady at mount cailin.png 
+| season=5
+| first=\high sparrow\
+| last=\Kill the boy\\The Gift\ (corpse)
+| Appearances=3 episodes (see below)\/small
+| Status= Deceased
+| Titles=
+| Aka=
+| Place =
+| Family =
+| Allegiance =House Stark
+| Actor  Stella McCusker|Death  Flayed alive by Ramsay Bolton|DeathEp = (\The Gift\)}}}
+
+\The Gift\ (corpse)
+| Appearances=3 episodes (see below)\/small
+| Status= Deceased
+| Titles=
+| Aka=
+| Place =
+| Family =
+| Allegiance =House Stark
+| Actor  Stella McCusker|Death  Flayed alive by Ramsay Bolton|DeathEp  (\The Gift\)}}} data-rte-instance130814-101190697056cca6dd82285 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / An old woman is a minor character in the fifth season. She is played by Stella McCusker and first appears in High Sparrow. Biography 
+
+ Background 
+
+She is among the lowborn people gathered to rebuild Winterfell. Season 5 
+
+She greets Sansa Stark after she is taken to Winterfell for her impending marriage to Ramsay Bolton. She warmly tells her that the North remembers.\High Sparrow (episode)|High Sparrow\\/ref} data-rte-instance130814-101190697056cca6dd82285 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+
+Later, the women enters Sansa's chamber under the pretext of housekeeping, and tells her that she still has friends in the North. Should Sansa ever be in danger, she need only light a candle in the window of the Broken Tower.\Kill the Boy\\/ref} data-rte-instance130814-101190697056cca6dd82285 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+
+After Sansa urges Theon Greyjoy to help her escape Winterfell by lighting a candle as the old woman had told her to. Theon is unexpectedly greeted to the sight of Ramsay feasting, and confesses Sansa's request. Ramsay crucifies and flays the woman for her part in aiding Sansa. Ramsay mentions that her heart gave out before Ramsay had the chance to flay her face. \The Gift\\/ref} data-rte-instance130814-101190697056cca6dd82285 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ In the books 
+
+In the novels there is no equivalent scene or character. However, the phrase the North remembers is common among certain Northern nobles who were left reeling by the betrayals House Stark and the North suffered, even those who felt slighted by the Starks (Lady Dustin) or have allied with the Boltons resent House Frey for the relatives and men lost during at the Red Wedding. In the novels, the level of involvement of the Boltons in the Red Wedding is not common knowledge, though it is suspected by several prominent characters. 
+
+None of the servants in Winterfell offered to help Jeyne Poole (who was replaced in the show by Sansa), either because they did not care or too afraid from the Boltons. Few of them even were direct members of the Stark household - Ramsay killed most of them when be burned Winterfell originally, except for a few women he took back as prisoners to the Dreadfort. References 
+
+ 
+
+ru:Прислуга (Его Воробейшество)  Loading editor

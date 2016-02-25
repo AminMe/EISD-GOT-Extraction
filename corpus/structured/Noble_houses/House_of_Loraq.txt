@@ -1,17 +1,17 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Quote","placeholder":1,"wikitext":"{{Quote|Mine is one of the oldest and proudest families in Meereen.|Hizdahr zo Loraq|The Laws of Gods and Men}}"}" data-rte-instance="130814-97736049456cca9a9d76e1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->The <b>House of Loraq</b> is one of the ancient noble <a data-rte-meta="{"type":"internal","text":"slaver","link":"Slavery","wasblank":false,"noforce":true,"wikitext":"[[Slavery|slaver]]"}" data-rte-instance="130814-97736049456cca9a9d76e1" href="/wiki/Slavery" title="Slavery">slaver</a> families from the city of <a data-rte-meta="{"type":"internal","text":"Meereen","link":"Meereen","wasblank":true,"noforce":true,"wikitext":"[[Meereen]]"}" data-rte-instance="130814-97736049456cca9a9d76e1" href="/wiki/Meereen" title="Meereen">Meereen</a>, known as the "<a data-rte-meta="{"type":"internal","text":"Great Masters","link":"Great Masters","wasblank":true,"noforce":true,"wikitext":"[[Great Masters]]"}" data-rte-instance="130814-97736049456cca9a9d76e1" href="/wiki/Great_Masters" title="Great Masters">Great Masters</a>".
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> Known members </h2>
-<ul><li data-rte-spaces-before="1">The {head of the House of Loraq}, crucified under <a data-rte-meta="{"type":"internal","text":"Daenerys Targaryen","link":"Daenerys Targaryen","wasblank":true,"noforce":true,"wikitext":"[[Daenerys Targaryen]]"}" data-rte-instance="130814-97736049456cca9a9d76e1" href="/wiki/Daenerys_Targaryen" title="Daenerys Targaryen">Daenerys Targaryen</a>'s orders.
-<ul><li data-rte-spaces-before="1"><a data-rte-meta="{"type":"internal","text":"Hizdahr zo Loraq","link":"Hizdahr zo Loraq","wasblank":true,"noforce":true,"wikitext":"[[Hizdahr zo Loraq]]"}" data-rte-instance="130814-97736049456cca9a9d76e1" href="/wiki/Hizdahr_zo_Loraq" title="Hizdahr zo Loraq">Hizdahr zo Loraq</a>, his son, and new head of the house of Loraq.
-</li></ul>
-</li></ul>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-97736049456cca9a9d76e1" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, the House of Loraq is one of the ancient and most prestigious slaving families of Meereen, having produced famous figures. The family colors are purple, indigo, and lilac.
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">There is no mention in the novels that Hizdahr's father is one of the Great Masters who were executed by Daenerys.
-</p>
-<h2 data-rte-spaces-before="1" data-rte-spaces-after="1" data-rte-empty-lines-before="1"> See also </h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-97736049456cca9a9d76e1" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
 
-   Loading editor
+The House of Loraq is one of the ancient noble slaver families from the city of Meereen, known as the Great Masters.
+
+ Known members 
+The head of the House of Loraq, crucified under Daenerys Targaryen's orders.
+Hizdahr zo Loraq, his son, and new head of the house of Loraq.
+
+
+In the books
+In the A Song of Ice and Fire novels, the House of Loraq is one of the ancient and most prestigious slaving families of Meereen, having produced famous figures. The family colors are purple, indigo, and lilac.
+There is no mention in the novels that Hizdahr's father is one of the Great Masters who were executed by Daenerys.
+
+ See also 
+ (MAJOR spoilers from the books)
+
+
+ &nbsp; Loading editor

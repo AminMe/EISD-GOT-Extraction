@@ -1,30 +1,33 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = Wildling shield icon.png\n|link = Free Folk}}"}" data-rte-instance="130814-119964274156cca6edd6da0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Sissy\n|Image = Craster's wife 1.png\n|Season = [[Season 4|4]]\n|First=\"[[Oathkeeper]]\"\n|Appearances = 2 episodes\n|Status = [[:Category:Status: Alive|Alive]]\n|Place = [[Craster's Keep]]\n|Allegiance = [[Craster]]\n|Culture = [[Free Folk]]\n|Religion = [[White Walkers]]\n|Family = {[[Craster]]} - father\/husband<br>[[Gilly]] - half-sister\n|Actor = [[Jane McGrath]]}}"}" data-rte-instance="130814-119964274156cca6edd6da0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|A gift for [[White Walkers|the gods]].|[[Craster]]'s wives|Oathkeeper}}"}" data-rte-instance="130814-119964274156cca6edd6da0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Sissy</b> is an unnamed minor character in the <a data-rte-meta="{"type":"internal","text":"fourth season","link":"Season 4","wasblank":false,"noforce":true,"wikitext":"[[Season 4|fourth season]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Season_4" title="Season 4">fourth season</a>. She is played by guest star <a data-rte-meta="{"type":"internal","text":"Jane McGrath","link":"Jane McGrath","wasblank":true,"noforce":true,"wikitext":"[[Jane McGrath]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Jane_McGrath" title="Jane McGrath">Jane McGrath</a> debuts in "<a data-rte-meta="{"type":"internal","text":"Oathkeeper","link":"Oathkeeper","wasblank":true,"noforce":true,"wikitext":"[[Oathkeeper]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Oathkeeper" title="Oathkeeper">Oathkeeper</a>".
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">She is one of <a data-rte-meta="{"type":"internal","text":"Craster","link":"Craster","wasblank":true,"noforce":true,"wikitext":"[[Craster]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Craster" title="Craster">Craster</a>'s daughters who he has married.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 4","link":"Season 4","wasblank":true,"noforce":true,"wikitext":"[[Season 4]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Season_4" title="Season 4">Season 4</a></h3>
-<p data-rte-fromparser="true">After Craster is killed in the <a data-rte-meta="{"type":"internal","text":"mutiny","link":"Mutiny at Craster's Keep","wasblank":false,"noforce":true,"wikitext":"[[Mutiny at Craster's Keep|mutiny]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Mutiny_at_Craster's_Keep" title="Mutiny at Craster's Keep">mutiny</a>, she is taken by <a data-rte-meta="{"type":"internal","text":"Karl Tanner","link":"Karl Tanner","wasblank":true,"noforce":true,"wikitext":"[[Karl Tanner]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Karl_Tanner" title="Karl Tanner">Karl Tanner</a>, who frequently beats her. When <a data-rte-meta="{"type":"internal","text":"Morag","link":"Morag","wasblank":true,"noforce":true,"wikitext":"[[Morag]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Morag" title="Morag">Morag</a> brings in <a data-rte-meta="{"type":"internal","text":"Craster's last son","link":"Craster's last son","wasblank":true,"noforce":true,"wikitext":"[[Craster's last son]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Craster's_last_son" title="Craster's last son">Craster's last son</a>, she joins her sisters in chanting that the child is a gift for <a data-rte-meta="{"type":"internal","text":"the gods","link":"White Walkers","wasblank":false,"noforce":true,"wikitext":"[[White Walkers|the gods]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/White_Walkers" title="White Walkers">the gods</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Oathkeeper]]\"<\/ref>"}" data-rte-instance="130814-119964274156cca6edd6da0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">During a <a data-rte-meta="{"type":"internal","text":"raid","link":"Raid on Craster's Keep","wasblank":false,"noforce":true,"wikitext":"[[Raid on Craster's Keep|raid]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Raid_on_Craster's_Keep" title="Raid on Craster's Keep">raid</a> on <a data-rte-meta="{"type":"internal","text":"Craster's Keep","link":"Craster's Keep","wasblank":true,"noforce":true,"wikitext":"[[Craster's Keep]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Craster's_Keep" title="Craster's Keep">Craster's Keep</a>, she stabs Karl Tanner in the back, preventing him from killing <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> and giving the latter a chance to kill Karl.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[First of His Name]]\"<\/ref>"}" data-rte-instance="130814-119964274156cca6edd6da0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearances</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Four Appearances","placeholder":1,"wikitext":"{{Season Four Appearances||||yes|yes}}"}" data-rte-instance="130814-119964274156cca6edd6da0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">Behind the scenes</h2>
-<p data-rte-fromparser="true">The character's name is never mentioned onscreen or in credits. It is mentioned in the actress's CV.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/www.lisarichards.ie\/actorsf\/jane-mcgrath-actor#.U3hWt_l5MkK]<\/ref>"}" data-rte-instance="130814-119964274156cca6edd6da0" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there's no mention of a daughter-wife of Craster called Sissy.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF|Craster's wives}}"}" data-rte-instance="130814-119964274156cca6edd6da0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-119964274156cca6edd6da0" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u0416\u0435\u043d\u0430 \u041a\u0440\u0430\u0441\u0442\u0435\u0440\u0430 1 (\u0412\u0435\u0440\u043d\u044b\u0439 \u043a\u043b\u044f\u0442\u0432\u0435)","link":"ru:\u0416\u0435\u043d\u0430 \u041a\u0440\u0430\u0441\u0442\u0435\u0440\u0430 1 (\u0412\u0435\u0440\u043d\u044b\u0439 \u043a\u043b\u044f\u0442\u0432\u0435)","wasblank":true,"noforce":true,"wikitext":"[[ru:\u0416\u0435\u043d\u0430 \u041a\u0440\u0430\u0441\u0442\u0435\u0440\u0430 1 (\u0412\u0435\u0440\u043d\u044b\u0439 \u043a\u043b\u044f\u0442\u0432\u0435)]]"}" data-rte-instance="130814-119964274156cca6edd6da0" href="http://ru.gameofthrones.wikia.com/wiki/Жена_Крастера_1_(Верный_клятве)" class="extiw" title="ru:Жена Крастера 1 (Верный клятве)">ru:Жена Крастера 1 (Верный клятве)</a>
-</p>
-   Loading editor
+title=Sissy
+|Image = craster's wife 1.png
+|season=4
+|first=\Oathkeeper\
+|Appearances 2 episodes
+|status=alive
+|place=Craster's keep
+|allegiance=Craster
+|Culture free folk
+|religion=White walkers
+|family=Craster - father\ usbandGilly - half-sister
+|Actor = Jane McGrath}}}
+
+ Gilly - half-sister
+|Actor  Jane McGrath} data-rte-instance130814-119964274156cca6edd6da0 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Sissy is an unnamed minor character in the fourth season. She is played by guest star Jane McGrath debuts in Oathkeeper. Biography 
+
+ Background 
+
+She is one of Craster's daughters who he has married. Season 4 
+
+After Craster is killed in the mutiny, she is taken by Karl Tanner, who frequently beats her. When Morag brings in Craster's last son, she joins her sisters in chanting that the child is a gift for the gods.\Oathkeeper\\/ref} data-rte-instance130814-119964274156cca6edd6da0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+
+During a raid on Craster's Keep, she stabs Karl Tanner in the back, preventing him from killing Jon Snow and giving the latter a chance to kill Karl.\First of His Name\\/ref} data-rte-instance130814-119964274156cca6edd6da0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+
+ Behind the scenes 
+
+The character's name is never mentioned onscreen or in credits. It is mentioned in the actress's CV.http:\/\/www.lisarichards.ie\ctorsf\/jane-mcgrath-actor#.U3hWt_l5MkK\/ref} data-rte-instance130814-119964274156cca6edd6da0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
+
+In the A Song of Ice and Fire novels, there's no mention of a daughter-wife of Craster called Sissy. See also (MAJOR spoilers from the books) References 
+
+ 
+
+ru:Жена Крастера 1 (Верный клятве)  Loading editor

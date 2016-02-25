@@ -1,25 +1,30 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=Night's-Watch-Main-Shield.PNG\n|link=Night's Watch\n}}"}" data-rte-instance="130814-55935047956cca78907a9c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Clydas\n| Image=\n| Season=[[Season 1|1]]\n| First=\n| Last=\n| Appearances=\"[[You Win or You Die]]\"\n| Aka=\n| Status= [[:Category:Status: Alive|Alive]]\n| Titles=\n| Death=\n| Place=\n| Allegiance=[[Night's Watch]]\n| Family=\n| Actor=[[:Category:Performer Unidentified|Unidentified]]}}"}" data-rte-instance="130814-55935047956cca78907a9c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><b>Clydas</b> is a background character in the <a data-rte-meta="{"type":"internal","text":"first season","link":"Season 1","wasblank":false,"noforce":true,"wikitext":"[[Season 1|first season]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Season_1" title="Season 1">first season</a>. He is played by an unidentified extra and only appears in "<a data-rte-meta="{"type":"internal","text":"You Win or You Die","link":"You Win or You Die","wasblank":true,"noforce":true,"wikitext":"[[You Win or You Die]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/You_Win_or_You_Die" title="You Win or You Die">You Win or You Die</a>." He is a <a data-rte-meta="{"type":"internal","text":"Steward","link":"Steward (Night's Watch)","wasblank":false,"noforce":true,"wikitext":"[[Steward (Night's Watch)|Steward]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Steward_(Night's_Watch)" title="Steward (Night's Watch)">Steward</a> of the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Clydas is one of the Stewards that assists <a data-rte-meta="{"type":"internal","text":"Maester","link":"Maester","wasblank":true,"noforce":true,"wikitext":"[[Maester]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Maester" title="Maester" class="mw-redirect">Maester</a> <a data-rte-meta="{"type":"internal","text":"Aemon","link":"Aemon","wasblank":true,"noforce":true,"wikitext":"[[Aemon]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Aemon" title="Aemon">Aemon</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 1","link":"Season 1","wasblank":true,"noforce":true,"wikitext":"[[Season 1]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Season_1" title="Season 1">Season 1</a></h3>
-<p data-rte-fromparser="true">Clydas is present during the speech <a data-rte-meta="{"type":"internal","text":"Lord Commander","link":"Lord Commander","wasblank":true,"noforce":true,"wikitext":"[[Lord Commander]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Lord_Commander" title="Lord Commander">Lord Commander</a> <a data-rte-meta="{"type":"internal","text":"Jeor Mormont","link":"Jeor Mormont","wasblank":true,"noforce":true,"wikitext":"[[Jeor Mormont]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Jeor_Mormont" title="Jeor Mormont">Jeor Mormont</a> gave to the "graduating" recruits. After the speech is over and the recruits are assigned their orders, Clydas assists blind Maester Aemon walk towards the newly made stewards to give them their assignment.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[You Win or You Die]]\"<\/ref>"}" data-rte-instance="130814-55935047956cca78907a9c" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season One Appearances","placeholder":1,"wikitext":"{{Season One Appearances|7=yes}}"}" data-rte-instance="130814-55935047956cca78907a9c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Clydas is described as ugly: short, bald, chinless, hunched, with pink eyes and rounded shoulders. Jon Snow estimates him to be about 60-years-old. A few white hairs still cling to his scalp. Alongside Chett he tends to Aemon's needs and the <a data-rte-meta="{"type":"internal","text":"ravens","link":"ravens","wasblank":true,"noforce":true,"wikitext":"[[ravens]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Ravens" title="Ravens">ravens</a> of <a data-rte-meta="{"type":"internal","text":"Castle Black","link":"Castle Black","wasblank":true,"noforce":true,"wikitext":"[[Castle Black]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Castle_Black" title="Castle Black">Castle Black</a>. When <a data-rte-meta="{"type":"internal","text":"Samwell Tarly","link":"Samwell Tarly","wasblank":true,"noforce":true,"wikitext":"[[Samwell Tarly]]"}" data-rte-instance="130814-55935047956cca78907a9c" href="/wiki/Samwell_Tarly" title="Samwell Tarly">Samwell Tarly</a> replaces Chett, Clydas remains assisting the blind maester.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-55935047956cca78907a9c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" /> (MAJOR spoilers from the books)
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist|2}}"}" data-rte-instance="130814-55935047956cca78907a9c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Watch navbox","placeholder":1,"wikitext":"{{Watch navbox}}"}" data-rte-instance="130814-55935047956cca78907a9c" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Clydas
+| image=
+| season=1
+| first=
+| last=
+| appearances=\You win or you die\
+| aka=
+| status=alive
+| titles=
+| death=
+| place=
+| allegiance=Night's watch
+| family=
+| actor=unidentified}}}
+
+ 
+
+Clydas is a background character in the first season. He is played by an unidentified extra and only appears in You Win or You Die. He is a Steward of the Night's Watch. Biography 
+
+ Background 
+
+Clydas is one of the Stewards that assists Maester Aemon. Season 1 
+
+Clydas is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. After the speech is over and the recruits are assigned their orders, Clydas assists blind Maester Aemon walk towards the newly made stewards to give them their assignment.\You Win or You Die\\/ref} data-rte-instance130814-55935047956cca78907a9c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Clydas is described as ugly: short, bald, chinless, hunched, with pink eyes and rounded shoulders. Jon Snow estimates him to be about 60-years-old. A few white hairs still cling to his scalp. Alongside Chett he tends to Aemon's needs and the ravens of Castle Black. When Samwell Tarly replaces Chett, Clydas remains assisting the blind maester. See also (MAJOR spoilers from the books) References 
+
+  Loading editor

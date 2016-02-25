@@ -1,23 +1,31 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image=House-Arryn-Shield-Icon.PNG\n|link=House Arryn\n}}"}" data-rte-instance="130814-68041396356cca73c41b11" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n| Title=Jasper Arryn\n| Image=\n| Image size=\n| Season=\n| First=\n| Last=\n| Mentioned=\n| Aka=\n| Status= [[:Category:Status: Dead|Deceased]]\n| Titles= [[Lord of the Eyrie]]\n| Death=\n| Place=\n| Allegiance=[[House Arryn]]\n| Family= {[[Jon Arryn]]} - son<br>{[[Alys Arryn]]} - daughter<br>{[[Ronnel Arryn]]} - son<br>[[Robin Arryn]] - grandson\n| Actor=\n}}"}" data-rte-instance="130814-68041396356cca73c41b11" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Jasper Arryn</b> is an unseen character in <i><a data-rte-meta="{"type":"internal","text":"Game of Thrones","link":"Game of Thrones","wasblank":true,"noforce":true,"wikitext":"[[Game of Thrones]]"}" data-rte-instance="130814-68041396356cca73c41b11" href="/wiki/Game_of_Thrones" title="Game of Thrones" class="mw-redirect">Game of Thrones</a></i>. He is deceased when the events of the series begin and is not expected to appear in the series. He has only appeared in the <a data-rte-meta="{"type":"internal","text":"House Arryn","link":"House Arryn","wasblank":true,"noforce":true,"wikitext":"[[House Arryn]]"}" data-rte-instance="130814-68041396356cca73c41b11" href="/wiki/House_Arryn" title="House Arryn">House Arryn</a> family tree issued by <a data-rte-meta="{"type":"internal","text":"HBO","link":"HBO","wasblank":true,"noforce":true,"wikitext":"[[HBO]]"}" data-rte-instance="130814-68041396356cca73c41b11" href="/wiki/HBO" title="HBO">HBO</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Jasper was the Head of <a data-rte-meta="{"type":"internal","text":"House Arryn","link":"House Arryn","wasblank":true,"noforce":true,"wikitext":"[[House Arryn]]"}" data-rte-instance="130814-68041396356cca73c41b11" href="/wiki/House_Arryn" title="House Arryn">House Arryn</a> and the <a data-rte-meta="{"type":"internal","text":"Lord of the Eyrie","link":"Lord of the Eyrie","wasblank":true,"noforce":true,"wikitext":"[[Lord of the Eyrie]]"}" data-rte-instance="130814-68041396356cca73c41b11" href="/wiki/Lord_of_the_Eyrie" title="Lord of the Eyrie">Lord of the Eyrie</a>. He had three children: <a data-rte-meta="{"type":"internal","text":"Jon","link":"Jon Arryn","wasblank":false,"noforce":true,"wikitext":"[[Jon Arryn|Jon]]"}" data-rte-instance="130814-68041396356cca73c41b11" href="/wiki/Jon_Arryn" title="Jon Arryn">Jon</a>, <a data-rte-meta="{"type":"internal","text":"Alys","link":"Alys Arryn","wasblank":false,"noforce":true,"wikitext":"[[Alys Arryn|Alys]]"}" data-rte-instance="130814-68041396356cca73c41b11" href="/wiki/Alys_Arryn" title="Alys Arryn">Alys</a>, and <a data-rte-meta="{"type":"internal","text":"Ronnel","link":"Ronnel Arryn","wasblank":false,"noforce":true,"wikitext":"[[Ronnel Arryn|Ronnel]]"}" data-rte-instance="130814-68041396356cca73c41b11" href="/wiki/Ronnel_Arryn" title="Ronnel Arryn">Ronnel</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>[http:\/\/www.hbo.com\/assets\/images\/series\/game-of-thrones\/downloads\/viewers-guide-150-low.pdf HBO Game of Thrones Viewer's Guide]<\/ref>"}" data-rte-instance="130814-68041396356cca73c41b11" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Family tree</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"House Arryn family tree","placeholder":1,"wikitext":"{{House Arryn family tree}}"}" data-rte-instance="130814-68041396356cca73c41b11" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-68041396356cca73c41b11" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, Jasper's family was unchanged.
-</p>
-<h2 data-rte-empty-lines-before="1">See also</h2>
-<ul><li data-rte-spaces-before="1"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"AWOIAF","placeholder":1,"wikitext":"{{AWOIAF}}"}" data-rte-instance="130814-68041396356cca73c41b11" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</li></ul>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-68041396356cca73c41b11" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Arryn navbox","placeholder":1,"wikitext":"{{Arryn navbox}}"}" data-rte-instance="130814-68041396356cca73c41b11" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"DEFAULTSORT:Arryn, Jasper","placeholder":1,"wikitext":"{{DEFAULTSORT:Arryn, Jasper}}"}" data-rte-instance="130814-68041396356cca73c41b11" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Jasper arryn
+| image size=
+| season=
+| first=
+| last=
+| mentioned=
+| aka=
+| status=deceased
+| titles=Lord of the eyrie
+| death=
+| place=
+| allegiance=House arryn
+| family=Jon arryn - sonAlys Arryn - daughterRonnel Arryn - sonRobin Arryn - grandson
+| Actor=
+}}}
+
+ Alys Arryn - daughter 
+Ronnel Arryn - son 
+Robin Arryn - grandson
+| Actor=
+}}} data-rte-instance130814-68041396356cca73c41b11 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Jasper Arryn is an unseen character in Game of Thrones. He is deceased when the events of the series begin and is not expected to appear in the series. He has only appeared in the House Arryn family tree issued by HBO. Biography 
+
+ Background 
+
+Jasper was the Head of House Arryn and the Lord of the Eyrie. He had three children:Jon, Alys, and Ronnel.http:\/\/www.hbo.com\ssets\/images\/series\/game-of-thrones\/downloads\/viewers-guide-150-low.pdf HBO Game of Thrones Viewer's Guide\/ref} data-rte-instance130814-68041396356cca73c41b11 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family tree 
+
+ In the books 
+
+In the A Song of Ice and Fire novels, Jasper's family was unchanged. See also References 
+
+  Loading editor

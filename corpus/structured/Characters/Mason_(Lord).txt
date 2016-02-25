@@ -1,18 +1,17 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title = Mason\n|Season = [[Season 5|5]]\n|Mentioned = \"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"\n|Status = [[:Category:Status: Alive|Alive]]\n|Allegiance = [[House Mason]]}}"}" data-rte-instance="130814-74769833156cca7b339488" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Dialogue a-b","placeholder":1,"wikitext":"{{Dialogue a-b|[[Jon Snow]]|How many men does this Lord Mason have to send us?|[[Samwell Tarly]]|More than [[Wiberly (Lord)|Lord Wiberly]]|[[Jon Snow]] and [[Samwell Tarly]]|Sons of the Harpy (episode)}}"}" data-rte-instance="130814-74769833156cca7b339488" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><b>Lord Mason</b> is an unseen character mentioned in the <a data-rte-meta="{"type":"internal","text":"fifth season","link":"Season 5","wasblank":false,"noforce":true,"wikitext":"[[Season 5|fifth season]]"}" data-rte-instance="130814-74769833156cca7b339488" href="/wiki/Season_5" title="Season 5">fifth season</a>.
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">Lord Mason is the head of <a data-rte-meta="{"type":"internal","text":"House Mason","link":"House Mason","wasblank":true,"noforce":true,"wikitext":"[[House Mason]]"}" data-rte-instance="130814-74769833156cca7b339488" href="/wiki/House_Mason" title="House Mason">House Mason</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-74769833156cca7b339488" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">Lord Mason sends a message to Lord Commander <a data-rte-meta="{"type":"internal","text":"Jon Snow","link":"Jon Snow","wasblank":true,"noforce":true,"wikitext":"[[Jon Snow]]"}" data-rte-instance="130814-74769833156cca7b339488" href="/wiki/Jon_Snow" title="Jon Snow">Jon Snow</a> in which he agrees to send men to join the <a data-rte-meta="{"type":"internal","text":"Night's Watch","link":"Night's Watch","wasblank":true,"noforce":true,"wikitext":"[[Night's Watch]]"}" data-rte-instance="130814-74769833156cca7b339488" href="/wiki/Night's_Watch" title="Night's Watch">Night's Watch</a>.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Sons of the Harpy (episode)|Sons of the Harpy]]\"<\/ref>"}" data-rte-instance="130814-74769833156cca7b339488" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">In the books</h2>
-<p data-rte-fromparser="true">In the <i><a data-rte-meta="{"type":"internal","text":"A Song of Ice and Fire","link":"A Song of Ice and Fire","wasblank":true,"noforce":true,"wikitext":"[[A Song of Ice and Fire]]"}" data-rte-instance="130814-74769833156cca7b339488" href="/wiki/A_Song_of_Ice_and_Fire" title="A Song of Ice and Fire">A Song of Ice and Fire</a></i> novels, there is no mention of any House Mason.
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-74769833156cca7b339488" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Mason
+|Season = 5
+|mentioned=\sons harpy\
+|status=alive
+|allegiance=House mason}}}
+
+ Lord Mason is an unseen character mentioned in the fifth season. Biography 
+
+ Background 
+
+Lord Mason is the head of House Mason. Season 5 
+
+Lord Mason sends a message to Lord Commander Jon Snow in which he agrees to send men to join the Night's Watch.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref} data-rte-instance130814-74769833156cca7b339488 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+
+In the A Song of Ice and Fire novels, there is no mention of any House Mason. References 
+
+  Loading editor

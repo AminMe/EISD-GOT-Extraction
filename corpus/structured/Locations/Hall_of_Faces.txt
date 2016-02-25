@@ -1,18 +1,30 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Settlement\n","placeholder":1,"wikitext":"{{Settlement\n| Title=Hall of Faces\n| Image= Braavos_House_of_Black_and_White_5x06_(2).png\n| Image size=250px\n| Location=[[Braavos]]\n| Type= Secret Chamber\n| Population=\n| Rulers=[[Faceless Men]]\n| Institutions=\n| Places=\n| Founding=\n| Age=\n| Founder=\n}}"}" data-rte-instance="130814-34800807556cca8521f9e4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1">The <b>"Hall of Faces"</b> houses skinned faces of the dead, and is found in a great hall within the <a data-rte-meta="{"type":"internal","text":"House of Black and White","link":"House of Black and White","wasblank":true,"noforce":true,"wikitext":"[[House of Black and White]]"}" data-rte-instance="130814-34800807556cca8521f9e4" href="/wiki/House_of_Black_and_White" title="House of Black and White">House of Black and White</a>. The <a data-rte-meta="{"type":"internal","text":"Faceless Men","link":"Faceless Men","wasblank":true,"noforce":true,"wikitext":"[[Faceless Men]]"}" data-rte-instance="130814-34800807556cca8521f9e4" href="/wiki/Faceless_Men" title="Faceless Men">Faceless Men</a> use the combination of magic spells and faces of the dead to create their different camouflages. Cleansed faces of corpses are skinned and hung to dry within the Hall of Faces.
-</p>
-<h2 data-rte-empty-lines-before="1">Structure</h2>
-<p data-rte-fromparser="true">The Hall of Faces lies within a large, secret chamber. It is created of stone, with large pillars that house the faces of the dead.
-</p>
-<h2 data-rte-empty-lines-before="1">History</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3><a data-rte-meta="{"type":"internal","text":"Season 5","link":"Season 5","wasblank":true,"noforce":true,"wikitext":"[[Season 5]]"}" data-rte-instance="130814-34800807556cca8521f9e4" href="/wiki/Season_5" title="Season 5">Season 5</a></h3>
-<p data-rte-fromparser="true">Upon passing the game of faces, <a data-rte-meta="{"type":"internal","text":"Jaqen H'ghar","link":"Jaqen H'ghar","wasblank":true,"noforce":true,"wikitext":"[[Jaqen H'ghar]]"}" data-rte-instance="130814-34800807556cca8521f9e4" href="/wiki/Jaqen_H'ghar" title="Jaqen H'ghar">Jaqen H'ghar</a> brings <a data-rte-meta="{"type":"internal","text":"Arya","link":"Arya Stark","wasblank":false,"noforce":true,"wikitext":"[[Arya Stark|Arya]]"}" data-rte-instance="130814-34800807556cca8521f9e4" href="/wiki/Arya_Stark" title="Arya Stark">Arya</a> to the Hall of Faces. She realizes her work as an acolyte has prepared the bodies to have their faces skinned.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Unbowed, Unbent, Unbroken]]\"<\/ref>"}" data-rte-instance="130814-34800807556cca8521f9e4" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Image Gallery</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"externalImages":[],"hash":"5036c6a4aacbd3afe533aab913a0347d","id":0,"images":[{"name":"Arya-and-Jaqen.jpg","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"Arya_chamber_of_faces_s5.jpg","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"hall of faces unbroken s5.jpg","caption":"","link":"","linktext":"","shorttext":"","data-caption":""}],"imagesShown":[{"name":"Arya-and-Jaqen.jpg","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"Arya_chamber_of_faces_s5.jpg","caption":"","link":"","linktext":"","shorttext":"","data-caption":""},{"name":"hall of faces unbroken s5.jpg","caption":"","link":"","linktext":"","shorttext":"","data-caption":""}],"params":{"spacing":"small","columns":"3","widths":"170"},"type":1,"wikitext":"<gallery spacing=\"small\" columns=\"3\" widths=\"170\">\nArya-and-Jaqen.jpg\nArya_chamber_of_faces_s5.jpg\nhall of faces unbroken s5.jpg\n<\/gallery>"}" data-rte-instance="130814-34800807556cca8521f9e4" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" class="media-placeholder image-gallery alignLeft" type="image-gallery" height="185" width="185" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-34800807556cca8521f9e4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Braavos","placeholder":1,"wikitext":"{{Braavos}}"}" data-rte-instance="130814-34800807556cca8521f9e4" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-   Loading editor
+title=Hall of faces
+| image size=250px
+| location=Braavos
+| type=double-brackets chamber
+| population=
+| rulers=Faceless men
+| institutions=
+| places=
+| founding=
+| age=
+| founder=
+}}}
+
+ 
+
+The Hall of Faces houses skinned faces of the dead, and is found in a great hall within the House of Black and White. The Faceless Men use the combination of magic spells and faces of the dead to create their different camouflages. Cleansed faces of corpses are skinned and hung to dry within the Hall of Faces. Structure 
+
+The Hall of Faces lies within a large, secret chamber. It is created of stone, with large pillars that house the faces of the dead. History 
+
+ Season 5 
+
+Upon passing the game of faces, Jaqen H'ghar brings Arya to the Hall of Faces. She realizes her work as an acolyte has prepared the bodies to have their faces skinned.\Unbowed, Unbent, Unbroken\\/ref} data-rte-instance130814-34800807556cca8521f9e4 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Image Gallery 
+
+
+Arya-and-Jaqen.jpg
+Arya_chamber_of_faces_s5.jpg
+hall of faces unbroken s5.jpg
+\/gallery} data-rte-instance=130814-34800807556cca8521f9e4 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+
+  Loading editor

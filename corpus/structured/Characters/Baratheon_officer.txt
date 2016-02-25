@@ -1,20 +1,23 @@
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"","title":"Heraldry\n","placeholder":1,"wikitext":"{{Heraldry\n|image = House-Baratheon-of-Dragonstone-Shield-Icon.PNG\n|link = House Baratheon of Dragonstone}}"}" data-rte-instance="130814-93307238256cca80857a48" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Character\n","placeholder":1,"wikitext":"{{Character\n|Title =Baratheon officer\n|Image = Baratheon_officer.png\n|Season = [[Season 2|2]]\n|Appearances = \"[[Blackwater]]\"\n|Allegiance = [[House Baratheon of Dragonstone]]\n|Actor = [[Kieran Cunningham]]\n|Status = [[:Category:Status: Dead|Deceased]]\n|Death = Killed with an axe by [[Tyrion]] during the [[Battle of the Blackwater]].\n|DeathEp = \"[[Blackwater]]\"}}"}" data-rte-instance="130814-93307238256cca80857a48" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} --><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Quote","placeholder":1,"wikitext":"{{Quote|Come on you bastards! Get up those ladders!|The officer to his troops|Blackwater}}"}" data-rte-instance="130814-93307238256cca80857a48" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-<!-- RTE::{"spaces":0,"type":"LINE_BREAK"} -->A <b>Baratheon Officer</b> is an unnamed minor character in the second season. He is played by guest star <a data-rte-meta="{"type":"internal","text":"Kieran Cunningham","link":"Kieran Cunningham","wasblank":true,"noforce":true,"wikitext":"[[Kieran Cunningham]]"}" data-rte-instance="130814-93307238256cca80857a48" href="/wiki/Kieran_Cunningham" title="Kieran Cunningham">Kieran Cunningham</a> and only appears in "<a data-rte-meta="{"type":"internal","text":"Blackwater","link":"Blackwater (episode)","wasblank":false,"noforce":true,"wikitext":"[[Blackwater (episode)|Blackwater]]"}" data-rte-instance="130814-93307238256cca80857a48" href="/wiki/Blackwater_(episode)" title="Blackwater (episode)" class="mw-redirect">Blackwater</a>."
-</p>
-<h2 data-rte-empty-lines-before="1">Biography</h2>
-<p data-rte-fromparser="true" data-rte-filler="true"></p><h3>Background</h3>
-<p data-rte-fromparser="true">This man is an officer in the army of <a data-rte-meta="{"type":"internal","text":"House Baratheon of Dragonstone","link":"House Baratheon of Dragonstone","wasblank":true,"noforce":true,"wikitext":"[[House Baratheon of Dragonstone]]"}" data-rte-instance="130814-93307238256cca80857a48" href="/wiki/House_Baratheon_of_Dragonstone" title="House Baratheon of Dragonstone">House Baratheon of Dragonstone</a>.
-</p>
-<h3 data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"Season 2","link":"Season 2","wasblank":true,"noforce":true,"wikitext":"[[Season 2]]"}" data-rte-instance="130814-93307238256cca80857a48" href="/wiki/Season_2" title="Season 2">Season 2</a></h3>
-<p data-rte-fromparser="true">During the <a data-rte-meta="{"type":"internal","text":"Battle of the Blackwater","link":"Battle of the Blackwater","wasblank":true,"noforce":true,"wikitext":"[[Battle of the Blackwater]]"}" data-rte-instance="130814-93307238256cca80857a48" href="/wiki/Battle_of_the_Blackwater" title="Battle of the Blackwater">Battle of the Blackwater</a> he commands troops attacking the <a data-rte-meta="{"type":"internal","text":"Mud Gate","link":"Mud Gate","wasblank":true,"noforce":true,"wikitext":"[[Mud Gate]]"}" data-rte-instance="130814-93307238256cca80857a48" href="/wiki/Mud_Gate" title="Mud Gate">Mud Gate</a>. He yells to his soldiers to get up the ladders. His leg is chopped off by <a data-rte-meta="{"type":"internal","text":"Tyrion Lannister","link":"Tyrion Lannister","wasblank":true,"noforce":true,"wikitext":"[[Tyrion Lannister]]"}" data-rte-instance="130814-93307238256cca80857a48" href="/wiki/Tyrion_Lannister" title="Tyrion Lannister">Tyrion Lannister</a>, after which he collapses to the ground and Tyrion finishes him with a blow to the head.<img data-rte-meta="{"type":"ext","placeholder":1,"wikitext":"<ref>\"[[Blackwater]]\"<\/ref>"}" data-rte-instance="130814-93307238256cca80857a48" class="placeholder placeholder-ext" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="ext" />
-</p>
-<h2 data-rte-empty-lines-before="1">Appearance</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Season Two Appearances","placeholder":1,"wikitext":"{{Season Two Appearances|9=yes}}"}" data-rte-instance="130814-93307238256cca80857a48" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p>
-<h2 data-rte-empty-lines-before="1">References</h2>
-<p data-rte-fromparser="true"><img data-rte-meta="{"type":"double-brackets","lineStart":"1","title":"Reflist","placeholder":1,"wikitext":"{{Reflist}}"}" data-rte-instance="130814-93307238256cca80857a48" class="placeholder placeholder-double-brackets" src="data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw==" type="double-brackets" />
-</p><p data-rte-fromparser="true" data-rte-empty-lines-before="1"><a data-rte-meta="{"type":"internal","text":"ru:\u041e\u0444\u0438\u0446\u0435\u0440 \u0411\u0430\u0440\u0430\u0442\u0435\u043e\u043d\u043e\u0432","link":"ru:\u041e\u0444\u0438\u0446\u0435\u0440 \u0411\u0430\u0440\u0430\u0442\u0435\u043e\u043d\u043e\u0432","wasblank":true,"noforce":true,"wikitext":"[[ru:\u041e\u0444\u0438\u0446\u0435\u0440 \u0411\u0430\u0440\u0430\u0442\u0435\u043e\u043d\u043e\u0432]]"}" data-rte-instance="130814-93307238256cca80857a48" href="http://ru.gameofthrones.wikia.com/wiki/Офицер_Баратеонов" class="extiw" title="ru:Офицер Баратеонов">ru:Офицер Баратеонов</a>
-</p>
-   Loading editor
+title=Baratheon officer
+|image=Baratheon_officer.png
+|Season = 2
+|appearances=\Blackwater\
+|Allegiance house baratheon of dragonstone
+|actor=Kieran cunningham
+|status=deceased
+|death=Killed with an axe by tyrion during the battle blackwater.
+|deathep=\Blackwater\}}}
+
+ A Baratheon Officer is an unnamed minor character in the second season. He is played by guest star Kieran Cunningham and only appears in Blackwater. Biography 
+
+ Background 
+
+This man is an officer in the army of House Baratheon of Dragonstone. Season 2 
+
+During the Battle of the Blackwater he commands troops attacking the Mud Gate. He yells to his soldiers to get up the ladders. His leg is chopped off by Tyrion Lannister, after whichhe collapses to the ground and Tyrion finishes him with a blow to the head.\Blackwater\\/ref} data-rte-instance130814-93307238256cca80857a48 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+
+ References 
+
+ 
+
+ru:Офицер Баратеонов  Loading editor
