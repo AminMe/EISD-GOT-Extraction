@@ -342,7 +342,6 @@ public class Extractor {
             else
             {
                 //TODO : rm cest fichiers???
-                //System.out.println("NTM : "+filename);
                 return handleFileSourceEasy(doc);
             }
 
@@ -404,7 +403,7 @@ public class Extractor {
         cleanDir("corpus/structured/Locations");
         cleanDir("corpus/structured/Noble_houses");
 
-        //second clean
+        //second clean pour les fichier qui etait difficile a traiter
         cleanDir("corpus/structured/Characters");
         cleanDir("corpus/structured/Locations");
         cleanDir("corpus/structured/Noble_houses");
@@ -412,7 +411,7 @@ public class Extractor {
 
         System.exit(0);
 
-        //TODO faire un menu
+        //TODO faire un menu utilisateur
 
         ArrayList<String> categories = new ArrayList<>(Arrays.asList("Characters","Locations","Noble_houses"));
         ArrayList<Integer> limits = new ArrayList<>(Arrays.asList(58,21,10));
