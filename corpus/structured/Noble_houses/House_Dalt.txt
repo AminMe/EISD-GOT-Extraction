@@ -11,7 +11,9 @@ title=House dalt
 | vassals=
 | age=
 | founder=
-| imagesize=150}}}
+| imagesize=150
+
+
 
  House Dalt is a vassal house which holds fealty to House Martell of Dorne. Their seat is at Lemonwood. 
 
@@ -19,7 +21,7 @@ House Dalt's heraldry contains yellow wild lemons strewn on a purple field. Hist
 
  Season 4 
 
- A House Dalt banner is seen amongst the delegation of Dornish lords who accompany Prince Oberyn Martell to King's Landing. Podrick Payne identifies their banner by name.\Two Swords\\/ref} data-rte-instance130814-22144710256cca988cb148 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Known members Ser Deziel Dalt, the Knight of Lemonwood In the books 
+ A House Dalt banner is seen amongst the delegation of Dornish lords who accompany Prince Oberyn Martell to King's Landing. Podrick Payne identifies their banner by name.\Two Swords\\/ref data-rte-instance130814-22144710256cca988cb148 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Known members Ser Deziel Dalt, the Knight of Lemonwood In the books 
 
 In the A Song of Ice and Fire novels, House Dalt's seat is at Lemonwood, located on the southern bank of the mouth of the mouth of the Greenblood River. As a result, they are Salty Dornishmen: when the Rhoynar migrated to Dorne a thousand years ago, they primarily settled around the coasts and river valleys, and in these places their bloodlines had the largest impact. Salty Dornishmen tend to have olive skin, dark hair and eyes, and somewhat short but lithe stature. The coasts of Dorne also enjoy a fair amount of trade with the nearby Free Cities across the Narrow Sea. 
 

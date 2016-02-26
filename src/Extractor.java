@@ -229,8 +229,15 @@ public class Extractor {
             content = content.replace(matcher.group(0),matcher.group(1).replaceAll("\"",""));
         }
 
-        content = content.replaceAll("&lt;","").replaceAll("&gt;","").replaceAll("\\/a","").replaceAll("\"","");;
+        content = content.replaceAll("&lt;","").replaceAll("&gt;","").replaceAll("\\/a","").replaceAll("\"","").replaceAll("&nbsp;","");
 
+        regex = "\\}+";
+        pattern = Pattern.compile(regex);
+        matcher = pattern.matcher(content);
+        while(matcher.find())
+        {
+            content = content.replace(matcher.group(0),"");
+        }
 
 
         regex = "=+(.*?)=+";
@@ -322,8 +329,9 @@ public class Extractor {
                 docString = docString
                         .replaceAll("\\&nbsp;", "")
                         .replaceAll("\\{*\\[\\[", "")
-                        .replaceAll("\\]\\]\\}*", "");
-                String update = matcher.group(1) + relationshipsS +  docString;
+                        .replaceAll("\\]\\]\\}*", "")
+                        .replaceAll("\\}\\}\\}","");
+                String update = matcher.group(1) + "\n" + relationshipsS + "\n" + docString;
                 //System.out.println(update);
 
                 return update;
@@ -391,6 +399,12 @@ public class Extractor {
 
     public static void main(String[] args) throws IOException {
 
+        //premier clean
+        cleanDir("corpus/structured/Characters");
+        cleanDir("corpus/structured/Locations");
+        cleanDir("corpus/structured/Noble_houses");
+
+        //second clean
         cleanDir("corpus/structured/Characters");
         cleanDir("corpus/structured/Locations");
         cleanDir("corpus/structured/Noble_houses");

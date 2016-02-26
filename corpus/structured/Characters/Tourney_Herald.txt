@@ -5,7 +5,9 @@ title=Tourney herald
 |status=alive
 |allegiance=House baratheon of king's landing
 |actor=Marko cindric
-}}}
+
+
+
 
  
 
@@ -17,7 +19,7 @@ A Tourney Herald is an unnamed minor character in the second season. He is playe
 
  Season 2 
 
-The herald announces the participants in King Joffrey Baratheon's name day tourney. He claps when the Hound knocks his opponent over the walls of the Red Keep. When Joffrey asks who is next to fight, heannouncesLothor Brune and Ser Dontos Hollard. However, the latter fails to appear at his first call, and the herald has to summon him again.\The North Remembers\\/ref} data-rte-instance130814-23287178056cca7febfbfe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+The herald announces the participants in King Joffrey Baratheon's name day tourney. He claps when the Hound knocks his opponent over the walls of the Red Keep. When Joffrey asks who is next to fight, heannouncesLothor Brune and Ser Dontos Hollard. However, the latter fails to appear at his first call, and the herald has to summon him again.\The North Remembers\\/ref data-rte-instance130814-23287178056cca7febfbfe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

@@ -1,7 +1,7 @@
 {{Heraldry
 |image=Bolton shield icon.png
 |link=House Bolton
-}}
+
 {{Character
 | Title=Violet
 | Image=Violet.jpg
@@ -15,7 +15,7 @@
 | Allegiance=House Bolton
 | Family=
 | Actor=Stephanie Blacker
-}}
+
 Template:Dialogue a-b|Theon|Where is he?|Myranda|Who, my lord? There's no one here but you, me, and Violet.|Theon Greyjoy and Myranda|The Bear and the Maiden Fair (episode)
 Violet is a character in the third season. She is played by Stephanie Blacker.January 10, 2013. http://winteriscoming.net/2013/01/season-three-casting-update/ Winter is Coming.net
 Biography

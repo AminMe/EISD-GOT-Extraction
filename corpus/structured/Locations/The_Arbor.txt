@@ -11,7 +11,9 @@ title=The arbor
 | Culture= 
 | Military=
 | Regional capital= 
-}}}
+
+
+
 
  Temperate to sub-tropical.
 | Population=
@@ -20,13 +22,13 @@ title=The arbor
 | Culture= 
 | Military=
 | Regional capital= 
-}}} data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / the Arbor\ off the coast of Westeros\.}} data-rte-instance130814-130154720556cca89f94179 alt srchttp://vignette4.wikia.nocookie.net/gameofthrones/images/2/2c/Arbor_Location.png/revision/latest/scale-to-width-down/200?cb20110604181013 width200 height515 classimage thumb alignRight withCaption data-image-nameArbor Location.png data-image-keyArbor_Location.png type=image / The Arbor is a large island off the southwestern coast of Westeros, separated from the mainland by the Redwyne Straits. It is part of the Reach and its rulers, House Redwyne, hold fealty to House Tyrell of Highgarden. House Redwyne controls a large fleet from the Arbor. The Arbor is famous across much of the known world for its high-quality wines.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\rbor\/ HBO viewers guide, season 1 map, The Arbor entry\/ref} data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-arbor\/ HBO viewers guide, season 2 map, The Arbor entry\/ref} data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
+ data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / the Arbor\ off the coast of Westeros\. data-rte-instance130814-130154720556cca89f94179 alt srchttp://vignette4.wikia.nocookie.net/gameofthrones/images/2/2c/Arbor_Location.png/revision/latest/scale-to-width-down/200?cb20110604181013 width200 height515 classimage thumb alignRight withCaption data-image-nameArbor Location.png data-image-keyArbor_Location.png typeimage / The Arbor is a large island off the southwestern coast of Westeros, separated from the mainland by the Redwyne Straits. It is part of the Reach and its rulers, House Redwyne, hold fealty to House Tyrell of Highgarden. House Redwyne controls a large fleet from the Arbor. The Arbor is famous across much of the known world for its high-quality wines.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\rbor\/ HBO viewers guide, season 1 map, The Arbor entry\/ref data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-arbor\/ HBO viewers guide, season 2 map, The Arbor entry\/ref data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
 
  Season 1 
 
-The poisoned wine a wineseller in Vaes Dothrak uses to try to kill Daenerys Targaryen is said to have originated from the Arbor.\You Win or You Die\\/ref} data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
+The poisoned wine a wineseller in Vaes Dothrak uses to try to kill Daenerys Targaryen is said to have originated from the Arbor.\You Win or You Die\\/ref data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
 
-King Stannis Baratheon composes a letter revealing the truth of Cersei Lannister's incestuous relationship with her brother Jaime, that Jaime is the real father of Joffrey Baratheon, and orders that copies of the letter be sent to every corner of Westeros, from the Arbor to the Wall.\The North Remembers\\/ref} data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+King Stannis Baratheon composes a letter revealing the truth of Cersei Lannister's incestuous relationship with her brother Jaime, that Jaime is the real father of Joffrey Baratheon, and orders that copies of the letter be sent to every corner of Westeros, from the Arbor to the Wall.\The North Remembers\\/ref data-rte-instance130814-130154720556cca89f94179 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, the Arbor is the biggest shipyard in southern Westeros. Its fleet is one of the largest in the realm, behind only the King's Fleet and the Iron Fleet of the Iron Islands. The Arbor has a warm and pleasant climate, due to its position surrounded by water off Westeros's southern coast. This climate is ideal for viticulture, and the Arbor is home to vast vineyards. Locations on the Arbor include Starfish Harbor and Vinetown. 
 

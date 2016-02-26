@@ -6,7 +6,9 @@ title=Arys oakheart
 | Status = Alive
 | Allegiance = House OakheartThe Kingsguard
 |Titles = Ser
-|ActorUnknown|Image  }}}
+|ActorUnknown|Image  
+
+
 
  2
 | First = \You Win or You Die\
@@ -16,15 +18,15 @@ title=Arys oakheart
 | Allegiance = House Oakheart 
 The Kingsguard
 |Titles = Ser
-|ActorUnknown|Image  }}} data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Arys Oakheart is a recurring background character in the first, second and fifth seasons. He is played by an unidentified extra and debuts in You Win or You Die. Ser Arys is a knight and a member of the Kingsguard and defends King Joffrey Baratheon as he defended King Robert Baratheon before him. He is sent with Princess Myrcella Baratheon to Dorne. Biography 
+|ActorUnknown|Image   data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Arys Oakheart is a recurring background character in the first, second and fifth seasons. He is played by an unidentified extra and debuts in You Win or You Die. Ser Arys is a knight and a member of the Kingsguard and defends King Joffrey Baratheon as he defended King Robert Baratheon before him. He is sent with Princess Myrcella Baratheon to Dorne. Biography 
 
  Season 1 
 
-Ser Arys was among the guards that attacked Eddard Stark when he tried to de-throne King Joffrey.\You Win or You Die\\/ref} data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / He was also present when Ser Barristan Selmy was dismissed from the brotherhood \The Pointy End\\/ref} data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
+Ser Arys was among the guards that attacked Eddard Stark when he tried to de-throne King Joffrey.\You Win or You Die\\/ref data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / He was also present when Ser Barristan Selmy was dismissed from the brotherhood \The Pointy End\\/ref data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 2 
 
- Ser Arys accompanies Princess Myrcella Baratheon as her sworn shield for her journey to Dorne.\The Old Gods and the New\\/ref} data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 5 
+ Ser Arys accompanies Princess Myrcella Baratheon as her sworn shield for her journey to Dorne.\The Old Gods and the New\\/ref data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 5 
 
-Ser Arys returns to King's Landing after Myrcella's arrival in Dorne and escorts King Tommen in his attempt to enter the Great Sept of Baelor to speak to the High Sparrow about the arrest of Ser Loras Tyrell.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref} data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+Ser Arys returns to King's Landing after Myrcella's arrival in Dorne and escorts King Tommen in his attempt to enter the Great Sept of Baelor to speak to the High Sparrow about the arrest of Ser Loras Tyrell.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref data-rte-instance130814-135262970456cca65b8e9ba classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  In the books 
 

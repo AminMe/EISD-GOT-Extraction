@@ -13,7 +13,7 @@
 | Vassals=
 | Age=
 | Founder=
-}}
+
 House Connington is a vassal house that holds fealty to House Baratheon of Storm's End. Their castle is Griffin's Roost, located south-west of Storm's End on the western edge of Shipbreaker Bay.
 
 History
@@ -36,9 +36,9 @@ Through the initiative of Ronald, his son Ronnet was betrothed when he was sixte
 Red Ronnet declares for Renly Baratheon at the onset of the War of the Five Kings, goes over to Stannis after Renly's death and participates in the Battle of the Blackwater, where he's made prisoner. Afterward he's among the many of Stannis' bannermen that bend the knee to Joffrey.
 
 Members
-*Ser&nbsp;Alyn Connington, called the Pale Griffin. A former Lord Commander of the Kingsguard, and one of the best war leaders in the history of the order.
+*SerAlyn Connington, called the Pale Griffin. A former Lord Commander of the Kingsguard, and one of the best war leaders in the history of the order.
 *Lord Armond Connington, Lord of Griffin's Roost
-*Ser&nbsp;Ronald Connington, Knight of Griffin's Roost and father of Ronnet
+*SerRonald Connington, Knight of Griffin's Roost and father of Ronnet
 *Lord Jon Connington, former Lord of Griffin's Roost.
 *Ser Ronnet Connington, his cousin's son. Knight of Griffin's Roost. Called Red Ronnet.
 **Ronald Storm, Ronnet's bastard son.

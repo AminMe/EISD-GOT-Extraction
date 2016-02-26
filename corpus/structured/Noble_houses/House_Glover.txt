@@ -12,7 +12,9 @@ title=House glover
 | age=
 | founder=
 | ancestral weapon=
-}}}
+
+
+
 
  
 

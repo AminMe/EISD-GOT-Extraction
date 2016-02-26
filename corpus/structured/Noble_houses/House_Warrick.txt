@@ -10,7 +10,9 @@ title=House warrick
 | allegiance=House whitehill
 | religion=Faith of the seven
 | founder=
-| imagesize=}}}
+| imagesize=
+
+
 
  
 

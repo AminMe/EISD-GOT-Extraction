@@ -8,7 +8,9 @@ title=The beast
 |status=deceased
 |actor=Samoa joe
 |aka=
-|Allegiance = }}}
+|Allegiance = 
+
+
 
  The Beast is a recently freed pit fighter in Meereen. He was one of Amaya's followers. Biography 
 
@@ -25,4 +27,4 @@ When the Forresters and the pit fighters are ambushed by the Whitehillsupon Ashe
 
 the_beast_lift_gate.png|The Beast tries to lift the gate.
 the_beast_death.png|The Beast killed by Harys' spear.
-\/gallery} data-rte-instance130814-40453569956cca6f7c7a21 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 /  Loading editor
+\/gallery data-rte-instance130814-40453569956cca6f7c7a21 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 /  Loading editor

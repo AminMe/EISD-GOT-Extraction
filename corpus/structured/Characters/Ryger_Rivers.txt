@@ -6,7 +6,9 @@ title=Ryger rivers
 |status=alive
 |allegiance=House frey
 |family=Walder frey - father Stevron Frey - half-brother Lothar Frey - half-brother  Olyvar Frey - half-brother Roslin Frey - half-sister Waldron Frey - half-brother Walder Rivers - half-brother
-|Actor = Bryan McCaugherty}}}
+|Actor = Bryan McCaugherty
+
+
 
  Stevron Frey - half-brother 
 Lothar Frey - half-brother 
@@ -14,7 +16,7 @@ Lothar Frey - half-brother
 Roslin Frey - half-sister 
 Waldron Frey - half-brother 
 Walder Rivers - half-brother
-|Actor  Bryan McCaugherty} data-rte-instance130814-150806296956cca6ef60bbf classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Actor  Bryan McCaugherty data-rte-instance130814-150806296956cca6ef60bbf classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -22,7 +24,7 @@ Ryger Rivers is a minor character in the first season. He is played by guest sta
 
  Season 1 
 
-Ryger is present when Catelyn Stark visits Lord Walder Frey to negotiate passage for her son's army across the trident. Like his trueborn half-brother, Stevron Frey, Ryger admonishes his father to remember his courtesies. Lord Frey dismisses his son and reminds him that he's a bastard born of a milkmaid.\Baelor\\/ref} data-rte-instance130814-150806296956cca6ef60bbf classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
+Ryger is present when Catelyn Stark visits Lord Walder Frey to negotiate passage for her son's army across the trident. Like his trueborn half-brother, Stevron Frey, Ryger admonishes his father to remember his courtesies. Lord Frey dismisses his son and reminds him that he's a bastard born of a milkmaid.\Baelor\\/ref data-rte-instance130814-150806296956cca6ef60bbf classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
 
  Family tree 
 

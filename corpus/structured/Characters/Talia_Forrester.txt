@@ -8,7 +8,9 @@ title=Talia forrester
 |allegiance=House forrester
 |family=Gregor forrester - fatherElissa Forrester - motherRodrik Forrester - brotherAsher Forrester - brotherMira Forrester - sister Ethan  Forrester - twin brother Ryon Forrester - brotherJosera Snow - bastard half-brotherElsera Snow - bastard half-sisterMalcolm Branfield - uncleThorren Forrester - paternal grandfatherTalia Branfield - maternal grandmotherLord Branfield - maternal grandfather
 |Actor = Molly Stone
-|Culture  Northmen|Age  }}}
+|Culture  Northmen|Age  
+
+
 
  Elissa Forrester - mother 
 Rodrik Forrester - brother 
@@ -23,7 +25,7 @@ Thorren Forrester - paternal grandfather
 Talia Branfield - maternal grandmother 
 Lord Branfield - maternal grandfather
 |Actor = Molly Stone
-|Culture  Northmen|Age  }}} data-rte-instance130814-98880004656cca650d1ff3 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+|Culture  Northmen|Age   data-rte-instance130814-98880004656cca650d1ff3 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -85,7 +87,7 @@ TSITD Talia Smile.png
 TSITD Talia Determined.png
 NOV Talia Worried.png
 Talia blushing 2.png|Talia blushes after seeing her brother and his betrothed in bed.
-\/gallery} data-rte-instance=130814-98880004656cca650d1ff3 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
+\/gallery data-rte-instance130814-98880004656cca650d1ff3 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
 
  
 

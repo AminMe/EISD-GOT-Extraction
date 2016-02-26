@@ -10,7 +10,9 @@ title=Orphan kid 2
 | place=King's landing
 | allegiance=
 | family=
-| actor=Unknown}}}
+| actor=Unknown
+
+
 
  Orphan kid 2 is a background character in the third season who debuts in Valar Dohaeris. Biography 
 
@@ -18,7 +20,7 @@ title=Orphan kid 2
 
 This child is an orphan living at an orphanage in King's Landing. Season 3 
 
-The orphanage he is living at is visited by Margaery Tyrell as she passes through the streets of Flea Bottom. Margaery asks him if his father was a soldier, in which he replies yes. Through King Joffrey's reign, Margaery explains how the soldiers helped saved the city in the Battle of the Blackwater.\Valar Dohaeris\\/ref} data-rte-instance130814-185334448656cca83b0fa65 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+The orphanage he is living at is visited by Margaery Tyrell as she passes through the streets of Flea Bottom. Margaery asks him if his father was a soldier, in which he replies yes. Through King Joffrey's reign, Margaery explains how the soldiers helped saved the city in the Battle of the Blackwater.\Valar Dohaeris\\/ref data-rte-instance130814-185334448656cca83b0fa65 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  References 
 

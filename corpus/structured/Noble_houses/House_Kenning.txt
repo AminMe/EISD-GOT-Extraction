@@ -10,7 +10,9 @@ title=House kenning
 | vassals=
 | age=
 | founder=
-| imagesize=}}}
+| imagesize=
+
+
 
  
 

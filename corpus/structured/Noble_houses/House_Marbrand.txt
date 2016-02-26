@@ -10,7 +10,9 @@ title= 'house marbrand
 | vassals=
 | age=
 | founder=
-|ImageSize = 250px}}}
+|ImageSize = 250px
+
+
 
  
 
@@ -22,7 +24,7 @@ The head of the family bears the title of Lord of Ashemark. The current head of 
 House Marbrand tourney.jpg|The banner of House Marbrand (center) at the Tournament|Tourney of the Hand in \The Wolf and the Lion\.
 
 Marbrand_icon.jpg|The Marbrand sigil from the Season 2 HBO viewer's guide.
-\/gallery} data-rte-instance130814-179425339256cca973229f8 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-179425339256cca973229f8 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In the A Song of Ice and Fire novels, the Marbrand's are loyal vassals of House Lannister. Ser Addam Marbrand is a childhood friend of Jaime Lannister and a key officer in the Lannister army. 
 

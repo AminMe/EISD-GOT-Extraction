@@ -10,7 +10,9 @@ title=Maynard
 | death=
 | allegiance=
 | family=
-| actor=}}}
+| actor=
+
+
 
  Ser Maynard is a knight from Westeros. He is mentioned in Game of Thrones: A Telltale Games Series. Biography 
 

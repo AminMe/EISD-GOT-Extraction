@@ -12,7 +12,9 @@ title=House rykker
 | cadets=
 | age=
 | founder=
-| weapon|ImageSize  }}}
+| weapon|ImageSize  
+
+
 
  House Rykker is a vassal house sworn to House Baratheon of King's Landing. Their seat is the town of Duskendale, located in the Crownlands. It holds fealty directly to the Iron Throne. Members Ser Jaremy Rykker, acting First Ranger of the Night's Watch. In the books 
 

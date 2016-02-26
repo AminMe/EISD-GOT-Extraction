@@ -12,7 +12,9 @@ title=House frey
 | Age=
 | Founder=Frey (founder)
 |Cadets = House Frey of Riverrun
-|Military = ~4000}}}
+|Military = ~4000
+
+
 
 Lord of Riverrun (de jure) 
 Lord Paramount of the Trident
@@ -28,7 +30,7 @@ House Haigh
 | Age=
 | Founder=Frey (founder)
 |Cadets = House Frey of Riverrun
-|Military  ~4000}}} data-rte-instance130814-31645822256cca949d7ecf classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Military  ~4000 data-rte-instance130814-31645822256cca949d7ecf classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -36,7 +38,7 @@ House Frey is the current Great House of the Riverlands, having gained their pos
 
 Their castle is known as the Twins, for its two identical keeps on either side of a river linked by a bridge, sometimes called the Stone Bridge. The Twins is one of the primary crossings over the Green Fork of the Trident River, and tolls from bridge crossings have made the Freys quite wealthy fairly quickly, elevating them from obscurity six centuries ago to being one of the most powerful noble Houses in the Riverlands - though they are looked down upon by older aristocratic families. 
 
-The Heraldry of House Frey represents their castle-seat of the Twins: it consists of two grey towers linked by a bridge, on a darker grey background, over an escutcheon of blue water.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/frey\/ HBO viewers guide, season 2 guide to houses, House Frey entry\/ref} data-rte-instance130814-31645822256cca949d7ecf classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Members 
+The Heraldry of House Frey represents their castle-seat of the Twins: it consists of two grey towers linked by a bridge, on a darker grey background, over an escutcheon of blue water.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/frey\/ HBO viewers guide, season 2 guide to houses, House Frey entry\/ref data-rte-instance130814-31645822256cca949d7ecf classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Members 
 
  Walder Frey, called the Late Lord Frey, Lord of the Crossing. Lady Joyeuse Erenford, Walder's eighth wife. Killed by Catelyn Stark at the Red Wedding. Lord Walder's descendants 
 
@@ -54,7 +56,7 @@ Freys of unspecified relationship to the main branch: Willem Frey, unspecified r
 
  In the books 
 
-House Frey\ of the Twins\, the keepers of the Crossing.}} data-rte-instance130814-31645822256cca949d7ecf alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/2/2a/House_Frey_banner.jpg/revision/latest/scale-to-width-down/200?cb20110408162011 width200 height334 classimage thumb alignRight withCaption data-image-nameHouse Frey banner.jpg data-image-keyHouse_Frey_banner.jpg typeimage / In the A Song of Ice and Fire novels, House Frey controls the Twins, two castles that hold the Crossing, the only bridge over the Green Fork of the Trident for hundreds of miles in either direction. House Frey is the northern-most house of the Riverlands, not far south of the loose border with the North, and has a history of enmity with House Reed, who control the marshes of the Neck to the north of the Twins. 
+House Frey\ of the Twins\, the keepers of the Crossing. data-rte-instance130814-31645822256cca949d7ecf alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/2/2a/House_Frey_banner.jpg/revision/latest/scale-to-width-down/200?cb20110408162011 width200 height334 classimage thumb alignRight withCaption data-image-nameHouse Frey banner.jpg data-image-keyHouse_Frey_banner.jpg typeimage / In the A Song of Ice and Fire novels, House Frey controls the Twins, two castles that hold the Crossing, the only bridge over the Green Fork of the Trident for hundreds of miles in either direction. House Frey is the northern-most house of the Riverlands, not far south of the loose border with the North, and has a history of enmity with House Reed, who control the marshes of the Neck to the north of the Twins. 
 
 House Frey was a minor house of no notability until they bridged the Green Fork six centuries ago and defending the bridge with two wooden castles. Charging wayfarers for the use of the Crossing, they grew rich and influential, replacing the castles with strong stone keeps. Their growing wealth and influence saw them gain several vassal houses of their own: House Erenford, House Haigh, and House Charlton. Given the relatively recent rise of their House, the Freys are looked down upon by other noble Houses of the Riverlands as uncouth and honorless. 
 
@@ -71,7 +73,7 @@ Frey icon.png|House Frey icon from the HBO viewer's guide.
 Frey banner.jpg|House Frey banner from a promotional image released by HBO.
 Frey-small.png|Small sigil of House Frey from the HBO viewer's guide.
 Frey Map-marker.jpg|A map-marker used to represent House Frey forces.
-\/gallery} data-rte-instance=130814-31645822256cca949d7ecf srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / See also (MAJOR spoilers from the books) References 
+\/gallery data-rte-instance130814-31645822256cca949d7ecf srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / See also (MAJOR spoilers from the books) References 
 
  
 

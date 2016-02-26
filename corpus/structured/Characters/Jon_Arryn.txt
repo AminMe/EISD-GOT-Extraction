@@ -1,7 +1,7 @@
 {{Heraldry
 |image=House-Arryn-Shield-Icon.PNG
 |link=House Arryn
-}}
+
 
 {{Character
 |Title = Jon Arryn
@@ -15,7 +15,7 @@
 |Place = The Eyrie
 |Allegiance = House Arryn
 |Family = Jasper Arryn- fatherAlys Arryn - sisterRonnel Arryn - brotherLysa Arryn - wifeRobin Arryn - sonHoster Tully - father-in-lawMinisa Tully - mother-in-lawCatelyn Tully - sister-in-lawEdmure Tully - brother-in-lawRobb Stark - nephew by marriageSansa Stark - niece by marriage Arya Stark - niece by marriage Bran Stark - nephew by marriage Rickon Stark - nephew by marriage
-|Actor = John Standing}}
+|Actor = John Standing
 Quote|The seed is strong.|Jon Arryn's last words.|Lord Snow
 
 Jon Arryn is a minor character in the first season. He died in mysterious circumstances just prior to the events of the series. He is played by guest star John Standing and appears only as a corpse in the series premiere. He was the Lord of the Eyrie, Warden of the East, Lord Paramount of the Vale, and Hand of the King to Robert Baratheon.
@@ -24,7 +24,7 @@ Biography
 Background
 thumb|Jon Arryn held the realm together for King Robert.
 Jon Arryn was the Lord of the Eyrie and the head of House Arryn, one of the Great Houses of Westeros.    
-Jon was the Warden of the East and Defender of the Vale. He was a respected nobleman and both Eddard Stark and Robert Baratheon were fostered by him during their adolescence.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/housesrryn/jon-arryn/ HBO viewers guide, season 2 guide to houses, House Arryn - Jon Arryn entry The Mad King condoned the kidnap of Eddard's sister and Robert's betrothed&nbsp;Lyanna Stark.Winter is Coming The Mad King had Eddard's father and brother killed for protesting against the kidnapping.Lord Snow When he then demanded that Eddard and Robert be turned over to the King's justice, Lord Arryn rebelled, calling his banners to war. House Stark and House Baratheon followed suit. The rebels forged an alliance with House Tully through marriage, with Eddard married to Catelyn Tully and the then-elderly Jon to the young Lysa Tully.
+Jon was the Warden of the East and Defender of the Vale. He was a respected nobleman and both Eddard Stark and Robert Baratheon were fostered by him during their adolescence.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/housesrryn/jon-arryn/ HBO viewers guide, season 2 guide to houses, House Arryn - Jon Arryn entry The Mad King condoned the kidnap of Eddard's sister and Robert's betrothedLyanna Stark.Winter is Coming The Mad King had Eddard's father and brother killed for protesting against the kidnapping.Lord Snow When he then demanded that Eddard and Robert be turned over to the King's justice, Lord Arryn rebelled, calling his banners to war. House Stark and House Baratheon followed suit. The rebels forged an alliance with House Tully through marriage, with Eddard married to Catelyn Tully and the then-elderly Jon to the young Lysa Tully.
 
 thumb|left|261px|Jon Arryn serving as Hand of the King.After the rebel victory in the war, Robert became King and appointed Jon as his Hand. Jon served the realm well for many years as Hand of the King. Indeed, Jon Arryn was essentially the man really holding the realm together for the next seventeen years, while Robert drank and ate and used whores.
 
@@ -33,8 +33,8 @@ Jon Arryn died in King's Landing immediately prior to the events of the series, 
 His dying words were to Robert Baratheon, The seed is strong.
 
 Season 1
-thumb|[[Silent Sisters perform the funeral ceremony for Jon Arryn.]]
-Jon Arryn's body is laid out in state in the throne room of the Red Keep in King's Landing. Ser Jaime Lannister and Queen Cersei discuss Jon's attempts to learn the truth about their incestuous relationship and his failure to do so. Later, news of Jon's death reaches Eddard Stark at Winterfell, who is shocked and upset as he considered Jon to be a second father to him. Catelyn&nbsp;then receives a letter from Lysa&nbsp;accusing House Lannister for murdering Jon.
+thumb|Silent Sisters perform the funeral ceremony for Jon Arryn.
+Jon Arryn's body is laid out in state in the throne room of the Red Keep in King's Landing. Ser Jaime Lannister and Queen Cersei discuss Jon's attempts to learn the truth about their incestuous relationship and his failure to do so. Later, news of Jon's death reaches Eddard Stark at Winterfell, who is shocked and upset as he considered Jon to be a second father to him. Catelynthen receives a letter from Lysaaccusing House Lannister for murdering Jon.
 
 When Eddard Stark attends his first Small Council meeting in King's Landing, he is shocked to learn that the realm is six million Gold Dragons in debt, and refuses to believe that Jon Arryn would let this happen. Grand Maester Pycelle and Renly Baratheon explain to Lord Stark that while Jon gave wise and prudent advice, King Robert did not always follow it.
 
@@ -45,7 +45,7 @@ Eddard Stark is told that Arryn visited with an armorer, Tobho Mott, several tim
 Varys privately warns Eddard that he thinks Jon Arryn was murdered by an unknown party for asking too many questions, using a rare and untraceable poison known as the Tears of Lys.
 
 Season 2
-Under forceful interrogation by Tyrion Lannister, Grand Maester Pycelle confesses that he knew that Jon Arryn had unearthed the truth upon seeing Robert's bastard children that Queen Cersei's three children were not conceived&nbsp;by Robert, but by her twin brother Jaime Lannister. Pycelle states that Jon Arryn intended to act and reveal his discovery to King Robert. When Tyrion accuses Pycelle of having Jon poisoned to keep the truth from getting out, he angrily denies that he killed him. Tyrion then points out that Pycelle must have realized that someone had poisoned Arryn (and he wasn't simply sick), but he let him succumb anyway, so he has Pycelle thrown into the Black Cells.What is Dead May Never Die
+Under forceful interrogation by Tyrion Lannister, Grand Maester Pycelle confesses that he knew that Jon Arryn had unearthed the truth upon seeing Robert's bastard children that Queen Cersei's three children were not conceivedby Robert, but by her twin brother Jaime Lannister. Pycelle states that Jon Arryn intended to act and reveal his discovery to King Robert. When Tyrion accuses Pycelle of having Jon poisoned to keep the truth from getting out, he angrily denies that he killed him. Tyrion then points out that Pycelle must have realized that someone had poisoned Arryn (and he wasn't simply sick), but he let him succumb anyway, so he has Pycelle thrown into the Black Cells.What is Dead May Never Die
 
 Season 4
 After being reunited with Petyr Baelish, Lysa obsessively declares her love for him and the things she has done to demonstrate it, including lacing Jon's wine with Tears of Lys and then sending a letter to Catelyn accusing House Lannister of the assassination.First of His Name

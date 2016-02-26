@@ -11,7 +11,9 @@ title=House cassel
 | vassals=
 | age=
 | founder=
-|ImageSize =}}}
+|ImageSize =
+
+
 
  
 

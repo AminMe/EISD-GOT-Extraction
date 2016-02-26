@@ -13,7 +13,7 @@
 | Age=
 | Founder=
 |ImageSize = 250px
-|Weapon = Longclaw (until Baelor)}}
+|Weapon = Longclaw (until Baelor)
 
 House Mormont of Bear Island is a vassal house that holds fealty to House Stark of Winterfell. They rule Bear Island, an island far to the north-west of Winterfell. The head of the house is the Lord of Bear Island. The family possessed the Valyrian sword Longclaw, which later was given to Jon Snow.
 
@@ -54,7 +54,7 @@ In the novels, it is unknown if Maege Mormont is still alive, because she was no
 
 Lyanna Mormont's reply letter to Stannis is the same in the novels. Jon Snow himself wonders why the ten year old Lyanna wrote it, however, given that she has three surviving elder sisters (it is possible the Mormonts let her write it to scorn Stannis). Lyanna is apparently the acting Lady of Bear Island, while her mother and sisters are away, similar to how Bran Stark was the acting Lord of Winterfell in Season 2 when his older brother Robb was not physically present to rule.
 
-=Members=
+Members
 
 *Lord Commander Jeor Mormont - former head of the House, who voluntarily abdicated his position to join the Night's Watch.
 **Ser Jorah Mormont - his son. Exiled for selling poachers he caught on his lands to a passing slaver ship, fled to Essos to avoid execution.

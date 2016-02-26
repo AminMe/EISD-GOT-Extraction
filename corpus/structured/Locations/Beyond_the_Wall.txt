@@ -17,7 +17,9 @@ title=Beyond the wall
 | Places=Fist of the First Men \u2022 Frostfangs \u2022 Frozen Shore \u2022 Haunted Forest \u2022 Lands of Always Winter \u2022 Skirling Pass \u2022 Milkwater \u2022 Valley of Thenn \u2022 Storrold's Point
 | Founding=
 | Age=
-| Founder=}}}
+| Founder=
+
+
 
 freezing mountains and glaciers (west), 
  subarctic tundra, to uninhabitable polar waste (extreme north)
@@ -34,13 +36,13 @@ freezing mountains and glaciers (west),
 | Places=Fist of the First Men \u2022 Frostfangs \u2022 Frozen Shore \u2022 Haunted Forest \u2022 Lands of Always Winter \u2022 Skirling Pass \u2022 Milkwater \u2022 Valley of Thenn \u2022 Storrold's Point
 | Founding=
 | Age=
-| Founder}}} data-rte-instance130814-211987791056cca85816ee1 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Beyond the Wall is a generic term employed by the people of the Seven Kingdoms to refer to the large area of Westeros that lies north of the Wall. It is the only part of the continent that is not part of the realm, and thus the only place where particular attention is given to the difference between Westeros (the continent), and the Seven Kingdoms (the realm to the south of the Wall ruled by the Iron Throne). 
+| Founder data-rte-instance130814-211987791056cca85816ee1 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Beyond the Wall is a generic term employed by the people of the Seven Kingdoms to refer to the large area of Westeros that lies north of the Wall. It is the only part of the continent that is not part of the realm, and thus the only place where particular attention is given to the difference between Westeros (the continent), and the Seven Kingdoms (the realm to the south of the Wall ruled by the Iron Throne). 
 
 It is inhabited by tribes that refer to themselves as the Free Folk, known by the people of the Seven Kingdoms as wildlings. The wildlings themselves are not politically unified but consist of numerous and diverse groups. Many are semi-nomadic hunters, due to the impracticality of agriculture in the far north. Some wildlings are little more than savage and primitive raiders, but other groups live in small settled communities and villages. 
 
 The Free Folk sometimes refer to these lands as the real North, because they are actually located north of the northernmost of the Seven Kingdoms, which is named simply The North - and they think it odd to say that the north is south of where they live. Geography 
 
- the Wall\.}} data-rte-instance130814-211987791056cca85816ee1 alt srchttp://vignette4.wikia.nocookie.net/gameofthrones/images/7/74/Wildling_territories.PNG/revision/latest/scale-to-width-down/200?cb20110302110902 width200 height515 classimage thumb alignRight withCaption data-image-nameWildling territories.PNG data-image-keyWildling_territories.PNG typeimage / The lands Beyond the Wall are mostly uncharted. The region immediately north of the Wall includes the Haunted Forest, a vast taiga-forest which covers most of the area, extending from the Wall to the furthest uncharted north. 
+ the Wall\. data-rte-instance130814-211987791056cca85816ee1 alt srchttp://vignette4.wikia.nocookie.net/gameofthrones/images/7/74/Wildling_territories.PNG/revision/latest/scale-to-width-down/200?cb20110302110902 width200 height515 classimage thumb alignRight withCaption data-image-nameWildling territories.PNG data-image-keyWildling_territories.PNG typeimage / The lands Beyond the Wall are mostly uncharted. The region immediately north of the Wall includes the Haunted Forest, a vast taiga-forest which covers most of the area, extending from the Wall to the furthest uncharted north. 
 
 The forest extends from the eastern coast to a large mountain chain in the west known as the Frostfangs. The Frostfangs extend an unknown distance to the north and are quite inhospitable. However, there are rumors that even the northern Frostfangs contain hidden valleys, heated by volcanic activity, which are actually the most hospitable regions north of the Wall, and heavily settled by the wildlings. 
 
@@ -48,7 +50,7 @@ Southwest of the Frostfangs there is a narrow strip of land between the mountain
 
 Beyond all of these areas, in the furthest north are the Lands of Always Winter. The forest ends and gives way to these truly polar regions, which are unexplored. The White Walkers are rumored to originate in the depths of the Lands of Always Winter. Economy 
 
-The Free Folk living north of The Wall have a hardscrabble, survival-based economy, with little settled agriculture. Most of their economic activity is fixated on hunting and gathering: they live to catch what they can eat, and they eat whatever they can catch. They use no official currency, as they are more interested in obtaining things that are directly useful to them, and thus function on the barter system.\The North Remembers\\/ref} data-rte-instance130814-211987791056cca85816ee1 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+The Free Folk living north of The Wall have a hardscrabble, survival-based economy, with little settled agriculture. Most of their economic activity is fixated on hunting and gathering: they live to catch what they can eat, and they eat whatever they can catch. They use no official currency, as they are more interested in obtaining things that are directly useful to them, and thus function on the barter system.\The North Remembers\\/ref data-rte-instance130814-211987791056cca85816ee1 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
 However, the wildlings do engage in at least some long-distance trade: the heavy furs of local animals adapted to the harsh cold of the extreme north are fairly valuable, and they often trade them to passing smuggler ships in exchange for iron weapons, which they cannot forge on their own. In past centuries the Night's Watch tried to stop the fur-for-iron trade along the coasts, but in recent centuries as their numbers dwindled they abandoned any attempts to prevent passage around the Wall by sea. Notable locations Haunted Forest Craster's Keep White Tree The Fist of the First Men The Frostfangs Skirling Pass The Milkwater Lands of Always Winter Frozen Shore Storrold's Point The Valley of Thenn ​The Cave of the three-eyed raven Hardhome Notable inhabitants Mance Rayder, the King-Beyond-the-Wall, leader of the Free Folk and feared opponent of the Night's Watch. Executed by Stannis Baratheon. 
 
@@ -58,9 +60,9 @@ At Craster's Keep: Craster, an unsavory ally of the Night's Watch, killed by Kar
 
 In a hidden cave: The Three-eyed raven, a greenseer. Leaf, a child of the forest. In the books 
 
-Author George R.R. Martin has stated that the land-area inhabited by the Free Folk beyond the Wall is vast, roughly the size of Canada: There's actually quite a lot of Westeros north of the Wall, it's a large expanse of land, probably as large as Canada.http:\/\/winteriscoming.net\/2013\/03\/new-s3-video-inside-the-wildlings\/ HBO Behind-the-scenes featurette, Game of Thrones Season 3: Inside the Wildlings\\/ref} data-rte-instance130814-211987791056cca85816ee1 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+Author George R.R. Martin has stated that the land-area inhabited by the Free Folk beyond the Wall is vast, roughly the size of Canada: There's actually quite a lot of Westeros north of the Wall, it's a large expanse of land, probably as large as Canada.http:\/\/winteriscoming.net\/2013\/03\/new-s3-video-inside-the-wildlings\/ HBO Behind-the-scenes featurette, Game of Thrones Season 3: Inside the Wildlings\\/ref data-rte-instance130814-211987791056cca85816ee1 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
-The World of Ice and Fire companion book features a map of Westeros and western Essos that shows a significant amount of land north of the Wall, possibly extending further east and west as well, backing up the suggestion that the lands beyond the Wall are vast.http:\/\/24.media.tumblr.com\/ddd579fdf10fb72658d43f003dd62bb4\/tumblr_n5igo1nnHW1sybxk4o3_1280.png The World of Ice and Fire preview\/ref} data-rte-instance130814-211987791056cca85816ee1 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / See also HBO Viewer's Guide. References 
+The World of Ice and Fire companion book features a map of Westeros and western Essos that shows a significant amount of land north of the Wall, possibly extending further east and west as well, backing up the suggestion that the lands beyond the Wall are vast.http:\/\/24.media.tumblr.com\/ddd579fdf10fb72658d43f003dd62bb4\/tumblr_n5igo1nnHW1sybxk4o3_1280.png The World of Ice and Fire preview\/ref data-rte-instance130814-211987791056cca85816ee1 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / See also HBO Viewer's Guide. References 
 
  
 

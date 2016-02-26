@@ -1,7 +1,7 @@
 {{Heraldry
 |image = House-Mormont-Shield-Icon.PNG
 |link = House Mormont
-}}
+
 
 {{Character
 |Title = Maege Mormont
@@ -19,7 +19,7 @@
 |Age =
 |Culture = Northmen
 |Religion = Old Gods of the Forest
-}}
+
 
 Maege Mormont is a recurring background character in the first season. She was played by Elizabeth Barrett and debuts in The Pointy End. She fought for Robb Stark in the War of the Five Kings.
 

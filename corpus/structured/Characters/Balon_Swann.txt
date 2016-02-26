@@ -3,14 +3,14 @@
 |leftlink=House Swann
 |rightimage=Kingsguard-Main-Shield.PNG
 |rightlink=Kingsguard
-}}
+
 {{Character
 | Title=Balon Swann
 | Season=2, 3,  5
 | Mentioned=A Man Without Honor
 | First=The Bear and the Maiden Fair
 | Status= Alive
-| Allegiance=KingsguardHouse Swann}}
+| Allegiance=KingsguardHouse Swann
 Quote|I remember everything about that day: your helmet, your horse, the rake lines in the dirt along the lists, where the sun was in the sky when you knocked Balon Swann in the dirt.|Alton Lannister to Jaime|A Man Without Honor
 
 Balon Swann is an unseen character mentioned in the second season. Ser Balon Swann is a knight of some renown.
@@ -34,7 +34,7 @@ In the A Song of Ice and Fire novels, Ser Balon is a highly regarded knight. He 
 
 In the TV series, Ser Preston is mentioned as still being alive at the time of Joffrey's wedding in Season 4. Nevertheless, a new member of the Kingsguard is present in Season 3's The Bear and the Maiden Fair. In the books, after Sandor Clegane deserted his post during the Battle of the Blackwater his place on the Kingsguard was filled by Ser Osmund Kettleblack, but because neither Ser Osmund nor his subplot have been introduced in the TV series, it is possible that it was Balon who replaced Sandor in the TV continuity.
 
-Ser&nbsp;Balon also previously competed against&nbsp;Ser&nbsp;Jaime&nbsp;Lannister&nbsp;in the books. Jaime&nbsp;discusses Balon's&nbsp;renown as a tourney knight and melee fighter upon meeting him in the White Tower as a fellow Kingsguard, and the two share a common respect for each other, where Balon&nbsp;is eventually assigned by Jaime as the primary Kingsguard for the King.
+SerBalon also previously competed againstSerJaimeLannisterin the books. Jaimediscusses Balon'srenown as a tourney knight and melee fighter upon meeting him in the White Tower as a fellow Kingsguard, and the two share a common respect for each other, where Balonis eventually assigned by Jaime as the primary Kingsguard for the King.
 
 Ser Balon is the first to testify in the trial of Tyrion Lannister. Unlike the rest of the witnesses, his testimony is wholly true, objective and in favor of Tyrion: he praises Tyrion for his bravery in the Battle of the Blackwater; he claims that he thinks Tyrion is innocent; when describing how Tyrion beat Joffrey following the Riot of King's Landing, he claims that it was only a fit of wroth. Tyrion wonders why offer a witness that believes him innocent, until Ser Meryn Trant comes to testify. Tyrion realizes then that Cersei deliberately began with a man known to be honest, and milked him for all he would give, and every witness to follow will tell a worse tale.
 

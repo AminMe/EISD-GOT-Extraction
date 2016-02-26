@@ -4,7 +4,9 @@ title=Karstark soldier
 |appearances=\A man without honor\
 |status=alive
 |allegiance=House karstark
-|actor=Neill fleming}}}
+|actor=Neill fleming
+
+
 
  
 
@@ -14,7 +16,7 @@ A Karstark soldier is an unnamed minor character in the second season. He is pla
 
  Season 2 
 
-He calls for justice for House Karstark when Jaime Lannister is recaptured having killed Torrhen Karstark during an escape attempt.\A Man Without Honor\\/ref} data-rte-instance130814-213377628656cca7ddaf3a8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+He calls for justice for House Karstark when Jaime Lannister is recaptured having killed Torrhen Karstark during an escape attempt.\A Man Without Honor\\/ref data-rte-instance130814-213377628656cca7ddaf3a8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

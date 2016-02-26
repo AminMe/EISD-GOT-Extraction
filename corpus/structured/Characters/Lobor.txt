@@ -5,7 +5,9 @@ title=Lobor
 |last=\[[The (player-determined)
 |status=uncertain
 |allegiance=The night's watch
-|titles=steward}}}
+|titles=steward
+
+
 
  
 
@@ -15,7 +17,7 @@ Lobor is a minor character in Game of Thrones: A Telltale Games Series. He is a 
 
  The Sword in the Darkness 
 
-Lobor is present during the speech Frostfinger gives to the graduating recruits. Lobor is assigned to the Stewards.\The Sword in the Darkness\\/ref} data-rte-instance130814-12599254956cca7e4ece3f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Lobor is present during the speech Frostfinger gives to the graduating recruits. Lobor is assigned to the Stewards.\The Sword in the Darkness\\/ref data-rte-instance130814-12599254956cca7e4ece3f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  Behind the scenes If Ethan Forrester chooses to send Erik to the Wall in Iron From Ice, he will be shown being assigned to the Stewards instead of Lobor in The Sword in the Darkness. References 
 

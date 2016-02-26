@@ -9,7 +9,9 @@ title=Barra
 |DeathEp = \The North Remembers\
 |Family = Robert Baratheon - fatherMhaegen - motherGendry - paternal half-brother Cersei's black-haired son - paternal half-brotherStannis Baratheon - uncleRenly Baratheon - uncle Shireen Baratheon - first cousin
 |Actor = Uncredited
-}}}
+
+
+
 
 (see below)\/small
 |Status = Deceased
@@ -23,7 +25,7 @@ Stannis Baratheon - uncle
 Renly Baratheon - uncle 
  Shireen Baratheon - first cousin
 |Actor = Uncredited
-}}} data-rte-instance130814-73070289756cca606ce165 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-73070289756cca606ce165 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -33,9 +35,9 @@ Barra is a minor character in Game of Thrones. The young actor or actress playin
 
 Barra is an infant, the bastard child of King Robert Baratheon and Mhaegen. Mhaeghen is a prostitute working for Petyr Baelish in King's Landing. Barra lives with Mhaegen in one of his brothels. Her name may be a reference to her father's noble House, Baratheon. Season 1 
 
-Lord Baelish brings Eddard Stark to see Mhaegen at his brothel. She tells him that her daughter Barra is Robert Baratheon's child, one of his many bastards. Jaime Lannister and his men ambush Eddard while he is leaving the brothel where Barra lives.\The Wolf and the Lion\\/ref} data-rte-instance130814-73070289756cca606ce165 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
+Lord Baelish brings Eddard Stark to see Mhaegen at his brothel. She tells him that her daughter Barra is Robert Baratheon's child, one of his many bastards. Jaime Lannister and his men ambush Eddard while he is leaving the brothel where Barra lives.\The Wolf and the Lion\\/ref data-rte-instance130814-73070289756cca606ce165 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
 
-During a purge of the late King Robert's bastard children carried out by the Gold Cloaks, Barra is killed by Lord Janos Slynt before the eyes of her mother and several prostitutes, including Ros.\The North Remembers\\/ref} data-rte-instance130814-73070289756cca606ce165 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+During a purge of the late King Robert's bastard children carried out by the Gold Cloaks, Barra is killed by Lord Janos Slynt before the eyes of her mother and several prostitutes, including Ros.\The North Remembers\\/ref data-rte-instance130814-73070289756cca606ce165 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  Family tree 
 

@@ -11,7 +11,9 @@ title=Riverlands traveller
 | culture=Rivermen 
 | allegiance=
 | actor=Joe purcell
-|family=}}}
+|family=
+
+
 
  A Riverlands traveller is a minor character in the third season. He is portrayed by Joe Purcell and appears in Dark Wings, Dark Words. Biography 
 
@@ -19,7 +21,7 @@ title=Riverlands traveller
 
 He is a peasant who travels through the Riverlands to trade and sell. Season 3 
 
-He saw Jaime Lannister and Brienne of Tarth travel in the Riverlands, and tipped them off to Locke. Locke commands the Bolton men to give him the reward.\Dark Wings, Dark Words\\/ref} data-rte-instance130814-209800207256cca73124293 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+He saw Jaime Lannister and Brienne of Tarth travel in the Riverlands, and tipped them off to Locke. Locke commands the Bolton men to give him the reward.\Dark Wings, Dark Words\\/ref data-rte-instance130814-209800207256cca73124293 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  In the books 
 

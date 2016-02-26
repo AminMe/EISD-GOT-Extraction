@@ -14,7 +14,9 @@ title=Wyllis bracken
 |Age = 
 |Culture = 
 |Religion = Faith of the Seven
-}}}
+
+
+
 
  
 
@@ -23,7 +25,7 @@ Jonos Bracken - kinsman
 |Age = 
 |Culture = 
 |Religion = Faith of the Seven
-}}} data-rte-instance130814-120003529756cca695041fa classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-120003529756cca695041fa classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -31,7 +33,7 @@ Wyllis Bracken is an unseen character in the fifth season. He is a knight from t
 
  Season 5 
 
-Jaime Lannister arranges the betrothal of Lollys Stokeworth to Ser Wyllis, thus breaking the arrangement made by Queen Cersei Lannister that betrothed Lollys to Ser Bronn of the Blackwater.\The House of Black and White\\/ref} data-rte-instance130814-120003529756cca695041fa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Jaime Lannister arranges the betrothal of Lollys Stokeworth to Ser Wyllis, thus breaking the arrangement made by Queen Cersei Lannister that betrothed Lollys to Ser Bronn of the Blackwater.\The House of Black and White\\/ref data-rte-instance130814-120003529756cca695041fa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels there is no mention of a character named Ser Wyllis Bracken, and Bronn is the one who marries Lollys Stokeworth. References 
 

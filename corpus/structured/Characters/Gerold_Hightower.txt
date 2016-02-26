@@ -6,7 +6,9 @@ title=Gerold hightower
 | Status= Deceased
 | Place=The Hightower, Oldtown
 | Allegiance=KingsguardHouse Hightower
-|Aka  The White Bull|Image  Gerold Hightower.png}}}
+|Aka  The White Bull|Image  Gerold Hightower.png
+
+
 
  Lord Commander of the Kingsguard
 | First=
@@ -14,11 +16,11 @@ title=Gerold hightower
 | Place=The Hightower, Oldtown
 | Allegiance=Kingsguard 
 House Hightower
-|Aka  The White Bull|Image  Gerold Hightower.png}}} data-rte-instance130814-6204388256cca684d075f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Gerold Hightower is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. Ser Gerold Hightower was a knight of House Hightower and the Lord Commander of the Kingsguard under Aerys II Targaryen. Biography 
+|Aka  The White Bull|Image  Gerold Hightower.png data-rte-instance130814-6204388256cca684d075f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Gerold Hightower is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. Ser Gerold Hightower was a knight of House Hightower and the Lord Commander of the Kingsguard under Aerys II Targaryen. Biography 
 
  Season 4 
 
- Ser Gerold Hightower's entry in The Book of Brothers mentions several events of his life. Among them are his injury defending the honor and property of Princess Elia Martell; granting temporary command of the Kingsguard to his sworn brother Ser Arthur Dayne. The Book also mentions he that was sent to locate Prince Rhaegar Targaryen in the wake of Robert's Rebellion, and his death along with Ser Arthur and Ser Oswell Whent near the Red Mountains of Dorne fighting a small force led by Eddard Stark after refusing to bend the knee to the new king, Robert Baratheon.\Two Swords\\/ref} data-rte-instance130814-6204388256cca684d075f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+ Ser Gerold Hightower's entry in The Book of Brothers mentions several events of his life. Among them are his injury defending the honor and property of Princess Elia Martell; granting temporary command of the Kingsguard to his sworn brother Ser Arthur Dayne. The Book also mentions he that was sent to locate Prince Rhaegar Targaryen in the wake of Robert's Rebellion, and his death along with Ser Arthur and Ser Oswell Whent near the Red Mountains of Dorne fighting a small force led by Eddard Stark after refusing to bend the knee to the new king, Robert Baratheon.\Two Swords\\/ref data-rte-instance130814-6204388256cca684d075f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, Ser Gerold Hightower was known as the White Bull for his immense strength. He was Lord Commander of the Kingsguard during the brief reign of King Jaehaerys II and then under King Aerys II. 
 

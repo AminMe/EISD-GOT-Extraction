@@ -2,7 +2,7 @@ Yaros is a small island in Slaver's Bay, located just off the coast southwest fr
 
 History
 Season 4
-Yaros is marked on a map of Slaver's Bay that Ser Jorah Mormont is looking over.\The Mountain and the Viper\\/ref} data-rte-instance130814-204155800056cca93e370a6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Yaros is marked on a map of Slaver's Bay that Ser Jorah Mormont is looking over.\The Mountain and the Viper\\/ref data-rte-instance130814-204155800056cca93e370a6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, Yaros is much the same. The island is located north of Astapor and southwest of Yunkai.
@@ -16,4 +16,4 @@ References
 
 zh:雅洛斯岛
 
- &nbsp; Loading editor
+  Loading editor

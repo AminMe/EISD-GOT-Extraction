@@ -19,7 +19,9 @@ title=Slaver's bay
 | Founding=
 | Age=
 | Founder=
-}}}
+
+
+
 
 Colonies of the Valyrian Freehold
 | Type=Mercantile city-states
@@ -38,7 +40,7 @@ Colonies of the Valyrian Freehold
 | Founding=
 | Age=
 | Founder=
-}}} data-rte-instance130814-170241925456cca860dc9d1 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-170241925456cca860dc9d1 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
 Slaver's Bay is the name given to an area on the southern coast of Essos, located to the south-east of Westeros and the Free Cities and to the west of Qarth. The name can refer to the bay itself or the entire region. As the name implies, the cities of Slaver's Bay are the hub of the international slave trade. Geography 
 
@@ -60,7 +62,7 @@ The ruling elites of Slaver's Bay continue to practice large-scale slavery; inde
 
 Despite the vast chronological and cultural gap between them, the local ruling slavemasters of Slaver's Bay pride themselves on surviving scraps of Ghiscari culture, and like to think of themselves as a continuation of the Ghiscari Empire's old glories - extending to the point that each of the slaver-cities uses a Harpy as its sigil, as the old Ghiscari Empire did. Season 3 
 
-At Ser Jorah Mormont's suggestion that they attempt to recruit an army in Slaver's Bay to help in their bid to invade Westeros, Daenerys Targaryen changes her destination from the Free Cities to Slaver's Bay, arriving in the city of Astapor to bargain for an army of Unsullied.\Valar Dohaeris\\/ref} data-rte-instance130814-170241925456cca860dc9d1 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Locations of note Valyrian Peninsula: once the heartland of the greatest empire in the world, now a shattered ruin of broken islands and smoking waters. Avoided by all but the bravest (or most foolhardy) treasure-hunters. The Smoking Sea: the body of water formed in the Doom of Valyria, as parts of the mainland plunged into the sea. The sea is feared for the poisonous fumes that emanate from it. Sailors give the Smoking Sea a wide berth. The Lands of the Long Summer: once the hinterland of the Valyrian Freehold and the site of its first conquests, devastated in the Doom of Valyria. Mantarys is the only major surviving settlement of this region. The Sea of Sighs: an inland sea in the Lands of the Long Summer. Tolos and Elyria: city-states on the north-western coast of Slaver's Bay. Bhorash: a ruined city on the north coast of Slaver's Bay. Lhazar: a small nation of sheep-herders, frequently raided by the Dothraki. Meereen: one of the three great slaver city-states, noted for its pyramids. Yunkai: one of the three slave cities, noted for its bed slaves. Astapor: one of the three slave cities, noted as being the home of the infamous Unsullied warrior-eunuchs. Ghiscar: the region that housed the now fallen Ghiscari Empire and its ruined capital of Old Ghis. New Ghis: an expansionist city-state located on an island south of the Ghiscari Strait The Gulf of Grief: the gulf formed by the opening of Slaver's Bay into the Summer Sea. The Isle of Cedars: an island separating Slaver's Bay from the Gulf of Grief. Devastated by tidal waves during the Doom of Valyria. In the books 
+At Ser Jorah Mormont's suggestion that they attempt to recruit an army in Slaver's Bay to help in their bid to invade Westeros, Daenerys Targaryen changes her destination from the Free Cities to Slaver's Bay, arriving in the city of Astapor to bargain for an army of Unsullied.\Valar Dohaeris\\/ref data-rte-instance130814-170241925456cca860dc9d1 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Locations of note Valyrian Peninsula: once the heartland of the greatest empire in the world, now a shattered ruin of broken islands and smoking waters. Avoided by all but the bravest (or most foolhardy) treasure-hunters. The Smoking Sea: the body of water formed in the Doom of Valyria, as parts of the mainland plunged into the sea. The sea is feared for the poisonous fumes that emanate from it. Sailors give the Smoking Sea a wide berth. The Lands of the Long Summer: once the hinterland of the Valyrian Freehold and the site of its first conquests, devastated in the Doom of Valyria. Mantarys is the only major surviving settlement of this region. The Sea of Sighs: an inland sea in the Lands of the Long Summer. Tolos and Elyria: city-states on the north-western coast of Slaver's Bay. Bhorash: a ruined city on the north coast of Slaver's Bay. Lhazar: a small nation of sheep-herders, frequently raided by the Dothraki. Meereen: one of the three great slaver city-states, noted for its pyramids. Yunkai: one of the three slave cities, noted for its bed slaves. Astapor: one of the three slave cities, noted as being the home of the infamous Unsullied warrior-eunuchs. Ghiscar: the region that housed the now fallen Ghiscari Empire and its ruined capital of Old Ghis. New Ghis: an expansionist city-state located on an island south of the Ghiscari Strait The Gulf of Grief: the gulf formed by the opening of Slaver's Bay into the Summer Sea. The Isle of Cedars: an island separating Slaver's Bay from the Gulf of Grief. Devastated by tidal waves during the Doom of Valyria. In the books 
 
 In the A Song of Ice and Fire novels, Slaver's Bay is a region in south-central Essos where slaves are bought, trained, and sold in massive numbers. 
 

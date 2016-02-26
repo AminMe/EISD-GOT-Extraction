@@ -13,7 +13,9 @@ title=Ludd whitehill
 | Actor= Geoff Leesley
 |Culture = Northmen
 |Mentioned = \The Sword in the Darkness\\A Nest of Vipers\
-|DeathEp = \The Ice Dragon\ (player-determined)}}}
+|DeathEp = \The Ice Dragon\ (player-determined)
+
+
 
  
 
@@ -31,7 +33,7 @@ Gryff Whitehill - son
 |Culture = Northmen
 |Mentioned = \The Sword in the Darkness\ 
 \A Nest of Vipers\
-|DeathEp  \The Ice Dragon\ (player-determined)}}} data-rte-instance130814-94382637956cca631db287 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|DeathEp  \The Ice Dragon\ (player-determined) data-rte-instance130814-94382637956cca631db287 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -76,7 +78,7 @@ SOW Ludd Displeased.png
 WhitehillArmy.jpg
 TID Ludd Poisoned.png|Ludd dies of poisoning.
 TID Ludd Beheaded.png|Ludd after being beheaded by Rodrik.
-\/gallery} data-rte-instance130814-94382637956cca631db287 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-94382637956cca631db287 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

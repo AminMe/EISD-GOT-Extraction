@@ -10,7 +10,9 @@ title=House humble
 | vassals=
 | age=
 | founder=
-| imagesize=}}}
+| imagesize=
+
+
 
  
 

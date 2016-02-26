@@ -8,7 +8,9 @@ title=Matthar
 | place=
 | allegiance=The night's watch
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -20,7 +22,7 @@ Matthar is an unidentified background character in the first season. He is a new
 
  Season 1 
 
-Matthar is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Matthar is assigned to the Rangers.\You Win or You Die\\/ref} data-rte-instance130814-1789626456cca767eb055 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Matthar is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Matthar is assigned to the Rangers.\You Win or You Die\\/ref data-rte-instance130814-1789626456cca767eb055 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

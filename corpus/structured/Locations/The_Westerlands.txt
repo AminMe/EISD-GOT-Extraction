@@ -18,11 +18,13 @@ title=The westerlands
 | founding=
 | age=
 | founder=
-}}}
+
+
+
 
  
 
- Westeros\.}} data-rte-instance130814-154963853156cca8656cee1 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/3/3b/Westerlands.PNG/revision/latest/scale-to-width-down/200?cb20110302085923 width200 height515 classimage thumb alignRight withCaption data-image-nameWesterlands.PNG data-image-keyWesterlands.PNG typeimage / 
+ Westeros\. data-rte-instance130814-154963853156cca8656cee1 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/3/3b/Westerlands.PNG/revision/latest/scale-to-width-down/200?cb20110302085923 width200 height515 classimage thumb alignRight withCaption data-image-nameWesterlands.PNG data-image-keyWesterlands.PNG typeimage / 
 
 The Westerlands is one of the constituent regions of the Seven Kingdoms. It was formerly a sovereign realm known as the Kingdom of the Rock before the Targaryen conquest. 
 

@@ -10,11 +10,13 @@ title=House corbray
 | allegiance[[House vassals
 | age=
 | founder=
-| imagesize250px|Weapon  lady forlorn}}}
+| imagesize250px|Weapon  lady forlorn
 
- House Corbray is a vassal house which holds fealty to House Arryn of the Eyrie.\The Vale (Histories &amp; Lore)\\/ref} data-rte-instance130814-27046119756cca96d663f9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
 
-A Braavosi sellsword in service to House Corbray resettled in the Vale of Arryn. His great-grandson is Lord Petyr Baelish also known as Littlefinger.\House Baelish (Histories &amp; Lore)\\/ref} data-rte-instance130814-27046119756cca96d663f9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Known members Ser Vance Corbray, a knight Ancestors Ser Gwayne Corbray, knight of the Kingsguard. In the books 
+
+ House Corbray is a vassal house which holds fealty to House Arryn of the Eyrie.\The Vale (Histories &amp; Lore)\\/ref data-rte-instance130814-27046119756cca96d663f9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
+
+A Braavosi sellsword in service to House Corbray resettled in the Vale of Arryn. His great-grandson is Lord Petyr Baelish also known as Littlefinger.\House Baelish (Histories &amp; Lore)\\/ref data-rte-instance130814-27046119756cca96d663f9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Known members Ser Vance Corbray, a knight Ancestors Ser Gwayne Corbray, knight of the Kingsguard. In the books 
 
 In the A Song of Ice and Fire novels, the Corbrays are an old but poor house. They hold the Valyrian steel blade known as Lady Forlorn. 
 

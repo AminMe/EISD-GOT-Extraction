@@ -5,7 +5,9 @@ title=Casper
 |last=\The sword in the darkness\
 |status=uncertain
 |allegiance=The night's watch
-|titles=Builder}}}
+|titles=Builder
+
+
 
  
 
@@ -17,7 +19,7 @@ Casper is a minor character in Game of Thrones: A Telltale Games Series. He is a
 
 Casper is seen dueling Finn, and Finn defeats him. The Sword in the Darkness 
 
-Casper is present during the speech Frostfinger gives to the graduating recruits. Casper is assigned to the Builders.\The Sword in the Darkness\\/ref} data-rte-instance130814-39717587056cca7e7c5f64 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Casper is present during the speech Frostfinger gives to the graduating recruits. Casper is assigned to the Builders.\The Sword in the Darkness\\/ref data-rte-instance130814-39717587056cca7e7c5f64 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

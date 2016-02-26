@@ -10,7 +10,9 @@ title=House whitehill
 | religion=Faith the seven
 | military=~500 men
 |imagesize=250px
-|Words = \ever higher\}}}
+|Words = \ever higher\
+
+
 
  
 
@@ -18,11 +20,11 @@ title=House whitehill
 
 House Whitehill is a noble house from the Wolfswood in the North of Westeros. They are loyal vassals of House Bolton. Their seat in the stone castle of Highpoint. They are one of the few houses in the North to practice the Faith of the Seven. 
 
-House Whitehill's heraldry is a white pile inverted on indigo, with a single four-pointed star above. Their motto is Ever Higher.While House Whitehill's motto doesn't actually appear in Telltale Games Season 1, it does appear in an unused audio file that can be extracted from it, which was apparently cut for time. Unless a later season of the game retcons this, it will be accepted as their canon motto. See Talk page for details.\/ref} data-rte-instance130814-112327175856cca95865f54 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
+House Whitehill's heraldry is a white pile inverted on indigo, with a single four-pointed star above. Their motto is Ever Higher.While House Whitehill's motto doesn't actually appear in Telltale Games Season 1, it does appear in an unused audio file that can be extracted from it, which was apparently cut for time. Unless a later season of the game retcons this, it will be accepted as their canon motto. See Talk page for details.\/ref data-rte-instance130814-112327175856cca95865f54 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
 
  Background 
 
-House Whitehill are bitter rivals of House Forrester of Ironrath, and have served House Bolton as bannermen for five centuries, despite their location north of Winterfell far west of The Dreadfort. Their sigil represents the barren hill on which their seat is situated - stripped bare of ironwood trees centuries ago.http:\/\/www.telltalegames.com\/blog\/discussion\/86265\/ref} data-rte-instance130814-112327175856cca95865f54 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
+House Whitehill are bitter rivals of House Forrester of Ironrath, and have served House Bolton as bannermen for five centuries, despite their location north of Winterfell far west of The Dreadfort. Their sigil represents the barren hill on which their seat is situated - stripped bare of ironwood trees centuries ago.http:\/\/www.telltalegames.com\/blog\/discussion\/86265\/ref data-rte-instance130814-112327175856cca95865f54 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
 
 Whitehill banners are seen at the Red Wedding by Gared Tuttle, where they join their Bolton overlords in massacring the Stark host. Later, on his way back home, he encounters a Bolton and two Whitehill men who murdered his family. He kills the Bolton and can kill one of the Whitehills, but the other Whitehill, Britt Warrick, escapes. 
 
@@ -80,7 +82,7 @@ SOW Highpoint Art.png|A Whitehill banner outside of Highpoint, their seat.
 NOV Whitehill Soldiers.png|A group of Whitehill men-at-arms, with the House's sigil on their armor.
 SOW Forrester-Whitehill Sigil.png|A wooden shield with the Whitehill and Forrester sigils.
 WhitehillArmy.jpg|The Whitehills' army with their sigil adorned on banners and shields.
-\/gallery} data-rte-instance=130814-112327175856cca95865f54 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-112327175856cca95865f54 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 House Whitehill has not been mentioned in the A Song of Ice and Fire novels themselves, only in the semi-canon A Song of Ice and Fire Campaign Guide RPG book - which was released in 2010, before the TV series began. The guidebook presented lists of multiple minor Houses with new heraldry and sometimes a note or two about them. Therefore House Whitehill is broadly part of the book continuity, and was not entirely invented from scratch by Telltale Games. 
 

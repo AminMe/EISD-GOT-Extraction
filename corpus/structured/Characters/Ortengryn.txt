@@ -11,12 +11,14 @@ title=Ortengryn
 | allegiance=House forresterOrder of Maesters
 | Family=
 | Actor= David Franklin
-|Age  26Cut dialogue from Iron From Ice: \Old? I've only just turned six-and-twenty!\\/ref|DeathEp  \The Ice Dragon\}}}
+|Age  26Cut dialogue from Iron From Ice: \Old? I've only just turned six-and-twenty!\\/ref|DeathEp  \The Ice Dragon\
+
+
 
  Order of Maesters
 | Family=
 | Actor= David Franklin
-|Age  26Cut dialogue from Iron From Ice: \Old? I've only just turned six-and-twenty!\\/ref|DeathEp  \The Ice Dragon\}}} data-rte-instance130814-34449421656cca69aae67f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+|Age  26Cut dialogue from Iron From Ice: \Old? I've only just turned six-and-twenty!\\/ref|DeathEp  \The Ice Dragon\ data-rte-instance130814-34449421656cca69aae67f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -61,9 +63,9 @@ Maester Ortengryn.jpg|Promotional image of Ortengryn.
 IFI Ortengryn Advising.png
 TLL Ortengryn TR.png
 TSITD Ortengryn Planning.png
-\/gallery} data-rte-instance=130814-34449421656cca69aae67f srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-34449421656cca69aae67f srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
-} data-rte-instance130814-34449421656cca69aae67f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+ data-rte-instance130814-34449421656cca69aae67f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
  
  

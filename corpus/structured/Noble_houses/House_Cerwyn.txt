@@ -10,7 +10,9 @@ title=House cerwyn
 | age=
 | founder=
 |ImageSize =250px
-|words= '\honed and ready\}}}
+|words= '\honed and ready\
+
+
 
  House Cerwyn is a vassal house that holds fealty to House Stark of Winterfell. Their lands are located east to the Kingsroad, south of Winterfell. 
 
@@ -20,7 +22,7 @@ House Cerwyn's heraldry is a black battle-axe on silver, and their words are Hon
 House Cerwyn banner.jpg|The banner of House Cerwyn at the Stark camp in \Fire and Blood\.
 Cerwyn_man1x08.jpg|A man of House Cerwyn in \The Pointy End\
 Cerwyn heraldry in episode guide.png|House Cerwyn heraldry, from the HBO in-episode guide.
-\/gallery} data-rte-instance130814-172332623656cca960c8d5c srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Family tree 
+\/gallery data-rte-instance130814-172332623656cca960c8d5c srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Family tree 
 
  In the books 
 

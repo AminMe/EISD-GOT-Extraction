@@ -3,7 +3,9 @@ title=House cuy
 |motto=
 |Seat = sun house
 |region=The reach
-|allegianceHouse hightower|image|ImageSize }}}
+|allegianceHouse hightower|image|ImageSize 
+
+
 
  
 

@@ -7,7 +7,9 @@ title=Valyrian slave
 |place=Meereen
 |Actor robert goodman
 |culture=Valyrian
-}}}
+
+
+
 
  A Valyrian slave is an unnamed minor character in the fourth season. He is played by guest star Robert Goodman and debuts in Oathkeeper. Biography 
 
@@ -15,7 +17,7 @@ title=Valyrian slave
 
 He is one of the slaves held in Meereen during Daenerys Targaryen's conquest of the Slaver's Bay. Season 4 
 
-He is one of the slaves that are persuaded by Grey Worm to revolt against the Great Masters of Meereen, despite being hesitant at first and claiming the revolts always end with the Masters winning and punishing the slaves. He also points out that the slaves have no training and no weapons.\Oathkeeper\\/ref} data-rte-instance130814-155012653456cca84204e4e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+He is one of the slaves that are persuaded by Grey Worm to revolt against the Great Masters of Meereen, despite being hesitant at first and claiming the revolts always end with the Masters winning and punishing the slaves. He also points out that the slaves have no training and no weapons.\Oathkeeper\\/ref data-rte-instance130814-155012653456cca84204e4e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  References 
 

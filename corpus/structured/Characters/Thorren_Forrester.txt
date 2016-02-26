@@ -7,7 +7,9 @@ title=Thorren forrester
 |place=Ironrath
 |Allegiance = house forrester
 |culture=Northmen
-|Family gregor forrester - sonElissa Forrester - daughter-in-lawMalcolm Branfield - son-in-lawJosera Snow - grandsonElsera Snow - granddaughterRodrik Forrester - grandsonAsher Forrester - grandsonMira Forrester - granddaughterEthan Forrester - grandsonTalia Forrester - granddaughterRyon Forrester - grandsonTalia Branfield - sister-in-lawLord Branfield - brother-in-law}}}
+|Family gregor forrester - sonElissa Forrester - daughter-in-lawMalcolm Branfield - son-in-lawJosera Snow - grandsonElsera Snow - granddaughterRodrik Forrester - grandsonAsher Forrester - grandsonMira Forrester - granddaughterEthan Forrester - grandsonTalia Forrester - granddaughterRyon Forrester - grandsonTalia Branfield - sister-in-lawLord Branfield - brother-in-law
+
+
 
  
 
@@ -22,7 +24,7 @@ Ethan Forrester - grandson
 Talia Forrester - granddaughter 
 Ryon Forrester - grandson 
 Talia Branfield - sister-in-law 
-Lord Branfield - brother-in-law}}} data-rte-instance130814-170110676156cca6df1f944 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+Lord Branfield - brother-in-law data-rte-instance130814-170110676156cca6df1f944 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -32,9 +34,9 @@ Lord Thorren Forrester ​is an unseen character inGame of Thrones: A Telltale G
 
 Lord Thorren seized back the river valley from House Whitehill. 
 
-He later fought in Robert's Rebellion with the rebels and died at the Battle of the Trident. He was succeeded by his son Gregor.Gregor Forrester - Game Codex Entry\/ref} data-rte-instance130814-170110676156cca6df1f944 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
+He later fought in Robert's Rebellion with the rebels and died at the Battle of the Trident. He was succeeded by his son Gregor.Gregor Forrester - Game Codex Entry\/ref data-rte-instance130814-170110676156cca6df1f944 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
 
-MaesterOrtengrynmentions Lord Thorren to Ethan that he was the one who seized back the river valleys from the Whitehills and that they called him Thorren the Bold.\Iron From Ice\/ref} data-rte-instance130814-170110676156cca6df1f944 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family Tree 
+MaesterOrtengrynmentions Lord Thorren to Ethan that he was the one who seized back the river valleys from the Whitehills and that they called him Thorren the Bold.\Iron From Ice\/ref data-rte-instance130814-170110676156cca6df1f944 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family Tree 
 
  References 
 

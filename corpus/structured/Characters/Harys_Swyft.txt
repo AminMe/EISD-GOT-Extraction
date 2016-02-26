@@ -6,7 +6,9 @@ title=Harys swyft
 |titles=Knight of cornfield
 |family=dorna swyft - daughterSer Kevan Lannister - son-in-lawLancel Lannister - grandsonMartyn Lannister - grandsonWillem Lannister - grandson
 |Allegiance = House LannisterHouse Swyft
-|Actor = Unknown}}}
+|Actor = Unknown
+
+
 
  Ser Kevan Lannister - son-in-law 
 Lancel Lannister - grandson 
@@ -14,17 +16,17 @@ Martyn Lannister - grandson
 Willem Lannister - grandson
 |Allegiance = House Lannister 
 House Swyft
-|Actor  Unknown} data-rte-instance130814-31759572156cca72257343 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Harys Swyft is a background character in the first season. He is played by an unidentified extra and appears in Fire and Blood. Ser Harys Swyft is a bannerman of House Lannister. Biography 
+|Actor  Unknown data-rte-instance130814-31759572156cca72257343 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Harys Swyft is a background character in the first season. He is played by an unidentified extra and appears in Fire and Blood. Ser Harys Swyft is a bannerman of House Lannister. Biography 
 
 Ser Harys Swyft is the Knight of Cornfield and the head of House Swyft, a knightly house of the Westerlands. He's the father of Dorna Swyft, the wife of Ser Kevan Lannister Season 1 
 
-Ser Harys is present for a strategy meeting assembled by Lord Tywin Lannister following the defeat and capture of Ser Jaime Lannister in the Battle of the Whispering Wood. Also present are Tyrion Lannister, Ser Kevan Lannister, Lord Leo Lefford, Ser Addam Marbrand, and another bannerman, as well as Tywin's servants. Ser Harys remains quiet while the other bannermen discuss their next move. When Tywin grows exasperated and dismisses the council, Ser Harys departs along with everyone present, except for Tyrion, whom Tywin orders to stay.\Fire and Blood\\/ref} data-rte-instance130814-31759572156cca72257343 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
+Ser Harys is present for a strategy meeting assembled by Lord Tywin Lannister following the defeat and capture of Ser Jaime Lannister in the Battle of the Whispering Wood. Also present are Tyrion Lannister, Ser Kevan Lannister, Lord Leo Lefford, Ser Addam Marbrand, and another bannerman, as well as Tywin's servants. Ser Harys remains quiet while the other bannermen discuss their next move. When Tywin grows exasperated and dismisses the council, Ser Harys departs along with everyone present, except for Tyrion, whom Tywin orders to stay.\Fire and Blood\\/ref data-rte-instance130814-31759572156cca72257343 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
 
  Gallery 
 
 
 LannisterCouncil.jpg|Ser Harys in a Lannister council
-\/gallery} data-rte-instance=130814-31759572156cca72257343 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Behind the scenes 
+\/gallery data-rte-instance130814-31759572156cca72257343 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Behind the scenes 
 
 The episode doesn't identify any of the bannermen present in the episode and their identities are conjectures based on lines spoken, age of the actor, costume and the overall blocking of the scene, all of them compared to the books. The only two unaccounted bannermen from the books are Ser Harys and Ser Flement Brax. As the latter is a younger character, second son of Lord Andros Brax, it is safe to assume the unidentified bannerman sitting next to Ser Kevan is meant to stand in for Harys Swyft In the books 
 

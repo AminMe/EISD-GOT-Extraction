@@ -11,7 +11,9 @@ title=House manwoody
 | vassals=
 | age=
 | founder=
-| imagesize=250px}}}
+| imagesize=250px
+
+
 
  House Manwoody is a vassal house which holds fealty to House Martell of Dorne. Their seat is the fortress Kingsgrave, in the passes of the Red Mountains along Dorne's borders. 
 
@@ -19,7 +21,7 @@ House Manwoody's sigil is a white skull wearing a golden crown, on a black field
 
  Season 4 
 
- A House Manwoody banner is seen amongst the delegation of Dornish lords who accompany Prince Oberyn Martell to King's Landing. Podrick identifies their banner by name.\Two Swords\\/ref} data-rte-instance130814-51098430556cca9a2bc0a4 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+ A House Manwoody banner is seen amongst the delegation of Dornish lords who accompany Prince Oberyn Martell to King's Landing. Podrick identifies their banner by name.\Two Swords\\/ref data-rte-instance130814-51098430556cca9a2bc0a4 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, House Manwoody's castle seat guards the western of the two passes that lead through the Red Mountains into Dorne, known as the Prince's Pass. While House Fowler's seat at Skyreach is further south near the top of the pass, Kingsgrave is located further north, about halfway through the mountains. As a result, the Manwoodys are marcher lords, always the first line of defense in the frequent border wars which occurred in the Dornish marches between Dorne, the Stormlands, and the Reach. The name Kingsgrave as well as the Manwoody sigil - a crowned skull - refer to the fact that an old King of the Reach was slain in battle there centuries ago. 
 

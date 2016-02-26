@@ -12,4 +12,4 @@ References
 it:Blacktyde
 ru:Блэктайд
 
- &nbsp; Loading editor
+  Loading editor

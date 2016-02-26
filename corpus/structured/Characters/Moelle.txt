@@ -6,14 +6,16 @@ title=Moelle
 |allegiance=The faith of the seven
 Most Devout
 |Actor = Maggie Hayes
-|Image = Moelle.png}}}
+|Image = Moelle.png
+
+
 
  
 
 
 Most Devout
 |Actor = Maggie Hayes
-|Image  Moelle.png}}} data-rte-instance130814-144352185556cca6ffa229c classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets /} data-rte-instance130814-144352185556cca6ffa229c classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+|Image  Moelle.png data-rte-instance130814-144352185556cca6ffa229c classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / data-rte-instance130814-144352185556cca6ffa229c classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
 Moelleis a recurring character in the fifth season. She is portrayed by Maggie Hayesand debuts in The Gift. Biography 
 
@@ -21,7 +23,7 @@ Moelleis a recurring character in the fifth season. She is portrayed by Maggie H
 
 Moelle is a septa of the Faith of the Seven stationed at the Great Sept of Baelor in King's Landing. Season 5 
 
-Moelle is present along with Septas Unella and Scolera during the arrest of Cersei Lannister. She watches as Unella throws the Queen into her cell under the orders of the High Sparrow.\The Gift (episode)|The Gift\\/ref} data-rte-instance130814-144352185556cca6ffa229c classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+Moelle is present along with Septas Unella and Scolera during the arrest of Cersei Lannister. She watches as Unella throws the Queen into her cell under the orders of the High Sparrow.\The Gift (episode)|The Gift\\/ref data-rte-instance130814-144352185556cca6ffa229c classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
 
  In the Books 
 

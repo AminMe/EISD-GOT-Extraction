@@ -10,7 +10,9 @@ title=Mira forrester
 |Last = \The Ice Dragon\
 |Death = Beheaded for murder (player-determined)
 |DeathEp = \The Ice Dragon\ (player-determined)
-}}}
+
+
+
 
  
 
@@ -36,7 +38,7 @@ Rickard Morgryn - betrothed
 |Last = \The Ice Dragon\
 |Death = Beheaded for murder (player-determined)
 |DeathEp = \The Ice Dragon\ (player-determined)
-}}} data-rte-instance130814-122708406056cca5e2a612b classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-122708406056cca5e2a612b classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -47,7 +49,7 @@ Mira Forrester is the eldest daughter of Lord Gregor Forresterand his wifeElissa
 
  Background 
 
-Mira had always been fond of Ironrath, but Lady Forrester — wanting her eldest daughter to learn the ways of a southerncourt — arranged for Mira to serve as a handmaiden to Margaery Tyrell. To Mira’s great surprise, she enjoyed attending on Margaery at Highgarden, and followed her to King’s Landing with enthusiasm. Life in the capital has not been easy for Mira, as her straightforward Northern ways are often at odds with the subtleties of court life – but she also has more guile than she realizes.Codex - Mira Forrester\/ref} data-rte-instance130814-122708406056cca5e2a612b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
+Mira had always been fond of Ironrath, but Lady Forrester — wanting her eldest daughter to learn the ways of a southerncourt — arranged for Mira to serve as a handmaiden to Margaery Tyrell. To Mira’s great surprise, she enjoyed attending on Margaery at Highgarden, and followed her to King’s Landing with enthusiasm. Life in the capital has not been easy for Mira, as her straightforward Northern ways are often at odds with the subtleties of court life – but she also has more guile than she realizes.Codex - Mira Forrester\/ref data-rte-instance130814-122708406056cca5e2a612b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
 
 Mira is at King's Landing as handmaiden toMargaery, as she was sent south by her mother, who wanted her to learn the ways of the south. Mira receives a letter from her mother asking her to appeal to Lady Margaery to try and ask her to intervene on the house's behalf. Later she talks with Margaery, and Margaery tells her Queen Cersei demands an apology from Mira, and wishes to have an audience with her. 
 
@@ -118,7 +120,7 @@ mira_back_off.png
 MiraArrest.jpg
 TID Marriage Offer.png|Mira in the Black Cells with Morgryn.
 avatar_04c07151a5bd_512.png|Mira Forrester seeks refuge from Lord Morgryn.
-\/gallery} data-rte-instance=130814-122708406056cca5e2a612b srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-122708406056cca5e2a612b srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

@@ -5,11 +5,13 @@ title=Errold holt
 |status=alive
 |allegiance=House holtThe Night's Watch
 |Titles  |Place  White Harbor
-|Culture = Northmen}}}
+|Culture = Northmen
+
+
 
  The Night's Watch
 |Titles  |Place  White Harbor
-|Culture  Northmen} data-rte-instance130814-107233060956cca7ff59005 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Culture  Northmen data-rte-instance130814-107233060956cca7ff59005 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -19,7 +21,7 @@ Errold Holt is a background character in Game of Thrones: A Telltale Games Serie
 
 Errold Holt hails from White Harbor. The Sword in the Darkness 
 
-Errold arrives at Castle Black alongside Corlys Wells and Britt Warrick.\The Sword in the Darkness\\/ref} data-rte-instance130814-107233060956cca7ff59005 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
+Errold arrives at Castle Black alongside Corlys Wells and Britt Warrick.\The Sword in the Darkness\\/ref data-rte-instance130814-107233060956cca7ff59005 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
 
  References 
 

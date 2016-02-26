@@ -14,7 +14,9 @@ title=House baratheon
 | Founder=Orys Baratheon
 |Religion = Faith of the Seven
 |Founding = 0 AC
-}}}
+
+
+
 
 Lord of Storm's End
 | Seat=Storm's End
@@ -42,11 +44,11 @@ House Baratheon of Dragonstone (extinct)
 | Founder=Orys Baratheon
 |Religion = Faith of the Seven
 |Founding = 0 AC
-}}} data-rte-instance130814-21840263956cca941d8dc3 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-21840263956cca941d8dc3 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
-House Baratheon\ of Storm's End\, rulers of the Stormlands\.}} data-rte-instance130814-21840263956cca941d8dc3 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/3/30/House_Baratheon_banner.jpg/revision/latest/scale-to-width-down/200?cb20110408161942 width200 height334 classimage thumb alignRight withCaption data-image-nameHouse Baratheon banner.jpg data-image-keyHouse_Baratheon_banner.jpg typeimage / 
+House Baratheon\ of Storm's End\, rulers of the Stormlands\. data-rte-instance130814-21840263956cca941d8dc3 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/3/30/House_Baratheon_banner.jpg/revision/latest/scale-to-width-down/200?cb20110408161942 width200 height334 classimage thumb alignRight withCaption data-image-nameHouse Baratheon banner.jpg data-image-keyHouse_Baratheon_banner.jpg typeimage / 
 
 House Baratheon of Storm's End was one of the Great Houses of Westeros, although also one of the youngest. It is the current royal house. 
 
@@ -64,9 +66,9 @@ House Baratheon was founded by Orys Baratheon, a general in the army of King Aeg
 
  Robert's Rebellion 
 
-Two hundred and eighty-one years later, Lord Robert Baratheon rebelled against King Aerys II Targaryen, the Mad King, when the latter's son, Prince Rhaegar, kidnapped Robert's betrothed, Lyanna Stark, and his father the Mad King murdered her father and brother. House Baratheon, allied to the Houses Stark, Arryn and Tully, defeated the Targaryen army at the Battle of the Trident, while the forces of House Lannister captured King's Landing, where Jaime Lannister slew the Mad King. It was decided that Robert, as the military leader of the rebellion and also the one with the best blood-claim to the Iron Throne, would become King. With Lyanna dead, he married Cersei Lannister to cement the alliance that brought down the Targaryens, but they did not have a happy marriage, due to Robert's whoring and abuse, and Cersei's hatred of him.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/rbaratheon\/ HBO viewers guide, season 2 guide to houses, House Baratheon of Storm's End entry\/ref} data-rte-instance130814-21840263956cca941d8dc3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Royal House 
+Two hundred and eighty-one years later, Lord Robert Baratheon rebelled against King Aerys II Targaryen, the Mad King, when the latter's son, Prince Rhaegar, kidnapped Robert's betrothed, Lyanna Stark, and his father the Mad King murdered her father and brother. House Baratheon, allied to the Houses Stark, Arryn and Tully, defeated the Targaryen army at the Battle of the Trident, while the forces of House Lannister captured King's Landing, where Jaime Lannister slew the Mad King. It was decided that Robert, as the military leader of the rebellion and also the one with the best blood-claim to the Iron Throne, would become King. With Lyanna dead, he married Cersei Lannister to cement the alliance that brought down the Targaryens, but they did not have a happy marriage, due to Robert's whoring and abuse, and Cersei's hatred of him.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/rbaratheon\/ HBO viewers guide, season 2 guide to houses, House Baratheon of Storm's End entry\/ref data-rte-instance130814-21840263956cca941d8dc3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Royal House 
 
-When House Baratheon became the new royal dynasty, the House's heraldry was slightly altered, adding a crown to the black stag on a gold field.\The Wolf and the Lion\\/ref} data-rte-instance130814-21840263956cca941d8dc3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+When House Baratheon became the new royal dynasty, the House's heraldry was slightly altered, adding a crown to the black stag on a gold field.\The Wolf and the Lion\\/ref data-rte-instance130814-21840263956cca941d8dc3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
 With Robert Baratheon leaving for King's Landing to rule all of the Seven Kingdoms from the Iron Throne, he left his youngest brother Renly Baratheon, who was only a child at the time, to rule the seat of House Baratheon at Storm's End. Meanwhile, he appointed his middle brother Stannis Baratheon as Lord of Dragonstoneisland, the ancestral seat of House Targaryen. This also made Stannis the lord of several minor outlying islands of the Crownlands which were in Blackwater Bay. Many saw this as an insult to Stannis, as windswept and isolated Dragonstone was not as wealthy or prestigious as Storm's End, the capital of the Stormlands. However, Stannis was a proven military commander and a loyal vassal of his experience was needed to rein in Dragonstone, where many of the most die-hard Targaryen loyalist Houses were located. 
 
@@ -111,7 +113,7 @@ Baratheon tourney.jpg|Long banner of House Baratheon at the Tourney of the Hand 
 Robert_and_Lancel.jpg|Some members of House Baratheon favored wearing helms decorated with antlers in the manner of their sigil
 2x03_Baratheon_Men.jpg|Baratheon men-at-arms in \What is Dead May Never Die\.
 2x04_RenlyMenSigil.jpg|Baratheon men-at-arms holding Renly Baratheon's banner in \Garden of Bones\
-\/gallery} data-rte-instance=130814-21840263956cca941d8dc3 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-21840263956cca941d8dc3 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In the A Song of Ice and Fire novels, Orys Baratheon was the rumored bastard half-brother of King Aegon I Targaryen, the conqueror of the Seven Kingdoms. Orys led an army which slew the last of the Storm Kings, Argilac the Arrogant, and captured his castle of Storm's End. For his loyal service, Orys was made a lord and allowed to found his own Great House, marrying the daughter of Argilac and taking his sigil and words for his own. At just under 300 years, this makes House Baratheon the youngest by far of the Great Houses. 
 

@@ -5,7 +5,9 @@ title=House toyne
 |Region the stormlands
 | lord=None (extinct)
 | heir=None (extinct)
-|allegiance=House baratheon}}}
+|allegiance=House baratheon
+
+
 
  
 

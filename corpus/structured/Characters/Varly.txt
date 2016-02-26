@@ -7,7 +7,9 @@ title=Varly
 |actor=Graham charles
 |death=Killed by the goldcloaks
 |deathep=\You die\
-|place=Winterfell}}}
+|place=Winterfell
+
+
 
  __FLAGS__ 
 
@@ -15,7 +17,7 @@ Varly is a minor character in the first season. He is played by guest star Graha
 
  Season 1 
 
-Varly accompanies Eddard Stark south when he becomes the Hand of the King. He warns the Royal Steward to stay back when he surprises them in the corridor. He accompanies Eddard to the throne room to confront Joffrey Baratheon. He is killed by men of the City Watch when they betray Eddard.\You Win or You Die\\/ref} data-rte-instance130814-188930373856cca6bd3f241 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Varly accompanies Eddard Stark south when he becomes the Hand of the King. He warns the Royal Steward to stay back when he surprises them in the corridor. He accompanies Eddard to the throne room to confront Joffrey Baratheon. He is killed by men of the City Watch when they betray Eddard.\You Win or You Die\\/ref data-rte-instance130814-188930373856cca6bd3f241 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

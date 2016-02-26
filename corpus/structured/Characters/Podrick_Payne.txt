@@ -1,7 +1,7 @@
 {{Heraldry
 |image = Payne mini shield.png
 |link = House Payne
-}}
+
 {{Character
 | Title=Podrick Payne
 | Image=Podrick-Payne-Profile-HD.png
@@ -16,10 +16,10 @@
 | Place=
 | Allegiance=House LannisterHouse Payne
 | Family=Ilyn Payne - distant cousin
-| Actor=Daniel Portman}}
+| Actor=Daniel Portman
 Quote|There has never lived a more loyal squire.|Tyrion Lannister to Podrick|Breaker of Chains
 
-Podrick Payne, often called Pod, is a recurring character in the second, third, fourth, fifth and sixth seasons. He is played by guest star Daniel Portman and debuts in The Night Lands. Podrick Payne&nbsp;was Tyrion Lannister's squire and saved his life in the Battle of the Blackwater, but following Tyrion's arrest for the murder of King Joffrey Baratheon, he has since been given to Brienne of Tarth, who he joins on a quest to find Arya and Sansa Stark.
+Podrick Payne, often called Pod, is a recurring character in the second, third, fourth, fifth and sixth seasons. He is played by guest star Daniel Portman and debuts in The Night Lands. Podrick Paynewas Tyrion Lannister's squire and saved his life in the Battle of the Blackwater, but following Tyrion's arrest for the murder of King Joffrey Baratheon, he has since been given to Brienne of Tarth, who he joins on a quest to find Arya and Sansa Stark.
 
 Biography
 Background
@@ -34,7 +34,7 @@ Tyrion has Janos Slynt as a dinner guest in the dining room of the Tower of the 
 
 Podrick attends Tyrion during a dinner he holds with Queen Cersei. He cannot repress a smile when Tyrion jokes about Joffrey's inability to rule.The Prince of Winterfell
 
-thumb|Podrick equips Tyrion in armor in [[Blackwater.]]
+thumb|Podrick equips Tyrion in armor in Blackwater.
 Podrick squires for Tyrion during the Battle of the Blackwater. He dresses Tyrion in his armor prior to the battle during a meeting with Lord Varys. Varys asks Tyrion if he trusts Podrick and Tyrion says that he does. Varys then shows them a map of the tunnel network beneath the city. When King Stannis Baratheon lands near the Mud Gate Tyrion dispatches Podrick to fetch reinforcements from the King's Gate. Podrick does as ordered, returning with a host of men just as King Joffrey flees back to the Red Keep.Blackwater
 
 thumb|Podrick Payne with injured Tyrion.
@@ -49,7 +49,7 @@ thumb|226px|Tyrion is facinated at Pod's ability to pleasure women.Bronn reminds
 
 Sometime later, Pod is present when Lady Olenna Tyrell meets with Tyrion to discuss the costs of the upcoming royal wedding. Olenna admonishes Pod for giving her too much wine and sends him off for figs. Upon returning with the fruit, she sarcastically asks if he retrieved them from Volantis before departing.Kissed by Fire
 
-Podrick&nbsp;shares wine with Tyrion, but has trouble keeping up with him. Tyrion, already drunk and unhappy about his forced marriage, tells him if being drunk all the time was easy then everybody would do it. Soon after, Cersei arrives and orders&nbsp;Podrick to leave so she may speak to her brother alone.Mhysa
+Podrickshares wine with Tyrion, but has trouble keeping up with him. Tyrion, already drunk and unhappy about his forced marriage, tells him if being drunk all the time was easy then everybody would do it. Soon after, Cersei arrives and ordersPodrick to leave so she may speak to her brother alone.Mhysa
 
 Season 4
 thumb|right|Podrick with Tyrion and Bronn waiting for Doran Martell.
@@ -58,7 +58,7 @@ Bearing the king's banner, Podrick awaits the arrival of Prince Doran Martell of
 
 thumb|left|Podrick visits Tyrion in his cell.
 
-In the aftermath of Joffrey's assassination, an unnamed Gold Cloak approaches Pod, offering him knighthood if he agrees to testify against Tyrion, who is suspected of committing the crime. Pod adamantly refuses. Later, Pod speaks to Tyrion in his cell, who reveals that Bronn is currently being investigated for information on the poison used to kill Joffrey, and that by refusing the Gold Cloak's offer, Pod has implicated himself as a suspect as well.&nbsp;Tyrion&nbsp;insists that Pod flee King's Landing before he too is arrested, and Pod tearfully agrees only after Tyrion outright orders him to do so. Before he leaves, Tyrion&nbsp;comforts Pod by saying he is the most loyal squire anyone could hope for.Breaker of Chains
+In the aftermath of Joffrey's assassination, an unnamed Gold Cloak approaches Pod, offering him knighthood if he agrees to testify against Tyrion, who is suspected of committing the crime. Pod adamantly refuses. Later, Pod speaks to Tyrion in his cell, who reveals that Bronn is currently being investigated for information on the poison used to kill Joffrey, and that by refusing the Gold Cloak's offer, Pod has implicated himself as a suspect as well.Tyrioninsists that Pod flee King's Landing before he too is arrested, and Pod tearfully agrees only after Tyrion outright orders him to do so. Before he leaves, Tyrioncomforts Pod by saying he is the most loyal squire anyone could hope for.Breaker of Chains
 
 thumb|right|Jaime presents Podrick to Brienne.
 
@@ -66,11 +66,11 @@ When Brienne is tasked by Jaime Lannister to locate and protect the missing Sans
 
 thumb|left|Podrick riding with Brienne.
 
-While on the road, Podrick is having difficulties with his horse, much to the annoyance of Brienne. The two are on their way to the Castle Black, where Brienne believes Sansa has been taken in by her half-brother, Jon Snow. Brienne tries to get rid of Podrick&nbsp;by releasing him from the vow he swore as her squire, but to no avail. At their campsite, Podrick sets fire to a rabbit he was trying to cook, even though he did not even skin it properly. Brienne&nbsp;questions Podrick&nbsp;about his duties as squire to Tyrion. He tells her his job was mostly pouring wine, alongside other menial tasks. Brienne then asks if Podrick did anything related to combat. Podrick&nbsp;reveals how he killed Ser Mandon Moore of the Kingsguard by shoving a spear through his head when he tried to kill Tyrion. Brienne then allows Podrick to help her remove her armor.First of His Name
+While on the road, Podrick is having difficulties with his horse, much to the annoyance of Brienne. The two are on their way to the Castle Black, where Brienne believes Sansa has been taken in by her half-brother, Jon Snow. Brienne tries to get rid of Podrickby releasing him from the vow he swore as her squire, but to no avail. At their campsite, Podrick sets fire to a rabbit he was trying to cook, even though he did not even skin it properly. Briennequestions Podrickabout his duties as squire to Tyrion. He tells her his job was mostly pouring wine, alongside other menial tasks. Brienne then asks if Podrick did anything related to combat. Podrickreveals how he killed Ser Mandon Moore of the Kingsguard by shoving a spear through his head when he tried to kill Tyrion. Brienne then allows Podrick to help her remove her armor.First of His Name
 
 thumb|right|Brienne and Podrick meet Hot Pie.
 
-Later on, Podrick and&nbsp;Brienne&nbsp;stop at an inn where they are served kidney pie made by none other than&nbsp;Hot Pie, who proceeds&nbsp;to tell them at length the process in finding the right ingredients. He then asks of Brienne's business, to which she replies that she is in&nbsp;Catelyn Stark's&nbsp;service to find and protect Sansa Stark. Hot Pie leaves after addressing the Starks as traitors. As Brienne and Podrick prepare to leave the inn, Podrick reminds Brienne that telling people of their quest could be dangerous, but Brienne's honesty is swiftly rewarded when Hot Pie approaches and gives them a baked good shaped like a direwolf. He tells them that he knows nothing of Sansa but last saw Arya alive and hints that she was being sought by the Hound. Podrick, having memorized the complex family trees of the Great Houses, suggests that they head to the Eyrie, realizing that Lysa Arryn is the Hound's only remaining chance of a ransom.Mockingbird
+Later on, Podrick andBriennestop at an inn where they are served kidney pie made by none other thanHot Pie, who proceedsto tell them at length the process in finding the right ingredients. He then asks of Brienne's business, to which she replies that she is inCatelyn Stark'sservice to find and protect Sansa Stark. Hot Pie leaves after addressing the Starks as traitors. As Brienne and Podrick prepare to leave the inn, Podrick reminds Brienne that telling people of their quest could be dangerous, but Brienne's honesty is swiftly rewarded when Hot Pie approaches and gives them a baked good shaped like a direwolf. He tells them that he knows nothing of Sansa but last saw Arya alive and hints that she was being sought by the Hound. Podrick, having memorized the complex family trees of the Great Houses, suggests that they head to the Eyrie, realizing that Lysa Arryn is the Hound's only remaining chance of a ransom.Mockingbird
 
 thumb|left|Podrick and Arya watch as a fight between Brienne and the Hound starts.
 

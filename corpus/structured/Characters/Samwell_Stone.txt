@@ -11,7 +11,9 @@ title=Samwell stone
 | Place= The Vale of Arryn
 | Allegiance=House Royce
 | Family=
-| Actor=Allan Gildea}}}
+| Actor=Allan Gildea
+
+
 
  Master-at-Arms
 | Aka= Sam
@@ -20,16 +22,16 @@ title=Samwell stone
 | Place= The Vale of Arryn
 | Allegiance=House Royce
 | Family=
-| ActorAllan Gildea} data-rte-instance130814-182425872356cca7485141a classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Ser Samwell Sam Stone is a character in the fifth season, appearing in The Wars to Come. He is in service to House Royce as the master-at-arms of Runestone. Biography 
+| ActorAllan Gildea data-rte-instance130814-182425872356cca7485141a classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Ser Samwell Sam Stone is a character in the fifth season, appearing in The Wars to Come. He is in service to House Royce as the master-at-arms of Runestone. Biography 
 
  Background 
 
 Sam Stone is a bastard from the Vale of Arryn and a knight in service of House Royce. Season 5 
 
-Sam Stone is training Robin Arryn in swordfighting while he is fostered at Runestone by Lord Yohn Royce.\The Wars to Come\\/ref} data-rte-instance130814-182425872356cca7485141a classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+Sam Stone is training Robin Arryn in swordfighting while he is fostered at Runestone by Lord Yohn Royce.\The Wars to Come\\/ref data-rte-instance130814-182425872356cca7485141a classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
 
  In the books 
 
-In the A Song of Ice and Fire\/i,link:A Song of Ice and Fire,wasblank:false,noforce:true,wikitext:A Song of Ice and Fire|A Song of Ice and Fire} data-rte-instance130814-182425872356cca7485141a href/wiki/A_Song_of_Ice_and_Fire title=A Song of Ice and FireA Song of Ice and Fire novels Ser Samwell Stone, dubbed Strong Sam Stone, is a renowned knight and the master-at-arms of Runestone. He supports his liege lord Yohn Royce when the latter gathers a group of nobles, dubbed the Lords Declarant, to denounce Littlefinger and oppose his rule over the Vale. See also References 
+In the A Song of Ice and Fire\/i,link:A Song of Ice and Fire,wasblank:false,noforce:true,wikitext:A Song of Ice and Fire|A Song of Ice and Fire data-rte-instance130814-182425872356cca7485141a href/wiki/A_Song_of_Ice_and_Fire title=A Song of Ice and FireA Song of Ice and Fire novels Ser Samwell Stone, dubbed Strong Sam Stone, is a renowned knight and the master-at-arms of Runestone. He supports his liege lord Yohn Royce when the latter gathers a group of nobles, dubbed the Lords Declarant, to denounce Littlefinger and oppose his rule over the Vale. See also References 
 
   Loading editor

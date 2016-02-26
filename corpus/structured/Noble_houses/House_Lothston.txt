@@ -10,7 +10,9 @@ title=House lothston
 | vassals=
 | age=
 | founder=
-|ImageSize =200 px}}}
+|ImageSize =200 px
+
+
 
  
 

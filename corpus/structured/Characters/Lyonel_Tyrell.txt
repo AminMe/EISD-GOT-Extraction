@@ -6,7 +6,9 @@ title=Lyonel tyrell
 |titles=Lord paramount of the reachLord of HighgardenWarden of the SouthSteward of Dorne
 |Allegiance = House TyrellHouse Targaryen
 |Family = Luthor Tyrell - descendantMace Tyrell - descendantLoras Tyrell - descendantMargaery Tyrell - descendant
-}}}
+
+
+
 
  
 
@@ -19,13 +21,13 @@ House Targaryen
 Mace Tyrell - descendant 
 Loras Tyrell - descendant 
 Margaery Tyrell - descendant
-}}} data-rte-instance130814-43567108256cca7c91d99a classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-43567108256cca7c91d99a classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
 Lyonel Tyrell is an unseen character in Game of Thrones. He is not expected to appear, being long dead by the time it begins. History 
 
-Lyonel participated in the Conquest of Dorne and was declared Steward of Dorne by King Daeron I Targaryen, the Young Dragon. He was murdered, however, when he pulled down a sash by his bed to summon his consort and a hundred red scorpions fell on him. His death ignited a revolt that led to the death of Daeron and the end of the Iron Throne occupation.\House Martell (Histories &amp; Lore)\\/ref} data-rte-instance130814-43567108256cca7c91d99a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /\The Death of Kings\\/ref} data-rte-instance130814-43567108256cca7c91d99a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Lyonel participated in the Conquest of Dorne and was declared Steward of Dorne by King Daeron I Targaryen, the Young Dragon. He was murdered, however, when he pulled down a sash by his bed to summon his consort and a hundred red scorpions fell on him. His death ignited a revolt that led to the death of Daeron and the end of the Iron Throne occupation.\House Martell (Histories &amp; Lore)\\/ref data-rte-instance130814-43567108256cca7c91d99a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /\The Death of Kings\\/ref data-rte-instance130814-43567108256cca7c91d99a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In the A Song of Ice and Fire novels, Lyonel Tyrell was an infant during the Dance of the Dragons, with his mother ruling the Reach as Regent. She chose to remain neutral during the civil war, thus the Reach was divided between the supporters of Aegon II and those of Rhaenyra. 
 

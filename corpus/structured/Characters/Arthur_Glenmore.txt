@@ -13,7 +13,9 @@ Elaena Glenmore - sister
 |Actor = Matt Littler
 |Death = Tortured and disemboweled by Ramsay Snow.
 |DeathEp = \A Nest of Vipers\
-|Last = \A Nest of Vipers\}}}
+|Last = \A Nest of Vipers\
+
+
 
  
 House Forrester(briefly)
@@ -24,7 +26,7 @@ Elaena Glenmore - sister
 |Actor = Matt Littler
 |Death = Tortured and disemboweled by Ramsay Snow.
 |DeathEp = \A Nest of Vipers\
-|Last  \A Nest of Vipers\}}} data-rte-instance130814-122350751556cca67776764 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Last  \A Nest of Vipers\ data-rte-instance130814-122350751556cca67776764 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -60,7 +62,7 @@ Arthur is then disemboweled by Ramsay in front of Rodrik and Talia Forrester, ki
 SOW Commanding Army.png
 SOW Giving the Order.png
 arthur_tortured.png|Arthur being tortured by Ramsay.
-\/gallery} data-rte-instance130814-122350751556cca67776764 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-122350751556cca67776764 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

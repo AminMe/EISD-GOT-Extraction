@@ -12,13 +12,15 @@ title=House manderly
 | vassals=
 | age=
 | founder=
-| imagesize=250px }}}
+| imagesize=250px 
+
+
 
  House Manderly of White Harbor is a vassal house that holds strong fealty to House Stark of Winterfell. They control White Harbor, a seaport and the North's only city. Their sigil is a merman with a dark green beard holding a black trident. History 
 
-House Manderly were once a powerful noble house in the Reach. Centuries ago they were driven out of the Reach and were given sanctuary and lands by House Stark in exchange for their promise of loyalty. The Manderlys still keep many traditions from the South. They are the richest House in the North through fish, grain and trade.\The North (Histories &amp; Lore)\\/ref} data-rte-instance130814-69984900656cca95d0d245 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Members 
+House Manderly were once a powerful noble house in the Reach. Centuries ago they were driven out of the Reach and were given sanctuary and lands by House Stark in exchange for their promise of loyalty. The Manderlys still keep many traditions from the South. They are the richest House in the North through fish, grain and trade.\The North (Histories &amp; Lore)\\/ref data-rte-instance130814-69984900656cca95d0d245 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Members 
 
- Ser Wendel Manderly, a knight fighting for House Stark in the War of the Five Kings. Killed in the Red Wedding.\The Rains of Castamere (episode)|The Rains of Castamere\\/ref} data-rte-instance130814-69984900656cca95d0d245 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Historical Members Amarylis Manderly, wife of Hothor Umber.\A Golden Crown\\/ref} data-rte-instance130814-69984900656cca95d0d245 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+ Ser Wendel Manderly, a knight fighting for House Stark in the War of the Five Kings. Killed in the Red Wedding.\The Rains of Castamere (episode)|The Rains of Castamere\\/ref data-rte-instance130814-69984900656cca95d0d245 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Historical Members Amarylis Manderly, wife of Hothor Umber.\A Golden Crown\\/ref data-rte-instance130814-69984900656cca95d0d245 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In A Song of Ice and Fire, House Manderly was originally a major noble house of the Reach, overseeing rich lands along the River Mander. Due to an unspecified incident, they were disgraced and exiled from the Reach a thousand years ago. They were given a safe haven by the King in the North, and rose to rule over the city of White Harbor. As a result they are the only major House in the North that follows the Faith of the Seven instead of keeping to the Old Gods. They are noted as being fiercely loyal to the Starks. 
 

@@ -8,7 +8,9 @@ title=Mink
 | place=
 | allegiance=The night's watch
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -18,7 +20,7 @@ Mink is an unidentified background character in the first season. He is a newly 
 
  Season 1 
 
-Mink is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Mink is assigned to the kitchens.\You Win or You Die\\/ref} data-rte-instance130814-112562606556cca7bbaa0c5 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Mink is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Mink is assigned to the kitchens.\You Win or You Die\\/ref data-rte-instance130814-112562606556cca7bbaa0c5 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

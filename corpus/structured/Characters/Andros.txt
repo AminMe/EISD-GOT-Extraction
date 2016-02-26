@@ -12,7 +12,9 @@ title=Andros
 |family=Unnamed - wife
 | actor=Robin atkin downes
 |mentioned=\A nest vipers\
-}}}
+
+
+
 
  
 
@@ -24,13 +26,13 @@ Andros is a merchant lord and ambassador for House Whitehill. He appears in Game
 
  The Lost Lords 
 
-Andros is sent along with Morgryn by Lord Ludd Whitehill to King's Landing in order to negotiate a sell of ironwood with the Master of Coin Tyrion Lannister. After an hour of waiting in the Red Keep, the two ambassadors are introduced to Mira Forrester. Andros is very unhappy with this, claiming that House Forrester has no business selling ironwood to the crown, and demanding that any sale of ironwood go through House Whitehill. Morgryn tries to calm Andros down, but Tyrion ends his meeting with them in order to deal directly with Mira. After attempting to threaten Mira, Andros leaves the Red Keep angry.\The Lost Lords\\/ref} data-rte-instance130814-158487164156cca6dfe4eaa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Sons of Winter 
+Andros is sent along with Morgryn by Lord Ludd Whitehill to King's Landing in order to negotiate a sell of ironwood with the Master of Coin Tyrion Lannister. After an hour of waiting in the Red Keep, the two ambassadors are introduced to Mira Forrester. Andros is very unhappy with this, claiming that House Forrester has no business selling ironwood to the crown, and demanding that any sale of ironwood go through House Whitehill. Morgryn tries to calm Andros down, but Tyrion ends his meeting with them in order to deal directly with Mira. After attempting to threaten Mira, Andros leaves the Red Keep angry.\The Lost Lords\\/ref data-rte-instance130814-158487164156cca6dfe4eaa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Sons of Winter 
 
-Andros attends Tommen Baratheon's coronation festival. He converses with another man about how he pushed Morgryn out of the ironwood deal and is now Ludd Whitehill's exclusive contact in King's Landing. He later notices Mira Forrester conversing with Lyman Lannister, his new business partner, and berates him for speaking with the enemy. However, Mira convinces Lyman to reveal that Andros is hiring an army of sellswords for Ludd, large enough to march against Ironrath. Lyman then confronts Andros for revealing his addiction to milk of the poppy, and angrily ends their partnership. Figuring that Mira was the cause, Andros threatens the handmaiden before walking off, visibly red.\Sons of Winter\\/ref} data-rte-instance130814-158487164156cca6dfe4eaa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / A Nest of Vipers 
+Andros attends Tommen Baratheon's coronation festival. He converses with another man about how he pushed Morgryn out of the ironwood deal and is now Ludd Whitehill's exclusive contact in King's Landing. He later notices Mira Forrester conversing with Lyman Lannister, his new business partner, and berates him for speaking with the enemy. However, Mira convinces Lyman to reveal that Andros is hiring an army of sellswords for Ludd, large enough to march against Ironrath. Lyman then confronts Andros for revealing his addiction to milk of the poppy, and angrily ends their partnership. Figuring that Mira was the cause, Andros threatens the handmaiden before walking off, visibly red.\Sons of Winter\\/ref data-rte-instance130814-158487164156cca6dfe4eaa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / A Nest of Vipers 
 
 Cersei Lannister learns of Mira's confrontation with Andros at the coronation festival, and mentions it during her meeting with the handmaiden. She later offers to take care of Mira's problem with Andros if she can discover who Tyrion plans to call as witnesses during his trial, heavily implying that she will have the merchant lord killed. 
 
-If Rodrik later lets the traitor live, he reveals that Mira's actions in King's Landing prevented Andros' attempt to gather an army for the Whitehills from succeeding.\Sons of Winter\\/ref} data-rte-instance130814-158487164156cca6dfe4eaa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Ice Dragon 
+If Rodrik later lets the traitor live, he reveals that Mira's actions in King's Landing prevented Andros' attempt to gather an army for the Whitehills from succeeding.\Sons of Winter\\/ref data-rte-instance130814-158487164156cca6dfe4eaa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Ice Dragon 
 
 Lord Morgryn tells Mira that Andros has been imprisoned in the Black Cells. He was later executed in front of Mira or Tom Appearances 
 
@@ -42,9 +44,9 @@ Spoken of Andros
 
 
 TLL Andros Unhappy.png
-\/gallery} data-rte-instance=130814-158487164156cca6dfe4eaa srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-158487164156cca6dfe4eaa srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
-} data-rte-instance130814-158487164156cca6dfe4eaa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+ data-rte-instance130814-158487164156cca6dfe4eaa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
  
 

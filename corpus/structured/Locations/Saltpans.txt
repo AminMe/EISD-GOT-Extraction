@@ -1,7 +1,9 @@
 title=Saltpans
 |Image = s04e10 - saltpans.png
 |location=The riverlands
-|type=Village|Religion faith of the seven}}}
+|type=Village|Religion faith of the seven
+
+
 
  
 
@@ -9,7 +11,7 @@ Saltpansis a seaside village near the border between the Vale and Riverlands. It
 
  Season 4 
 
-Shortly after abandoning Sandor Clegane, Arya Stark arrives in Saltpans on horseback, and seeks out Ternesio Terys, captain of the merchant galley, the Titan's Daughter. Once she shows him Jaqen H'ghar's iron coin and utters the code phrase valar morghulis, she is allowed aboard the ship and leaves Westeros.\The Children\\/ref} data-rte-instance130814-87360191856cca937e409b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Shortly after abandoning Sandor Clegane, Arya Stark arrives in Saltpans on horseback, and seeks out Ternesio Terys, captain of the merchant galley, the Titan's Daughter. Once she shows him Jaqen H'ghar's iron coin and utters the code phrase valar morghulis, she is allowed aboard the ship and leaves Westeros.\The Children\\/ref data-rte-instance130814-87360191856cca937e409b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels,Saltpans is a town in the Riverlands that sits on the Bay of Crabs and is the seat of House Cox. Saltpans has never been an important trading port but ships do call there from time to time. A small castle dominates the town, overlooking the harbor. 
 

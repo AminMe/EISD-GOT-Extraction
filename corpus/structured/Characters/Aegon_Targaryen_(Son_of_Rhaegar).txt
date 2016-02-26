@@ -2,7 +2,7 @@
 {{Heraldry
 |image = Targaryen mini shield.png
 |link = House Targaryen
-}}
+
 {{Character
 | Title= Aegon Targaryen 
 | Image=Gregor_kills_Targaryens.jpg
@@ -17,7 +17,7 @@
 | Place=King's Landing
 | Allegiance=House Targaryen
 | Family= Rhaegar Targaryen - fatherElia Martell - motherRhaenys Targaryen - sister Viserys Targaryen - uncleDaenerys Targaryen - auntDoran Martell - uncleOberyn Martell - uncleTrystane Martell - cousinSand Snakes - cousins
-| Actor=}}
+| Actor=
 Quote|House Clegane was built upon dead children. I saw them lay Prince Aegon and Princess Rhaenys before the Iron Throne.|Thoros of Myr|And Now His Watch is Ended
 'Aegon Targaryen', the son of Prince Rhaegar Targaryen, is an unseen character in Game of Thrones. He is deceased when the events of the series begin and is not expected to appear in the series.
 

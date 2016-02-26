@@ -11,7 +11,9 @@ title=Deep lake
 | Founding=
 | Age=
 | Founder=
-}}}
+
+
+
 
  The Faith of the Seven
 | Military=Abandoned
@@ -20,7 +22,7 @@ title=Deep lake
 | Founding=
 | Age=
 | Founder=
-}}} data-rte-instance130814-88600555356cca8c5aeb16 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Deep Lake is a castle located along the Wall to the west of Castle Black and was raised by the Night's Watch to replace the larger and more expensive Nightfort. It is not manned by the order at the time of the series.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/deep-lake\/ HBO viewers guide, season 1 map, Deep Lake entry\/ref} data-rte-instance130814-88600555356cca8c5aeb16 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+ data-rte-instance130814-88600555356cca8c5aeb16 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Deep Lake is a castle located along the Wall to the west of Castle Black and was raised by the Night's Watch to replace the larger and more expensive Nightfort. It is not manned by the order at the time of the series.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/deep-lake\/ HBO viewers guide, season 1 map, Deep Lake entry\/ref data-rte-instance130814-88600555356cca8c5aeb16 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In the A Song of Ice and Fire novels, Deep Lake was first built during the reign of King Jaehaerys I Targaryen as a smaller, cheaper replacement for the Nightfort, which had fallen into disrepair. Queen Alysanne, who had flown on her dragon Silverwing to visit the Wall, convinced the Night's Watch to replace the older castle. Deep Lake was paid for by Queen Alysanne and built by the men that her husband Jaehaerys I, sent north. To the east of Deep Lake sits Queensgate. 
 

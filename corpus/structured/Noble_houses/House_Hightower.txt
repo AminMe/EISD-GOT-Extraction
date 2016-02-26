@@ -11,7 +11,9 @@ title=House hightower
 | Vassals=House CuyHouse BulwerHouse Beesbury
 | Age=
 | Founder=
-| ImageSize=}}}
+| ImageSize=
+
+
 
 Voice of Oldtown 
 Defender of the Citadel
@@ -25,11 +27,11 @@ House Bulwer
 House Beesbury
 | Age=
 | Founder=
-| ImageSize}}} data-rte-instance130814-124916087356cca95a7da01 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+| ImageSize data-rte-instance130814-124916087356cca95a7da01 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
-House Hightower is a vassal house that holds fealty to House Tyrell of Highgarden. The Hightoweris their seat, it resides in the port city of Oldtown, southwest of Highgarden. Members Lady Alerie Hightower, wife of Mace Tyrell, the Lord of Highgarden.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/#!\/guide\/houses\/tyrell\/ HBO viewers guide, season 1 guide to houses, House Tyrell entry\/ref} data-rte-instance130814-124916087356cca95a7da01 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/tyrell\/ HBO viewers guide, season 2 guide to houses, House Tyrell entry\/ref} data-rte-instance130814-124916087356cca95a7da01 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Lynesse Hightower, her sister. Estranged wife of Lord Jorah Mormont of Bear Island. Ser Gerold Hightower, Lord Commander of the Kingsguard during the reign of Aerys II Targaryen. Killed in Robert's Rebellion. Historical members Queen Alicent Hightower, the second wife of King Viserys I Targaryen and mother of Aegon II Targaryen. In the books 
+House Hightower is a vassal house that holds fealty to House Tyrell of Highgarden. The Hightoweris their seat, it resides in the port city of Oldtown, southwest of Highgarden. Members Lady Alerie Hightower, wife of Mace Tyrell, the Lord of Highgarden.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/#!\/guide\/houses\/tyrell\/ HBO viewers guide, season 1 guide to houses, House Tyrell entry\/ref data-rte-instance130814-124916087356cca95a7da01 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/tyrell\/ HBO viewers guide, season 2 guide to houses, House Tyrell entry\/ref data-rte-instance130814-124916087356cca95a7da01 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Lynesse Hightower, her sister. Estranged wife of Lord Jorah Mormont of Bear Island. Ser Gerold Hightower, Lord Commander of the Kingsguard during the reign of Aerys II Targaryen. Killed in Robert's Rebellion. Historical members Queen Alicent Hightower, the second wife of King Viserys I Targaryen and mother of Aegon II Targaryen. In the books 
 
 In the A Song of Ice and Fire novels, House Hightower is a powerful family with strong ties to the Tyrells. The family is very old, existing since the Dawn of Days when they were petty-kings. During the coming of the Andals and the creation of the Kingdom of the Reach, the Hightowers allied with the newcomers. Thus, they were able to keep their wealth, lands, and privileges. House Hightower rarely takes part in wars within the realm. They were integral in the foundation of the Citadel and continue to be patrons of both the Order of Maesters and the Faith of the Seven. 
 

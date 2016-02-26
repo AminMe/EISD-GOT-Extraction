@@ -15,4 +15,4 @@ es:Harlaw
 it:Harlaw
 ru:Харлоу (остров)
 
- &nbsp; Loading editor
+  Loading editor

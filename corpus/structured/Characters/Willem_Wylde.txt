@@ -7,17 +7,19 @@ title=Willem wylde
 |place=Rain house, the stormlands
 |allegiance=House wyldeKingsguard
 |Culture = Andal
-}}}
+
+
+
 
  
 
 Kingsguard
 |Culture = Andal
-}}} data-rte-instance130814-203259698056cca79556af7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-203259698056cca79556af7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
 Willem Wylde is an unseen character in Game of Thrones. He is long dead when the series begins. Biography 
 
-Willem Wylde fought in the Trial by seven of Duncan the Tall.\Justice of the Seven Kingdoms\\/ref} data-rte-instance130814-203259698056cca79556af7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Willem Wylde fought in the Trial by seven of Duncan the Tall.\Justice of the Seven Kingdoms\\/ref data-rte-instance130814-203259698056cca79556af7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, Ser Willem Wylde was a member of the Kingsguard during the reign of King Daeron II Targaryen. When a place opened in the Kingsguard, Daeron gave the position to Ser Willem. Daeron either did not know or willfully ignored his father Aegon IV's promise to Ser Quentyn Ball that he would be raised to the Kingsguard. This was one of the contributing factors to Ser Quentyn siding with Daemon Blackfyre during the Blackfyre Rebellion. 
 

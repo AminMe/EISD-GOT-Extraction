@@ -8,7 +8,9 @@ title=Echiel
 | place=
 | allegiance=Night's watch
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -18,7 +20,7 @@ Echiel is an unidentified background character in the first season. He is a newl
 
  Season 1 
 
-Echiel is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. He is assigned to the Builders.\You Win or You Die\\/ref} data-rte-instance130814-208266167156cca790177bc classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Echiel is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. He is assigned to the Builders.\You Win or You Die\\/ref data-rte-instance130814-208266167156cca790177bc classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

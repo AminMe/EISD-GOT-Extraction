@@ -9,7 +9,9 @@ title=Aenys i targaryen
 | Place=Dragonstone
 | Allegiance=House Targaryen
 | Family=Aegon I Targaryen - father\/uncleRhaenys Targaryen - mother\untVisenya Targaryen - auntMaegor Targaryen - half-brotherJaehaerys I Targaryen - sonOrys Baratheon - half-uncleDaenerys Targaryen - distant descendant
-| Actor|Culture  Valyrian}}}
+| Actor|Culture  Valyrian
+
+
 
  Lord of the Seven Kingdoms 
 Protector of the Realm
@@ -22,13 +24,13 @@ Maegor Targaryen - half-brother
 Jaehaerys I Targaryen - son 
 Orys Baratheon - half-uncle 
 Daenerys Targaryen - distant descendant
-| Actor|Culture  Valyrian} data-rte-instance130814-1931151556cca708659f8 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+| Actor|Culture  Valyrian data-rte-instance130814-1931151556cca708659f8 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
 Aenys I Targaryen, full name Aenys of House Targaryen, the First of His Name, is an unseen character in the first season. He died before the time of the series, and is not expected to appear. He was a King of Westeros in the Targaryen dynasty. Biography 
 
 Aenys was the firstborn son of Aegon the Conqueror, by Aegon's sister-wife Queen Rhaenys Targaryen. After his father died, Aenys succeeded as the second King on the Iron Throne. Despite the fact that Aenys had a son, Jaehaerys, when he died he was succeeded by his half-brother Maegor Targaryen, known as Maegor the Cruel. Maegor was the son of Aegon's other sister-wife, Queen Visenya Targaryen. Maegor ultimately died childless, however, and Aenys's son succeeded to the throne as King Jaehaerys I. As a result all subsequent Targaryen monarchs descend from Aenys, not Maegor. Season 1 
 
-Aenys's name is briefly seen on a page of the book The Lineages and Histories of the Great Houses of the Seven Kingdoms when Lord Eddard Stark is searching through it. On a page about House Baratheon, it is mentioned that one of Orys Baratheon's sons died thwarting an assassination attempt against Aenys.\A Golden Crown\\/ref} data-rte-instance130814-1931151556cca708659f8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family tree 
+Aenys's name is briefly seen on a page of the book The Lineages and Histories of the Great Houses of the Seven Kingdoms when Lord Eddard Stark is searching through it. On a page about House Baratheon, it is mentioned that one of Orys Baratheon's sons died thwarting an assassination attempt against Aenys.\A Golden Crown\\/ref data-rte-instance130814-1931151556cca708659f8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family tree 
 
  In the books 
 
@@ -58,7 +60,7 @@ Maegor's reign of terror particularly affected Queen Rhaenys's branch of the fam
 
 Maegor eventually died on the Iron Throne in unknown circumstances: in someversions of thetale, he was murdered by the Iron Throne, while others suspect he was poisoned. As Maegor died without issue, he was succeeded by his nephew, Aenys's youngest son, who ascended the throne as King Jaehaerys I. He married his sister Alysanne, and together they brought the Seven Kingdoms fifty years of peace. Thus all subsequent Targaryens, including Daenerys Targaryen, descend from Aenys and not Maegor. 
 
-As for Aenys's name, George R.R. Martin made Targaryen dynasty names by mix-and-matching different name elements: Ae- in Aegon, Aemon, Aemond, Aerion, etc., and the suffix -nys from Rhaenys (less clearly, Viserys and Daenerys). In-universe, his name is apparently simply a combination of his parents' names: Ae-gon and Rhae-nys yielded Ae-nys. It is pronounced like both elements in his parents' names: AY-nis, but not Ay-nus.http:\/\woiaf.westeros.org\/index.php\/Pronunciation_guide AWOIAF Pronunciation Guide\/ref} data-rte-instance130814-1931151556cca708659f8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / See also References 
+As for Aenys's name, George R.R. Martin made Targaryen dynasty names by mix-and-matching different name elements: Ae- in Aegon, Aemon, Aemond, Aerion, etc., and the suffix -nys from Rhaenys (less clearly, Viserys and Daenerys). In-universe, his name is apparently simply a combination of his parents' names: Ae-gon and Rhae-nys yielded Ae-nys. It is pronounced like both elements in his parents' names: AY-nis, but not Ay-nus.http:\/\woiaf.westeros.org\/index.php\/Pronunciation_guide AWOIAF Pronunciation Guide\/ref data-rte-instance130814-1931151556cca708659f8 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / See also References 
 
  
 

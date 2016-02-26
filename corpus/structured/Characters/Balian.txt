@@ -2,7 +2,9 @@ title=Balian
 | season=1
 | mentioned=\You win or you die\
 | status=alive
-| allegiance=The night's watch}}}
+| allegiance=The night's watch
+
+
 
  
 
@@ -10,7 +12,7 @@ Balian is an unidentified background character in the first season. He is a newl
 
  Season 1 
 
-Balian is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Balian is assigned to the Rangers.\You Win or You Die\\/ref} data-rte-instance130814-132478115056cca7922e2b0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Balian is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Balian is assigned to the Rangers.\You Win or You Die\\/ref data-rte-instance130814-132478115056cca7922e2b0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

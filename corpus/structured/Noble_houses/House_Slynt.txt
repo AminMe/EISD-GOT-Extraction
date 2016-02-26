@@ -5,13 +5,15 @@ title=House slynt
 |Seat = formerly Harrenhal
 |Lord = formerly Janos Slynt
 |Allegiance = House Baratheon of King's Landing
-|Heir = }}}
+|Heir = 
+
+
 
 Lord of Harrenhal (formerly)
 |Seat = formerly Harrenhal
 |Lord = formerly Janos Slynt
 |Allegiance = House Baratheon of King's Landing
-|Heir  }}} data-rte-instance130814-55749321156cca96f8b46c classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Heir   data-rte-instance130814-55749321156cca96f8b46c classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 House Slynt is a noble house of the Seven Kingdoms. It currently holds fealty directly to King Joffrey Baratheon, who ordered the founding of the house as a reward for Janos Slynt's assistance in securing the Iron Throne for him. 
 
@@ -19,7 +21,7 @@ For his loyalty, Slynt was named Lord of Harrenhal. Harrenhal is a large and imp
 
  Season 1 
 
-Lord Eddard Stark asks Janos Slynt, as Commander of the King's Landing City Watch, to assist him in taking Joffrey Baratheon and his mother into custody, andSlynt agrees. However, he then betrays Eddard and has his men kill Eddard's bodyguards and retainers, withEddardbeing imprisoned.\You Win or You Die\\/ref} data-rte-instance130814-55749321156cca96f8b46c classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / As a reward for his service, Janos Slynt is named the Lord of Harrenhal by the king and his small council.\The Pointy End\\/ref} data-rte-instance130814-55749321156cca96f8b46c classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 2 
+Lord Eddard Stark asks Janos Slynt, as Commander of the King's Landing City Watch, to assist him in taking Joffrey Baratheon and his mother into custody, andSlynt agrees. However, he then betrays Eddard and has his men kill Eddard's bodyguards and retainers, withEddardbeing imprisoned.\You Win or You Die\\/ref data-rte-instance130814-55749321156cca96f8b46c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / As a reward for his service, Janos Slynt is named the Lord of Harrenhal by the king and his small council.\The Pointy End\\/ref data-rte-instance130814-55749321156cca96f8b46c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 2 
 
 Lord Janos loses Harrenhal after being exiled to the Wall by Tyrion Lannister. Now under occupation by House Lannister, Harrenhal is granted to Lord Petyr Baelish, and House Slynt has no seat. Season 5 
 

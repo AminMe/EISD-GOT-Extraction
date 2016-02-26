@@ -1,4 +1,6 @@
-titleHouse wylde|imageWillem wylde.png|titlesLord of the rain house|seatRain house|regionThe stormlands|allegianceHouse baratheon storm's end|sigil=A blue-green maelstrom on gold.}}}
+titleHouse wylde|imageWillem wylde.png|titlesLord of the rain house|seatRain house|regionThe stormlands|allegianceHouse baratheon storm's end|sigil=A blue-green maelstrom on gold.
+
+
 
  House Wylde is a vassal house which holds fealty to House Baratheon of Storm's End. Known members Ser Willem Wylde, a member of the Kingsguard of King Daeron II Targaryen. In the books 
 

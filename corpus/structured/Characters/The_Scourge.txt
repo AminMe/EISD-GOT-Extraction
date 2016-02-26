@@ -3,7 +3,9 @@ title=The scourge
 |mentioned=\A nest vipers\
 |status=deceased
 |death=Killed by asher forrester.
-|place=Lys}}}
+|place=Lys
+
+
 
  
 
@@ -11,6 +13,6 @@ The Scourge is an unseen character in Game of Thrones: A Telltale Games Series. 
 
 The Scourge was a brawler living in Lys. He had a skull tattoo and fought with two axes. Asher Forrester and Beskha encountered him while on a job at some point and killed him. A Nest of Vipers 
 
-When Asher is challenged by Amaya to fight Bloodsong in order to gain the respect of the pit fighters, Asher can say that he has fought worse, mentioning the Scourge.\A Nest of Vipers\\/ref} data-rte-instance130814-211151956cca78e74683 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / References 
+When Asher is challenged by Amaya to fight Bloodsong in order to gain the respect of the pit fighters, Asher can say that he has fought worse, mentioning the Scourge.\A Nest of Vipers\\/ref data-rte-instance130814-211151956cca78e74683 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / References 
 
-} data-rte-instance130814-211151956cca78e74683 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /  Loading editor
+ data-rte-instance130814-211151956cca78e74683 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /  Loading editor

@@ -10,7 +10,9 @@ title=House harlaw
 | Vassals=House Kenning
 | Age=
 | Founder=
-| ImageSize=}}}
+| ImageSize=
+
+
 
 Harlaw of Harlaw
 | Seat=Ten Towers
@@ -21,9 +23,9 @@ Harlaw of Harlaw
 | Vassals=House Kenning
 | Age=
 | Founder=
-| ImageSize}}} data-rte-instance130814-36292932856cca9619e001 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+| ImageSize data-rte-instance130814-36292932856cca9619e001 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
-House Harlaw is a vassal house that holds fealty to House Greyjoy of Pyke. Their seat is Ten Towers located on Harlaw, the easternmost of the Iron Islands. Members Alannys Harlaw, the wife of Balon Greyjoy and mother of Rodrik, Maron, Yara, and Theon Greyjoyhttp:\/\/viewers-guide.hbo.com\/game-of-thrones\/#!\/guide\/houses\/greyjoy\/ HBO viewers guide, season 2 guide to houses, House Greyjoy entry\/ref} data-rte-instance130814-36292932856cca9619e001 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
+House Harlaw is a vassal house that holds fealty to House Greyjoy of Pyke. Their seat is Ten Towers located on Harlaw, the easternmost of the Iron Islands. Members Alannys Harlaw, the wife of Balon Greyjoy and mother of Rodrik, Maron, Yara, and Theon Greyjoyhttp:\/\/viewers-guide.hbo.com\/game-of-thrones\/#!\/guide\/houses\/greyjoy\/ HBO viewers guide, season 2 guide to houses, House Greyjoy entry\/ref data-rte-instance130814-36292932856cca9619e001 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In the A Song of Ice and Fire novels, House Harlaw is a powerful family with strong ties to the Greyjoys. They have several branches along the island of Harlaw as well as several vassals. The sigil of House Harlaw is a silver scythe on black. The current head of the family is Lord Rodrik Harlaw, brother of Lady Alannys Harlaw, called Rodrik the Reader for his passion for books (a habit that other ironmen find strange and unmanly). 
 

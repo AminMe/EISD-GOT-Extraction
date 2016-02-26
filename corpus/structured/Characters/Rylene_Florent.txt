@@ -3,7 +3,9 @@ title=Rylene florent
 | mentioned=\Mhysa\
 | status=alive
 | place=King's landing
-| allegiance=House florent}}}
+| allegiance=House florent
+
+
 
  
 
@@ -13,7 +15,7 @@ Rylene Florent is an unseen character in the third season of Game of Thrones. Bi
 
 Davos describes Rylene Florent as a cousin of Shireen Baratheon. Season 3 
 
-Davos Seaworth reads a letter sent to Stannis Baratheon with an invitation Rylene Florent's nameday.\Mhysa\\/ref} data-rte-instance130814-91197154856cca7181465b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family tree 
+Davos Seaworth reads a letter sent to Stannis Baratheon with an invitation Rylene Florent's nameday.\Mhysa\\/ref data-rte-instance130814-91197154856cca7181465b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family tree 
 
  In the books 
 

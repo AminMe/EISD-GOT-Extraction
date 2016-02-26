@@ -9,7 +9,9 @@ title=Sylvi
 |culture=Free folk
 |family=Cotter - brother
 |actor=Clare louise connolly
-|aka=Little moon}}}
+|aka=Little moon
+
+
 
  
 
@@ -36,6 +38,6 @@ TBA Appearances
 
 SOW Wildling.png
 SOW Sylvi Neutral.png
-\/gallery} data-rte-instance130814-179983195956cca68704fe2 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
+\/gallery data-rte-instance130814-179983195956cca68704fe2 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
 
 ru:Сильви  Loading editor

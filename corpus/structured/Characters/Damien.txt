@@ -9,14 +9,16 @@ Beaten to death with a rock by Tom (player-determined)
 |Allegiance = House Lannister
 |Actor = Owen Thomas
 |Appearances = 1 episode
-|DeathEp = \The Lost Lords\}}}
+|DeathEp = \The Lost Lords\
+
+
 
  
 Beaten to death with a rock by Tom (player-determined)
 |Allegiance = House Lannister
 |Actor = Owen Thomas
 |Appearances = 1 episode
-|DeathEp  \The Lost Lords\}}} data-rte-instance130814-199163309656cca6e49456c classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|DeathEp  \The Lost Lords\ data-rte-instance130814-199163309656cca6e49456c classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -26,7 +28,7 @@ Damien is a guard commander for House Lannister in King's Landing. He appears in
 
  The Lost Lords 
 
-Great Hall\.}} data-rte-instance130814-199163309656cca6e49456c alt srchttp://vignette4.wikia.nocookie.net/gameofthrones/images/1/15/TLL_Damien_Guarding.png/revision/latest/scale-to-width-down/250?cb20150826033628 width250 height141 classimage thumb alignLeft withCaption data-image-nameTLL Damien Guarding.png data-image-keyTLL_Damien_Guarding.png typeimage /Damien is first seen guarding and opening the entrance to the Great Hall as TyrionLannisterand Mira Forrester meet with representatives of House Whitehill,Lord Andros and Lord Morgrynto negotiate the sale of Ironwood to the crown. Tyrion looks at him, and he opens the door for the pair to exit. Later, as Mira leaves, he politely greets her. 
+Great Hall\. data-rte-instance130814-199163309656cca6e49456c alt srchttp://vignette4.wikia.nocookie.net/gameofthrones/images/1/15/TLL_Damien_Guarding.png/revision/latest/scale-to-width-down/250?cb20150826033628 width250 height141 classimage thumb alignLeft withCaption data-image-nameTLL Damien Guarding.png data-image-keyTLL_Damien_Guarding.png typeimage /Damien is first seen guarding and opening the entrance to the Great Hall as TyrionLannisterand Mira Forrester meet with representatives of House Whitehill,Lord Andros and Lord Morgrynto negotiate the sale of Ironwood to the crown. Tyrion looks at him, and he opens the door for the pair to exit. Later, as Mira leaves, he politely greets her. 
 
 ​Later​, Damien ransacks Mira's chambers, going through her belongings before leaving a note on her bed, instructing her to meet with him in the gardens that night so that he may divulge critical information about Tyrion. After arriving at the meeting point, Mira is accosted by Lucan, a subordinate of Damien's, but Damien steps in and orders him to leave them be. Damien then reveals that Mira has made enemies with the wrong people, and attempts to stab her with a hidden dagger. After struggling with the handmaiden and trying to choke her, Damien is hit over the head with a piece of firewood by Tom the coal boy, causing Damien to turn his attention to Tom and try to drown him in a well. 
 
@@ -49,6 +51,6 @@ Mira is placed in the Black Cells awaiting immediate execution for Damien's murd
 
 TLL Damien and Mira.png|Damien saves Mira from Lucan.
 Damien Death.png|Damien's body.
-\/gallery} data-rte-instance130814-199163309656cca6e49456c srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
+\/gallery data-rte-instance130814-199163309656cca6e49456c srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
 
 ru:Дэмиен  Loading editor

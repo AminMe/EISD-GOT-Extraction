@@ -8,7 +8,9 @@ title=Nelugo
 | place=
 | allegiance=The night's watch
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -16,7 +18,7 @@ Nelugo is an unidentified background character in the first season. He is a newl
 
  Season 1 
 
-Nelugo is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Nelugo is assigned to the Rangers.\You Win or You Die\\/ref} data-rte-instance130814-132915768356cca7c007777 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Nelugo is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Nelugo is assigned to the Rangers.\You Win or You Die\\/ref data-rte-instance130814-132915768356cca7c007777 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

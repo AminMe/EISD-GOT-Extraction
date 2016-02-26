@@ -11,7 +11,9 @@ title=Clydas
 | place=
 | allegiance=Night's watch
 | family=
-| actor=unidentified}}}
+| actor=unidentified
+
+
 
  
 
@@ -21,7 +23,7 @@ Clydas is a background character in the first season. He is played by an unident
 
 Clydas is one of the Stewards that assists Maester Aemon. Season 1 
 
-Clydas is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. After the speech is over and the recruits are assigned their orders, Clydas assists blind Maester Aemon walk towards the newly made stewards to give them their assignment.\You Win or You Die\\/ref} data-rte-instance130814-55935047956cca78907a9c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Clydas is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. After the speech is over and the recruits are assigned their orders, Clydas assists blind Maester Aemon walk towards the newly made stewards to give them their assignment.\You Win or You Die\\/ref data-rte-instance130814-55935047956cca78907a9c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

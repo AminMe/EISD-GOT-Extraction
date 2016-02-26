@@ -11,7 +11,9 @@ title=Cotter pyke
 | culture=Ironborn
 | allegiance=The night's watch
 | family=
-| actor|Titles  commander}}}
+| actor|Titles  commander
+
+
 
  
 
@@ -23,7 +25,7 @@ Cotter Pyke is an unseen character in Game of Thrones. Cotter Pyke is an officer
 
 Cotter Pyke is a senior member of the Night's Watch. He serves as commander of Eastwatch, the eastern-most castle on the Wall. He is a bastard, born on the Iron Islands. Season 1 
 
-Lord Commander Jeor Mormont tells Jon Snow that Cotter Pyke's rangers found four wights outside of Eastwatch and wisely burned their corpses.\Fire and Blood\\/ref} data-rte-instance130814-57488345756cca6836f89d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Lord Commander Jeor Mormont tells Jon Snow that Cotter Pyke's rangers found four wights outside of Eastwatch and wisely burned their corpses.\Fire and Blood\\/ref data-rte-instance130814-57488345756cca6836f89d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, Cotter Pyke is the bastard son of a tavern wench. He betrays his common origins by being plain, even rough-speaking, with a broken nose. Despite his origins, Cotter Pyke is also considered to be a highly effective and able commander, and stands high in the ranks of the Night's Watch. He holds a level of disdain for, and is essentially the opposite to, Ser Denys Mallister, the commander of The Shadow Tower, who is a highborn knight. 
 

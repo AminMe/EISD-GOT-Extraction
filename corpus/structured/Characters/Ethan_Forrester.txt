@@ -14,7 +14,9 @@ title=Ethan forrester
 |Aka = Ethan the Brave, the Wise, or the Bold (player-determined) Little Lord
 | Actor=Christopher Nelson
 |Culture = Northmen
-|Age = }}}
+|Age = 
+
+
 
  
 
@@ -43,7 +45,7 @@ Lord Branfield - maternal grandfather
  Little Lord
 | Actor=Christopher Nelson
 |Culture = Northmen
-|Age  }}} data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Age   data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -51,11 +53,11 @@ Ethan Forrester is the third-born son of Lord Gregor Forrester and one of the pl
 
  Background 
 
-He is drawn to pursuits of the mind, particularly music and books. Ethan and his twin sister Talia both shared a great love for the towering trees of Ironrath. He was young when his house joined the War of the Five Kings, and the end of the war placed him into a role which he was unprepared for.Ethan Forrester - Game Codex Entry\/ref} data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+He is drawn to pursuits of the mind, particularly music and books. Ethan and his twin sister Talia both shared a great love for the towering trees of Ironrath. He was young when his house joined the War of the Five Kings, and the end of the war placed him into a role which he was unprepared for.Ethan Forrester - Game Codex Entry\/ref data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
-Ethan was once tormented by a miller's boy, and while his mother wanted to intervene, his father wanted him to fight his own battles. His brother Asher, however, had none of it and grabbed the miller's boy by his neck and knocked half of his teeth out. Gregor was furious, but all Asher cared about was his little brother.\Iron From Ice\\/ref} data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Iron From Ice 
+Ethan was once tormented by a miller's boy, and while his mother wanted to intervene, his father wanted him to fight his own battles. His brother Asher, however, had none of it and grabbed the miller's boy by his neck and knocked half of his teeth out. Gregor was furious, but all Asher cared about was his little brother.\Iron From Ice\\/ref data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Iron From Ice 
 
-After his father is killed and oldest brother Rodrik Forrester is presumed dead during the events of the Red Wedding, young Ethan officially becomes the new head of House Forrester, (though it is assumed he was still the acting Lord throughout the course of the war. It could also have been Duncan Tuttle, the castelan, and Lady Forrester), when House Bolton is enforcing its new Lannister-backed rule of the North. Ethan succeeds despite being the third son because second son Asher Forrester was exiled some years before.} data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+After his father is killed and oldest brother Rodrik Forrester is presumed dead during the events of the Red Wedding, young Ethan officially becomes the new head of House Forrester, (though it is assumed he was still the acting Lord throughout the course of the war. It could also have been Duncan Tuttle, the castelan, and Lady Forrester), when House Bolton is enforcing its new Lannister-backed rule of the North. Ethan succeeds despite being the third son because second son Asher Forrester was exiled some years before. data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
 Ethan is first seen playing in the ironwood grove with his siblings Talia and Ryon. He is hiding from the two behind tree. Talia scans the area and remarks that if he was smart he would reveal himself, while Ryon states he doesn't like the game anymore because they can't find Ethan. His hiding spot is revealed, and he comforts Ryon. Ryon begins to speak about everyone who he misses, his siblings and Gared Tuttle, who was recently sent to the Wall. 
 
@@ -95,13 +97,13 @@ Before the meeting, Ethan is informed that Mira could not get help from Mira if 
 
 If Ramsay is to met at the gate, he is annoyed that it is down. Ethan lets him and Lord Whitehill. He is given an ironwood shield, which he tests. He gazes on the smallfolk and Forrester men, before entering the great hall. If he is to be met in the great hall, the ironwood shield will be tested by him in there. 
 
- In the great hall, Ramsay asks Ethan to bend the knee, and Ethan can choose to do so or not. They begin to discuss the fate of the Forrester's Ironwood supply. He splits it 50/50 with the Whitehills to see who fares better. He also orders a garrison of twenty Whitehill men at Ironrath. Things seem to be going well until Ramsay begins to toy with Ethan's siblings, Talia and Ryon. Ethan convinces him to stand down (unless he was only provoke him to see what Ethan will do) and Ramsay seems to pull back. However, Ramsay suddenly stabs Ethan in the neck--leaving a fatal wound, and leaving no official heir as Ryon is taken as a ward by the Whitehills.} data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+ In the great hall, Ramsay asks Ethan to bend the knee, and Ethan can choose to do so or not. They begin to discuss the fate of the Forrester's Ironwood supply. He splits it 50/50 with the Whitehills to see who fares better. He also orders a garrison of twenty Whitehill men at Ironrath. Things seem to be going well until Ramsay begins to toy with Ethan's siblings, Talia and Ryon. Ethan convinces him to stand down (unless he was only provoke him to see what Ethan will do) and Ramsay seems to pull back. However, Ramsay suddenly stabs Ethan in the neck--leaving a fatal wound, and leaving no official heir as Ryon is taken as a ward by the Whitehills. data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
  The Lost Lords 
 
 Talia tells their brother Rodrik who is revealed to have survived the Red Wedding about Ethan's death. 
 
-His corpse is later seen on an Ironwood casket with his father on another one next to him. When the funeral starts, Rodrik will give a eulogy to his little brother before alighting his body. With the cremation taking place, Talia sings of losses of the two fallen lords.\The Lost Lords\\/ref} data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family Tree 
+His corpse is later seen on an Ironwood casket with his father on another one next to him. When the funeral starts, Rodrik will give a eulogy to his little brother before alighting his body. With the cremation taking place, Talia sings of losses of the two fallen lords.\The Lost Lords\\/ref data-rte-instance130814-192210441056cca61ed7e6d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family Tree 
 
  Image Gallery 
 
@@ -110,7 +112,7 @@ Ethan Forrester.jpg
 Ethan_Corpse.png
 Father_&amp;_Son.png
 
-\/gallery} data-rte-instance=130814-192210441056cca61ed7e6d srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Appearances 
+\/gallery data-rte-instance130814-192210441056cca61ed7e6d srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Appearances 
 
  Quotes 
 

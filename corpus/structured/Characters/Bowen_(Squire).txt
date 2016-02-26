@@ -10,7 +10,9 @@ Stabbed through the chest by Harys (player-determined)
 | Actor= Matthew Mercer
 |Culture = Northmen
 |Title = Bowen
-|DeathEp = \Iron From Ice\ or \The Ice Dragon\ (player-determined)}}}
+|DeathEp = \Iron From Ice\ or \The Ice Dragon\ (player-determined)
+
+
 
  
 
@@ -21,7 +23,7 @@ Stabbed through the chest by Harys (player-determined)
 | Actor= Matthew Mercer
 |Culture = Northmen
 |Title = Bowen
-|DeathEp  \Iron From Ice\ or \The Ice Dragon\ (player-determined)}}} data-rte-instance130814-97465498956cca676b2f96 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|DeathEp  \Iron From Ice\ or \The Ice Dragon\ (player-determined) data-rte-instance130814-97465498956cca676b2f96 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 Bowen is Norren's squire, and is in service to House Forrester. Biography 
 
@@ -31,9 +33,9 @@ Bowen became the squire of Norren, a respectable soldier in service of House For
 
 Bowen is among the forces of the Northern army camped outside The Twins for The Wedding of Edmure Tully. He and Gared are sent to fetch more wine during which Gared notices that the Frey soldiers are carrying weapons, Bowen notices that Gared is concerned but doesn't take it seriously and tells him to help carry the wine. When Gared realises what is about to happen he is faced with a choice: save the oblivious Bowen from the approaching soldier or race back to camp to try and warn Lord Forrester of the threat before it begins, if he chooses the latter then Bowen is killed as soon as Gared begins to leave. In this case, Norren will ask Gared if he left Bowen behind. 
 
-If Gared chooses to save Bowen then the two run back towards their camp but get separated in the chaos, however both manage to find Lord Forrester and Norren. After Lord Forrester is wounded Bowen and Norren stay behind to help Gregor and Gared escape.\Iron From Ice\\/ref} data-rte-instance130814-97465498956cca676b2f96 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Ice Dragon 
+If Gared chooses to save Bowen then the two run back towards their camp but get separated in the chaos, however both manage to find Lord Forrester and Norren. After Lord Forrester is wounded Bowen and Norren stay behind to help Gregor and Gared escape.\Iron From Ice\\/ref data-rte-instance130814-97465498956cca676b2f96 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Ice Dragon 
 
-If Bowen was saved by Gared, he appears during the Siege of Ironrath if Asher was saved at the harbor and Elissa Forrester poisoned herself to kill Ludd Whitehill. As Asheris fighting Harys, Bowen saves the Forrester lord from death by stabbing Harys in the back. Harys then quickly stabs Bowen through the chest with his sword, killing him.\The Ice Dragon\\/ref} data-rte-instance130814-97465498956cca676b2f96 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / If Asher does not poision Ludd or if Rodrik is saved, Bowen's fate is unknown. Appearances 
+If Bowen was saved by Gared, he appears during the Siege of Ironrath if Asher was saved at the harbor and Elissa Forrester poisoned herself to kill Ludd Whitehill. As Asheris fighting Harys, Bowen saves the Forrester lord from death by stabbing Harys in the back. Harys then quickly stabs Bowen through the chest with his sword, killing him.\The Ice Dragon\\/ref data-rte-instance130814-97465498956cca676b2f96 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / If Asher does not poision Ludd or if Rodrik is saved, Bowen's fate is unknown. Appearances 
 
  Image Gallery 
 
@@ -42,7 +44,7 @@ Bowen Death.png|Bowen getting stabbed. (Player determined)
 IFI Bowen and Gared Running.png|Bowen and Gared running back to the Forrester camp.
 IFI Bowen Kills Frey.png|Bowen kills a Frey soldier.
 IFI Bowen and Norren Stay Behind.png|Bowen stays behind with Norren.
-\/gallery} data-rte-instance=130814-97465498956cca676b2f96 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-97465498956cca676b2f96 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

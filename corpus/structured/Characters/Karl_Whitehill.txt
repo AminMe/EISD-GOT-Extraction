@@ -7,7 +7,9 @@ title=Karl whitehill
 |Place = Highpoint
 |Culture = Northmen
 |Death = Died of greyscale.
-|Image= Ebbert Whitehill Tree.png}}}
+|Image= Ebbert Whitehill Tree.png
+
+
 
  Lady Whitehill - mother 
 Gryff Whitehill - brother 
@@ -17,7 +19,7 @@ Ebbert Whitehill - brother
 |Place = Highpoint
 |Culture = Northmen
 |Death = Died of greyscale.
-|Image Ebbert Whitehill Tree.png}}} data-rte-instance130814-93411146056cca7218aed6 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Image Ebbert Whitehill Tree.png data-rte-instance130814-93411146056cca7218aed6 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -25,13 +27,13 @@ Karl Whitehill is an unseen character in Game of Thrones: A Telltale Games Serie
 
  Sons of Winter 
 
-While waiting for Ludd Whitehill to receive him in Highpoint, Rodrik Forrester notices a tapestry of the Whitehill family. Asking Gwyn about the three boys seen in it, Rodrik learns that Karl died of greyscale several years ago.\Sons of Winter\\/ref} data-rte-instance130814-93411146056cca7218aed6 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family Tree 
+While waiting for Ludd Whitehill to receive him in Highpoint, Rodrik Forrester notices a tapestry of the Whitehill family. Asking Gwyn about the three boys seen in it, Rodrik learns that Karl died of greyscale several years ago.\Sons of Winter\\/ref data-rte-instance130814-93411146056cca7218aed6 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family Tree 
 
  Image Gallery 
 
 
 SOW Whitehill Tapestry.png|Karl on a tapestry of the Whitehill family.
-\/gallery} data-rte-instance=130814-93411146056cca7218aed6 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-93411146056cca7218aed6 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

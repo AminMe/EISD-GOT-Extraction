@@ -7,7 +7,9 @@ title=House umber
 | lordGreatjon heir[[Smalljon allegiance=[[House stark
 | vassals=
 | age=
-| founder=}}}
+| founder=
+
+
 
  
 
@@ -25,7 +27,7 @@ Umber icon.png|HBO viewer's guide icon for House Umber.
 Umber-small.png|Small icon of House Umber from the HBO viewers guide.
 House Umber tourney.jpg|The banner of House Umber at the Tournament|Tourney of the Hand in \Cripples, Bastards and Broken Things\.
 Umber-map-marker.jpg|A map marker used to represent the forces of House Umber.
-\/gallery} data-rte-instance130814-4880650556cca94e85af0 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Family tree 
+\/gallery data-rte-instance130814-4880650556cca94e85af0 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Family tree 
 
  In the books 
 
@@ -37,7 +39,7 @@ House Umber's Heraldry in the books is different to the TV show. In the books, t
 
 Members: Lord Greatjon Umber, the current head of the family. Taken captive by the Freys in the Red Wedding. Grandson of Hoarfrost Umber, by Hoarfrost's eldest son. Smalljon Umber, the Greatjon's son and heir. Slain by the Boltons in the Red Wedding. Several unnamed children (at least one son and two daughters). Mors Crowfood Umber, the Greatjon's uncle, younger son of Hoarfrost Umber. Hother Whoresbane Umber, the Greatjon's uncle, youngest son of Hoarfrost Umber. See also (MAJOR spoilers from the books) References 
 
-} data-rte-instance130814-4880650556cca94e85af0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+ data-rte-instance130814-4880650556cca94e85af0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
  
 

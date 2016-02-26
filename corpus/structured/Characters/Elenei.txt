@@ -8,7 +8,9 @@ title=Elenei
 |Allegiance = House Durrandon
 |Place = 
 |Family = God of the Sea - fatherGoddess of the Wind - motherDurran - husband
-}}}
+
+
+
 
  
 
@@ -21,7 +23,7 @@ title=Elenei
 |Family = God of the Sea - father 
 Goddess of the Wind - mother 
 Durran - husband
-}}} data-rte-instance130814-145146974856cca731cf6ad classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-145146974856cca731cf6ad classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -37,6 +39,6 @@ According to legend, Elenei was daughter of the sea god and the wind goddess. Sh
 
 In rage, the gods sent a storm to destroy Durran's keep over Shipbreaker Bay. Declaring war against them, Durran built a new castle, larger and more formidable than the previous one, though this one too was destroyed by the divine storms. 
 
-Four more keeps Durran built and lost to the fury of the gods. Finally, the seventh castle, which Durran built with the aid of Bran the Builder, withstood the rage of the Elenei's parents and became known as Storm's End, while Durran earned the nickname of Durran's Godsgrief.\The Age of Heroes (Complete Guide to Westeros)\\/ref} data-rte-instance130814-145146974856cca731cf6ad classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /\The Stormlands (Histories &amp; Lore)\\/ref} data-rte-instance130814-145146974856cca731cf6ad classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / See also References 
+Four more keeps Durran built and lost to the fury of the gods. Finally, the seventh castle, which Durran built with the aid of Bran the Builder, withstood the rage of the Elenei's parents and became known as Storm's End, while Durran earned the nickname of Durran's Godsgrief.\The Age of Heroes (Complete Guide to Westeros)\\/ref data-rte-instance130814-145146974856cca731cf6ad classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /\The Stormlands (Histories &amp; Lore)\\/ref data-rte-instance130814-145146974856cca731cf6ad classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / See also References 
 
   Loading editor

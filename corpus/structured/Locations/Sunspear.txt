@@ -9,7 +9,9 @@ title45px|left|linkHouse martell sunspear 45px|right|link=House martell
 | places=Spear towerTower of the SunThe SandshipThe Threefold GateThe Shadow City
 | Founding=
 | Age=At least 1,000 years
-| Founder=}}}
+| Founder=
+
+
 
 Tower of the Sun 
 The Sandship 
@@ -17,7 +19,7 @@ The Threefold Gate
 The Shadow City
 | Founding=
 | Age=At least 1,000 years
-| Founder}}} data-rte-instance130814-167468842256cca872e4b17 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Sunspear\/b on the continent of Westeros\.}} data-rte-instance130814-167468842256cca872e4b17 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/1/11/Sunspear_Pin.png/revision/latest/scale-to-width-down/200?cb20110604195151 width200 height516 classimage thumb alignRight withCaption data-image-nameSunspear Pin.png data-image-keySunspear_Pin.png typeimage / Sunspear is the seat of House Martell and the capital of Dorne, southernmost of the Seven Kingdoms, located in the far southeast of the continent on the Summer Sea. It consists of a strong, fortified castle and a town that sprawls around it. It is a town built largely of mud and straw. The town's largest structure is Spear Tower, a 150-feet structure with a pinnacle of shining steel.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/sunspear\/ HBO viewers guide, season 2 map, Sunspear entry\/ref} data-rte-instance130814-167468842256cca872e4b17 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
+| Founder data-rte-instance130814-167468842256cca872e4b17 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Sunspear\/b on the continent of Westeros\. data-rte-instance130814-167468842256cca872e4b17 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/1/11/Sunspear_Pin.png/revision/latest/scale-to-width-down/200?cb20110604195151 width200 height516 classimage thumb alignRight withCaption data-image-nameSunspear Pin.png data-image-keySunspear_Pin.png typeimage / Sunspear is the seat of House Martell and the capital of Dorne, southernmost of the Seven Kingdoms, located in the far southeast of the continent on the Summer Sea. It consists of a strong, fortified castle and a town that sprawls around it. It is a town built largely of mud and straw. The town's largest structure is Spear Tower, a 150-feet structure with a pinnacle of shining steel.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/sunspear\/ HBO viewers guide, season 2 map, Sunspear entry\/ref data-rte-instance130814-167468842256cca872e4b17 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In the A Song of Ice and Fire novels, Sunspear is the principal stronghold of House Martell. It is located on the far-eastern coast of Dorne and consists of two strong towers, the Spear Tower and the Tower of the Sun, the latter of which contains the Prince of Dorne's throne room. The castle walls are sand-colored, setting it apart from the other major castles of Westeros. 
 

@@ -5,7 +5,9 @@ title=Waldron frey
 |Allegiance = house frey
 |place=The twins
 |family=Walder frey - fatherArya Stark - former betrothedShirei Frey - sister  Roslin Frey - half-sister  Stevron Frey - half-brother  Lothar Frey - half-brother  Olyvar Frey - half-brother  Ryger Rivers - bastard half-brother  Black Walder Rivers - bastard half-brother
-}}}
+
+
+
 
  Arya Stark - former betrothed 
 Shirei Frey - sister 
@@ -15,7 +17,7 @@ Shirei Frey - sister
  Olyvar Frey - half-brother 
  Ryger Rivers - bastard half-brother 
  Black Walder Rivers - bastard half-brother
-}}} data-rte-instance130814-196469544156cca7079d2f7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-196469544156cca7079d2f7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -23,7 +25,7 @@ Waldron Frey is an unseen character in Game of Thrones. He is one of the many so
 
  Season 1 
 
-When Catelyn Stark negotiates with Walder Frey to gain permission for her son Robb Stark and his army to pass The Twins, Walder demands that Arya Stark will marry his son Waldron. Catelyn and Robb accept his terms.\Baelor\\/ref} data-rte-instance130814-196469544156cca7079d2f7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family tree 
+When Catelyn Stark negotiates with Walder Frey to gain permission for her son Robb Stark and his army to pass The Twins, Walder demands that Arya Stark will marry his son Waldron. Catelyn and Robb accept his terms.\Baelor\\/ref data-rte-instance130814-196469544156cca7079d2f7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family tree 
 
  In the books 
 

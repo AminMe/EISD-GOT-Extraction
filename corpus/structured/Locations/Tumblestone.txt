@@ -12,4 +12,4 @@ See also
 it:Tumblestone
 ru:Камнегонка
 
- &nbsp; Loading editor
+  Loading editor

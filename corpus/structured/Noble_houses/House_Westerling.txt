@@ -11,7 +11,9 @@ title= 'house westerling
 | vassals=
 | age=
 | founder=
-|ImageSize = 250px}}}
+|ImageSize = 250px
+
+
 
  House Westerling is a vassal house that holds fealty to House Lannister of Casterly Rock. Their lands are north-east of Casterly Rock on the shores of the Sunset Sea. 
 
@@ -19,9 +21,9 @@ House Westerling is an old house that traces its descent back to the First Men a
 
  Season 2 
 
-House Westerling surrenders the Crag to Robb Stark when the Northern army invades the Westerlands during the War of the Five Kings.A Man Without Honor\/ref} data-rte-instance130814-190217793956cca9769efa7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Behind the scenes 
+House Westerling surrenders the Crag to Robb Stark when the Northern army invades the Westerlands during the War of the Five Kings.A Man Without Honor\/ref data-rte-instance130814-190217793956cca9769efa7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Behind the scenes 
 
-The Westerling family was originally intended to appear in Season 2, but during pre-production rewrites, Robb Stark's romantic interest began to get an increasingly different backstory than in the novels. Therefore it was decided to create the new character of TalisaMaegyr, a lady of noble birth from Volantis , to take the place of Jeyne Westerling as Robb's love interest.George R.R. Martin himself suggested the name away from Westerling to accommodate the changes from his source novels.Ryan, Maureen (September 4, 2012). http:\/\/www.huffingtonpost.com\/2012\/09\/04\/game-of-thrones-season-3-characters_n_1854918.html 'Game of Thrones' Season 3 Characters And Scoop From Creator George R.R. Martin. Huffington Post.\/ref} data-rte-instance130814-190217793956cca9769efa7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+The Westerling family was originally intended to appear in Season 2, but during pre-production rewrites, Robb Stark's romantic interest began to get an increasingly different backstory than in the novels. Therefore it was decided to create the new character of TalisaMaegyr, a lady of noble birth from Volantis , to take the place of Jeyne Westerling as Robb's love interest.George R.R. Martin himself suggested the name away from Westerling to accommodate the changes from his source novels.Ryan, Maureen (September 4, 2012). http:\/\/www.huffingtonpost.com\/2012\/09\/04\/game-of-thrones-season-3-characters_n_1854918.html 'Game of Thrones' Season 3 Characters And Scoop From Creator George R.R. Martin. Huffington Post.\/ref data-rte-instance130814-190217793956cca9769efa7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, House Westerling is said to have more pride than power, and more honor than sense. Kevan Lannister blames their descent in fortunes on their ill-advised marriage with House Spicer, a young house co-founded by a spice merchant and his wife, a maegi of the east, from whom many residents of Lannisport used to buy cures and love potions. Lord Gawen proposed that his daughter marry one of Kevan's sons, but Kevan had to reject the match due to their mixing with a lesser house. 
 
@@ -37,7 +39,7 @@ The books reveal that Lord Gawen's wife, Sybell Spicer, collaborates with Tywin 
 
 It is unclear whether Jeyne also collaborated with the Lannisters, or was forced by her mother, or unaware that her marriage to Robb was meant to break the pact with the Freys and thus provide them a legitimate excuse to perform the Red Wedding. She seems to mourn Robb genuinely, but this can be a pretense. 
 
-Jeyne's physical description in the first time she is introduced at A Storm of Swords is slightly different than her description at A Feast for Crows, most notably the shape of her hips. This led to fan theory that Jeyne was replaced by an impostor, the real Jeyne has escaped with Brynden Tully, and perhaps she is pregnant with Robb's child.Tower of the Hand: http:\/\/towerofthehand.com\/blog\/2010\/08\/02_heir_to_the_north\/ Heir to the North\/ref} data-rte-instance130814-190217793956cca9769efa7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Martin himself has repeatedly denied this, and said that it is simply a continuity error (much like how Renly's eye color shifted between blue and green in different books). 
+Jeyne's physical description in the first time she is introduced at A Storm of Swords is slightly different than her description at A Feast for Crows, most notably the shape of her hips. This led to fan theory that Jeyne was replaced by an impostor, the real Jeyne has escaped with Brynden Tully, and perhaps she is pregnant with Robb's child.Tower of the Hand: http:\/\/towerofthehand.com\/blog\/2010\/08\/02_heir_to_the_north\/ Heir to the North\/ref data-rte-instance130814-190217793956cca9769efa7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Martin himself has repeatedly denied this, and said that it is simply a continuity error (much like how Renly's eye color shifted between blue and green in different books). 
 
 Jeyne's brother Raynald, who was not in league with the Lannisters, also dies at the Red Wedding, being shot with several arrows after releasing Grey Wind. He jumps into the Trident and his body is never found, but it is unlikely he survived. 
 

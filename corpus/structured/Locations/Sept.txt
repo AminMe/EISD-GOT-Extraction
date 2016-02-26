@@ -1,4 +1,4 @@
-Great Sept of Baelor\, with a statue of the Father within.}} data-rte-instance130814-37295016656cca8b0bb1ba alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/5/54/Sept.jpg/revision/latest/scale-to-width-down/300?cb20130318150900 width300 height169 classimage thumb alignRight withCaption data-image-nameSept.jpg data-image-keySept.jpg  typeimage /
+Great Sept of Baelor\, with a statue of the Father within. data-rte-instance130814-37295016656cca8b0bb1ba alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/5/54/Sept.jpg/revision/latest/scale-to-width-down/300?cb20130318150900 width300 height169 classimage thumb alignRight withCaption data-image-nameSept.jpg data-image-keySept.jpg  typeimage /
 Septs are places of worship in the Faith of the Seven. They are traditionally decorated with seven-pointed stars and artistic depictions of the Seven, such as statues or sculptures.
 
 In the books
@@ -10,4 +10,4 @@ Great Sept of Baelor
 Sept at A Wiki of Ice and Fire
 
 
- &nbsp; Loading editor
+  Loading editor

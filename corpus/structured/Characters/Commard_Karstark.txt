@@ -9,7 +9,9 @@ title=Commard karstark
 | allegiance=House karstark
 | family=Beric karstark - fatherMara Karstark - motherRegan Karstark - wifeBerrican Karstark - sonPetyr Karstark - sonJon Karstark - sonLaurence Karstark - son
 | Titles =Lord 
-}}}
+
+
+
 
  
 
@@ -20,13 +22,13 @@ Petyr Karstark - son
 Jon Karstark - son 
 Laurence Karstark - son
 | Titles =Lord 
-}}} data-rte-instance130814-169982229156cca7e369785 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Commard Karstark is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. He is one of the earliest recorded members of House Karstark, and an ancient ancestor of Lord Rickard Karstark. Biography 
+ data-rte-instance130814-169982229156cca7e369785 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Commard Karstark is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. He is one of the earliest recorded members of House Karstark, and an ancient ancestor of Lord Rickard Karstark. Biography 
 
  Background 
 
 Commard Karstark was the first born son of Lord Beric Karstark and Lady Mara Karstark. He married Regan Umber at Karhold and she bore him five sons. Season 1 
 
-He has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms.\A Golden Crown\\/ref} data-rte-instance130814-169982229156cca7e369785 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+He has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms.\A Golden Crown\\/ref data-rte-instance130814-169982229156cca7e369785 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 Commard Karstark is referenced only in the TV adaptation of A Song of Ice and Fire novels, and has no corresponding counterpart in the books. References 
 

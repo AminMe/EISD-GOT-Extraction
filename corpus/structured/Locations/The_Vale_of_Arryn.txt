@@ -19,7 +19,9 @@ title=The vale of arryn
 | Founding=
 | Age=
 | Founder=
-}}}
+
+
+
 
 Old Gods of the Forest (minority)
 | Culture=Andal (majority)First Men (minority)
@@ -33,13 +35,13 @@ Old Gods of the Forest (minority)
 | Founding=
 | Age=
 | Founder=
-}}} data-rte-instance130814-208326931856cca8534c6ac classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-208326931856cca8534c6ac classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
  
 
-The Vale of Arryn, often referred to simply as the Vale, is one of the constituent regions of the Seven Kingdoms, and was formerly a sovereign nation known as the Kingdom of Mountain and Vale before the Targaryen Conquest. It is ruled by House Arryn from the Eyrie. Protected and surrounded by the Mountains of the Moon, the Vale is isolated from the rest of Westeros and is accessible only during warmer seasons.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-vale-of-arryn\/ HBO viewers guide, season 2 map, The Vale of Arryn entry\/ref} data-rte-instance130814-208326931856cca8534c6ac classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+The Vale of Arryn, often referred to simply as the Vale, is one of the constituent regions of the Seven Kingdoms, and was formerly a sovereign nation known as the Kingdom of Mountain and Vale before the Targaryen Conquest. It is ruled by House Arryn from the Eyrie. Protected and surrounded by the Mountains of the Moon, the Vale is isolated from the rest of Westeros and is accessible only during warmer seasons.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-vale-of-arryn\/ HBO viewers guide, season 2 map, The Vale of Arryn entry\/ref data-rte-instance130814-208326931856cca8534c6ac classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
 Bastards born in the Vale are given the surname Stone. 
 

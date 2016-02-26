@@ -3,7 +3,7 @@
 |rightimage=Crow mini shield.png
 |leftlink=House Targaryen
 |rightlink=Night's Watch
-}}
+
 
 {{Character
 | Title=Brynden Rivers
@@ -15,7 +15,7 @@
 | Aka   = Bloodraven
 | Allegiance = House Targaryen Night's Watch (later career)
 | Family =Aegon IV Targaryen - fatherDaeron II Targaryen - half-brotherDaenerys Targaryen - half-sisterDaemon Blackfyre - half-brotherDaemon II Blackfyre - half-nephewAegor Rivers - half-brotherShiera Seastar - half-sister
-| Titles =}}
+| Titles =
 Brynden Rivers is character mentioned in the first season and appearing in the Histories &amp; Lore feature. He is not expected to appear in the series, being long dead by the time it begins.
 Biography
 Background
@@ -44,7 +44,7 @@ During his time as Hand of the King, Brynden was not only an effective administr
 
 Aerys I died in 221 AL without issue, so he was succeeded by his younger brother Maekar Targaryen. For undisclosed reasons, Maekar distrusted Bloodraven, so when he was crowned he had him stripped of his position and confined to the Black Cells under the Red Keep for an unknown amount of time. Maekar ruled for twelve years and was then succeeded by his own son, Aegon V Targaryen, also known as Egg.  During the Great Council that put Aegon V on the throne, Aenys Blackfyre had sent word from the Free Cities that he wanted to put himself forth as a legitimate candidate.  Bloodraven promised him safe passage and Aenys accepted in good faith, but as soon as he set foot in King's Landing, the Gold Cloaks seized him and dragged him to the Red Keep, where Bloodraven promptly executed him.  This was decried as utterly dishonorable, but Bloodraven said he willingly paid the price to remove one more potential Blackfyre pretender, and accepted exile to the Night's Watch as punishment.  In 233 AL, the year he was crowned, Aegon V had Bloodraven sent north as part of the honor guard that escorted his older brother, Maester Aemon, to the Wall. In time, Bloodraven rose to become the new Lord Commander. He served long and well in this position, but one day he went out alone ranging beyond the Wall, and mysteriously never returned.
 
-Bloodraven&nbsp;was a prominent figure in Westeros during the events of the Tales of Dunk and Egg novellas and appears in the third story in the series, The Mystery Knight. He would thus appear in any potential TV adaptation of the prequels.
+Bloodravenwas a prominent figure in Westeros during the events of the Tales of Dunk and Egg novellas and appears in the third story in the series, The Mystery Knight. He would thus appear in any potential TV adaptation of the prequels.
 
 See also
 * AWOIAF (MAJOR spoilers from the books)

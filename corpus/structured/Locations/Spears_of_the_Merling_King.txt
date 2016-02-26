@@ -2,7 +2,7 @@ The Spears of the Merling King are a geographic feature in Blackwater Bay. They 
 
 History
 Season 3
-Following the wildfire explosion that threw him into the ocean during the Battle of the Blackwater, Davos Seaworth washes ashore to one of the spears. After having suffered from hunger, drought, and exposure for several days, he's finally rescued by Salladhor Saan's crew men.\Valar Dohaeris\\/ref} data-rte-instance130814-171322485356cca939ac278 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Following the wildfire explosion that threw him into the ocean during the Battle of the Blackwater, Davos Seaworth washes ashore to one of the spears. After having suffered from hunger, drought, and exposure for several days, he's finally rescued by Salladhor Saan's crew men.\Valar Dohaeris\\/ref data-rte-instance130814-171322485356cca939ac278 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, the Spears of the Merling King are named after the Merling King, a deity commonly revered by sailors. For every spear that breaks the surface a dozen more lie just beneath. For this reason, it is considered quite dangerous for any ship to sail into the Spears, as the hidden monts will rip the bottom of any passing vessel.
@@ -15,4 +15,4 @@ References
 
 zh:人鱼王之矛
 
- &nbsp; Loading editor
+  Loading editor

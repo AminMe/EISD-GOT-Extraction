@@ -1,7 +1,7 @@
 {{Heraldry
 |image=House-Greyjoy-Shield-Icon.PNG
 |link=House Greyjoy
-}}
+
 {{Character
 | Title=Aeron Greyjoy
 | Image=
@@ -17,13 +17,13 @@
 | Allegiance=House Greyjoy
 | Family= Balon Greyjoy - brotherEuron Greyjoy - brotherVictarion Greyjoy - brotherAlannys Greyjoy - sister-in-lawRodrik Greyjoy - nephewMaron Greyjoy - nephewYara Greyjoy - nieceTheon Greyjoy - nephew
 | Religion=Drowned God
-| Actor=}}
+| Actor=
 
 Aeron Greyjoy is a character in the sixth season.http://watchersonthewall.com/sources-report-euron-cast-major-scene-filmed-today-in-ballintoy-harbour/  His appearance in Season 6 is confirmed but the actor portraying him is not yet known.  
 
 Biography
 Background
-Aeron Greyjoy is the youngest brother of Balon Greyjoy, head of House Greyjoy and the Lord Reaper of Pyke. He is also the younger brother of Euron&nbsp;and an uncle of Yara and Theon Greyjoy. He is a Drowned Priest in service to the Drowned God.http://viewers-guide.hbo.com/game-of-thrones/#!/guide/houses/greyjoy/
+Aeron Greyjoy is the youngest brother of Balon Greyjoy, head of House Greyjoy and the Lord Reaper of Pyke. He is also the younger brother of Euronand an uncle of Yara and Theon Greyjoy. He is a Drowned Priest in service to the Drowned God.http://viewers-guide.hbo.com/game-of-thrones/#!/guide/houses/greyjoy/
 
 Family tree
 House Greyjoy family tree
@@ -38,7 +38,7 @@ In his youth, Aeron was an unruly ribald drunk who often came at odds with his b
 
 Aeron sometimes has nightmares about a door with screeching hinges, which he associates with his brother Euron.
 
-In the novel, when Theon returns to the Pyke&nbsp;from the North, it is Aeron who greets him first and almost immediately baptizes him at his arrival.
+In the novel, when Theon returns to the Pykefrom the North, it is Aeron who greets him first and almost immediately baptizes him at his arrival.
 
 Martin repeatedly gets asked in Q&amp;A sessions how Damphair is pronounced, to which he has repeatedly had to explain that it is simply damp hair because he has long hair and wades into the sea much of the time (a surprisingly large number of people for some reason assumed that the ph that happens to be next to each other are meant to be pronounced as an F).
 

@@ -1,6 +1,6 @@
 
 Ironman's Bay is a large area of water off the west coast of Westeros. The bay is formed by the Flint Cliffs and Cape Kraken in the north, the Cape of Eagles to the east and the north coast of the Westerlands to the south. The coastlands of the North, the Riverlands and the Westerlands all border the bay.
-Most famously, the bay contains the Iron Islands, and its waters are controlled by the Iron Fleet.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/pyke\/ HBO viewers guide, season 1 map, Pyke entry\/ref} data-rte-instance130814-204290729456cca907ba98b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/pyke\/ HBO viewers guide, season 2 map, Pyke entry\/ref} data-rte-instance130814-204290729456cca907ba98b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Most famously, the bay contains the Iron Islands, and its waters are controlled by the Iron Fleet.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/pyke\/ HBO viewers guide, season 1 map, Pyke entry\/ref data-rte-instance130814-204290729456cca907ba98b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/pyke\/ HBO viewers guide, season 2 map, Pyke entry\/ref data-rte-instance130814-204290729456cca907ba98b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /
 
 In the books
 In the A Song of Ice and Fire novels, the largest ports on Ironman's Bay are Lordsport on the island of Pyke and Seagard in the Riverlands.
@@ -20,4 +20,4 @@ es:Bahía del Hierro
 ru:Залив Железных Людей
 zh:铁民湾
 
- &nbsp; Loading editor
+  Loading editor

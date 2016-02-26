@@ -11,7 +11,9 @@ title=House jordane
 | vassals=
 | age=
 | founder=
-| imagesize=150}}}
+| imagesize=150
+
+
 
  
 
@@ -21,7 +23,7 @@ House Jordayne's sigilis a golden quill on checkered dark and light green. Histo
 
  Season 4 
 
- House Jordayne's banners are amongst those of the Dornish envoy that travels to King's Landing to attend the wedding of King Joffrey Baratheon and Margaery Tyrell.\Two Swords\\/ref} data-rte-instance130814-34030701256cca9a92fbad classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+ House Jordayne's banners are amongst those of the Dornish envoy that travels to King's Landing to attend the wedding of King Joffrey Baratheon and Margaery Tyrell.\Two Swords\\/ref data-rte-instance130814-34030701256cca9a92fbad classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, House Jordayne are also vassals to House Martell. They are ruled by Lord Trebor Jordayne. Prince Oberyn is accompanied to King's Landing by Lord Trebor's daughter and heir Myria Jordayne. 
 

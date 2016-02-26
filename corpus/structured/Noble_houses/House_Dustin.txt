@@ -14,7 +14,9 @@ title=House dustin
 | age=
 | founder=
 | ancestral weapon=
-|ImageSize =250px }}}
+|ImageSize =250px 
+
+
 
  House Dustin of Barrowton is a vassal house that holds fealty to House Stark of Winterfell. They control Barrowton, a settlement in the Barrowlands, north of Blazewater Bay. 
 
@@ -22,9 +24,9 @@ The only known member of House Dustin is the Lady of the house, Barbrey Ryswell.
 
  Season 2 
 
-While posing as a cupbearer to Tywin Lannister at Harrenhal, Arya Stark claims to be from Maidenpool, the seat of House Mooton. However, Arya is not able to identify House Mooton's sigil to Tywin. She admits to being from the North instead, claiming to be a stonemason's daughter from Barrowton. She describes House Dustin's sigil perfectly, convincing Tywin.\The Ghost of Harrenhal\\/ref} data-rte-instance130814-83633321356cca95f40575 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+While posing as a cupbearer to Tywin Lannister at Harrenhal, Arya Stark claims to be from Maidenpool, the seat of House Mooton. However, Arya is not able to identify House Mooton's sigil to Tywin. She admits to being from the North instead, claiming to be a stonemason's daughter from Barrowton. She describes House Dustin's sigil perfectly, convincing Tywin.\The Ghost of Harrenhal\\/ref data-rte-instance130814-83633321356cca95f40575 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
-Tywin later criticizes Arya's pronunciation of My lord. He says that she sounds high born but Arya counters that her mother served as a handmaid to Lady Dustin for many years and taught her how to speak properly.\A Man Without Honor\\/ref} data-rte-instance130814-83633321356cca95f40575 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Tywin later criticizes Arya's pronunciation of My lord. He says that she sounds high born but Arya counters that her mother served as a handmaid to Lady Dustin for many years and taught her how to speak properly.\A Man Without Honor\\/ref data-rte-instance130814-83633321356cca95f40575 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, House Dustin are the rulers of Barrowton. They have a vassal house of their own, House Stout of Goldgrass. House Dustin is ruled by Lady Barbrey Dustin, widow of Willam Dustin, who died at the end of Robert's Rebellion, killed by the Mad King's surviving Kingsguard at the Mountains of Dorne. 
 

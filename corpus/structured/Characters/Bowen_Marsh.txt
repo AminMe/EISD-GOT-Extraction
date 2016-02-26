@@ -1,7 +1,7 @@
 {{Heraldry
 |image=Night's-Watch-Main-Shield.PNG
 |link=Night's Watch
-}}{{Character
+{{Character
 | Title=Bowen Marsh
 | Image= Marsh promo.png
 | Season=5
@@ -16,7 +16,7 @@
 | Allegiance=The Night's Watch (by oath)House Marsh (by birth)
 | Family=
 | Actor=Michael Condron
-| Culture = Crannogmen}}Quote|And why do you think the farmers abandoned those villages? Because the wildlings raided them for years, cut them down! Just like they did this boy's people!|Bowen Marsh to Samwell Tarly|Kill the BoyBowen Marsh is a recurring character in the&nbsp;fifth season&nbsp;who had already been mentioned in the first season. He is played by Michael Condron.&nbsp;Bowen Marsh is the First Steward of the Night's Watch.
+| Culture = CrannogmenQuote|And why do you think the farmers abandoned those villages? Because the wildlings raided them for years, cut them down! Just like they did this boy's people!|Bowen Marsh to Samwell Tarly|Kill the BoyBowen Marsh is a recurring character in thefifth seasonwho had already been mentioned in the first season. He is played by Michael Condron.Bowen Marsh is the First Steward of the Night's Watch.
 
 Biography
 Background
@@ -43,7 +43,7 @@ Quotes
 Quote|For the Watch.|Bowen Marsh after stabbing Jon Snow during the mutiny at Castle Black.|Mother's Mercy
 
 Behind the scenes
-During the first season it was believed Brian Fortune was playing Marsh, and&nbsp;Dennis McKeever was playing Othell Yarwyck, based on comments made by Fortune and McKeever's character delivering one of Yarwyck's lines from the books. However, this assumption was then dispelled: McKeever reappeared in Seasons 2 and 3 in the Great Ranging, even though Yarwyck didn't participate in the books; in Season 4, Fortune's character was identified as Yarwyck; and Michael Condron was subsequently cast as Marsh for the fifth season, which means Fortune's character was always Yarwyck, while McKeever was simply playing an unnamed Night's Watch officer.
+During the first season it was believed Brian Fortune was playing Marsh, andDennis McKeever was playing Othell Yarwyck, based on comments made by Fortune and McKeever's character delivering one of Yarwyck's lines from the books. However, this assumption was then dispelled: McKeever reappeared in Seasons 2 and 3 in the Great Ranging, even though Yarwyck didn't participate in the books; in Season 4, Fortune's character was identified as Yarwyck; and Michael Condron was subsequently cast as Marsh for the fifth season, which means Fortune's character was always Yarwyck, while McKeever was simply playing an unnamed Night's Watch officer.
 
 In the books
 In the A Song of Ice and Fire novels, Bowen Marsh is described as being red and round, leading Dolorous Edd to nickname him the Old Pomegranate. He is is an important senior figure in the Watch, reporting directly to Lord Commander Jeor Mormont and is just below him in the command hierarchy of the Watch. When Mormont and the rest of the Night's Watch ride out to investigate the wildling menace in the so-called Great Ranging, he remains in command at Castle Black. Though not explicitly stated, Bowen Marsh hails from House Marsh, a noble house from the Neck sworn to House Reed.

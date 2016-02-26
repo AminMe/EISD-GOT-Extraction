@@ -1,7 +1,7 @@
 {{Heraldry
 |image=Kingsguard-Main-Shield.PNG
 |link=Kingsguard
-}}
+
 {{Character
 | Title = Boros Blount
 | Image = Boros_Blount.png
@@ -12,7 +12,7 @@
 | Status = Alive
 | Allegiance = House BlountThe Kingsguard
 | Titles = Ser
-| Death  |Actor  Unidentified|Aka = The FatThe Kingsguard (Histories &amp; Lore)}}
+| Death  |Actor  Unidentified|Aka = The FatThe Kingsguard (Histories &amp; Lore)
 Quote|Maybe I'll pay you a visit tonight after my uncle passes out. How'd you like that?... You wouldn't? That's all right. Ser Meryn and Ser Boros will hold you down.|King Joffrey Baratheon threatens to rape Sansa Stark on her wedding night|Second Sons (episode)
 
 Boros Blount is a recurring background character in the first, second and third seasons. He is played by an unidentified extra and is first identified by name in Blackwater. Ser Boros Blount is a member of the Kingsguard and defends King Joffrey Baratheon as he defended King Robert Baratheon before him.

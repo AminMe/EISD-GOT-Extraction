@@ -5,7 +5,9 @@ title=Desmond crakehall
 |titles=Lord of crakehall
 |allegiance=House crakehall
 |appearances=\Mhysa\
-|Actor = maro drobnic}}}
+|Actor = maro drobnic
+
+
 
  
 

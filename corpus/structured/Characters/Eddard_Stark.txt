@@ -1,7 +1,7 @@
 {{Heraldry
 |image = House-Stark-Main-Shield.PNG
 |link = House Stark
-|rightimage  House-Stark-Main-Shield.PNG|rightlink  House Stark}}
+|rightimage  House-Stark-Main-Shield.PNG|rightlink  House Stark
 
 {{Character
 | Title=Eddard Stark
@@ -20,7 +20,7 @@
 | Religion=Old Gods of the Forest
 | Actor=Sean Bean (Adult)Sebastian Croft (Young, flashback in Season 6)
 |Culture = Northmen
-}}
+
 
 Quote|The man who passes the sentence should swing the sword.|Eddard Stark|Winter is Coming (episode)
 
@@ -40,14 +40,14 @@ Eddard is married to Lady Catelyn of House Tully. Though they barely knew one an
 
 Eddard is the second son of Lord Rickard Stark. Lord Rickard served King Aerys II Targaryen as Warden of the North. Eddard's older brother Brandon was Rickard's heir. Eddard also has a younger sister Lyanna and a younger brother Benjen. Eddard is a stoic, dutiful, and honorable man and is considered to embody the values of the North.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/eddard-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Eddard Stark entry
 
-[[File:Ned Catelyn wedding.png|thumb|left|Ned's wedding to [[Catelyn Tully]]]]Eddard is a trusted, close friend and counselor of King Robert Baratheon. He supported Robert's play for the throne by acting as a general in several major battles. Eddard's sister Lyanna, who was betrothed to Robert, was kidnapped by Prince Rhaegar Targaryen, sparking the war. Brandon protested the kidnapping, but his attempt to bring Rhaegar to justice failed. Lord Rickard was summoned to court in King's Landing by Aerys, and both Brandon and Rickard were executed by the Mad King.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/rickard-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Rickard Stark entry Their deaths left Eddard to inherit Rickard's responsibilities, serving King Robert instead. Brandon had been betrothed to Catelyn, and Eddard also inherited his brother's bride.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/brandon-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Brandon Stark entry Lyanna died in Eddard's arms during the conflict.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/lyanna-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Lyanna Stark entry Despite his happy family life, Eddard still felt the losses of his family quite keenly, often visiting his sister's tomb to light a candle for her as his daughter, Sansa, remembered.Sons of the Harpy
+thumb|left|Ned's wedding to [[Catelyn TullyEddard is a trusted, close friend and counselor of King Robert Baratheon. He supported Robert's play for the throne by acting as a general in several major battles. Eddard's sister Lyanna, who was betrothed to Robert, was kidnapped by Prince Rhaegar Targaryen, sparking the war. Brandon protested the kidnapping, but his attempt to bring Rhaegar to justice failed. Lord Rickard was summoned to court in King's Landing by Aerys, and both Brandon and Rickard were executed by the Mad King.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/rickard-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Rickard Stark entry Their deaths left Eddard to inherit Rickard's responsibilities, serving King Robert instead. Brandon had been betrothed to Catelyn, and Eddard also inherited his brother's bride.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/brandon-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Brandon Stark entry Lyanna died in Eddard's arms during the conflict.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/lyanna-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Lyanna Stark entry Despite his happy family life, Eddard still felt the losses of his family quite keenly, often visiting his sister's tomb to light a candle for her as his daughter, Sansa, remembered.Sons of the Harpy
 
 Eddard's other younger sibling, Benjen, still lives and is a member of the Night's Watch, an institution of which Eddard is a keen supporter.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/benjen-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Benjen Stark entry He also appeared to have troubles keeping his bannermen in line as Stannis Baratheon remembered his brother, Robert, saying the Northmen were difficult to control, even with Eddard on his side.The House of Black and White
 
 Eddard wields a Valyrian greatsword named Ice (an heirloom of House Stark) which he uses on ceremonial occasions.
 
 Season 1
-thumb|right|Eddard passes sentence on [[Will.]]
+thumb|right|Eddard passes sentence on Will.
 Eddard Stark executes a deserter from the Night's Watch named Will. Will tries to warn Eddard about the return of the White Walkers, but Eddard dismisses him as a madman. Eddard's sons Robb, Bran, and Jon accompany him to the execution. Eddard makes a point of telling Bran that the man who passes the sentence should swing the sword and take responsibility for his own decisions.Winter is Coming
 
 On the way back to Winterfell, the party finds a dead stag and a dead female direwolf. The direwolf was survived by her litter of six pups. Eddard's first instinct is to kill them, but Jon argues that as the direwolf is the sigil of House Stark, this may be an omen. Eddard agrees to let his children look after them on the condition that they clean, raise, and feed them with no help from the servants.
@@ -57,7 +57,7 @@ A raven bears news of the death of Jon Arryn, Eddard's childhood mentor, to Wint
 Bran is found comatose at the base of a disused tower following an apparent climbing accident. Eddard reluctantly decides to leave as planned, to his wife's distress. Eddard, Arya, Sansa, and the royal party head south to King's Landing. At their parting Eddard tells Jon that, though he does not have Eddard's name, he has his blood. He also promises to tell him about his mother the next time they meet.The Kingsroad
 
 thumb|left|210px|Eddard and his son Jon Snow.
-On the Kingsroad south to the capital, King Robert calls a halt to discuss troubling news from Essos. Robert's spies have learned of Daenerys Targaryen's marriage to Khal Drogo, whose khalasar is reported to number over one hundred thousand warriors. Eddard points out that the Dothraki cannot cross the Narrow Sea, as they have no ships, but Robert is concerned that the Seven Kingdoms will soon face another war. Robert also asks about&nbsp;Wylla, the mother of Jon Snow, but Eddard quickly deflects the line of questioning.
+On the Kingsroad south to the capital, King Robert calls a halt to discuss troubling news from Essos. Robert's spies have learned of Daenerys Targaryen's marriage to Khal Drogo, whose khalasar is reported to number over one hundred thousand warriors. Eddard points out that the Dothraki cannot cross the Narrow Sea, as they have no ships, but Robert is concerned that the Seven Kingdoms will soon face another war. Robert also asks aboutWylla, the mother of Jon Snow, but Eddard quickly deflects the line of questioning.
 
 thumb|210px|Eddard and Arya at the Crossroads Inn.
 thumb|left|Eddard before he executes Sansa's direwolf, Lady.
@@ -88,21 +88,21 @@ Robert dies and Joffrey takes the throne. Cersei tears up the letter proclaiming
 thumb|Eddard in the black cells of the Red Keep.
 Eddard is incarcerated in the black cells under the Red Keep. He is visited by Varys who is disguised as a gaoler. Varys is bemused by Eddard telling Cersei that he knew about the parentage of her children and adds that his mercy is what killed Robert. He also informs Ned says that Catelyn no longer has Tyrion in custody. Eddard asks if he will be killed and Varys replies, Not today.The Pointy End Varys returns to urge Eddard to confess to treason in exchange for exile in the Night's Watch. Eddard refuses until Varys elucidates that the Lannisters still have Sansa as a hostage - Arya has escaped. Varys adds that the Lannisters need him alive so they can bargain with his son Robb, who is leading an army to confront them in the Riverlands.Baelor
 
-[[File:Ned's execution.jpg|thumb|left|Eddard is executed by Ser Ilyn Payne in Baelor.]]
-Eddard is taken to the front steps of the&nbsp;Great Sept of Baelor. He spots Arya crouching beside the statue of Baelor the Blessed&nbsp;and signals Yoren, who is also present amidst the gathered crowd. Having relented to Varys' request, Eddard&nbsp;confesses that he intended to seize the throne for himself and&nbsp;recognizes&nbsp;Joffrey as the rightful king. Joffrey, however, ignores his mother's counsel that Eddard be exiled and orders his immediate execution. Before Ser Ilyn Payne swings the Lord of Winterfell's own sword Ice, Eddard notices that Yoren has taken Arya. Sansa&nbsp;watches as Payne decapitates Eddard before the shocked Cersei and council can intervene, as the baying crowd cheers. Before&nbsp;he dies, Eddard mutters a few last unheard words. Yoren is able to smuggle Arya out of the city.Fire and Blood
+thumb|left|Eddard is executed by Ser Ilyn Payne in Baelor.
+Eddard is taken to the front steps of theGreat Sept of Baelor. He spots Arya crouching beside the statue of Baelor the Blessedand signals Yoren, who is also present amidst the gathered crowd. Having relented to Varys' request, Eddardconfesses that he intended to seize the throne for himself andrecognizesJoffrey as the rightful king. Joffrey, however, ignores his mother's counsel that Eddard be exiled and orders his immediate execution. Before Ser Ilyn Payne swings the Lord of Winterfell's own sword Ice, Eddard notices that Yoren has taken Arya. Sansawatches as Payne decapitates Eddard before the shocked Cersei and council can intervene, as the baying crowd cheers. Beforehe dies, Eddard mutters a few last unheard words. Yoren is able to smuggle Arya out of the city.Fire and Blood
 
 thumb|226px|Eddard's head on a spike
 Eddard's head is placed on a spike above the Traitor's Walk in the Red Keep. Joffrey torments Sansa by forcing her to look upon it as well as the other slain members of her household. She overcomes her revulsion and is able to maintain her composure, preventing his satisfaction at seeing her upset. Eddard's death launches the Seven Kingdoms into the devastating War of the Five Kings, with the North and the Riverlands seceding from the authority of the Iron Throne and Robb Stark proclaimed as the King in the North.
 
 Season 2
-The return of his father's remains for proper burial is one of the demands that his son Robb Stark, the new King in the North, tells Alton Lannister to deliver to Queen Cersei Lannister in King's Landing.The North Remembers Cersei scoffs at&nbsp;thumb|left|The Silent Sisters deliver a box containing Ned Stark's bones.Robb's declaration of independence when his demands are read to the Small Council, but Tyrion insists that they should at least return the bones of Robb's father.The Night Lands
+The return of his father's remains for proper burial is one of the demands that his son Robb Stark, the new King in the North, tells Alton Lannister to deliver to Queen Cersei Lannister in King's Landing.The North Remembers Cersei scoffs atthumb|left|The Silent Sisters deliver a box containing Ned Stark's bones.Robb's declaration of independence when his demands are read to the Small Council, but Tyrion insists that they should at least return the bones of Robb's father.The Night Lands
 
 When Catelyn Stark and Petyr Baelish both approach the army camp of Renly Baratheon in the Stormlands for negotiations, Baelish delivers Ned's bones to Catelyn, in a box escorted by a pair of Silent Sisters. The delivery was a gesture of goodwill by Tyrion, in the hope that this would smooth the way to achieving the liberation of his brother Jaime from Stark captivity. Catelyn mourns over Ned's remains.Garden of Bones
 
 Season 3
 Bran Stark has a dream at one point where he hears his father's voice, repeating his previous words of encouragement that Bran will become a better archer with practice, and scolding Jon and Robb for laughing at him.Dark Wings, Dark Words
 
-In a conversation with Lady Olenna Tyrell, Varys&nbsp;states that he admired Lord Eddard, and Lady Olenna retorts that Lord Stark had many admirers, none of which came to his rescue, not knowing that Varys had tried and failed to have Ned spared. Varys replies that he&nbsp;regrets that he was unable to save Ned from his execution, and that he wishes to help Sansa&nbsp;as a means of restitution for this failure.And Now His Watch is Ended
+In a conversation with Lady Olenna Tyrell, Varysstates that he admired Lord Eddard, and Lady Olenna retorts that Lord Stark had many admirers, none of which came to his rescue, not knowing that Varys had tried and failed to have Ned spared. Varys replies that heregrets that he was unable to save Ned from his execution, and that he wishes to help Sansaas a means of restitution for this failure.And Now His Watch is Ended
 
 Theon Greyjoy, after reflecting on his betrayal of the Starks and his abandonment by his father, comes to the conclusion that Ned Stark was the closest thing to a father he ever had, realizing that his real father died in King's Landing. The realization that he had betrayed Ned's memory and the only people who ever truly treated him like family moves Theon to tears.And Now His Watch is Ended
 
@@ -110,21 +110,21 @@ During her time with the Brotherhood Without Banners, Arya stark learns from Tho
 
 When Jaime reveals to Brienne of Tarth his true motives behind killing the Mad King, Brienne asks him why he didn't tell Ned Stark of his motives. He angrily rants that the honorable Ned Stark would never have believed him. Jaime believes that Ned judged him guilty the moment he laid eyes on him.Kissed by Fire
 
-Shortly before they are massacred at the wedding of Edmure Tully and Roslin Frey, Robb and his wife Talisa&nbsp;consider naming their unborn child after Ned if it is a boy. Catelyn also reveals to Roose Bolton that at their wedding Ned forbade the traditional bedding, fearing it would be bad luck if he punched a man on their wedding night.The Rains of Castamere
+Shortly before they are massacred at the wedding of Edmure Tully and Roslin Frey, Robb and his wife Talisaconsider naming their unborn child after Ned if it is a boy. Catelyn also reveals to Roose Bolton that at their wedding Ned forbade the traditional bedding, fearing it would be bad luck if he punched a man on their wedding night.The Rains of Castamere
 
 Season 4
 
-When Bran is on the other side of the Wall, he wargs into a Heart tree&nbsp;and sees a vision of his father sitting in the Godswood of Winterfell with his sword Ice, and in the black cells of the Red Keep.The Lion and the Rose
+When Bran is on the other side of the Wall, he wargs into a Heart treeand sees a vision of his father sitting in the Godswood of Winterfell with his sword Ice, and in the black cells of the Red Keep.The Lion and the Rose
 
 When Tyrion Lannister is given the opportunity to take the black if he admits to assassinating Joffrey in his trial and then pleads for mercy, he rightly points out that Ned Stark was promised the same and was later executed nonetheless.The Laws of Gods and Men
 
-When Sansa reveals her identity to the lords of the Vale, Lord Yohn Royce&nbsp;mentions that Ned was a good friend of his, and that they used to hunt together.The Mountain and the Viper
+When Sansa reveals her identity to the lords of the Vale, Lord Yohn Roycementions that Ned was a good friend of his, and that they used to hunt together.The Mountain and the Viper
 
 Season 5
 As she prepares to maim Sansa, Myranda quips that Ramsay Bolton needs her alive because her father Ned was the Warden of the North, and with all of Ned's other children either dead or believed dead, Sansa is essentially Ned's heir. However, Theon begins to atone for the role he played in the downfall of House Stark by killing Myranda before she can harm Sansa and helping her escape the clutches of the deranged Ramsay.Mother's Mercy
 
 Relationships
-See:&nbsp;Eddard and Catelyn Stark
+See:Eddard and Catelyn Stark
 
 Appearances
 Season One Appearances|yes|yes|yes|yes|yes|yes|yes|yes|yes|note

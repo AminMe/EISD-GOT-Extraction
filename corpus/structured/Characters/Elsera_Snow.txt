@@ -13,7 +13,9 @@ title=Elsera snow
 |Actor = Nina Yndis
 |Age =  
 |Death = 
-|DeathEp = }}}
+|DeathEp = 
+
+
 
  
 
@@ -31,7 +33,7 @@ Thorren Forrester - paternal grandfather
 |Actor = Nina Yndis
 |Age = 
 |Death = 
-|DeathEp  }}} data-rte-instance130814-56031497756cca6579b923 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|DeathEp   data-rte-instance130814-56031497756cca6579b923 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 Elsera Snow is the bastard daughter of Lord Gregor Forrester and the sister of Josera Snow, both of whom live in the North Grove. She is a witch capable of performing blood magic rituals. She also controls an army of wildling warriors, that are heavily implied to be undead. Biography 
 

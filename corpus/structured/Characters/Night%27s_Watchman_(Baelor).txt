@@ -4,7 +4,9 @@ title=Night's watchman
 |appearances=\Baelor\
 |Status = alive
 |allegiance=the night's watch
-|actor=Marcus lamb}}}
+|actor=Marcus lamb
+
+
 
  
 
@@ -16,7 +18,7 @@ A Night's Watchman is an unnamed minor character in the first season. He is play
 
  Season 1 
 
-He congratulates Jon Snow for saving the life of Lord Commander Jeor Mormontand says that he earned the sword Mormont had given him, Longclaw.\Baelor\\/ref} data-rte-instance130814-21973260856cca79e141ea classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+He congratulates Jon Snow for saving the life of Lord Commander Jeor Mormontand says that he earned the sword Mormont had given him, Longclaw.\Baelor\\/ref data-rte-instance130814-21973260856cca79e141ea classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

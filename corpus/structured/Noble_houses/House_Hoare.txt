@@ -10,7 +10,9 @@ title=House hoare
 | allegiance=Sovereign
 | vassals=House greyjoyHouse HarlawHouse TullyHouse MallisterHouse BlackwoodHouse BrackenHouse Frey
 | Age=
-| Founder=}}}
+| Founder=
+
+
 
 House Harlaw 
 House Tully 
@@ -19,7 +21,7 @@ House Blackwood
 House Bracken 
 House Frey
 | Age=
-| Founder}}} data-rte-instance130814-31357706256cca95607cad classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+| Founder data-rte-instance130814-31357706256cca95607cad classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 House Hoare is an extinct Great House of Westeros. It ruled over the Iron Islands and the Riverlands when Aegon I Targaryen invaded the Seven Kingdoms. Their sigil depicts per saltire and with two heavy gold chains crossing between a silver longship on black, a dark green pine on white, a cluster of red grapes on gold, and a black raven flying in a blue sky. History 
 

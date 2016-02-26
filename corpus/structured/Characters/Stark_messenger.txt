@@ -11,7 +11,9 @@ title=Stark messenger
 | place=
 | allegiance=House stark
 | family=
-| actor=Moe dunford}}}
+| actor=Moe dunford
+
+
 
  A Stark Messenger is an unnamed minor character in the second season. He is played by guest star Moe Dunford and only appears in The Prince of Winterfell. Biography 
 
@@ -19,7 +21,7 @@ title=Stark messenger
 
 This soldier is a messenger for House Stark. Season 2 
 
-While Robb and Talisa are walking back from The Crag, he rides out to Robb, to announce that Jaime Lannister has escaped.\The Prince of Winterfell\\/ref} data-rte-instance130814-60583988656cca7e74d0f7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+While Robb and Talisa are walking back from The Crag, he rides out to Robb, to announce that Jaime Lannister has escaped.\The Prince of Winterfell\\/ref data-rte-instance130814-60583988656cca7e74d0f7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

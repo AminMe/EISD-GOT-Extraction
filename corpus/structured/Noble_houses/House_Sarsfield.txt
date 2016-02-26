@@ -12,7 +12,9 @@ title=House sarsfield
 | cadets=
 | age=
 | founder=
-| weapon=}}}
+| weapon=
+
+
 
  House Sarsfield is a noble house of the Westerlands. They are vassals to House Lannister. Members Ser Eldrick Sarsfield, a knight. In the books 
 

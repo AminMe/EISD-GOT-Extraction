@@ -11,7 +11,9 @@ title=Deepwood motte
 | Founding=
 | Age=
 | Founder=
-}}}
+
+
+
 
  
 
@@ -25,19 +27,19 @@ Drowned God
 | Founding=
 | Age=
 | Founder=
-}}} data-rte-instance130814-128202326556cca87f25b33 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-128202326556cca87f25b33 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
-Kill the Boy\\.}} data-rte-instance130814-128202326556cca87f25b33 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/f/fe/505_Bolton_map_2.jpg/revision/latest/scale-to-width-down/250?cb20150606014935 width250 height140 classimage thumb withCaption data-image-name505 Bolton map 2.jpg data-image-key505_Bolton_map_2.jpg typeimage / Deepwood Motte\ on the continent of Westeros\.}} data-rte-instance130814-128202326556cca87f25b33 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/7/70/Deepwood_Motte_Pin.png/revision/latest/scale-to-width-down/200?cb20110605114837 width200 height516 classimage thumb alignRight withCaption data-image-nameDeepwood Motte Pin.png data-image-keyDeepwood_Motte_Pin.png typeimage / 
+Kill the Boy\\. data-rte-instance130814-128202326556cca87f25b33 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/f/fe/505_Bolton_map_2.jpg/revision/latest/scale-to-width-down/250?cb20150606014935 width250 height140 classimage thumb withCaption data-image-name505 Bolton map 2.jpg data-image-key505_Bolton_map_2.jpg typeimage / Deepwood Motte\ on the continent of Westeros\. data-rte-instance130814-128202326556cca87f25b33 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/7/70/Deepwood_Motte_Pin.png/revision/latest/scale-to-width-down/200?cb20110605114837 width200 height516 classimage thumb alignRight withCaption data-image-nameDeepwood Motte Pin.png data-image-keyDeepwood_Motte_Pin.png typeimage / 
 
 Deepwood Motte is the stronghold of House Glover, a vassal house holding fealty to House Stark of Winterfell. The castle is located north-west of Winterfell in the Wolfswood, near the coast of the Bay of Ice. History 
 
  Season 2 
 
-Having declared himself King, Balon Greyjoy sends his daughter Yara with a fleet of thirty ships with orders to seize Deepwood Motte. Yara replies that she always wanted a castle of her own.\What is Dead May Never Die\\/ref} data-rte-instance130814-128202326556cca87f25b33 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+Having declared himself King, Balon Greyjoy sends his daughter Yara with a fleet of thirty ships with orders to seize Deepwood Motte. Yara replies that she always wanted a castle of her own.\What is Dead May Never Die\\/ref data-rte-instance130814-128202326556cca87f25b33 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
-Later, Yara visits Winterfell, having successfully captured the castle of Deepwood Motte. She points out to Theon that her castle lies close to the sea and can be easily taken and reinforced at will, while Winterfell is too far inland to be held indefinitely. She urges him to abandon the castle and return to Deepwood Motte with her before heading home, but he rejects her advice.\The Prince of Winterfell\\/ref} data-rte-instance130814-128202326556cca87f25b33 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Later, Yara visits Winterfell, having successfully captured the castle of Deepwood Motte. She points out to Theon that her castle lies close to the sea and can be easily taken and reinforced at will, while Winterfell is too far inland to be held indefinitely. She urges him to abandon the castle and return to Deepwood Motte with her before heading home, but he rejects her advice.\The Prince of Winterfell\\/ref data-rte-instance130814-128202326556cca87f25b33 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, Deepwood Motte is a motte-and-bailey wooden castle rather than a more formidable stone construction. In past centuries, the castle and the surrounding area were prey to long-ranging raids by the ironborn, but it has been some considerable time since this was the case. The castle is not located on the coast due to the muddy tidal flats along the coast. Instead it is built on a hill which commands the surrounding area. 
 

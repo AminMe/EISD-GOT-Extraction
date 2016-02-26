@@ -2,7 +2,9 @@ title=Nail
 |Season = game of thrones: a telltale games series
 |first=\Sons winter\
 |status=alive
-|allegiance=Second sons}}}
+|allegiance=Second sons
+
+
 
  
 
@@ -12,7 +14,7 @@ Nail is a background character in Game of Thrones: A Telltale Games Series. He i
 
  Sons of Winter 
 
-After showing Asher Forrester and Beskha to their tent, Croft informs Nail that they have two more soldiers in their ranks.\Sons of Winter\\/ref} data-rte-instance130814-19279568356cca7e9760a7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+After showing Asher Forrester and Beskha to their tent, Croft informs Nail that they have two more soldiers in their ranks.\Sons of Winter\\/ref data-rte-instance130814-19279568356cca7e9760a7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In theA Song of Ice and Firenovels, Nail is a member of the Second Sons, similarly to his role in the game series. He serves as an apprentice to the drunkenblacksmith and armorer known asHammer. 
 

@@ -9,7 +9,9 @@ title=Horn hill
 | places=
 | founding=
 | age=
-| founder=}}}
+| founder=
+
+
 
  Horn Hill is the seat of House Tarly in the Reach. It is located southeast of Highgarden. Its current Lord is Randyll Tarly. In the books 
 

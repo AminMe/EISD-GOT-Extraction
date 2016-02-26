@@ -11,7 +11,9 @@ title=Driftmark
 | Founding=
 | Age=More than 500 years
 | Founder=
-}}}
+
+
+
 
 Castle
 | Population=
@@ -23,11 +25,11 @@ Castle
 | Founding=
 | Age=More than 500 years
 | Founder=
-}}} data-rte-instance130814-114215399556cca8f99affe classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Driftmark is an island in Blackwater Bay near Dragonstone. It is the seat of House Velaryon.\A Golden Crown\\/ref} data-rte-instance130814-114215399556cca8f99affe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
+ data-rte-instance130814-114215399556cca8f99affe classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Driftmark is an island in Blackwater Bay near Dragonstone. It is the seat of House Velaryon.\A Golden Crown\\/ref data-rte-instance130814-114215399556cca8f99affe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / History 
 
  Season 1 
 
-The Lineages and Histories of the Great Houses of the Seven Kingdoms mentions that the firstborn son of Orys Baratheon married Monica Velaryon at Driftmark when he was seventeen.\A Golden Crown\\/ref} data-rte-instance130814-114215399556cca8f99affe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / See also References 
+The Lineages and Histories of the Great Houses of the Seven Kingdoms mentions that the firstborn son of Orys Baratheon married Monica Velaryon at Driftmark when he was seventeen.\A Golden Crown\\/ref data-rte-instance130814-114215399556cca8f99affe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / See also References 
 
  
 

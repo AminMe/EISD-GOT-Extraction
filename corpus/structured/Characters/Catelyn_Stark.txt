@@ -3,7 +3,7 @@
 |rightimage=Stark shield icon.png
 |leftlink=House Tully
 |rightlink=House Stark
-}}
+
 
 {{Character
 | Title=Catelyn Stark
@@ -18,10 +18,10 @@
 | Family= Hoster Tully - fatherMinisa Tully - motherBrynden Tully - uncleLysa Tully - sisterJon Arryn - brother-in-lawRobin Arryn - nephewPetyr Baelish - brother-in-lawEdmure Tully - brotherRoslin Frey - sister-in-lawEddard Stark - husbandRickard Stark - father-in-lawBrandon Stark - brother-in-law, formerly betrothedLyanna Stark - sister-in-lawBenjen Stark - brother-in-lawRobb Stark - sonSansa Stark - daughterArya Stark - daughterBran Stark - sonRickon Stark - sonTalisa Maegyr - daughter-in-lawTyrion Lannister - son-in-law
 | Religion=Faith of the Seven
 | Culture=Andal
-| ActorMichelle Fairley|Death  Throat slit by Black Walder Rivers|DeathEp = The Rains of Castamere}}
+| ActorMichelle Fairley|Death  Throat slit by Black Walder Rivers|DeathEp = The Rains of Castamere
 Quote|Show them how it feels to lose what they love.|Catelyn Stark|The Rains of Castamere (episode)
 
-Catelyn Stark,&nbsp;née Tully, is a major character in the first, second and third seasons. She is played by starring cast member Michelle Fairley, and debuts in the series premiere. She was played in the unaired pilot by Jennifer Ehle but the role was recast.
+Catelyn Stark,née Tully, is a major character in the first, second and third seasons. She is played by starring cast member Michelle Fairley, and debuts in the series premiere. She was played in the unaired pilot by Jennifer Ehle but the role was recast.
 
 Catelyn is from House Tully and married into House Stark. She is a devoted mother and is fiercely protective of her children. Her husband, Eddard Stark, is the Lord paramount of the North. He becomes Hand of the King to Robert Baratheon and travels south to the capital. Following an assassination attempt on her son Bran, she follows Eddard to warn him that House Lannister were involved. On her return journey she chances upon Tyrion Lannister and takes him into custody. This incites further conflict between the houses and Eddard is arrested for treason when Cersei Lannister becomes queen regent following the unexpected death of Robert. Catelyn is forced to release Tyrion when he proves his innocence in a trial by combat. She joins her son, Robb Stark, who has gathered the Stark banners to fight for Eddard's freedom. Eddard is executed on the order of King Joffrey Baratheon and Catelyn promises Robb that they will avenge him. While at the wedding of her brother to Roslin Frey, Catelyn is killed along with her son, his wife, and most of the Stark bannermen.
 
@@ -29,7 +29,7 @@ Biography
 Background
 Catelyn was born into House Tully and is the eldest child of Lord Hoster Tully. She has a younger brother, Edmure, and a younger sister, Lysa. Petyr Baelish was fostered with the Tullys and Catelyn grew up with him. She was betrothed to marry Brandon Stark of Winterfell, but he was brutally murdered by the Mad King, Aerys II Targaryen after Prince Rhaegar had kidnapped Brandon's sister Lyanna. Catelyn instead married Brandon's brother, Eddard. Though they barely knew one another when they wed they have formed a strong and loving marriage.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/guide/houses/stark/catelyn-stark/ HBO viewers guide, season 2 guide to houses, House Stark - Catelyn Stark entry
 
-[[File:Ned Catelyn wedding.png|thumb|left|Catelyn's wedding to Eddard Stark]]Catelyn and Eddard have five children: Robb, Sansa, Arya, Bran and Rickon. She is unhappy with Eddard's bastard son Jon Snow living with her family in Winterfell, the only source of friction between her and her husband.
+thumb|left|Catelyn's wedding to Eddard StarkCatelyn and Eddard have five children: Robb, Sansa, Arya, Bran and Rickon. She is unhappy with Eddard's bastard son Jon Snow living with her family in Winterfell, the only source of friction between her and her husband.
 
 Catelyn has some independent political influence. A former ward of her father's, Petyr Baelish, known as Littlefinger, is the king's master of coin and one of his closest advisers in King's Landing.
 
@@ -98,14 +98,14 @@ Robb ignores their pleas, and he has Lord Karstark brought out to the courtyard 
 
 Robb and his advisors meet with Black Walder and Lothar Frey to discuss an alliance for his planned attack on Casterly Rock. The Freys carry Walder Frey's demands for an alliance, which includes a formal apology from Robb, the castle Harrenhal and all of its lands and incomes, and for Edmure Tully to marry Roslin, one of his daughters. Edmure is reluctant to marry a woman he has never met, but is eventually convinced by the group to go through with the arrangement.The Climb
 
-In the Riverlands, en route to The Twins, Robb Stark's army is forced to make camp, their progress delayed by heavy rain. Catelyn warns them that the prickly&nbsp;Lord Walder Frey&nbsp;will take the delay as a deliberate insult to him, but Edmure Tully&nbsp;points out that Frey is getting the wedding he wanted; his sister counters that he is getting a wedding, but not the one he wanted, glaring at her son and his wife as she says so, pointing out that Frey wanted one of his daughters wed to a king. Robb retorts that Edmure is the best match House Frey&nbsp;has been offered in its history.The Bear and the Maiden Fair
+In the Riverlands, en route to The Twins, Robb Stark's army is forced to make camp, their progress delayed by heavy rain. Catelyn warns them that the pricklyLord Walder Freywill take the delay as a deliberate insult to him, but Edmure Tullypoints out that Frey is getting the wedding he wanted; his sister counters that he is getting a wedding, but not the one he wanted, glaring at her son and his wife as she says so, pointing out that Frey wanted one of his daughters wed to a king. Robb retorts that Edmure is the best match House Freyhas been offered in its history.The Bear and the Maiden Fair
 
-Robb's army arrives at the Twins, the castle seat of House Frey, for his Edmure's wedding. Enduring&nbsp;Lord Walder Frey's insults directed at him and his wife, Robb makes a public apology to Lord Frey's daughters and granddaughters for breaking his promise to marry one of them. Frey accepts the apology and offers the Starks and their men his hospitality.
+Robb's army arrives at the Twins, the castle seat of House Frey, for his Edmure's wedding. EnduringLord Walder Frey's insults directed at him and his wife, Robb makes a public apology to Lord Frey's daughters and granddaughters for breaking his promise to marry one of them. Frey accepts the apology and offers the Starks and their men his hospitality.
 
-thumb|Catelyn kills Lord Frey's wife moments before being killed herself.That night Edmure is introduced to his bride Roslin Frey, discovering much to his relief that she is a beauty. The wedding and the feast that follows it are quite celebratory and lively affairs, with all the participants in high spirits. As the celebrations reach their heights Lord Walder calls for the bedding ceremony. Robb agrees and the bride and groom are carried off to their wedding bed, Roslin carried off by the male guests and followed closely by Edmure, who is collected by the Frey women. After they leave and the festivities begin to wind down, Catelyn becomes suspicious when she notices&nbsp;Black Walder Rivers close the banquet hall doors and the musicians in the gallery&nbsp;begin playing The Rains of Castamere- the&nbsp;song commemorating&nbsp;House Lannister's decisive and brutal victory against the rebellious House Reyne of Castamere. Walder rises to make a toast to Robb, and Catelyn, seated beside Lord Roose Bolton,&nbsp;notices that the latter is wearing mail under his clothing. Realising they are in a trap, Catelyn slaps Roose across the face and screams a warning to Robb, but by then it is too late. Lord Walder signals his men to attack. In what becomes known as the infamous Red Wedding, Lothar draws a knife and repeatedly stabs the pregnant Talisa in the stomach, killing her. Before he can react, Robb is shot by the musicians with crossbows several times and falls to the ground. Numerous other Stark men are killed by the crossbow bolts or set&nbsp;upon by Frey&nbsp;soldiers.
+thumb|Catelyn kills Lord Frey's wife moments before being killed herself.That night Edmure is introduced to his bride Roslin Frey, discovering much to his relief that she is a beauty. The wedding and the feast that follows it are quite celebratory and lively affairs, with all the participants in high spirits. As the celebrations reach their heights Lord Walder calls for the bedding ceremony. Robb agrees and the bride and groom are carried off to their wedding bed, Roslin carried off by the male guests and followed closely by Edmure, who is collected by the Frey women. After they leave and the festivities begin to wind down, Catelyn becomes suspicious when she noticesBlack Walder Rivers close the banquet hall doors and the musicians in the gallerybegin playing The Rains of Castamere- thesong commemoratingHouse Lannister's decisive and brutal victory against the rebellious House Reyne of Castamere. Walder rises to make a toast to Robb, and Catelyn, seated beside Lord Roose Bolton,notices that the latter is wearing mail under his clothing. Realising they are in a trap, Catelyn slaps Roose across the face and screams a warning to Robb, but by then it is too late. Lord Walder signals his men to attack. In what becomes known as the infamous Red Wedding, Lothar draws a knife and repeatedly stabs the pregnant Talisa in the stomach, killing her. Before he can react, Robb is shot by the musicians with crossbows several times and falls to the ground. Numerous other Stark men are killed by the crossbow bolts or setupon by Freysoldiers.
 
 thumb|Catelyn is slain
-Catelyn, having been wounded by a crossbow bolt, crawls across the floor and seizes out from under Walder's table&nbsp;his cowering&nbsp;young wife,&nbsp;Joyeuse. Catelyn holds a knife to the&nbsp;girl's throat and threatens to kill her if Walder&nbsp;does not negotiate an end to the attack. She demands&nbsp;that Robb, who merely lingers despondent and heartbroken&nbsp;beside his wife's corpse,&nbsp;be allowed to leave. Walder refuses her, dismissing his wife with the comment I'll find another&nbsp;and Roose Bolton, who had fled the hall when the&nbsp;massacre&nbsp;began, seizes Robb, saying The Lannister's send their regards, before stabbing him in the heart. Robb's last word is Mother and he maintains contact with her as he collapses to the floor. Mad with grief at the death of her firstborn son, Catelyn kills&nbsp;Walder's wife in retaliation before Black Walder cuts Catelyn's throat.The Rains of Castamere
+Catelyn, having been wounded by a crossbow bolt, crawls across the floor and seizes out from under Walder's tablehis coweringyoung wife,Joyeuse. Catelyn holds a knife to thegirl's throat and threatens to kill her if Walderdoes not negotiate an end to the attack. She demandsthat Robb, who merely lingers despondent and heartbrokenbeside his wife's corpse,be allowed to leave. Walder refuses her, dismissing his wife with the comment I'll find anotherand Roose Bolton, who had fled the hall when themassacrebegan, seizes Robb, saying The Lannister's send their regards, before stabbing him in the heart. Robb's last word is Mother and he maintains contact with her as he collapses to the floor. Mad with grief at the death of her firstborn son, Catelyn killsWalder's wife in retaliation before Black Walder cuts Catelyn's throat.The Rains of Castamere
 
 Season 4
 
@@ -119,7 +119,7 @@ Season Three Appearances|yes|yes|yes|yes|yes|yes|yes||yes
 Image gallery
 
 CatelynS1Promo.jpg|Promotional image of Lady Catelyn in Season 1
-Catelyn Stark.jpg|Catelyn Stark in the [[first season]].
+Catelyn Stark.jpg|Catelyn Stark in the first season.
 Catelyn 1x01.jpg|Catelyn in the godswood at Winterfell in Winter is Coming.
 House Stark and retainers.jpg|Catelyn and her family await the arrival of the king in Winter is Coming.
 Eddard and Petyr 1x03.png|Cat stopes Eddard Stark assaulting Petyr Baelish when Baelish lures Eddard to a brothel.
@@ -159,7 +159,7 @@ DEFAULTSORT:Stark, Catelyn
 
 de:Catelyn Stark
 es:Catelyn Stark
-ru:Кейтилин Старк&nbsp;
-de:Catelyn Stark&nbsp;
+ru:Кейтилин Старк
+de:Catelyn Stark
 pl:Catelyn Tully
 it:Catelyn Stark

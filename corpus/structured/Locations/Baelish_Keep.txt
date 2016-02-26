@@ -11,11 +11,13 @@ title=Baelish keep
 | founding=
 | age=
 | founder=Baelish (founder)
-}}}
+
+
+
 
  Baelish Keep is a castle in the Vale of Arryn. It is the seat of House Baelish a recently established House that once held fealty to House Arryn of the Vale before the War of the Five Kings. House Baelish was founded by Petyr Baelish's great-grandfather, a common sellsword from Braavos, and it was his son (Petyr's grandfather) who was awarded the small keep the most minor of lordships, just a few stony acres in the northernmost and smallest of the peninsulas known as The Fingers. 
 
-House Baelish is now one of the major houses, being the ruling house of The Riverlands, and ruling protectors of the Vale. The castle is located north-east of the Eyrie, on the smallest of The Fingers' peninsula on the coast of the Narrow Sea. The castle has no official name. House Baelish (Histories &amp; Lore)\/ref} data-rte-instance130814-84229097656cca89df2883 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
+House Baelish is now one of the major houses, being the ruling house of The Riverlands, and ruling protectors of the Vale. The castle is located north-east of the Eyrie, on the smallest of The Fingers' peninsula on the coast of the Narrow Sea. The castle has no official name. House Baelish (Histories &amp; Lore)\/ref data-rte-instance130814-84229097656cca89df2883 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / History 
 
 The current head of House Baelish and Lord of Baelish Keep is Petyr Baelish, great-grandson of a Braavosi sellsword who founded House Baelish, and grandson of a hedge knight who was rewarded the castle. There is no maester appointed to the castle, and was never given an official name. 
 

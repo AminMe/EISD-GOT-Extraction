@@ -9,7 +9,9 @@ title=Greywater watch
 | places=
 | founding=
 | age=
-| founder=}}}
+| founder=
+
+
 
  Greywater Watch is a castle in the Neck. It is ruled by House Reed, a vassal house holding fealty to House Stark of Winterfell. Greywater Watch is nigh-untraceable because it moves. 
 

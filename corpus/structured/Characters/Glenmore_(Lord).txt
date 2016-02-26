@@ -8,7 +8,9 @@ title=Lord glenmore
 | Allegiance=House Glenmore
 | Family=Elaena Glenmore - daughterArthur Glenmore - son
 |Culture = Northmen
-|Place = Rillwater Crossing}}}
+|Place = Rillwater Crossing
+
+
 
  \Sons of Winter\ 
 \A Nest of Vipers\
@@ -19,7 +21,7 @@ title=Lord glenmore
 | Family=Elaena Glenmore - daughter 
 Arthur Glenmore - son
 |Culture = Northmen
-|Place  Rillwater Crossing} data-rte-instance130814-150091688456cca71564371 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Place  Rillwater Crossing data-rte-instance130814-150091688456cca71564371 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 Lord Glenmore is the head of House Glenmore. He is mentioned in Game of Thrones: A Telltale Games Series. Biography 
 

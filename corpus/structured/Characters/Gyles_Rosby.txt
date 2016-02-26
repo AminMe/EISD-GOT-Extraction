@@ -14,7 +14,7 @@
 | Allegiance=House RosbyHouse Baratheon of King's Landing
 | Family=
 | Actor=
-}}
+
 Quote|Lord Gyles.|Sansa Stark greets Gyles Rosby|The Pointy EndGyles Rosby is a recurring background character in the first season. He was played by an unidentified extra and debuts in Cripples, Bastards and Broken Things. He is the Lord of Rosby and the head of House Rosby, a noble house of the Crownlands, who is constantly present at the royal court in the Red Keep.
 
 Biography
@@ -42,4 +42,4 @@ See also
 References
 Reflist|2
 DEFAULTSORT:Rosby, Gyles
- &nbsp; Loading editor
+  Loading editor

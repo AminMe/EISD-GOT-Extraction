@@ -11,7 +11,9 @@ title=House royce
 | Vassals=House Tollett
 | Age=
 | Founder=
-| ImageSize=150}}}
+| ImageSize=150
+
+
 
 Bronze King (former)
 | Seat=Runestone
@@ -22,7 +24,7 @@ Bronze King (former)
 | Vassals=House Tollett
 | Age=
 | Founder=
-| ImageSize150}}} data-rte-instance130814-3352763556cca95ba5018 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Yohn Royce\ (at left), current head of House Royce, wearing a cloak displaying the rune-filled sigil of his family.}} data-rte-instance130814-3352763556cca95ba5018 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/d/dc/Waynwood_and_Royce_costumes.jpg/revision/latest/scale-to-width-down/250?cb20150129023828 width250 height141 classimage thumb withCaption data-image-nameWaynwood and Royce costumes.jpg data-image-keyWaynwood_and_Royce_costumes.jpg typeimage / House Royce is a vassal house which holds fealty to House Arryn of the Vale. Their seat is Runestone, located east of the Eyrie, on the coast of the Narrow Sea. Its head is the veteran Lord Yohn Royce. 
+| ImageSize150 data-rte-instance130814-3352763556cca95ba5018 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Yohn Royce\ (at left), current head of House Royce, wearing a cloak displaying the rune-filled sigil of his family. data-rte-instance130814-3352763556cca95ba5018 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/d/dc/Waynwood_and_Royce_costumes.jpg/revision/latest/scale-to-width-down/250?cb20150129023828 width250 height141 classimage thumb withCaption data-image-nameWaynwood and Royce costumes.jpg data-image-keyWaynwood_and_Royce_costumes.jpg typeimage / House Royce is a vassal house which holds fealty to House Arryn of the Vale. Their seat is Runestone, located east of the Eyrie, on the coast of the Narrow Sea. Its head is the veteran Lord Yohn Royce. 
 
 House Royce's heraldry consists of a pattern of black pebbles on a bronze field surrounded by runes in the Old Tongue of the First Men. Their words are We Remember. Members Lord Yohn Royce, known as Bronze Yohn, Lord of Runestone Ser Robar Royce, his son, a member of Renly I's Kingsguard. Killed in self-defense by Brienne of Tarth. Ser Waymar Royce, his son, a Ranger of the Night's Watch. Killed by a White Walker. Image gallery 
 
@@ -30,7 +32,7 @@ House Royce's heraldry consists of a pattern of black pebbles on a bronze field 
 House Royce.png|The icon of House Royce from the HBO viewer's guide.
 Royce sigil runes.jpg|The sigil of House Royce contains runes from the Old Tongue of the First Men.
 
-\/gallery} data-rte-instance130814-3352763556cca95ba5018 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Family tree 
+\/gallery data-rte-instance130814-3352763556cca95ba5018 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Family tree 
 
  In the books 
 

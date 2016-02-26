@@ -5,7 +5,9 @@ title=House ashford
 |seat=Ashford 
 |region=The reach
 | lord=lord ashford
-|allegiance=House tyrell}}}
+|allegiance=House tyrell
+
+
 
  
 
@@ -13,7 +15,7 @@ House Ashford is a vassal house from the Reach that holds fealty to House Tyrell
 
  Season 5 
 
-Samwell Tarly presents some paperwork to Lord Commander Jon Snow consisting of requests to various noble Houses to send new recruits to the Night's Watch. Few Houses can spare any men during the War of the Five Kings so the Watch is left scraping the bottom of the barrel: the requests are mostly to minor lords that Jon says he hasn't even heard of, including Lord Ashford, Lady Caulfield, Lord Smallwood, Lord Mayzen, and Lord Wibberley.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref} data-rte-instance130814-124010738856cca998c4aed classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Samwell Tarly presents some paperwork to Lord Commander Jon Snow consisting of requests to various noble Houses to send new recruits to the Night's Watch. Few Houses can spare any men during the War of the Five Kings so the Watch is left scraping the bottom of the barrel: the requests are mostly to minor lords that Jon says he hasn't even heard of, including Lord Ashford, Lady Caulfield, Lord Smallwood, Lord Mayzen, and Lord Wibberley.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref data-rte-instance130814-124010738856cca998c4aed classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 The Tourney of Ashford, hosted by House Ashford in 209 AL, 90 years before the A Song of Ice and Fire novels begin, is where Ser Duncan the Tall first met young Aegon V Targaryen (known as Egg), beginning the Tales of Dunk and Egg. See also (spoilers from the books) 
 

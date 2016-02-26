@@ -12,7 +12,9 @@ title=House blackmont
 | age=
 | founder=
 | imagesize=250px
-}}}
+
+
+
 
  House Blackmont is a vassal house which holds fealty to House Martell of Dorne. Their seat is the eponymous castle of Blackmont. 
 
@@ -20,7 +22,7 @@ House Blackmont's sigil is a flying vulture proper, with a baby in its talons, o
 
  Season 4 
 
- A House Blackmont banner is seen amongst the delegation of Dornish lords who accompany Prince Oberyn Martell to King's Landing. Podrick identifies their banner by name.\Two Swords\\/ref} data-rte-instance130814-191641648556cca9859ea5b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Members Lord Blackmont, head of the house and Lord of Blackmont In the books 
+ A House Blackmont banner is seen amongst the delegation of Dornish lords who accompany Prince Oberyn Martell to King's Landing. Podrick identifies their banner by name.\Two Swords\\/ref data-rte-instance130814-191641648556cca9859ea5b classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Members Lord Blackmont, head of the house and Lord of Blackmont In the books 
 
 In the A Song of Ice and Fire novels, House Blackmont's castle-seat (also named Blackmont) is located in the far west of Dorne, in the Red Mountains. It is further up the Torentine River from Starfall (seat of House Dayne), which is located closer to the river's mouth. 
 

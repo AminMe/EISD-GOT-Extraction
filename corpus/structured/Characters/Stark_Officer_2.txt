@@ -4,7 +4,9 @@ title=Stark officer
 |appearances=\The north remembers\
 |status=uncertain
 |allegiance=House stark
-|actor=unidentified}}}
+|actor=unidentified
+
+
 
  For other articles see Stark officer. 
 
@@ -14,7 +16,7 @@ A Stark officer is an unnamed background character in the second season. He is p
 
  Season 2 
 
-He is part of Robb Stark's army fighting in the Riverlands. He is present when Robb reads his peace terms to the captive Alton Lannister.\The North Remembers\\/ref} data-rte-instance130814-20644460856cca83caac4a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+He is part of Robb Stark's army fighting in the Riverlands. He is present when Robb reads his peace terms to the captive Alton Lannister.\The North Remembers\\/ref data-rte-instance130814-20644460856cca83caac4a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

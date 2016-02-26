@@ -12,7 +12,9 @@ title=Imry florent
 | Family=Axell Florent - brotherSelyse Florent - sisterShireen Baratheon - nieceStannis Baratheon - brother-in-law
 | Religion=R'hllor
 | Actor=Gordon Mahn
-}}}
+
+
+
 
  
 
@@ -23,7 +25,7 @@ Shireen Baratheon - niece
 Stannis Baratheon - brother-in-law
 | Religion=R'hllor
 | Actor=Gordon Mahn
-}}} data-rte-instance130814-145291211256cca69ba69e6 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-145291211256cca69ba69e6 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -33,7 +35,7 @@ Imry Florent is a minor character in the second season. He is played by guest st
 
 Ser Imry Florent is a member of House Florent of Brightwater Keep, a noble house sworn to House Tyrell of the Reach. However, due to his sister Selyse's marriage to Stannis, the Florents declare for Stannis in the War of the Five Kings. Season 2 
 
-Ser Imry accompanies Stannis aboard the King's flagship, the Fury. After much of Stannis' fleet is destroyed with wildfire, Stannis orders his forces to disembark. Ser Imry warns Stannis that hundreds will die trying to reach the shore. The King replies that it will actually be thousands, but is the first to climb down to a ferry boat.\Blackwater (episode)|Blackwater\\/ref} data-rte-instance130814-145291211256cca69ba69e6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+Ser Imry accompanies Stannis aboard the King's flagship, the Fury. After much of Stannis' fleet is destroyed with wildfire, Stannis orders his forces to disembark. Ser Imry warns Stannis that hundreds will die trying to reach the shore. The King replies that it will actually be thousands, but is the first to climb down to a ferry boat.\Blackwater (episode)|Blackwater\\/ref data-rte-instance130814-145291211256cca69ba69e6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
 As the King's flagship was not engulfed in wildfire during the battle, Ser Imry likely survived the ensuing conflict and retreated upon the defeat of Stannis' army. Appearances 
 
@@ -43,6 +45,6 @@ As the King's flagship was not engulfed in wildfire during the battle, Ser Imry 
 
 In the A Song of Ice and Fire novels, Ser Imry Florent, like the rest of House Florent, declares for Stannis after the death of Renly Baratheon. He's given command of Stannis' fleet as Lord High Captain and leads it blindly into Blackwater Rushinstead of sending scouts like Ser Davos advised. He was killed in the battle when the flagship Fury is engulfed in wildfire. See also (MAJOR spoilers from the books) References 
 
-} data-rte-instance130814-145291211256cca69ba69e6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+ data-rte-instance130814-145291211256cca69ba69e6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
 de:Imry Florent pl:Imry Florent ru:Имри Флорент zh:伊姆瑞·佛罗伦  Loading editor

@@ -3,7 +3,9 @@ title=House moore
 |Motto = 
 |seat=
 |Region the vale
-|allegiance=House arryn}}}
+|allegiance=House arryn
+
+
 
  
 

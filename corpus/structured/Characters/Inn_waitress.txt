@@ -4,7 +4,9 @@ title=Inn waitress
 |appearances=\The house of black and white\
 |status=alive
 |place=The vale arryn
-|actor=Irene kelleher}}}
+|actor=Irene kelleher
+
+
 
  An inn waitress is an unnamed minor character in the fifth season. She is played by guest star Irene Kelleher and only appears in The House of Black and White. Biography 
 
@@ -12,7 +14,7 @@ title=Inn waitress
 
 She is a waitress who works at an inn in the Vale of Arryn. Season 5 
 
-She serves ale to Brienne of Tarth, Podrick Payne, Petyr Baelish and Sansa Stark during their respective stays at the inn.\The House of Black and White\\/ref} data-rte-instance130814-26555692956cca7adb1702 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+She serves ale to Brienne of Tarth, Podrick Payne, Petyr Baelish and Sansa Stark during their respective stays at the inn.\The House of Black and White\\/ref data-rte-instance130814-26555692956cca7adb1702 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

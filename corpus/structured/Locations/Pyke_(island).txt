@@ -2,8 +2,8 @@ For the castle see Pyke (castle), for other uses see Pyke
 
 
 
-Lordsport\, Pyke's harbor town.}} data-rte-instance130814-35515850056cca8a7c93df alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/1/1a/Lordsport.png/revision/latest/scale-to-width-down/200?cb20130428154850 width200 height113 classimage thumb alignRight withCaption data-image-nameLordsport.png data-image-keyLordsport.png  typeimage /
-Pyke is one of the Iron Islands, an archipelago located on Ironman's Bay, on the western side of Westeros. The island is the site of the castle of the same name, which serves as the seat of House Greyjoy, the ruling house of the Iron Islands, and the town of Lordsport.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/pyke\/ HBO viewers guide, season 2 map, Pyke entry\/ref} data-rte-instance130814-35515850056cca8a7c93df classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Lordsport\, Pyke's harbor town. data-rte-instance130814-35515850056cca8a7c93df alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/1/1a/Lordsport.png/revision/latest/scale-to-width-down/200?cb20130428154850 width200 height113 classimage thumb alignRight withCaption data-image-nameLordsport.png data-image-keyLordsport.png  typeimage /
+Pyke is one of the Iron Islands, an archipelago located on Ironman's Bay, on the western side of Westeros. The island is the site of the castle of the same name, which serves as the seat of House Greyjoy, the ruling house of the Iron Islands, and the town of Lordsport.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/pyke\/ HBO viewers guide, season 2 map, Pyke entry\/ref data-rte-instance130814-35515850056cca8a7c93df classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
  In the books 
 In the A Song of Ice and Fire novels, the island of Pyke serves as home to both House Greyjoy and House Botley, which holds Lordsport.
@@ -19,4 +19,4 @@ References
 
 ru:Пайк (остров)
 
- &nbsp; Loading editor
+  Loading editor

@@ -2,7 +2,9 @@ title=House beesbury
 |seat=Honeyholt
 |Region = the reach
 |allegiance=House hightower
-|sigilA yellow beehive on black|imageHumfrey beesbury.png}}}
+|sigilA yellow beehive on black|imageHumfrey beesbury.png
+
+
 
  House Beesbury is a vassal house from the Reach sworn to House Hightower. Their seat is Honeyholt. Historical members Lyman Beesbury, Lord of Honeyholt, a member of the Small Council of Viserys I Targaryen murdered by Ser Criston Cole for supporting Rhaenyra Targaryen. Ser Humfrey Beesbury, who fought in the Trial by seven of Duncan the Tall. In the books 
 

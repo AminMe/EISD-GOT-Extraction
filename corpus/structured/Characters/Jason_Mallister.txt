@@ -12,7 +12,9 @@ title=Jason mallister
 | allegiance=House mallisterHouse Tully
 | Actor = 
 |Family = Denys Mallister - uncleJaremy Mallister - kinsman
-}}}
+
+
+
 
  
 
@@ -20,11 +22,11 @@ House Tully
 | Actor = 
 |Family = Denys Mallister - uncle 
 Jaremy Mallister - kinsman
-}}} data-rte-instance130814-178798556956cca6be0cceb classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-178798556956cca6be0cceb classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
 Jason Mallister is the Lord of Seagard and the head of House Mallister. He is a loyal bannerman of House Tully. 
 
-During the Greyjoy Rebellion, Lord Jason led the a victorious defense of his ancestral seat of Seagard against an attack by the ironborn forces led by Rodrik Greyjoy and killed him.\Greyjoy Rebellion (Histories &amp; Lore)\\/ref} data-rte-instance130814-178798556956cca6be0cceb classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+During the Greyjoy Rebellion, Lord Jason led the a victorious defense of his ancestral seat of Seagard against an attack by the ironborn forces led by Rodrik Greyjoy and killed him.\Greyjoy Rebellion (Histories &amp; Lore)\\/ref data-rte-instance130814-178798556956cca6be0cceb classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, Lord Jason Mallister is a loyal bannerman of House Tully. He has at least one son, Patrek Mallister. As a young knight, he was defeated by Prince Rhaegar Targaryen in a tourney at Storm's End. During the early stage of Robert's Rebellion, he attended the wedding of Eddard Stark and Catelyn Tully, giving them lavish gifts. He participated in the Battle of the Trident, slaying three of Prince Rhaegar's bannermen, thus avenging the death of his kinsman Jeffory Mallister, who had been killed under orders of the Mad King. 
 

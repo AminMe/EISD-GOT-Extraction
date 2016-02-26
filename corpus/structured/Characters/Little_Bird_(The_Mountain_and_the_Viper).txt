@@ -4,7 +4,9 @@ title=Little bird
 |appearances=\The mountain and the viper\
 |status=alive
 |allegiance=Varys
-|Actor = samuel paul small}}}
+|Actor = samuel paul small
+
+
 
  
 
@@ -12,7 +14,7 @@ A Little Bird is a minor character in the fourth season. He is played by guest s
 
  Season 4 
 
-He delivers a message to Ser Barristan Selmy, who discovers it to be a royal pardon addressed to Ser Jorah Mormont and signed by King Robert Baratheon. This leads him to the realization that Jorah has been reporting Daenerys Targaryen's actions to Varys. When confronted with this revelation, Jorah asks Barristan who brought him the pardon but Barristan doesn't tell him.\The Mountain and the Viper\\/ref} data-rte-instance130814-125527256356cca78a216b0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+He delivers a message to Ser Barristan Selmy, who discovers it to be a royal pardon addressed to Ser Jorah Mormont and signed by King Robert Baratheon. This leads him to the realization that Jorah has been reporting Daenerys Targaryen's actions to Varys. When confronted with this revelation, Jorah asks Barristan who brought him the pardon but Barristan doesn't tell him.\The Mountain and the Viper\\/ref data-rte-instance130814-125527256356cca78a216b0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

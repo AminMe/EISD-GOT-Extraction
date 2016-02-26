@@ -3,7 +3,9 @@ title=House hunter
 |motto=
 |Seat = 
 |region=The vale
-|allegiance=House arryn}}}
+|allegiance=House arryn
+
+
 
  House Hunter is a vassal house from the Vale. It holds fealty to House Arryn. Members 
 

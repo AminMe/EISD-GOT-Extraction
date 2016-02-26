@@ -17,9 +17,11 @@ title=The reach
 | places=The arbor blueburn cockleswhent field fire honeywine mander redwyne straits roseroad searoad shield islands
 | founding=
 | age=
-| founder=}}}
+| founder=
 
- Westeros\.}} data-rte-instance130814-182621476456cca855b5e6b alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/6/6b/Reach.png/revision/latest/scale-to-width-down/515?cb20140712231948 width515 height1327 classimage thumb withCaption data-image-nameReach.png data-image-keyReach.png typeimage / 
+
+
+ Westeros\. data-rte-instance130814-182621476456cca855b5e6b alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images/6/6b/Reach.png/revision/latest/scale-to-width-down/515?cb20140712231948 width515 height1327 classimage thumb withCaption data-image-nameReach.png data-image-keyReach.png typeimage / 
 
 The Reach is one of the constituent regions of the Seven Kingdoms, and was formerly a sovereign nation known as the Kingdom of the Reach before the Targaryen conquest. Geographically, it is one of the larger regions of the Seven Kingdoms. 
 

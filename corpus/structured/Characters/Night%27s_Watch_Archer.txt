@@ -4,7 +4,9 @@ title=Night's watch archer
 | appearances=\The watchers on the wall\
 | status=uncertain
 | allegiance=Night's watch
-| actor=Neil marshall}}}
+| actor=Neil marshall
+
+
 
  
 
@@ -14,13 +16,13 @@ The Night's Watch archer is a minor character in the fourth season.He is a membe
 
  Season 4 
 
-He along with his brothers participated in the defense of the Wall from the attacks of the wilding army and attacked them with flaming arrows on the orders of Jon Snow.\The Watchers on the Wall\\/ref} data-rte-instance130814-95475618256cca839d7c49 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+He along with his brothers participated in the defense of the Wall from the attacks of the wilding army and attacked them with flaming arrows on the orders of Jon Snow.\The Watchers on the Wall\\/ref data-rte-instance130814-95475618256cca839d7c49 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  Image Gallery 
 
 
 NeilMarshallCameo.jpg|The archer with his bow in \The Watchers on the Wall\.
-\/gallery} data-rte-instance=130814-95475618256cca839d7c49 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-95475618256cca839d7c49 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

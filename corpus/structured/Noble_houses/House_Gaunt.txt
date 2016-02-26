@@ -3,7 +3,9 @@ title=House gaunt
 |motto=
 |Seat = 
 |region=The crownlands
-|allegianceHouse baratheon of king's landing|imageGaunt shield.png|imagesize=250px}}}
+|allegianceHouse baratheon of king's landing|imageGaunt shield.png|imagesize=250px
+
+
 
  
 

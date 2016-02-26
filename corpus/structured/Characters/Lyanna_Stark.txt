@@ -1,7 +1,7 @@
 {{Heraldry
 |image = House-Stark-Main-Shield.PNG
 |link = House Stark
-}}
+
 {{Character
 | Title=Lyanna Stark
 | Image=Lyanna's statue.jpg
@@ -17,9 +17,9 @@
 | Allegiance=House Stark
 | Family= Rickard Stark - father Lyarra Stark - mother
  Eddard Stark - brotherCatelyn Stark - sister-in-lawBrandon Stark - brotherBenjen Stark - brotherRobb Stark - nephewSansa Stark - nieceArya Stark - nieceBran Stark - nephewRickon Stark - nephewJon Snow - nephew
-| Actor=}}
+| Actor=
 Quote|That's Lyanna, my father's sister. King Robert was supposed to marry her, but Rhaegar Targaryen kidnapped her. Robert started a war to win her back, he killed Rhaegar, but she died anyway.|Bran Stark at Lyanna's tomb|Fire and Blood
-Lyanna Stark is a character in Game of Thrones. She is deceased when the events of the series begin, yet she appears in flashback form in the sixth season. Lyanna Stark is the younger sister of major character Eddard Stark. Her kidnapping by Prince Rhaegar Targaryen contributed to the outbreak of Robert's Rebellion.&nbsp;She died near the very end of the Rebellion, but the exact circumstances are shrouded in mystery.
+Lyanna Stark is a character in Game of Thrones. She is deceased when the events of the series begin, yet she appears in flashback form in the sixth season. Lyanna Stark is the younger sister of major character Eddard Stark. Her kidnapping by Prince Rhaegar Targaryen contributed to the outbreak of Robert's Rebellion.She died near the very end of the Rebellion, but the exact circumstances are shrouded in mystery.
 
 Biography
 Background
@@ -52,7 +52,7 @@ Quote|Do you want to know the horrible truth? I can't even remember what she loo
 Quote|Elia loved Rhaegar. She obeyed him. And he chose to steal away Lyanna Stark, a pale Northern girl whose veins ran with ice, like all her people.|Oberyn Martell|Robert's Rebellion (Histories &amp; Lore)#Oberyn Martell
 
 In the books
-In the A Song of Ice and Fire novels, Lyanna does appear, albeit only in flashbacks and visions. She is described as intelligent, tomboyish and willful, frequently compared to her niece Arya in terms of temperament and appearance. When Robert says that Lyanna would never have opposed him vehemently as Cersei does, Ned notes that Robert either overlooked or had forgotten Lyanna's iron will. It is also implied she was not as passionate about her betrothal as Robert was. She knew about Robert's philandering ways and felt his love for her wouldn't stop him from sleeping with other women. When Rhaegar Targaryen&nbsp;won the great tourney at Harrenhal, he crowned her the Queen of Love and Beauty over his own wife, an action that stunned all present. A year later, Rhaegar&nbsp;kidnapped her&nbsp;which&nbsp;led to Robert's Rebellion. During&nbsp;the war she was hidden at a remote location and defended by three members of the ​Kingsguard, whom Eddard and his retainers had to kill. Only Eddard and Howland Reed, a vassal of House Stark, survived. However, she died from unknown causes before they could successfully rescue her.
+In the A Song of Ice and Fire novels, Lyanna does appear, albeit only in flashbacks and visions. She is described as intelligent, tomboyish and willful, frequently compared to her niece Arya in terms of temperament and appearance. When Robert says that Lyanna would never have opposed him vehemently as Cersei does, Ned notes that Robert either overlooked or had forgotten Lyanna's iron will. It is also implied she was not as passionate about her betrothal as Robert was. She knew about Robert's philandering ways and felt his love for her wouldn't stop him from sleeping with other women. When Rhaegar Targaryenwon the great tourney at Harrenhal, he crowned her the Queen of Love and Beauty over his own wife, an action that stunned all present. A year later, Rhaegarkidnapped herwhichled to Robert's Rebellion. Duringthe war she was hidden at a remote location and defended by three members of the ​Kingsguard, whom Eddard and his retainers had to kill. Only Eddard and Howland Reed, a vassal of House Stark, survived. However, she died from unknown causes before they could successfully rescue her.
 
 Lyanna's death instilled in Robert a great hatred of the Targaryens, and he vowed not to rest until every last scion of the house was killed, though Eddard refused to let Lyanna's tragic death skew his views on justice and mercy.
 

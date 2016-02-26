@@ -13,7 +13,9 @@ title= 'house blackwood
 | Age=
 | Founder=
 |ImageSize =250px
-}}}
+
+
+
 
 House Stark
 | Vassals=
@@ -21,20 +23,20 @@ House Stark
 | Age=
 | Founder=
 |ImageSize =250px
-}}} data-rte-instance130814-201366764556cca96a268af classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-201366764556cca96a268af classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
 House Blackwood is a vassal house that holds fealty to House Tully of Riverrun. Their lands are in the heart of the Riverlands, located along the banks of the Red Fork of the Trident. Their seat is Raventree Hall. 
 
 House Blackwood's sigil is a flock of ravens on scarlet surrounding a dead weirwood tree. History 
 
- House Blackwood were once lesser kings during the Age of Heroes. The Blackwoods hold an ancient grudge against their neighbors, House Bracken of Stone Hedge. The two houses, which hold the blood of the First Men in their veins and merged with the invading Andals rather than being annihilated by them, competed for the throne of the Riverlands when it was an independent kingdom. The enmity was increased when House Bracken converted to the Faith of the Seven. House Blackwood, however, is one of the few major noble Houses outside of the North which continues to worship the Old Gods of the Forest, and never converted to the Faith of the Seven.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/raventree-hall\/ HBO viewers guide, season 1 map, Raventree Hall entry\/ref} data-rte-instance130814-201366764556cca96a268af classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 1 
+ House Blackwood were once lesser kings during the Age of Heroes. The Blackwoods hold an ancient grudge against their neighbors, House Bracken of Stone Hedge. The two houses, which hold the blood of the First Men in their veins and merged with the invading Andals rather than being annihilated by them, competed for the throne of the Riverlands when it was an independent kingdom. The enmity was increased when House Bracken converted to the Faith of the Seven. House Blackwood, however, is one of the few major noble Houses outside of the North which continues to worship the Old Gods of the Forest, and never converted to the Faith of the Seven.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/raventree-hall\/ HBO viewers guide, season 1 map, Raventree Hall entry\/ref data-rte-instance130814-201366764556cca96a268af classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 1 
 
-The banner of House Blackwood is seen at the Tourney of the Hand.\The Wolf and the Lion\\/ref} data-rte-instance130814-201366764556cca96a268af classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Image gallery 
+The banner of House Blackwood is seen at the Tourney of the Hand.\The Wolf and the Lion\\/ref data-rte-instance130814-201366764556cca96a268af classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Image gallery 
 
 
 House Blackwood tourney.jpg|The banner of House Blackwood at the Tournament|Tourney of the Hand in \The Wolf and the Lion\.
 Blackwood_icon.jpg|The Blackwood sigil in the HBO viewer guide
-\/gallery} data-rte-instance=130814-201366764556cca96a268af srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-201366764556cca96a268af srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In the A Song of Ice and Fire novels, House Blackwood is a loyal vassal of the Tullys. The enmity and competition between House Bracken and House Blackwood, was radically enhanced when Ser Otho Bracken slew Lord Quentyn Blackwood in a tourney accident roughly a century ago. 
 

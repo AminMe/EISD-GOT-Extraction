@@ -10,7 +10,9 @@ title=Naath
 | Culture= 
 | Military=
 | Regional capital= 
-}}}
+
+
+
 
 Hot, tropical.
 | Population=Naathi
@@ -19,7 +21,7 @@ Hot, tropical.
 | Culture= 
 | Military=
 | Regional capital= 
-}}} data-rte-instance130814-45951045856cca88a5465d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-45951045856cca88a5465d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
 Naath is an island in the Summer Sea located off the northwestern coast of the continent of Sothoryos, west of the Basilisk Isles and east of the Summer Islands. It is the home of Missandei. History 
 
@@ -27,9 +29,9 @@ Naath is an island in the Summer Sea located off the northwestern coast of the c
 
 Naath is a frequent target of slaving raids from Slaver's Bay, which is in Essos on the opposite side of the Summer Sea. 
 
-Missandei's village was attacked and burned by slavers when she was five years old, and she was captured and taken to the slaver-city of Astapor.\Oathkeeper\\/ref} data-rte-instance130814-45951045856cca88a5465d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 4 
+Missandei's village was attacked and burned by slavers when she was five years old, and she was captured and taken to the slaver-city of Astapor.\Oathkeeper\\/ref data-rte-instance130814-45951045856cca88a5465d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 4 
 
-Missandei recalls to Grey Worm that she is from an island called Naath, and was taken by the slavers when she was five years old.} data-rte-instance130814-45951045856cca88a5465d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Missandei recalls to Grey Worm that she is from an island called Naath, and was taken by the slavers when she was five years old. data-rte-instance130814-45951045856cca88a5465d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, Naath is a large, curving island. It is known as a land of peace where war does not exist. The people of Naath, the Naathi, are also known as the Peaceful People. As is typical of the peoples of Sothoryos, the Naathi are dark-skinned. In addition, typical Naathi features include a flat face and golden eyes. 
 

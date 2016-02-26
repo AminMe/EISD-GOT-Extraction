@@ -6,13 +6,15 @@ title=Deziel dalt
 |Status = Alive
 |Place=Lemonwood
 |Allegiance = House Dalt
-|Culture= Dornishmen}}}
+|Culture= Dornishmen
+
+
 
  Knight of Lemonwood
 |Status = Alive
 |Place=Lemonwood
 |Allegiance = House Dalt
-|Culture Dornishmen} data-rte-instance130814-205674448656cca76be2aa3 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Deziel Dalt is a minor character that debuts in Two Swords. He is a landed knight and the head of House Dalt, a vassal house sworn to House Martell of Dorne. Biography 
+|Culture Dornishmen data-rte-instance130814-205674448656cca76be2aa3 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Deziel Dalt is a minor character that debuts in Two Swords. He is a landed knight and the head of House Dalt, a vassal house sworn to House Martell of Dorne. Biography 
 
 Deziel Dalt is the Knight of Lemonwood. Season 4 
 

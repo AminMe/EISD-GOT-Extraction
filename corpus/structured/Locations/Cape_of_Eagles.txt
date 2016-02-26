@@ -10,4 +10,4 @@ See also
 
 ru:Мыс Орлов
 
- &nbsp; Loading editor
+  Loading editor

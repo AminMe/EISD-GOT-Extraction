@@ -1,7 +1,7 @@
 {{Heraldry
 |image = House-Baelish-Main-Shield.PNG
 |link = House Baelish
-}}
+
 
 {{Character
 |Title = Mhaegen
@@ -14,7 +14,7 @@
 |Allegiance = Petyr Baelish
 |Family = Barra - daughter
 |Actor = Antonia Christophers
-}}
+
 
 Quote|And tell him I've been with no one else. I swear it m'lord, by the old gods and new. I don't want no jewels or nothing... just him. The King was always good to me.|Mhaegen to Ned Stark|The Wolf and the Lion
 

@@ -1,5 +1,5 @@
 
-The Braavosian Coastlands form the north-western coast of Essos along the shores of the Narrow Sea. They run south from the Free City of Braavos towards its southern neighbor, Pentos.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/braavos\/ HBO viewers guide, season 1 map, Braavos entry\/ref} data-rte-instance130814-106971017956cca8e6dd206 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Braavosian Coastlands form the north-western coast of Essos along the shores of the Narrow Sea. They run south from the Free City of Braavos towards its southern neighbor, Pentos.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/braavos\/ HBO viewers guide, season 1 map, Braavos entry\/ref data-rte-instance130814-106971017956cca8e6dd206 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, Braavos is the most powerful city-state on the Narrow Sea, but is constrained by the geographic limitations of the city (located on a series of small islands in a lagoon). To overcome this, it is presumed that Braavos has established colonies and other settlements on the coastline to the south.
@@ -14,4 +14,4 @@ References
 ru:Браавосийское побережье
 uk:Браавосійське узбережжя
 
- &nbsp; Loading editor
+  Loading editor

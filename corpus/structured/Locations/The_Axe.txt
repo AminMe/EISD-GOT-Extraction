@@ -1,5 +1,5 @@
 
-The Axe is a region on the continent of Essos, located to the east of Westeros. It is a large, axehead-shaped peninsular extending northwards into the Shivering Sea.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/braavos\/ HBO viewers guide, season 2 map, Braavos entry\/ref} data-rte-instance130814-11758859556cca8bc4528f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Axe is a region on the continent of Essos, located to the east of Westeros. It is a large, axehead-shaped peninsular extending northwards into the Shivering Sea.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/braavos\/ HBO viewers guide, season 2 map, Braavos entry\/ref data-rte-instance130814-11758859556cca8bc4528f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, the Axe is a mountainous headland, an extension of the hills and mountains to the south. Norvos maintains mines in this area. Ores are taken by land down to the Darkwash River and thence to Norvos and Qohor.
@@ -14,4 +14,4 @@ References
 
 ru:Топор
 
- &nbsp; Loading editor
+  Loading editor

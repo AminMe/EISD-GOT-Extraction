@@ -1,7 +1,7 @@
 {{Heraldry
 |image=Bolton banner icon.png
 |link=House Bolton
-}}
+
 
 {{Settlement
 | Title=The Dreadfort
@@ -18,10 +18,10 @@
 | Founding=
 | Age=
 | Founder=
-}}
+
 Quote|Let me send word to my bastard at the Dreadfort.|Roose Bolton to Robb Stark|The Old Gods and the New
-thumb|250px|The Dreadfort on the Boltons' map in [[Kill the Boy.]]
-[[Image:Dreadfort Pin.png|thumb|right|200px|Map showing the location of the Dreadfort on the continent of Westeros.]]
+thumb|250px|The Dreadfort on the Boltons' map in Kill the Boy.
+thumb|right|200px|Map showing the location of the Dreadfort on the continent of Westeros.
 The Dreadfort is a castle situated in the North. It is the seat of House Bolton, located on the banks of the Weeping Water east of Winterfell. The Dreadfort is ill-omened as the stronghold of House Bolton, who are famed for the flayed skins of their enemies, often rumored to have been kept on display in the castle, including those of several ancient Stark kings. However, if such gruesome trophies ever did exist they have long since been removed or destroyed.http://viewers-guide.hbo.com/game-of-thrones/season1/#!/locations/dreadfort/ HBO viewers guide, season 1 map, Dreadfort entryhttp://viewers-guide.hbo.com/game-of-thrones/season2/#!/locations/dreadfort/ HBO viewers guide, season 2 map, Dreadfort entry
 
 History
@@ -37,7 +37,7 @@ thumb|left|250px|Ramsay Snow assists Theon in escaping from the Dreadfort.
 After being betrayed by his crew and delivered to Ramsay Snow, Theon Greyjoy is imprisoned in a torture chamber at the Dreadfort. Over the course of several months, he is subjected to a number of horrific tortures, both physical and psychological.
 
 Season 4
-Yara Greyjoy&nbsp;leads an assault on the Dreadfort to rescue&nbsp;Theon Greyjoy. The assault ends in failure when Yara and her fellow ironborn cannot convince Theon, now Reek, that they are his rescue party. Ramsay, the Bastard's Girls, and his fellow Dreadfort men-at-arms repel the ironborn&nbsp;raiders.
+Yara Greyjoyleads an assault on the Dreadfort to rescueTheon Greyjoy. The assault ends in failure when Yara and her fellow ironborn cannot convince Theon, now Reek, that they are his rescue party. Ramsay, the Bastard's Girls, and his fellow Dreadfort men-at-arms repel the ironbornraiders.
 
 Following the Fall of Moat Cailin, the Boltons take Winterfell - the traditional capital of the North - for their new seat, leaving The Dreadfort in the hands of a handful of Bolton men and a Castellan.The Mountain and the Viper
 
@@ -84,4 +84,4 @@ DEFAULTSORT:Dreadfort, The
 de:Grauenstein
 pl:Dreadfort
 ru:Дредфорт
- &nbsp; Loading editor
+  Loading editor

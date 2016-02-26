@@ -22,7 +22,7 @@ Wildling territories are shown in black.]]
 
 The Great Houses are the most powerful of the noble houses of the Seven Kingdoms. They exercise immense authority and power over their vassals and territories and are answerable only to the Lord of the Seven Kingdoms, King of the Andals and the First Men.
 
-Before the Targaryen Conquest, each of the Seven Kingdoms was ruled independently&nbsp;by a powerful royal family. During the Conquest these families were either destroyed and replaced, or defeated and forced to swear allegiance to King Aegon, reigning from the Iron Throne in King's Landing.
+Before the Targaryen Conquest, each of the Seven Kingdoms was ruled independentlyby a powerful royal family. During the Conquest these families were either destroyed and replaced, or defeated and forced to swear allegiance to King Aegon, reigning from the Iron Throne in King's Landing.
 
 The Gardeners, Hoares, and Durrendons were slain and replaced by the Tyrells, Greyjoys, and Baratheons respectively, while the Lannisters, Arryns, and Starks surrendered peacefully and were allowed to remain in control of their lands. In addition, Aegon raised up the Tullys to rule over the Riverlands, which had been under ironborn occupation prior to his arrival. Only House Martell of Dorne resisted his armies, but was later brought into the fold through a peaceful marriage-alliance some two centuries later.
 
@@ -48,7 +48,7 @@ Current Great Houses
 Exiled Great Houses
 * House Stark, the former rulers of the North, ruling from the now sacked castle of Winterfell until the Red Wedding. The remaining Starks are scattered.
 * House Targaryen, the former royal house, currently in exile following Robert's Rebellion.
-* House Tully, the former rulers of the Riverlands, ruling from Riverrun,&nbsp;until the Red Wedding.
+* House Tully, the former rulers of the Riverlands, ruling from Riverrun,until the Red Wedding.
 
 Extinct Great Houses
 
@@ -75,7 +75,7 @@ After the Targaryen Conquest, House Baratheon replaced the Storm Kings of House 
 House Gardener intermarried with many of the great noble families of the Reach, and House Florent is even a cadet branch of the main Gardener line. House Tyrell descends from House Gardener through the female line (much to the consternation of the Florents), so there is some continuity in the Reach as well. 
 Thus, by the time of Robert's Rebellion, the Reach is the only region of Westeros which has noble Houses with rival claims to rule based on descent.
 
-When Harren Hoare and all of his sons were roasted alive by [[Aegon the Conqueror]]'s dragons, he had the ironborn choose one of their own Houses to rule over them (under the overall rule of the Targaryens), and they chose House Greyjoy. The Iron Islands are actually something of an odd case, in that for many centuries their kingship was not hereditary. When a king died, the powerful noble Houses of the Iron Islands would meet in an assembly known as a Kingsmoot to select a new king to rule over all of them. Five thousand years ago, House Greyiron killed all of the representatives at the last Kingsmoot, and ruled the Iron Islands as hereditary kings for a thousand years. The Greyirons were destroyed four thousand years ago during the Andal Invasion, when they were deposed by House Hoare. Whether the Greyirons should be considered a Great House that early in history is unclear.
+When Harren Hoare and all of his sons were roasted alive by Aegon the Conqueror's dragons, he had the ironborn choose one of their own Houses to rule over them (under the overall rule of the Targaryens), and they chose House Greyjoy. The Iron Islands are actually something of an odd case, in that for many centuries their kingship was not hereditary. When a king died, the powerful noble Houses of the Iron Islands would meet in an assembly known as a Kingsmoot to select a new king to rule over all of them. Five thousand years ago, House Greyiron killed all of the representatives at the last Kingsmoot, and ruled the Iron Islands as hereditary kings for a thousand years. The Greyirons were destroyed four thousand years ago during the Andal Invasion, when they were deposed by House Hoare. Whether the Greyirons should be considered a Great House that early in history is unclear.
 
 House Hoare officially went extinct when Harren died, but it only went extinct in the male-line. House Volmark, an ironborn noble family from Harlaw, descends from House Hoare through the female line (much as House Tyrell descends from the officially extinct House Gardener through the female line). House Volmark never had particularly strong claim against House Greyjoy, however, due to a combination of that the ironborn are very misogynistic and don't place much value on female-line descent, and because of the unusual elected-kingship customs of the Iron Islands.
 

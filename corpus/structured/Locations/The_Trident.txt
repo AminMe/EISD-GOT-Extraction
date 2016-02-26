@@ -1,9 +1,9 @@
 The Trident is one of the largest and most well-known rivers on the continent of Westeros. Technically it is three rivers which flow into one another just before they reach the Narrow Sea, several hundred miles north of King's Landing.
-River Trident\ (in red) on the continent of Westeros\.}} data-rte-instance130814-77450478756cca87a9e0f3 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/0/08/The_River_Trident.PNG/revision/latest/scale-to-width-down/200?cb20110305200233 width200 height515 classimage thumb alignRight withCaption data-image-nameThe River Trident.PNG data-image-keyThe_River_Trident.PNG  typeimage /
+River Trident\ (in red) on the continent of Westeros\. data-rte-instance130814-77450478756cca87a9e0f3 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/0/08/The_River_Trident.PNG/revision/latest/scale-to-width-down/200?cb20110305200233 width200 height515 classimage thumb alignRight withCaption data-image-nameThe River Trident.PNG data-image-keyThe_River_Trident.PNG  typeimage /
 
 
 
-The Trident River is the most extensive river network on the continent of Westeros. It flows out of the hills and low mountains of the eastern Westerlands and the bogs of the Neck into the Narrow Sea. It consists of three major branches, from south to north: the Red Fork, the Blue Fork, and the Green Fork. The three main rivers of the Trident and their numerous smaller tributaries give the Riverlands their name.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-ruby-ford\/ HBO viewers guide, season 2 map, The Trident entry\/ref} data-rte-instance130814-77450478756cca87a9e0f3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Trident River is the most extensive river network on the continent of Westeros. It flows out of the hills and low mountains of the eastern Westerlands and the bogs of the Neck into the Narrow Sea. It consists of three major branches, from south to north: the Red Fork, the Blue Fork, and the Green Fork. The three main rivers of the Trident and their numerous smaller tributaries give the Riverlands their name.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-ruby-ford\/ HBO viewers guide, season 2 map, The Trident entry\/ref data-rte-instance130814-77450478756cca87a9e0f3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 
 Forks of the Trident
@@ -14,7 +14,7 @@ The Blue Fork
 The shortest and least noteworthy of the three branches rises in the hills south-east of Seagard and Ironman's Bay. It flows south-easterly into the main body of the Trident.
 
 The Green Fork
-The Green Fork starts in the bogs of the Neck, technically within the southern borders of the North. The river flows south, crossing the border into the Riverlands, and then past the two towers of the castle known as the Twins, the seat of House Frey. It flows south-east for several hundred more miles before reaching the main body of the Trident. Just before that confluence is the Ruby Ford, where the Battle of the Trident during Robert's Rebellion was fought and where Robert Baratheon slew Rhaegar Targaryen in combat. The ford is named for the rubies that ornamented Rhaegar's breast plate that were said to have been scattered in the river when he was killed by Robert's war hammer.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-ruby-ford\/ HBO viewers guide, season 2 map, The Ruby Ford entry\/ref} data-rte-instance130814-77450478756cca87a9e0f3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Green Fork starts in the bogs of the Neck, technically within the southern borders of the North. The river flows south, crossing the border into the Riverlands, and then past the two towers of the castle known as the Twins, the seat of House Frey. It flows south-east for several hundred more miles before reaching the main body of the Trident. Just before that confluence is the Ruby Ford, where the Battle of the Trident during Robert's Rebellion was fought and where Robert Baratheon slew Rhaegar Targaryen in combat. The ford is named for the rubies that ornamented Rhaegar's breast plate that were said to have been scattered in the river when he was killed by Robert's war hammer.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/the-ruby-ford\/ HBO viewers guide, season 2 map, The Ruby Ford entry\/ref data-rte-instance130814-77450478756cca87a9e0f3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, the Trident is the same. The Tumblestone is a tributary of the Red Fork that flows from the north out of the Westerlands and joins the Red Fork coming up from the south at Riverrun. For much of its length the Red Fork is meandering and slow-moving, with frequent sandbars and islets. There are fords a few miles south of Riverrun and another ford, known as the Mummer's Ford, further east.
@@ -32,4 +32,4 @@ pl:Trident
 ru:Трезубец
 uk:Тризуб
 
- &nbsp; Loading editor
+  Loading editor

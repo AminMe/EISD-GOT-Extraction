@@ -1,5 +1,5 @@
 
-High Heart is a hill in the Riverlands, south-east of Riverrun and near Acorn Hall.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/twins\/ HBO viewers guide, season 1 map, The Twins entry\/ref} data-rte-instance130814-149967843756cca91e9b567 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/harrenhall\/ HBO viewers guide, season 2 map, Harrenhal entry\/ref} data-rte-instance130814-149967843756cca91e9b567 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+High Heart is a hill in the Riverlands, south-east of Riverrun and near Acorn Hall.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/twins\/ HBO viewers guide, season 1 map, The Twins entry\/ref data-rte-instance130814-149967843756cca91e9b567 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/harrenhall\/ HBO viewers guide, season 2 map, Harrenhal entry\/ref data-rte-instance130814-149967843756cca91e9b567 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /
 
 In the books
 In the A Song of Ice and Fire novels, High Heart was sacred to the Children of the Forest. Around its crown stands a ring of thirty-one weirwood stumps. The hill is considered a very safe place due to its relative height compared to the very flat surrounding land that it makes it nearly impossible to be approached unseen. The nearby smallfolk avoid the area as it is said to be haunted by the slaughtered Children who had been killed by the Andal King Erreg the Kinslayer.
@@ -15,4 +15,4 @@ ru:Высокое Сердце
 zh:高尚之心
 uk:Високе Серце
 
- &nbsp; Loading editor
+  Loading editor

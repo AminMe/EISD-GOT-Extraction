@@ -6,7 +6,9 @@ title=Baratheon officer
 |actor=Kieran cunningham
 |status=deceased
 |death=Killed with an axe by tyrion during the battle blackwater.
-|deathep=\Blackwater\}}}
+|deathep=\Blackwater\
+
+
 
  A Baratheon Officer is an unnamed minor character in the second season. He is played by guest star Kieran Cunningham and only appears in Blackwater. Biography 
 
@@ -14,7 +16,7 @@ title=Baratheon officer
 
 This man is an officer in the army of House Baratheon of Dragonstone. Season 2 
 
-During the Battle of the Blackwater he commands troops attacking the Mud Gate. He yells to his soldiers to get up the ladders. His leg is chopped off by Tyrion Lannister, after whichhe collapses to the ground and Tyrion finishes him with a blow to the head.\Blackwater\\/ref} data-rte-instance130814-93307238256cca80857a48 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+During the Battle of the Blackwater he commands troops attacking the Mud Gate. He yells to his soldiers to get up the ladders. His leg is chopped off by Tyrion Lannister, after whichhe collapses to the ground and Tyrion finishes him with a blow to the head.\Blackwater\\/ref data-rte-instance130814-93307238256cca80857a48 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

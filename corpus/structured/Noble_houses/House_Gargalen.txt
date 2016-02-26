@@ -11,7 +11,9 @@ title=House gargalen
 | vassals=
 | age=
 | founder=
-| imagesize=150}}}
+| imagesize=150
+
+
 
  
 
@@ -23,7 +25,7 @@ House Gargalen's heraldry consists of a red cockatrice on a gold field. History
 
 Joffrey mentions Saltshore to Sansa, saying how lords will travel to their wedding from Last Hearth in the north to Saltshore in the south. Season 4 
 
- A House Gargalen banner is seen amongst the delegation of Dornish lords who accompany Prince Oberyn Martell to King's Landing.\Two Swords\\/ref} data-rte-instance130814-107651576656cca995deffe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+ A House Gargalen banner is seen amongst the delegation of Dornish lords who accompany Prince Oberyn Martell to King's Landing.\Two Swords\\/ref data-rte-instance130814-107651576656cca995deffe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, House Gargalen are the lords of Saltshore. See also (MAJOR spoilers from the books) References 
 

@@ -14,19 +14,21 @@ title=Daemon sand
 | Family=
 | Actor=
 |Culture = Dornishmen
-|Religion = }}}For other characters who share the same name, see Daemon. 
+|Religion = 
+
+For other characters who share the same name, see Daemon. 
 
  House Martell
 | Family=
 | Actor=
 |Culture = Dornishmen
-|Religion  }}} data-rte-instance130814-78396913856cca6e41887b classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Religion   data-rte-instance130814-78396913856cca6e41887b classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 Ser Daemon Sand is a minor character in the fourth season. He is a knight, and serves as squire for Prince Oberyn Martell. Biography 
 
  Season 4 
 
- Ser Daemon squires for Prince Oberyn Martell during Tyrion Lannister's trial by combat, and coats his master's spear head with deadly manticore venom. He witnesses the Red Viper's death at the hands of Ser Gregor Clegane.\The Mountain and the Viper\\/ref} data-rte-instance130814-78396913856cca6e41887b classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+ Ser Daemon squires for Prince Oberyn Martell during Tyrion Lannister's trial by combat, and coats his master's spear head with deadly manticore venom. He witnesses the Red Viper's death at the hands of Ser Gregor Clegane.\The Mountain and the Viper\\/ref data-rte-instance130814-78396913856cca6e41887b classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
 
  In the books 
 

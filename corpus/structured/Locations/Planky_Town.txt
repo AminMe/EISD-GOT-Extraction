@@ -9,7 +9,9 @@ title=Planky town
 | places=
 | founding=
 | age=
-| founder=}}}
+| founder=
+
+
 
  Planky Town is a town in Dorne, the region controlled by House Martell of Sunspear. It lies at the mouth of the Greenblood River, near the Martells' seat at Sunspear, and is the main port of Dorne. History 
 
@@ -17,7 +19,7 @@ title=Planky town
 
  Season 5 
 
-A merchant captain meets with Obara Sand in Planky Town and tries to sell information to her. Insulted that he will not offer up such a vital warning for free, she tortures him into revealing that he has smuggled Jaime Lannister into Dorne.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref} data-rte-instance130814-145603285056cca8a5b222c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+A merchant captain meets with Obara Sand in Planky Town and tries to sell information to her. Insulted that he will not offer up such a vital warning for free, she tortures him into revealing that he has smuggled Jaime Lannister into Dorne.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref data-rte-instance130814-145603285056cca8a5b222c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, the Planky Town is a trading town that lies at the mouth of the Greenblood. It is called Planky Town because much of it is actually composed of barges left permanently tied up at anchor and then lashed together. 
 

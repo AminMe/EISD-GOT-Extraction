@@ -4,7 +4,9 @@ title=Drunk man
 |appearances=\Lord snow\
 |status=alive
 |allegiance=
-|Actor = paul portelli}}}
+|Actor = paul portelli
+
+
 
  
 
@@ -12,7 +14,7 @@ A drunk man is an unnamed minor character in the first season. He is played by g
 
  Season 1 
 
-He stumbles into Littlefinger's room at the brothel on the arm of a King's Landing whore. Littlefinger is meeting with Catelyn Stark and waves them away.\Lord Snow\\/ref} data-rte-instance130814-198052110856cca7eff3e69 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+He stumbles into Littlefinger's room at the brothel on the arm of a King's Landing whore. Littlefinger is meeting with Catelyn Stark and waves them away.\Lord Snow\\/ref data-rte-instance130814-198052110856cca7eff3e69 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

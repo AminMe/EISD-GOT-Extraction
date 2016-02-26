@@ -1,7 +1,7 @@
 {{Heraldry
 |image=House-Baratheon-of-King's Landing-Shield-Icon.PNG
 |link=House Baratheon of King's Landing
-}}
+
 
 {{Character
 |Title = Tommen I Baratheon
@@ -14,8 +14,8 @@
 |Place = King's Landing
 |Allegiance = House Baratheon of King's Landing
 |Family = Robert Baratheon - legal fatherCersei Lannister - motherunt/second cousin once removedTywin Lannister - double grandfather/first cousin twice removedJoanna Lannister - double grandmother/first cousin twice removedCersei's black-haired son - half-brother/third cousinJoffrey Baratheon - brother/first and third cousinMyrcella Baratheon - sister/first and third cousinJaime Lannister - biological father/uncle/second cousin once removedTyrion Lannister - uncle/second cousin once removedSansa Stark - aunt by marriageRenly Baratheon - uncle (non-biological)Stannis Baratheon - uncle (non-biological)Margaery Tyrell - wifeLoras Tyrell - brother-in-lawMace Tyrell - father-in-lawOlenna Tyrell - grandmother-in-law
-|Actor  Callum Wharry (Seasons 1 and 2)Dean-Charles Chapman (Seasons 4-6)|Culture  Andals|Age = Around 16 years old in Season 6 (see notes)}}
-Quote|My father, maybe Joffrey was too much work for him.  Sweet Tommen will be so much easier to handle.|Tyrion Lannister|Breaker of Chains&nbsp;King Tommen Baratheon is a major character in the fifth and sixth seasons. He initially appeared as a recurring character in the first, second and fourth seasons. He is portrayed by starring cast member&nbsp;Dean-Charles Chapman, taking over the role (starting in Season 4) from Callum Wharry, who played the character briefly in Seasons 1 and 2. Tommen is the younger brother of late King Joffrey and Princess Myrcella, and Joffrey's heir presumptive to the Iron Throne. Though legally the son of the late King&nbsp;Robert Baratheon and Queen Cersei Lannister, his true father is Ser Jaime Lannister, the Queen's twin brother. His sole biological grandparents, Tywin and Joanna Lannister, were also first cousins.
+|Actor  Callum Wharry (Seasons 1 and 2)Dean-Charles Chapman (Seasons 4-6)|Culture  Andals|Age = Around 16 years old in Season 6 (see notes)
+Quote|My father, maybe Joffrey was too much work for him.  Sweet Tommen will be so much easier to handle.|Tyrion Lannister|Breaker of ChainsKing Tommen Baratheon is a major character in the fifth and sixth seasons. He initially appeared as a recurring character in the first, second and fourth seasons. He is portrayed by starring cast memberDean-Charles Chapman, taking over the role (starting in Season 4) from Callum Wharry, who played the character briefly in Seasons 1 and 2. Tommen is the younger brother of late King Joffrey and Princess Myrcella, and Joffrey's heir presumptive to the Iron Throne. Though legally the son of the late KingRobert Baratheon and Queen Cersei Lannister, his true father is Ser Jaime Lannister, the Queen's twin brother. His sole biological grandparents, Tywin and Joanna Lannister, were also first cousins.
 
 Following Joffrey's death at his wedding feast, Tommen is crowned King. His formal style is Tommen of the House Baratheon, First of His Name, King of the Andals and the First Men and Lord of the Seven Kingdoms. As he is not old enough to rule in his own right and command the military forces of the Seven Kingdoms, he does not yet bear the title of Protector of the Realm.
 
@@ -31,13 +31,13 @@ thumb|254px|Tommen seated with the rest of the royal family at the Tourney of th
 Tommen attends the tournament to celebrate Eddard Stark becoming Hand of the King.Cripples, Bastards and Broken ThingsThe Wolf and the Lion
 
 Season 2
-Quote|You sound like a little cat mewling for his mother.  Princes don't cry.|King [[Joffrey I]] berating Tommen|The Old Gods and the New
-Tommen attends [[Joffrey's]] nameday tournament. He is pleased when his uncle Tyrion Lannister arrives during the festivities and tells him that one day he will be as big as the Hound but much better looking.The North Remembers.
+Quote|You sound like a little cat mewling for his mother.  Princes don't cry.|King Joffrey I berating Tommen|The Old Gods and the New
+Tommen attends Joffrey's nameday tournament. He is pleased when his uncle Tyrion Lannister arrives during the festivities and tells him that one day he will be as big as the Hound but much better looking.The North Remembers.
 thumb|left|224px|Tommen and Myrcella
 Tommen attends a dinner with Myrcella, his mother and Sansa Stark. He asks whether Robb will be killed after the war, and says that he wouldn't like that.What is Dead May Never Die
 
 Myrcella is sent to Dorne as part of a marriage pact with House Martell. Tommen watches her departure from the harbor, sobbing. Joffrey mocks him for crying. As they return to the Red Keep Tyrion senses the unrest of the smallfolk and orders Tommen sent by a separate route narrowly avoiding the Riot of King's Landing.The Old Gods and the New
-[[File:Tommen_cries_at_Myrcella's_departure.jpg|thumb|230px|Tommen cries as Myrcella departs for Dorne.]]
+thumb|230px|Tommen cries as Myrcella departs for Dorne.
 Tommen takes refuge in Maegor's Holdfast during the Battle of the Blackwater. Cersei takes him to the Iron Throne room when the battle seems lost. She tries to calm him with a tale about the supremacy of lions in the kingdom of beasts: the forest is full of vicious beasts, such as stags, wolves and dragons, but he is a lion, and all will bow to him. She has a vial of Essence of Nightshade from Grand Maester Pycelle, which is deadly if taken in more than tiny amounts and she prepares to give it to him if the city defenses fail, to grant him the mercy of a quick death instead of being captured and tormented. thumb|left|Cersei and Tommen during the [[Battle of BlackwaterShe is stopped just in time when Tywin Lannister arrives to announce their victory.Blackwater
 
 Season 3
@@ -74,7 +74,7 @@ thumb|left|Cersei manipulates Tommen.
 Later, he voices his frustration and his plans to attack the Sept of Baelor in front of his mother, who manipulates him into letting her handle the situation.The Gift (episode) When this eventually leads to her capture by the Sparrows, however, Tommen loses his appetite and falls into depression, refusing to eat and staying in his chambers, receiving no one.
 
  Personality 
-Tommen is kind-hearted, considerably quick at assessing situations and has a strong emotional side. Even as a young boy, Tommen’s kindness becomes apparent when he states his distaste at the possibility of Robb Stark being killed, even though they’re on opposite sides. His considerate&nbsp;side is seen when he initially chuckles at the farcical reenactment of the War of the Five Kings performed by dwarfs at the Purple Wedding, but stops when he realizes it is a mockery of his uncle Tyrion. Tommen is quite quick at grasping the current state of affairs and he realizes that a good king needs to be wise, much to his grandfather Tywin's delight. He is also a great deal more pensive than his brother Joffrey, who was prone to unprovoked thoughtless brutality. This is illustrated when the Faith Militant bar him from Baelor's Great Sept and his Kingsguard want to kill the rabble. As they are in full view of the people, some of whom are calling him bastard and abomination, Tommen tactfully orders his men to stand down and forbids them from attacking.
+Tommen is kind-hearted, considerably quick at assessing situations and has a strong emotional side. Even as a young boy, Tommen’s kindness becomes apparent when he states his distaste at the possibility of Robb Stark being killed, even though they’re on opposite sides. His considerateside is seen when he initially chuckles at the farcical reenactment of the War of the Five Kings performed by dwarfs at the Purple Wedding, but stops when he realizes it is a mockery of his uncle Tyrion. Tommen is quite quick at grasping the current state of affairs and he realizes that a good king needs to be wise, much to his grandfather Tywin's delight. He is also a great deal more pensive than his brother Joffrey, who was prone to unprovoked thoughtless brutality. This is illustrated when the Faith Militant bar him from Baelor's Great Sept and his Kingsguard want to kill the rabble. As they are in full view of the people, some of whom are calling him bastard and abomination, Tommen tactfully orders his men to stand down and forbids them from attacking.
 
 Tommen's kind heart, however, is also a weakness, as it allows him to be manipulated easily by others, especially by his wife and his mother. Moreover, his deeprunning feelings occasionally cloud his sound judgement, causing him to react very emotionally in dangerous situations; Tommen is beside himself with grief and anger when Margaery is arrested by the Faith Militant. More so when the young ruler finds he is powerless to come to his wife's aid despite being king. Later on, when Tommen learns his mother has also been taken into custody, he goes on a hunger strike of sorts.
 

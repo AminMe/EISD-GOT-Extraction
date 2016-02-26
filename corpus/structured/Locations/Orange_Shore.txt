@@ -1,5 +1,5 @@
 
-The Orange Shore is a region of the continent of Essos. It is located to the west of Volantis, forming the south coast of the continent between the Rhoyne delta and the Disputed Lands.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/lys\/ HBO viewers guide, season 2 map, Lys entry\/ref} data-rte-instance130814-7292947556cca8f7b0de2 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Orange Shore is a region of the continent of Essos. It is located to the west of Volantis, forming the south coast of the continent between the Rhoyne delta and the Disputed Lands.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/lys\/ HBO viewers guide, season 2 map, Lys entry\/ref data-rte-instance130814-7292947556cca8f7b0de2 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In A Song of Ice and Fire, the Orange Shore is located in the same area.
@@ -13,4 +13,4 @@ References
 
 ru:Оранжевый берег
 
- &nbsp; Loading editor
+  Loading editor

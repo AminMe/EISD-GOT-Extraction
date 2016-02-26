@@ -10,7 +10,9 @@ title=House durrandon
 | allegiance=Sovereign
 | vassals=
 | age=
-| founderDurran|Cadets  house baratheon (female line)}}}
+| founderDurran|Cadets  house baratheon (female line)
+
+
 
  
 

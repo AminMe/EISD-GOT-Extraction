@@ -11,7 +11,9 @@ title=Elissa forrester
 |DeathEp= \The Ice Dragon\
 |Last = \The Ice Dragon\
 |Death = Drank poison orStabbed by Harys(player-determined)
-}}}
+
+
+
 
  
 
@@ -33,7 +35,7 @@ Thorren Forrester - father-in-law
 |Death = Drank poison or 
 Stabbed by Harys 
 (player-determined)
-}}} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -41,11 +43,11 @@ Elissa Forrester is the widow of Gregor Forrester and matriarch of House Forrest
 
  Background 
 
-Elissa Forrester was born into House Branfield, a minor Southron house that was destroyed when the Targaryen dynasty fell. She had been married to Gregor for many years when Robert's Rebellion signaled her family's demise; yet she nonetheless felt conflicted between her father's loyalties and her husband's. In time, Elissa came to feel that Ironrath, and she embraced her role as the Forrester matriarch. She silently sworn that she'll never see her family destroyed again.Elissa Forrester - Game Codex Entry\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+Elissa Forrester was born into House Branfield, a minor Southron house that was destroyed when the Targaryen dynasty fell. She had been married to Gregor for many years when Robert's Rebellion signaled her family's demise; yet she nonetheless felt conflicted between her father's loyalties and her husband's. In time, Elissa came to feel that Ironrath, and she embraced her role as the Forrester matriarch. She silently sworn that she'll never see her family destroyed again.Elissa Forrester - Game Codex Entry\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
-They had several children together: Rodrik, Asher and Mira. During her fourth pregnancy, she dreamed she would birth a daughter with a voice like summer rain. But as destiny would have it, she gave birth to a boy. The infant, Ethan, wailed for hours - until Lady Elissa entered a second labor, this time birthing a girl. She named the girl Talia, after her own mother, and from then on Ethan never cried again. She gave birth to one more son a few years later, Ryon.Ethan Forrester - Game Codex Entry\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /Talia Forrester - Game Codex Entry\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+They had several children together: Rodrik, Asher and Mira. During her fourth pregnancy, she dreamed she would birth a daughter with a voice like summer rain. But as destiny would have it, she gave birth to a boy. The infant, Ethan, wailed for hours - until Lady Elissa entered a second labor, this time birthing a girl. She named the girl Talia, after her own mother, and from then on Ethan never cried again. She gave birth to one more son a few years later, Ryon.Ethan Forrester - Game Codex Entry\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /Talia Forrester - Game Codex Entry\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
-Her son, Asher, later went into self-exile in Essos to stop a war being started over his love for Gwyn Whitehill.Asher Forrester - Game Codex Entry\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Lady Elissa wanted her eldest daughter - Mira - to learn the ways of a southern court, so arranged for her to serve as a handmaiden for Margaery Tyrell.Mira Forrester - Game Codex Entry\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
+Her son, Asher, later went into self-exile in Essos to stop a war being started over his love for Gwyn Whitehill.Asher Forrester - Game Codex Entry\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Lady Elissa wanted her eldest daughter - Mira - to learn the ways of a southern court, so arranged for her to serve as a handmaiden for Margaery Tyrell.Mira Forrester - Game Codex Entry\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Iron From Ice 
 
 Gared Tuttle, Gregor's squire returns from The Twins, bearing news that Gregor and Rodrik have been slain in the Red Wedding. He returns Gregor's Greatsword. Her son, Ethan is made the new Lord of Ironrath and Elissa attends his council meetings, giving him advice and helping to keep Ser Royland Degore and Duncan Tuttle from bickering. 
 
@@ -55,7 +57,7 @@ She writes to her daughter, Mira, in King's Landing asking her to try and convin
 
 Behind her son's back she arranges for her brother, Malcolm, to sail to Essos to find Asher and bring him back. She claims Asher has no interest in becoming lord, but could lead men in battle should a war begin between the Forresters and the Whitehills. Ethan can either agree with this plan or refuse it. 
 
-When Ramsay Snow arrives with Lord Whitehill to discuss distributing control over the Ironwood forests, Elissa is present alongside Talia and Ryon. Ramsay takes glee in first taunting Ryon and then seems keen to take Talia on a hunt. Due to Ethan's response to this, Ramsay stabs him in the throat. Elissa runs to her son's side and he bleeds out as she cradles his body. She calls out for her son as Lord Whitehill drags Ryon away as his captive.\Iron From Ice\\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Lost Lords 
+When Ramsay Snow arrives with Lord Whitehill to discuss distributing control over the Ironwood forests, Elissa is present alongside Talia and Ryon. Ramsay takes glee in first taunting Ryon and then seems keen to take Talia on a hunt. Due to Ethan's response to this, Ramsay stabs him in the throat. Elissa runs to her son's side and he bleeds out as she cradles his body. She calls out for her son as Lord Whitehill drags Ryon away as his captive.\Iron From Ice\\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Lost Lords 
 
 She is informed that Rodrik was found alive and rolled in on a corpse cart alongside the dead body of her husband, Gregor. She visits Rodrik as Maester Ortengryn works on healing him, but Rodrik passes out shortly after she arrives. 
 
@@ -63,13 +65,13 @@ While Rodrik is passed out, Elissa tells Talia to write a song for Ethan and Gre
 
 Once Rodrik begins to recover and is able to walk again, she sees him in the Great Hall, where she informs him that she has invited his betrothed - Lady Elaena Glenmore - to visit him. When Lady Elaena arrives, Elissa gives Rodrik some advice on how to convince her to honor the betrothal despite the undesirable state Rodrik and House Forrester is in. She returns to the Great Hall after Lady Elaena has made her decision and Lord Whitehill makes an unexpected and unwelcome arrival. He demands Rodrik shows him some respect by kneeling and kissing his ring, only agreeing to release Ryon temporarily to attend the funeral of Ethan and Gregor if he does. Desperate to see her youngest son, Elissa advises Rodrik to swallow his pride and kiss Whitehill's ring. Whitehill then overrules, Rodrik by taking all the Ironwood forests, defying House Bolton in the process as well. 
 
-Lady Elissa attends the funeral of her son, Ethan, and husband, Gregor. If Gwyn Whitehill attends the funeral, Elissa will exhibit her distaste for her in secret to Rodrik. In private, she and Rodrik discuss what to do about the Whitehills. Lady Elissa tells her son that he mustn't let anything stand in his way, even if he has to murder ever last Whitehill, down to the babes in their bed. She then listens to Talia's song for the fallen family members.\The Lost Lords\\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Sword in the Darkness 
+Lady Elissa attends the funeral of her son, Ethan, and husband, Gregor. If Gwyn Whitehill attends the funeral, Elissa will exhibit her distaste for her in secret to Rodrik. In private, she and Rodrik discuss what to do about the Whitehills. Lady Elissa tells her son that he mustn't let anything stand in his way, even if he has to murder ever last Whitehill, down to the babes in their bed. She then listens to Talia's song for the fallen family members.\The Lost Lords\\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Sword in the Darkness 
 
 Elissa first appears when Gryff arrives at Ironrath. Like the rest of the Forresters she is distraught and tries to stop him from overtaking the Great Hall to no avail. Later on she talks with the council about expelling Gryff or saving Ryon from Highpoint, acting as the council member most in favour of saving the youngest Forrester child while Ortengryn and Royland are more vocal about smashing the figurehead of House Whitehill. 
 
 When Rodrik returns from his meeting with Gwyn, he has the opportunity to discuss Lord Whitehill's plans with Elissa, who is clearing up the great hall. If he reveals that there is a traitor and names a suspect, Elissa will point the finger at whoever Ethan did not elect as Sentinel. When Rodrik faces off with the Whitehill soldiers that arrive in the hall, Harys instructs Elissa to get her son out alive before things get ugly. 
 
-Elissa is last seen when Gryff confronts Rodrik in the courtyard. She is relatively quiet during the seen, but helps Rodrik up and comments on the choices he made before leading him away.\The Sword in the Darkness\\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Sons of Winter 
+Elissa is last seen when Gryff confronts Rodrik in the courtyard. She is relatively quiet during the seen, but helps Rodrik up and comments on the choices he made before leading him away.\The Sword in the Darkness\\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Sons of Winter 
 
 When Rodrik, Elaena, Arthur and the Elite Guard arrive in the courtyard, Elissa appears and tells Rodrik that Gryff Whitehill is harming Maester Ortengryn. They all head for the Great Hall, Elissa helping Ortengryn up and watching as Gryff is captured. She says that they need to keep Gryff alive so he can be traded for Ryon, and stops Rodrik if he takes things too far when punishing Gryff. She says that word of his capture cannot reach Highpoint and orders the death of the ravens. 
 
@@ -77,9 +79,9 @@ She later appears when Talia and Rodrik speak at the tower. She discusses the is
 
 At Highpoint, Elissa takes a step back and allows Rodrik to handle most of the negotiations. When Ryon is brought out and Ludd threatens to kill him, however, she begins to panic until a trade - a son for a son - is proposed. 
 
-Royland/Duncan, The Elite Guard(depending on if you brought them with to Highpoint), Elissa and Rodrik return from Ironrath to find it pretty much deserted. Rodrik hears laughter coming from the Great Hall. He enters it and sees Ramsay Snow talking with Talia Forrester. Ramsay stands up and tells Rodrik that men have said he's a man that can't be broken, and that he's decided to come see for himself.\Sons of Winter\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / A Nest of Vipers 
+Royland/Duncan, The Elite Guard(depending on if you brought them with to Highpoint), Elissa and Rodrik return from Ironrath to find it pretty much deserted. Rodrik hears laughter coming from the Great Hall. He enters it and sees Ramsay Snow talking with Talia Forrester. Ramsay stands up and tells Rodrik that men have said he's a man that can't be broken, and that he's decided to come see for himself.\Sons of Winter\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / A Nest of Vipers 
 
-Elissa appears when Talia goes to get the guards as ordered by Rodrik after speaking to the traitor. She asks, Duncan/Royland, how could you? She is also apart of the discussion after the player makes the choice to kill or imprison the traitor, speaking of Asher's safety when he hits land.\A Nest of Vipers\\/ref} data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Ice Dragon 
+Elissa appears when Talia goes to get the guards as ordered by Rodrik after speaking to the traitor. She asks, Duncan/Royland, how could you? She is also apart of the discussion after the player makes the choice to kill or imprison the traitor, speaking of Asher's safety when he hits land.\A Nest of Vipers\\/ref data-rte-instance130814-44750995756cca6299e674 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Ice Dragon 
 
 Elissa will appear in this episode. Family Tree 
 
@@ -96,7 +98,7 @@ SOW Whitehill Meeting.png
 SOW Elissa Relieved.png
 TID Elissa Poisoned.png|Elissa dies of poisoning.
 TID Elissa After Being Stabbed.png|Elissa dying, after being impaled through the stomach by Harys.
-\/gallery} data-rte-instance=130814-44750995756cca6299e674 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-44750995756cca6299e674 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

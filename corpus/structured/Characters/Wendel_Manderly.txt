@@ -14,14 +14,16 @@ title=Wendel manderly
 | allegiance=House starkHouse Manderly
 | Family=
 | Actor=Oddie Braddell
-|DeathEp = \The Rains of Castamere\}}}
+|DeathEp = \The Rains of Castamere\
+
+
 
  
 
 House Manderly
 | Family=
 | Actor=Oddie Braddell
-|DeathEp  \The Rains of Castamere\}}} data-rte-instance130814-117344464456cca698898b9 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|DeathEp  \The Rains of Castamere\ data-rte-instance130814-117344464456cca698898b9 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 Wendel Manderly is a character who appears in the third season episode The Rains of Castamere. He is played by Oddie Braddell. Ser Wendel Manderly is a knight and a member of House Manderly of White Harbor, loyal vassals of House Stark. Biography 
 
@@ -30,7 +32,7 @@ Wendel Manderly is a character who appears in the third season episode The Rains
  
  
 
- Ser Wendel is part of the retinue that accompanies King Robb Stark to the Twins for the wedding of Edmure Tully and Roslin Frey. During the wedding feast, Ser Wendel sits besides Ser Brynden Tully and Black Walder Frey. Following the bedding of the newlyweds, Wendel is murdered along with his King and the rest of the Stark bannermen.\The Rains of Castamere (episode)|The Rains of Castamere\\/ref} data-rte-instance130814-117344464456cca698898b9 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
+ Ser Wendel is part of the retinue that accompanies King Robb Stark to the Twins for the wedding of Edmure Tully and Roslin Frey. During the wedding feast, Ser Wendel sits besides Ser Brynden Tully and Black Walder Frey. Following the bedding of the newlyweds, Wendel is murdered along with his King and the rest of the Stark bannermen.\The Rains of Castamere (episode)|The Rains of Castamere\\/ref data-rte-instance130814-117344464456cca698898b9 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
 
  In the books 
 

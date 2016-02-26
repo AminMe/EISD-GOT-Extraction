@@ -13,7 +13,9 @@ title=House blackfyre
 | Cadets     = 
 | Age        = Founded: 184AL  Died out: +\/- 256AL
 | Founder    = Daemon Blackfyre
-| Weapon     = Blackfyre}}}
+| Weapon     = Blackfyre
+
+
 
 on a red field.
 | Words = 
@@ -28,7 +30,7 @@ on a red field.
 | Age = Founded: 184AL 
  Died out: +\/- 256AL
 | Founder = Daemon Blackfyre
-| Weapon  Blackfyre} data-rte-instance130814-148880586156cca957acb53 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+| Weapon  Blackfyre data-rte-instance130814-148880586156cca957acb53 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -40,7 +42,7 @@ House Blackfyre was a cadet branch of House Targaryen, founded by Daemon Blackfy
 
  Season 1 
 
- House Blackfyre is among the noble houses listed in the The Lineage and Histories of the Great Houses of the Seven Kingdoms.\Cripples, Bastards and Broken Things\\/ref} data-rte-instance130814-148880586156cca957acb53 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
+ House Blackfyre is among the noble houses listed in the The Lineage and Histories of the Great Houses of the Seven Kingdoms.\Cripples, Bastards and Broken Things\\/ref data-rte-instance130814-148880586156cca957acb53 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In the A Song of Ice and Fire novels, House Blackfyre is mentioned, though it is extinct by the time the series takes place, and features more prominently in the Tales of Dunk and Egg prequel stories. House Blackfyre is infamous for their repeated and unsuccessful attempts to overthrow theTargaryen dynasty in a series of conflicts collectively known as the Blackfyre Rebellions. There were five Blackfyre Rebellions, with the largest and greatest being the first rebellion led by Daemon Blackfyre. The rebellions took place across a span of over sixty years, ending in the fifth and final rebellion when the last male member of House Blackfyre was killed in battle by the young Ser Barristan Selmy. 
 

@@ -1,7 +1,7 @@
 {{Heraldry
 |image=Kingsguard-Main-Shield.PNG
 |link=Kingsguard
-}}
+
 
 {{Character
 | Title = Preston Greenfield
@@ -14,7 +14,7 @@
 |Image = Kingsguard 1.jpg
 |Appearances = 15 episodes (see below)
 |Culture  Andals|Place  Greenfield
-}}
+
 Quote|Ser Preston will be stationed here beside the... primary entertainment.|Ser Jaime Lannister|Two Swords
 
 Preston Greenfield is a recurring character in the first, second, third, fourth, fifth and sixth seasons. He is played by an unidentified extra and debuts in the series premiere. Ser Preston is a knight and a member of the Kingsguard, defending King Joffrey Baratheon as he defended King Robert Baratheon before him.

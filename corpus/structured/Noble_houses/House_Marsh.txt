@@ -3,7 +3,9 @@ title=House marsh
 |words=
 |Seat = 
 |region=The neck, the north
-|allegianceHouse reed|image|ImageSize }}}
+|allegianceHouse reed|image|ImageSize 
+
+
 
  House Marsh is a vassal house from the Neck. They are sworn to House Reed of Greywater Watch. Members Bowen Marsh, currently aFirst Steward of the Night's Watch. In the books 
 

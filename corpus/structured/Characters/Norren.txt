@@ -6,7 +6,9 @@ titles=
 | family=
 | actor=Geoff leesley
 |culture=Northmen
-|Title  norren|deathep\Iron ice\}}}
+|Title  norren|deathep\Iron ice\
+
+
 
  
 
@@ -16,7 +18,7 @@ Norren was a warrior in the service of House Forrester. Biography
 
  Background 
 
-Norren's family faithfully has served House Forrester for centuries. His squire is Bowen, who views serving him with little joy. Norren serves in the Northern army, and fought at the Battle of the Whispering Wood, where he claims to have been an integral part in the capture of Jaime Lannister. \Iron From Ice\\/ref} data-rte-instance130814-53688036956cca6eb775aa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
+Norren's family faithfully has served House Forrester for centuries. His squire is Bowen, who views serving him with little joy. Norren serves in the Northern army, and fought at the Battle of the Whispering Wood, where he claims to have been an integral part in the capture of Jaime Lannister. \Iron From Ice\\/ref data-rte-instance130814-53688036956cca6eb775aa classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
 
 Shortly before the events of the Red Wedding, Norren is seen outside The Twins boasting to House Forrester's men that he captured Jaime Lannister at the Battle of the Whispering Wood. This was then reduced to an integral part, and then a minor part, though Norren is still proud of it. The men joke at his expense. Lord Gregor Forrester emerges from his tent and explains some of Norren's history. Later, he runs out of wine, and has Bowen fetch some more. Gared joins him, and Bowen reveals his disdain for serving Norren. 
 

@@ -11,7 +11,9 @@ title=Greyguard
 | Founding=
 | Age=
 | Founder=
-}}}
+
+
+
 
  
 
@@ -22,15 +24,15 @@ The Faith of the Seven
 | Founding=
 | Age=
 | Founder=
-}}} data-rte-instance130814-164675181856cca88b08268 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Greyguard is a ruined castle on the Wall. History 
+ data-rte-instance130814-164675181856cca88b08268 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Greyguard is a ruined castle on the Wall. History 
 
  Season 3 
 
-Tormund\ and Jon Snow\ prepare to scale the north side of the Wall (opposite the abandoned fortress Greyguard).}} data-rte-instance130814-164675181856cca88b08268 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/306_Tormund_north_side_of_the_Wall.jpg/revision/latest/scale-to-width-down/300?cb20150922171244 width300 height169 classimage thumb withCaption data-image-name306 Tormund north side of the Wall.jpg data-image-key306_Tormund_north_side_of_the_Wall.jpg typeimage / The wildling band led by Tormund, including Ygritte and Jon Snow, arrives at the north side of the Wall, hidden by the forest which grows right up to its base. Only three of the nineteen castles of the Night's Watch along the Wall's southern side are still manned - such as Castle Black - and only these remaining active castles still clear away a tree line from their north side so they can see enemies approaching the Wall. Tormund explains to Jon that when the other fortresses were still manned they would regularly send out workers to cut down young trees that grew within a mile of the Wall, but around the fortresses that have been abandoned for decades large trees now grow right up to the base of the massive ice structure. 
+Tormund\ and Jon Snow\ prepare to scale the north side of the Wall (opposite the abandoned fortress Greyguard). data-rte-instance130814-164675181856cca88b08268 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/5/5f/306_Tormund_north_side_of_the_Wall.jpg/revision/latest/scale-to-width-down/300?cb20150922171244 width300 height169 classimage thumb withCaption data-image-name306 Tormund north side of the Wall.jpg data-image-key306_Tormund_north_side_of_the_Wall.jpg typeimage / The wildling band led by Tormund, including Ygritte and Jon Snow, arrives at the north side of the Wall, hidden by the forest which grows right up to its base. Only three of the nineteen castles of the Night's Watch along the Wall's southern side are still manned - such as Castle Black - and only these remaining active castles still clear away a tree line from their north side so they can see enemies approaching the Wall. Tormund explains to Jon that when the other fortresses were still manned they would regularly send out workers to cut down young trees that grew within a mile of the Wall, but around the fortresses that have been abandoned for decades large trees now grow right up to the base of the massive ice structure. 
 
-Unopposed and even unnoticed by the Watch's occasional patrols, Tormund, Ygritte, Jon, and their raiding party make the dangerous climb up the Wall and safely descend to the southern side.\The Climb\\/ref} data-rte-instance130814-164675181856cca88b08268 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 5 
+Unopposed and even unnoticed by the Watch's occasional patrols, Tormund, Ygritte, Jon, and their raiding party make the dangerous climb up the Wall and safely descend to the southern side.\The Climb\\/ref data-rte-instance130814-164675181856cca88b08268 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 5 
 
-Lord Commander Jon Snow orders Janos Slynt to man Greyguard and intends to send ten of Yarwyck's builders with him to help with the repairs. Janos, knowing the castle is a ruin, takes this order as an insult and promptly refuses. For refusing to obey an official command, Janos is executed by Jon.\High Sparrow (episode)\\/ref} data-rte-instance130814-164675181856cca88b08268 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Lord Commander Jon Snow orders Janos Slynt to man Greyguard and intends to send ten of Yarwyck's builders with him to help with the repairs. Janos, knowing the castle is a ruin, takes this order as an insult and promptly refuses. For refusing to obey an official command, Janos is executed by Jon.\High Sparrow (episode)\\/ref data-rte-instance130814-164675181856cca88b08268 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, Greyguard has been abandoned for two hundred years and has largely collapsed. The novels specify that when the party of wildlings Jon Snow was with climbed over the Wall and crossed to the southern side - corresponding to the Season 3 episode The Climb - they climbed over at a point between Greyguard to the west and Stonedoor to the east. 
 

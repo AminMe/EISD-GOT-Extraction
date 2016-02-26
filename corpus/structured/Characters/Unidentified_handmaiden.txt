@@ -5,13 +5,15 @@ title=Handmaiden
 |Status = Active
 |Allegiance = House Baratheon of King's Landing
 |Actor  Sara Dylan|First  \A Man Without Honor\
-|Last = \Two Swords\}}}
+|Last = \Two Swords\
+
+
 
 (see below)\/small 
 |Status = Active
 |Allegiance = House Baratheon of King's Landing
 |Actor  Sara Dylan|First  \A Man Without Honor\
-|Last  \Two Swords\}}} data-rte-instance130814-72859981156cca75c2216f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Last  \Two Swords\ data-rte-instance130814-72859981156cca75c2216f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 A handmaiden is an unnamed recurring character in the second, third and fourth seasons. She is played by guest star Sara Dylan and she first appears in A Man Without Honor. Biography 
 
@@ -19,11 +21,11 @@ A handmaiden is an unnamed recurring character in the second, third and fourth s
 
  Season 2 
 
-A Man Without Honor\\.}} data-rte-instance130814-72859981156cca75c2216f alt srchttp://vignette4.wikia.nocookie.net/gameofthrones/images/c/cc/Shae_threatens.jpg/revision/latest/scale-to-width-down/180?cb20120524081834 width180 height101 classimage thumb withCaption data-image-nameShae threatens.jpg data-image-keyShae_threatens.jpg typeimage / She is a handmaiden to Sansa Stark. She finds Sansa and Shae trying to turn over her mattress to conceal Sansa's first flowering. She attempts to inform Queen Cersei but Shae threatens her with a knife to keep quiet. Nevertheless, the Queen is informed by Sandor Clegane.\A Man Without Honor\\/ref} data-rte-instance130814-72859981156cca75c2216f classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 3 
+A Man Without Honor\\. data-rte-instance130814-72859981156cca75c2216f alt srchttp://vignette4.wikia.nocookie.net/gameofthrones/images/c/cc/Shae_threatens.jpg/revision/latest/scale-to-width-down/180?cb20120524081834 width180 height101 classimage thumb withCaption data-image-nameShae threatens.jpg data-image-keyShae_threatens.jpg typeimage / She is a handmaiden to Sansa Stark. She finds Sansa and Shae trying to turn over her mattress to conceal Sansa's first flowering. She attempts to inform Queen Cersei but Shae threatens her with a knife to keep quiet. Nevertheless, the Queen is informed by Sandor Clegane.\A Man Without Honor\\/ref data-rte-instance130814-72859981156cca75c2216f classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 3 
 
-The handmaiden continues to be assigned to Sansa. She announces Tyrion Lannister when he calls on Sansa to propose to her.\The Climb\\/ref} data-rte-instance130814-72859981156cca75c2216f classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 4 
+The handmaiden continues to be assigned to Sansa. She announces Tyrion Lannister when he calls on Sansa to propose to her.\The Climb\\/ref data-rte-instance130814-72859981156cca75c2216f classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 4 
 
-The handmaiden continues to spy on Tyrion for Cersei, and discovers that his real secret lover is actually Shae. She then enters Cersei's chambers, while Jaime is present, to inform her of something important.\Two Swords\\/ref} data-rte-instance130814-72859981156cca75c2216f classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
+The handmaiden continues to spy on Tyrion for Cersei, and discovers that his real secret lover is actually Shae. She then enters Cersei's chambers, while Jaime is present, to inform her of something important.\Two Swords\\/ref data-rte-instance130814-72859981156cca75c2216f classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
 
  In the books 
 

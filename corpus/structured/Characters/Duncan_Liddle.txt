@@ -11,7 +11,9 @@ title=Duncan liddle
 | Place=
 | Allegiance=Night's Watch
 | Family=
-| Actor=}}}
+| Actor=
+
+
 
  
 
@@ -23,7 +25,7 @@ title=Duncan liddle
 | Place=
 | Allegiance=Night's Watch
 | Family=
-| Actor}}} data-rte-instance130814-127742537456cca75f1b866 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+| Actor data-rte-instance130814-127742537456cca75f1b866 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -33,7 +35,7 @@ Duncan Liddle is a minor character appearing in Season 5. He's played by an unid
 
  Season 5 
 
-Duncan accompanies Jon Snow on his expedition to Hardhome to convince the wildlings to join him at the Wall. When the White Walkers attack the settlement and their wights attempt to break through Hardhome's gates, the Free Folk attempt en masse to board boats to reach safety. Jon orders Duncan to hold the line.\Hardhome (episode)|Hardhome\\/ref} data-rte-instance130814-127742537456cca75f1b866 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+Duncan accompanies Jon Snow on his expedition to Hardhome to convince the wildlings to join him at the Wall. When the White Walkers attack the settlement and their wights attempt to break through Hardhome's gates, the Free Folk attempt en masse to board boats to reach safety. Jon orders Duncan to hold the line.\Hardhome (episode)|Hardhome\\/ref data-rte-instance130814-127742537456cca75f1b866 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
 
  In the books 
 

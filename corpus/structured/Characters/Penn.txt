@@ -5,7 +5,9 @@ title=Penn
 |last=\A nest vipers\
 |titles=Lieutenant the second sons
 |status=alive
-|allegiance=Second sons}}}
+|allegiance=Second sons
+
+
 
  
 
@@ -15,9 +17,9 @@ Penn is a lieutenant of the Second Sons. He appears in Game of Thrones: A Tellta
 
  Sons of Winter 
 
-Penn is present at Daenerys Targaryen's war council along with Asher Forrester, Beskha, Croft, Therrond and Kieran. On Croft's orders, he leads a stealth attack on Meereen's southern beacon.\Sons of Winter\\/ref} data-rte-instance130814-108363702456cca78f49c32 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / A Nest of Vipers 
+Penn is present at Daenerys Targaryen's war council along with Asher Forrester, Beskha, Croft, Therrond and Kieran. On Croft's orders, he leads a stealth attack on Meereen's southern beacon.\Sons of Winter\\/ref data-rte-instance130814-108363702456cca78f49c32 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / A Nest of Vipers 
 
-Penn returns to Daenerys' camp after the Siege of Meereen.\A Nest of Vipers\\/ref} data-rte-instance130814-108363702456cca78f49c32 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+Penn returns to Daenerys' camp after the Siege of Meereen.\A Nest of Vipers\\/ref data-rte-instance130814-108363702456cca78f49c32 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  References 
 

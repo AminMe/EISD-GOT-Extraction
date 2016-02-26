@@ -1,5 +1,5 @@
 
-The Brimstone is a river in southern Dorne. It runs through the desert and empties into the Summer Sea. The castle of Hellholt is located on its banks.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/dorne\/ HBO viewers guide, season 1 map, Dorne entry\/ref} data-rte-instance130814-113289205256cca90c40ba3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Brimstone is a river in southern Dorne. It runs through the desert and empties into the Summer Sea. The castle of Hellholt is located on its banks.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/dorne\/ HBO viewers guide, season 1 map, Dorne entry\/ref data-rte-instance130814-113289205256cca90c40ba3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, the Brimstone appears to have its source directly in the desert of southern Dorne, which seems to be unlikely. The source of the river may originate in the Red Mountains further north.  Despite being the only major river in central Dorne it is of little comfort to those who must pass through the harsh desert:  the waters of the river are sulphurous.  
@@ -10,8 +10,8 @@ See also
 References
 
 
-,placeholder:1} data-rte-instance130814-113289205256cca90c40ba3 classplaceholder placeholder-comment srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=comment /
+,placeholder:1 data-rte-instance130814-113289205256cca90c40ba3 classplaceholder placeholder-comment srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=comment /
 ru:Сера
 uk:Сірка
 
- &nbsp; Loading editor
+  Loading editor

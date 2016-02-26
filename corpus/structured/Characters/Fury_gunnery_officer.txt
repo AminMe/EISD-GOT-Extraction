@@ -5,7 +5,9 @@ title=Fury gunnery officer
 | status=alive
 | allegiance=House baratheon dragonstone
 | actor=unknown
-}}}
+
+
+
 
  
 
@@ -17,7 +19,7 @@ A Fury gunnery officer is an unnamed background character in the second season. 
 
 He is serving aboard the Fury, Stannis Baratheon's flagship, fighting for House Baratheon of Dragonstone in the War of the Five Kings. Season 2 
 
-He is seen drilling men firing the ship's ballista as the fleet approaches King's Landing.\The Prince of Winterfell\\/ref} data-rte-instance130814-98841467956cca811071b7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+He is seen drilling men firing the ship's ballista as the fleet approaches King's Landing.\The Prince of Winterfell\\/ref data-rte-instance130814-98841467956cca811071b7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

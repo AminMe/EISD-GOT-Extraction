@@ -12,4 +12,4 @@ References
 
 ru:Старый Вик
 
- &nbsp; Loading editor
+  Loading editor

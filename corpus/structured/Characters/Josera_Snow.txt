@@ -14,7 +14,9 @@ title=Josera snow
 |Age =  
 |Death = 
 |DeathEp = 
-}}}
+
+
+
 
  
 
@@ -33,7 +35,7 @@ Thorren Forrester - paternal grandfather
 |Age = 
 |Death = 
 |DeathEp = 
-}}} data-rte-instance130814-116912360856cca6168f557 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-116912360856cca6168f557 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
 Josera Snow is the bastard son of Lord Gregor Forresterand the brother of Elsera Snow, both of whom live in the North Grove. He is a wargthat controls a snow bearnamed Shadow. Biography 
 

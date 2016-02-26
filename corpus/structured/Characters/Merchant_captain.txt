@@ -11,7 +11,9 @@ title=Merchant captain
 | place=Pentos
 | family=
 | allegiance=
-| actor=Gary pillai}}}
+| actor=Gary pillai
+
+
 
  A merchant captain is an unnamed minor character in the fifth season. He's portrayed by Gary Pillai and appears in Sons of the Harpy Biography 
 
@@ -19,14 +21,14 @@ title=Merchant captain
 
 According to Jaime Lannister, this man is from Pentos. Season 5 
 
-While sailing to Oldtown, the captain is bribed by Jaime Lannister to smuggle him and Bronn into Dorne and keep the secret. However, he tried to sell this information to Obara Sand in Planky Town, she was insulted that he did not offer up such a vital warning for free, so she instead tortured it out of him. The Sand Snakes end up burying him up to his neck in the sand, gagged, and covered by a bucket filled with scorpions. Later, Obara kills the captain by throwing her spear, impaling him through the head.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref} data-rte-instance130814-183207791556cca765b579f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+While sailing to Oldtown, the captain is bribed by Jaime Lannister to smuggle him and Bronn into Dorne and keep the secret. However, he tried to sell this information to Obara Sand in Planky Town, she was insulted that he did not offer up such a vital warning for free, so she instead tortured it out of him. The Sand Snakes end up burying him up to his neck in the sand, gagged, and covered by a bucket filled with scorpions. Later, Obara kills the captain by throwing her spear, impaling him through the head.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref data-rte-instance130814-183207791556cca765b579f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  Image gallery 
 
 
 Sand Snakes torture with scorpions.png
 merchant captain sons of the harpy.jpg
-\/gallery} data-rte-instance=130814-183207791556cca765b579f srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-183207791556cca765b579f srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In the A Song of Ice and Fire novels there is no parallel character. Jaime and Bronn do not travel to Dorne at all. Instead, Cersei sends Ser Balon Swann, who goes to Dorne on an official mission to take Myrcella back, so he does not need to smuggle himself into the country. References 
 

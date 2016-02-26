@@ -8,4 +8,4 @@ See also
 
 
 
- &nbsp; Loading editor
+  Loading editor

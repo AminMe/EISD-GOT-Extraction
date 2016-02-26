@@ -9,7 +9,9 @@ title=Amaya
 |death=Shot in the head with an arrow during battle ironrath
 |deathep=\The ice dragon\
 |last=\The dragon\
-}}}
+
+
+
 
  
 
@@ -42,4 +44,4 @@ Upon returning to Ironrath, Amaya leads a charge against the Whitehill army and 
 
 NOV Amaya Stern.png
 ForresterArmyMarch.jpg
-\/gallery} data-rte-instance130814-204210726356cca6db66979 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 /  Loading editor
+\/gallery data-rte-instance130814-204210726356cca6db66979 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 /  Loading editor

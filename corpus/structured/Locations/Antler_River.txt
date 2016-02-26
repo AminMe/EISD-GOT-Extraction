@@ -1,5 +1,5 @@
 
-The Antler River is a river located beyond the Wall.\A Nest of Vipers\\/ref} data-rte-instance130814-11156049956cca8fde09ad classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Antler River is a river located beyond the Wall.\A Nest of Vipers\\/ref data-rte-instance130814-11156049956cca8fde09ad classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, the Antler River is formed by several arches originating in the northeast of the Haunted Forest. From there, it flows southeast into the Shivering Sea.
@@ -11,4 +11,4 @@ References
 
 
 
- &nbsp; Loading editor
+  Loading editor

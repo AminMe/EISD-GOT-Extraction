@@ -1,17 +1,17 @@
-Varys\ visits Ned Stark\, imprisoned in a Black Cell.}} data-rte-instance130814-77788310956cca89c7df71 alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/0/01/BlackCell.jpg/revision/latest/scale-to-width-down/300?cb20140121042853 width300 height169 classimage thumb withCaption data-image-nameBlackCell.jpg data-image-keyBlackCell.jpg  typeimage /
+Varys\ visits Ned Stark\, imprisoned in a Black Cell. data-rte-instance130814-77788310956cca89c7df71 alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/0/01/BlackCell.jpg/revision/latest/scale-to-width-down/300?cb20140121042853 width300 height169 classimage thumb withCaption data-image-nameBlackCell.jpg data-image-keyBlackCell.jpg  typeimage /
 
 The Black Cells are one level of the dungeons of the Red Keep. They are reserved for prisoners accused of high crimes, such as treason. Cells are completely dark, with no possible light sources (except when gaolers enter with torches).
 Varys has access to the Black Cells, but dons the guise of a gaoler to enter.
 
 History
 Season 1
-Ned Stark is confined to the Black Cells following his arrest. He is visited twice by Varys who tries to convince him to confess to treason in order to prevent war and to save the lives of his daughters Sansa and Arya.\The Pointy End\\/ref} data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /\Baelor\\/ref} data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Ned Stark is confined to the Black Cells following his arrest. He is visited twice by Varys who tries to convince him to confess to treason in order to prevent war and to save the lives of his daughters Sansa and Arya.\The Pointy End\\/ref data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /\Baelor\\/ref data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /
 
 Season 2
-After learning that Pycelle is an informant for Queen Cersei, Tyrion Lannister has his men Timett and Bronn cut off Pycelle's beard and throw him into one of the Black Cells.\What is Dead May Never Die\\/ref} data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Not long afterwards Cersei sends Lancel to demand that Tyrion have Pycelle freed. He agrees to let him go, given that he has made his point, but will not let him return to the Small Council.\Garden of Bones\\/ref} data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+After learning that Pycelle is an informant for Queen Cersei, Tyrion Lannister has his men Timett and Bronn cut off Pycelle's beard and throw him into one of the Black Cells.\What is Dead May Never Die\\/ref data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Not long afterwards Cersei sends Lancel to demand that Tyrion have Pycelle freed. He agrees to let him go, given that he has made his point, but will not let him return to the Small Council.\Garden of Bones\\/ref data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /
 
 Season 4
-Tyrion is confined to the Black Cells after being found guilty of the murder of his nephew King Joffrey. On the eve of his execution, Jaime frees Tyrion, so he can escape to the Free Cities. Tyrion first uses the passages in the Red Keep to visit the Tower of the Hand and confront and kill his father.\The Children\\/ref} data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Tyrion is confined to the Black Cells after being found guilty of the murder of his nephew King Joffrey. On the eve of his execution, Jaime frees Tyrion, so he can escape to the Free Cities. Tyrion first uses the passages in the Red Keep to visit the Tower of the Hand and confront and kill his father.\The Children\\/ref data-rte-instance130814-77788310956cca89c7df71 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire books the Black Cells are the third level of the Red Keep's dungeons. On the upper level are cells with high narrow windows where common criminals are confined together. The second level has smaller, personal cells without windows for highborn captives. Torches in the halls cast light through the bars. The Black Cells themselves are smaller still and have doors of wood so that no light enters them; they are reserved for the most vile and dangerous prisoners. The fourth level is the one used for torture and none who enter leaves alive.
@@ -20,4 +20,4 @@ References
 
 
 
- &nbsp; Loading editor
+  Loading editor

@@ -11,7 +11,9 @@ title= 'house payne
 | vassals=
 | age=
 | founder=
-|ImageSize =250px}}}
+|ImageSize =250px
+
+
 
  House Payne is a vassal house that holds fealty to House Lannister of Casterly Rock. It is divided into several branches. 
 

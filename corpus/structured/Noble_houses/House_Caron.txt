@@ -11,7 +11,9 @@ title= 'house caron
 | Vassals=
 | Age=
 | Founder=
-|ImageSize = 250px}}}
+|ImageSize = 250px
+
+
 
 Lord of Nightsong
 | Seat= Nightsong
@@ -22,18 +24,18 @@ Lord of Nightsong
 | Vassals=
 | Age=
 | Founder=
-|ImageSize  250px}}} data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / House Caron is a vassal house from the Stormlands that holds fealty to House Baratheon of Storm's End. Their lands are in the Dornish Marches and their seat is called Nightsong.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/nightsong\/ HBO viewers guide, season 1 map, Nightsong entry\/ref} data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The head of the family holds the titles of Lord of Nightsong and Lord of the Marches, suggesting that they have dominion over other noble houses from the Marches, the so-called Marcher Lords. The Caron sigil is a field of black nightingales on yellow. History 
+|ImageSize  250px data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / House Caron is a vassal house from the Stormlands that holds fealty to House Baratheon of Storm's End. Their lands are in the Dornish Marches and their seat is called Nightsong.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/nightsong\/ HBO viewers guide, season 1 map, Nightsong entry\/ref data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The head of the family holds the titles of Lord of Nightsong and Lord of the Marches, suggesting that they have dominion over other noble houses from the Marches, the so-called Marcher Lords. The Caron sigil is a field of black nightingales on yellow. History 
 
  Season 1 
 
-House Caron takes part in the Tourney of the Hand.\The Wolf and the Lion\\/ref} data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 2 
+House Caron takes part in the Tourney of the Hand.\The Wolf and the Lion\\/ref data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 2 
 
-Like most of the Stormlords, House Caron pledges its support to Renly Baratheon's claim to the Iron Throne. Following the death of Renly, the Carons go over to Stannis and participate in the Battle of the Blackwater.Season 2 Bluray: War of the Five Kings feature\/ref} data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Image gallery 
+Like most of the Stormlords, House Caron pledges its support to Renly Baratheon's claim to the Iron Throne. Following the death of Renly, the Carons go over to Stannis and participate in the Battle of the Blackwater.Season 2 Bluray: War of the Five Kings feature\/ref data-rte-instance130814-62373367356cca9875a2f0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Image gallery 
 
 
 House_Caron.png|HBO viewer's guide icon for House Caron
 Caron Knight.jpg|A Knight of House Caron at the Tournament|Tourney of the Hand in \The Wolf and the Lion\.
-\/gallery} data-rte-instance=130814-62373367356cca9875a2f0 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-62373367356cca9875a2f0 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In A Song of Ice and Fire, they are a loyal vassal house to House Baratheon of Storm's End. 
 

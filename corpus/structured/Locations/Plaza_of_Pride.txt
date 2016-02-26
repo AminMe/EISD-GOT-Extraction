@@ -2,7 +2,7 @@ The Plaza of Pride is a location in Astapor. It is one of the major locations of
 
 History
 Season 3
-Kraznys mo Nakloz and the rest of the Good Masters deliver their Unsullied to Daenerys Targaryen on the Plaza of Pride.\And Now His Watch is Ended\\/ref} data-rte-instance130814-109668570556cca8fe761ce classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Kraznys mo Nakloz and the rest of the Good Masters deliver their Unsullied to Daenerys Targaryen on the Plaza of Pride.\And Now His Watch is Ended\\/ref data-rte-instance130814-109668570556cca8fe761ce classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 Behind the scenes
 The Plaza of Pride is finally mentioned by name by Grey Worm in The Mountain and the Viper.
@@ -17,4 +17,4 @@ See also
 References
 
 
- &nbsp; Loading editor
+  Loading editor

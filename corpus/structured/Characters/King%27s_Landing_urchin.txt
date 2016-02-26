@@ -4,7 +4,9 @@ title=King's landing urchin
 |appearances=\Baelor\
 |Status = alive
 |allegiance=
-|Actor stephen grech}}}
+|Actor stephen grech
+
+
 
  
 
@@ -12,7 +14,7 @@ A King's Landing urchin is an unnamed minor character in the first season. He is
 
  Season 1 
 
-While Arya Stark is in Flea Bottom, she hears a commotion and sees people starting to run past. She calls to a small ragged child and asks him where the crowds are going. As he is running past her, he tells her that they are taking him to the Great Sept of Baelor. When she asks who, he looks back over his shoulder and says, The Hand of the King.\Baelor\\/ref} data-rte-instance130814-97332786556cca7d56e397 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+While Arya Stark is in Flea Bottom, she hears a commotion and sees people starting to run past. She calls to a small ragged child and asks him where the crowds are going. As he is running past her, he tells her that they are taking him to the Great Sept of Baelor. When she asks who, he looks back over his shoulder and says, The Hand of the King.\Baelor\\/ref data-rte-instance130814-97332786556cca7d56e397 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

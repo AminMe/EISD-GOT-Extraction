@@ -12,7 +12,9 @@ title=Castle black
 | Founding=
 | Age=8,000 years (according to myth)
 | Founder=Bran the Builder (according to myth)
-|War Status = Under Siege by Wildlings}}}
+|War Status = Under Siege by Wildlings
+
+
 
  The Faith of the Seven
 | Military=Couple dozen rangers
@@ -21,7 +23,7 @@ title=Castle black
 | Founding=
 | Age=8,000 years (according to myth)
 | Founder=Bran the Builder (according to myth)
-|War Status  Under Siege by Wildlings} data-rte-instance130814-59104652856cca85162d2f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Castle Black\ on the continent of Westeros\.}} data-rte-instance130814-59104652856cca85162d2f alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/6/60/Castle_Black_Pin.png/revision/latest/scale-to-width-down/200?cb20110604191016 width200 height516 classimage thumb alignRight withCaption data-image-nameCastle Black Pin.png data-image-keyCastle_Black_Pin.png typeimage / Castle Black is the primary headquarters andredoubt of the Night's Watch. It is located roughly halfway along the length of the Wall on its southern side, at the northern end of the Kingsroad. It is a dark and chilling home to its garrison.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/castle-black\/ HBO viewers guide, season 2 map, Castle Black entry\/ref} data-rte-instance130814-59104652856cca85162d2f classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+|War Status  Under Siege by Wildlings data-rte-instance130814-59104652856cca85162d2f classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Castle Black\ on the continent of Westeros\. data-rte-instance130814-59104652856cca85162d2f alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/6/60/Castle_Black_Pin.png/revision/latest/scale-to-width-down/200?cb20110604191016 width200 height516 classimage thumb alignRight withCaption data-image-nameCastle Black Pin.png data-image-keyCastle_Black_Pin.png typeimage / Castle Black is the primary headquarters andredoubt of the Night's Watch. It is located roughly halfway along the length of the Wall on its southern side, at the northern end of the Kingsroad. It is a dark and chilling home to its garrison.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/castle-black\/ HBO viewers guide, season 2 map, Castle Black entry\/ref data-rte-instance130814-59104652856cca85162d2f classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
 Castle Black is one of only three manned castles left on the Wall along with Eastwatch-by-the-Sea and The Shadow Tower. There are nineteen castles along the Wall, but as their numbers fell over the centuries the Night's Watch had to abandon sixteen of them. Castle Black is located between the unmanned castles of Queensgate and Oakensheild. 
 
@@ -32,7 +34,7 @@ Jon, Sam and Pyp.jpg|Training yard stairs, and wooden walkways.
 Jon and Benjen.jpg|Top of the Wall.
 Jon and Jeor.jpg|Lord Commander's room.
 Castle Black Great Hall.png|Castle Black common room.
-\/gallery} data-rte-instance=130814-59104652856cca85162d2f srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-59104652856cca85162d2f srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

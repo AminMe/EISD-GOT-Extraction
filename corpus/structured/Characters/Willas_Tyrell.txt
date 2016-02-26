@@ -1,13 +1,13 @@
 {{Heraldry
 |image=House-Tyrell-Shield-Icon.PNG
 |link=House Tyrell
-}}
+
 {{Character
 | Title=Willas Tyrell
 | Season=HBO Viewer's Guide
 | Status= Alive
 | Allegiance=House Tyrell
-| Family= Mace Tyrell - fatherAlerie Tyrell - motherOlenna Tyrell - grandmotherSer Garlan Tyrell - brotherSer Loras Tyrell - brotherMargaery Tyrell - sisterLynesse Hightower - auntJorah Mormont - uncle by marriage}}
+| Family= Mace Tyrell - fatherAlerie Tyrell - motherOlenna Tyrell - grandmotherSer Garlan Tyrell - brotherSer Loras Tyrell - brotherMargaery Tyrell - sisterLynesse Hightower - auntJorah Mormont - uncle by marriage
 
 Willas Tyrell is a character cut from Game of Thrones. He has only appeared in the House Tyrell family tree issued by HBO. He is the eldest son of Mace Tyrell, the Lord of Highgarden.
 

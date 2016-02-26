@@ -11,7 +11,9 @@ title40px|left|linkHouse hoare harren hoare 40px|right|link=House hoare
 | Culture=Ironborn
 | Allegiance=House Hoare
 | Family=
-| Actor|Religion  Drowned God}}}
+| Actor|Religion  Drowned God
+
+
 
 Black Harren
 | Status= Deceased
@@ -20,13 +22,13 @@ Black Harren
 | Culture=Ironborn
 | Allegiance=House Hoare
 | Family=
-| Actor|Religion  Drowned God} data-rte-instance130814-12779847656cca68fa7809 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Harren Hoare, better known as Harren the Black and Black Harren, is an unseen character in Game of Thrones. He is dead by the time of the series and has only been mentioned in dialogue. Biography 
+| Actor|Religion  Drowned God data-rte-instance130814-12779847656cca68fa7809 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Harren Hoare, better known as Harren the Black and Black Harren, is an unseen character in Game of Thrones. He is dead by the time of the series and has only been mentioned in dialogue. Biography 
 
  Background 
 
-Harren the Black was an ironborn King who ruled over the Iron Islands and the Riverlands from his castle, Harrenhal. Harrenhal was the biggest castle in the entire history of the Seven Kingdoms and was built to be invulnerable to any attack by land.\A Man Without Honor\\/ref} data-rte-instance130814-12779847656cca68fa7809 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+Harren the Black was an ironborn King who ruled over the Iron Islands and the Riverlands from his castle, Harrenhal. Harrenhal was the biggest castle in the entire history of the Seven Kingdoms and was built to be invulnerable to any attack by land.\A Man Without Honor\\/ref data-rte-instance130814-12779847656cca68fa7809 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
-However, when Aegon Targaryen invaded the Seven Kingdoms, King Harren's vassals from the Riverlands, led by Edmyn Tully, revolted against him, while Aegon the Conqueror unleashed his dragon, Balerion the Black Dread against the massive stronghold.\The Complete Guide to Westeros: The Field of Fire\ featurettes confirm Aegon used his three dragons only in the Field of Fire\/ref} data-rte-instance130814-12779847656cca68fa7809 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The King of the Iron Isles and the Riverlands and his sons perished as dragonflame consumed Harrenhal, leaving behind blackened and melted ruins.\A Man Without Honor\\/ref} data-rte-instance130814-12779847656cca68fa7809 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+However, when Aegon Targaryen invaded the Seven Kingdoms, King Harren's vassals from the Riverlands, led by Edmyn Tully, revolted against him, while Aegon the Conqueror unleashed his dragon, Balerion the Black Dread against the massive stronghold.\The Complete Guide to Westeros: The Field of Fire\ featurettes confirm Aegon used his three dragons only in the Field of Fire\/ref data-rte-instance130814-12779847656cca68fa7809 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The King of the Iron Isles and the Riverlands and his sons perished as dragonflame consumed Harrenhal, leaving behind blackened and melted ruins.\A Man Without Honor\\/ref data-rte-instance130814-12779847656cca68fa7809 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In the A Song of Ice and Fire novels, Harren the Black was the last King of the Iron Islands and the Riverlands, grandson of Harwyn Hardhand, a King of the Iron Islands who took the Trident from Arrec, the Storm King (grandfather of Argilac the Arrogant). Harren's father extended their domains further east by conquering even more territory from the Kingdom of the Stormlands, advancing east from the Gods Eye to the Narrow Sea and south to the Blackwater Rush (more or less the area of the later Crownlands). 
 

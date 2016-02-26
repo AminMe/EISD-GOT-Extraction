@@ -7,13 +7,15 @@ title=Fruit vendor
 |Culture 
 |actor=Alexander mileman
 |image=FruitVendor.png 
-|appearances=\Mhysa\|ImageSize 200px}}}
+|appearances=\Mhysa\|ImageSize 200px
+
+
 
 A fruit vendor is a minor unnamed character in Season 3. He's played by Alexander Mileman and only appears in Mhysa. Biography 
 
  Season 3 
 
-When Jaime Lannister and Brienne of Tarth return to King's Landing from Harrenhal, they encounter the fruit vendor. He dismisses Jaime as a country boy and tells him to get out of his way.\Mhysa\\/ref} data-rte-instance130814-110996485556cca810140d4 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+When Jaime Lannister and Brienne of Tarth return to King's Landing from Harrenhal, they encounter the fruit vendor. He dismisses Jaime as a country boy and tells him to get out of his way.\Mhysa\\/ref data-rte-instance130814-110996485556cca810140d4 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  References 
 

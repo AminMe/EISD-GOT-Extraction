@@ -8,7 +8,9 @@ title=Elaena glenmore
 |Place=Rillwater Crossing
 |First = \The Lost Lords\
 |Actor = Amy Pemberton
-|Image = TID Elaena Worried.png}}}
+|Image = TID Elaena Worried.png
+
+
 
  House Forrester 
 |Family = Rodrik Forrester - betrothed\/former betrothed (player determined) 
@@ -18,7 +20,7 @@ Arthur Glenmore - brother
 |Place=Rillwater Crossing
 |First = \The Lost Lords\
 |Actor = Amy Pemberton
-|Image  TID Elaena Worried.png}}} data-rte-instance130814-53788784556cca61e3991d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Image  TID Elaena Worried.png data-rte-instance130814-53788784556cca61e3991d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -69,7 +71,7 @@ Rodrick_Elaena.png|Rodrik and Elaena shared a passionate kiss in bed.
 In bed with Rodrik.jpg|Elaena in bed with Rodrik.
 TID Elaena With Rodrik's Body.png|Elaena sees Rodrik's body.
 TID Elaena Captured.png|Elaena is captured by Whitehill soldiers.
-\/gallery} data-rte-instance130814-53788784556cca61e3991d srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-53788784556cca61e3991d srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

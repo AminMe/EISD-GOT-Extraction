@@ -1,11 +1,11 @@
-Kill the Boy\\.}} data-rte-instance130814-156187733256cca8dd292f9 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/0/05/505_Bolton_map_1.jpg/revision/latest/scale-to-width-down/250?cb20150606014911 width250 height140 classimage thumb withCaption data-image-name505 Bolton map 1.jpg data-image-key505_Bolton_map_1.jpg  typeimage /
+Kill the Boy\\. data-rte-instance130814-156187733256cca8dd292f9 alt srchttp://vignette2.wikia.nocookie.net/gameofthrones/images/0/05/505_Bolton_map_1.jpg/revision/latest/scale-to-width-down/250?cb20150606014911 width250 height140 classimage thumb withCaption data-image-name505 Bolton map 1.jpg data-image-key505_Bolton_map_1.jpg  typeimage /
 The Lonely Hills are a series of hills in the North, within the lands of House Umber.  
 They are located east of Long Lake, just northwest of the Dreadfort, and some distance south from Last Hearth and the Last River.  
 The White Knife river flows south out of Long Lake to the west:  a tributary of the White Knife originates in the Lonely Hills, merging with the main river further south.  
 
 History
 Season 5
-The Lonely Hills appear on a map that the Boltons look over.\Kill the Boy\\/ref} data-rte-instance130814-156187733256cca8dd292f9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Lonely Hills appear on a map that the Boltons look over.\Kill the Boy\\/ref data-rte-instance130814-156187733256cca8dd292f9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, the Lonely Hills are within the lands of House Umber.
@@ -17,4 +17,4 @@ References
 
 
 
- &nbsp; Loading editor
+  Loading editor

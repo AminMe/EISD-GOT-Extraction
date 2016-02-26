@@ -6,7 +6,9 @@ title=Wineseller
 |death=Tied naked to a horse and dragged along by daenerys targaryen
 |deathep=\You die\
 |allegiance=Varys
-|Actor simon lowe}}}
+|Actor simon lowe
+
+
 
  The wineseller is an unnamed minor character in the first season. He is played by guest star Simon Lowe and only appears in You Win or You Die. He attempts to poison Daenerys Targaryen in the markets outside Vaes Dothrak, as King Robert Baratheon of Westeros has promised a lordship for doing this. He is discovered, captured, and executed. Biography 
 
@@ -20,13 +22,13 @@ The wineseller calls his stock out in Dothraki in the market. When he spots Daen
 
 Ser Jorahhas been watching and orders everyone to stop. He tells the wineseller to open the wine and to taste it. The wineseller protests the wine is too fine for him, that only a poor wineseller drinks up all his own wares, and the wine has not been allowed to breathe. But Ser Jorah insists that he sample the wine, and Daenerys becoming suspicious of his delaying, and joins Jorah in this. The wineseller, visibly sweating, seems to comply, but then he drops the glass and throws the cask at Daenerys'bodyguard, Rakharo. As he flees, the wineseller knocks into Daenerys who almost falls, but is caught by Jorah. As he runs away, a weapon like a bolo is thrown at hisfeet and he falls to be captured by Rakharo. 
 
-He is then taken to Khal Drogo's tent, tied to a post, and beaten bloody. Ser Jorah says that he will be tied to a saddle and forced to walk behind the khalasar\/i,link: khalasar,wasblank:false,noforce:true,wikitext: khalasar|khalasar} data-rte-instance130814-16388466056cca6b73205d href/wiki/Khalasar title=Khalasarkhalasar. When Daenerys asks what will happen then, Jorah responds that he once saw a man last nine miles being dragged behind a horse. 
+He is then taken to Khal Drogo's tent, tied to a post, and beaten bloody. Ser Jorah says that he will be tied to a saddle and forced to walk behind the khalasar\/i,link: khalasar,wasblank:false,noforce:true,wikitext: khalasar|khalasar data-rte-instance130814-16388466056cca6b73205d href/wiki/Khalasar title=Khalasarkhalasar. When Daenerys asks what will happen then, Jorah responds that he once saw a man last nine miles being dragged behind a horse. 
 
 Jorah tells Daenerys that KingRobert Baratheon will never stop; he wants her and her child dead.Drogo enters the tent in a fury. He glares at the wineseller, making him whimper in fear, and asks Daenerys if she is alright. Drogo kisses her head and strokes her belly, he then he tells Jorah that he may choose any horse as his reward, and that it is Drogo's gift to him. And for his unborn heir he also has a gift; he will take his men and will travel across the sea and take the iron chair that his mother's father sat in. 
 
-When we next see the wineseller, he is naked and bound with a rope around his hands, the other end of which is tied to the saddle of Daenerys' horse when the khalasar rides to Lhazar. He presumably dies during the journey.\You Win or You Die\\/ref} data-rte-instance130814-16388466056cca6b73205d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 4 
+When we next see the wineseller, he is naked and bound with a rope around his hands, the other end of which is tied to the saddle of Daenerys' horse when the khalasar rides to Lhazar. He presumably dies during the journey.\You Win or You Die\\/ref data-rte-instance130814-16388466056cca6b73205d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 4 
 
-Daenerys later discovers that Jorah had in fact been spying on her for Robert Baratheon before switching his allegiance to her, prompting an angry interrogation where he admits to informing King Robert of her pregnancy. Daenerys quickly realizes that the wineseller tried to poison her because of his information. Jorah defensively reminds Daenerys that he stopped her from drinking his wine but she retorts that was because he knew it had to be poisoned. As a punishment, she exiles Jorah from Meereen.\The Mountain and the Viper\\/ref} data-rte-instance130814-16388466056cca6b73205d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Daenerys later discovers that Jorah had in fact been spying on her for Robert Baratheon before switching his allegiance to her, prompting an angry interrogation where he admits to informing King Robert of her pregnancy. Daenerys quickly realizes that the wineseller tried to poison her because of his information. Jorah defensively reminds Daenerys that he stopped her from drinking his wine but she retorts that was because he knew it had to be poisoned. As a punishment, she exiles Jorah from Meereen.\The Mountain and the Viper\\/ref data-rte-instance130814-16388466056cca6b73205d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  
 
@@ -36,7 +38,7 @@ Daenerys later discovers that Jorah had in fact been spying on her for Robert Ba
 
 Dany-jorah-market.png|The Wineseller promotes the poisoned vintage.
 Wineseller captured.jpg|The Wineseller is captured by Rakharo.
-\/gallery} data-rte-instance=130814-16388466056cca6b73205d srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-16388466056cca6b73205d srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In the A Song of Ice and Fire novels, the wineseller is described as a slender, handsome man with flaxen hair curled and perfumed in the fashion of Lys. 
 

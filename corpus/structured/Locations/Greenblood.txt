@@ -1,5 +1,5 @@
 
-The Greenblood is the main river of Dorne, from from west to east through the center of the region. It flows into the Summer Sea just north of Lemonwood. The Greenblood is formed from the confluence of two other rivers, the Scourge from the north and the Vaith from the south, which meet near the castle of Godsgrace.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/dorne\/ HBO viewers guide, season 1 map, Dorne entry\/ref} data-rte-instance130814-178949130856cca8b567872 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Greenblood is the main river of Dorne, from from west to east through the center of the region. It flows into the Summer Sea just north of Lemonwood. The Greenblood is formed from the confluence of two other rivers, the Scourge from the north and the Vaith from the south, which meet near the castle of Godsgrace.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season1\/#!\/locations\/dorne\/ HBO viewers guide, season 1 map, Dorne entry\/ref data-rte-instance130814-178949130856cca8b567872 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, the Greenblood serves as the primary transport and trade artery of eastern Dorne. The country's main port, the Planky Town, is located at the mouth of the river. Due to the desert environment of central and western Dorne, much of the population is concentrated in Dorne's few river valleys such as that of the Greenblood.
@@ -15,4 +15,4 @@ es:Sangreverde
 ru:Зеленокровная
 zh:绿血河
 
- &nbsp; Loading editor
+  Loading editor

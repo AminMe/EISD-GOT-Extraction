@@ -10,7 +10,9 @@ title=House towers
 | vassals=
 | age=
 | founder=
-|ImageSize =250px}}}
+|ImageSize =250px
+
+
 
  
 

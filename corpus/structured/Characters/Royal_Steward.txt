@@ -6,7 +6,9 @@ title=Royal steward
 |Last = \The Pointy End\
 |Status = Alive
 |Allegiance = House Baratheon of King's Landing
-|Actor = Robert Sterne}}}
+|Actor = Robert Sterne
+
+
 
  
 
@@ -15,7 +17,7 @@ title=Royal steward
 |Last = \The Pointy End\
 |Status = Alive
 |Allegiance = House Baratheon of King's Landing
-|Actor  Robert Sterne} data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Actor  Robert Sterne data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -23,9 +25,9 @@ The Royal Steward is an unnamed recurring character in Game of Thrones. He is pl
 
  Season 1 
 
-He summons the new Hand of the King Eddard Stark to the small council on his arrival in King's Landing.\Lord Snow\\/ref} data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / He summons Eddard again when King Robert Baratheon receives news of Daenerys Targaryen's pregnancy.\The Wolf and the Lion\\/ref} data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+He summons the new Hand of the King Eddard Stark to the small council on his arrival in King's Landing.\Lord Snow\\/ref data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / He summons Eddard again when King Robert Baratheon receives news of Daenerys Targaryen's pregnancy.\The Wolf and the Lion\\/ref data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
-He summons Eddard Stark to see the newly crowned King Joffrey Baratheon following the death of Robert in a hunting accident. Eddard is arrested and imprisoned when he impugns Joffrey's claim to the throne.\You Win or You Die\\/ref} data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / He announces the arrival of Sansa Stark to the court to plead mercy for her father.\The Pointy End\\/ref} data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+He summons Eddard Stark to see the newly crowned King Joffrey Baratheon following the death of Robert in a hunting accident. Eddard is arrested and imprisoned when he impugns Joffrey's claim to the throne.\You Win or You Die\\/ref data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / He announces the arrival of Sansa Stark to the court to plead mercy for her father.\The Pointy End\\/ref data-rte-instance130814-150459083556cca7a35b752 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
 
  Behind the scenes 
 

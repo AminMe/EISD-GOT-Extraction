@@ -8,7 +8,9 @@ title=Edric baratheon
 |Death=Stillborn
 |DeathEp = 
 |Family = Stannis Baratheon - fatherSelyse Baratheon - motherShireen Baratheon - sisterTommard Baratheon - brother (stillborn)Petyr Baratheon - brother (stillborn)Robert Baratheon - uncleRenly Baratheon - uncleImry Florent - uncle Gendry - cousinBarra - cousin
-|Actor = }}}
+|Actor = 
+
+
 
 (see below)\/small
 |Status = Deceased
@@ -24,7 +26,7 @@ Renly Baratheon - uncle
 Imry Florent - uncle 
  Gendry - cousin 
 Barra - cousin
-|Actor  }}} data-rte-instance130814-133589349656cca687c081d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Edric Baratheon is one of the stillborn sons of Stannis Baratheon by his wife Selyse Florent. His mother keeps his corpse in a glass jar on display in her chamber along with his also stillborn brothers, Tommard, and Petyr. Appearances 
+|Actor   data-rte-instance130814-133589349656cca687c081d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Edric Baratheon is one of the stillborn sons of Stannis Baratheon by his wife Selyse Florent. His mother keeps his corpse in a glass jar on display in her chamber along with his also stillborn brothers, Tommard, and Petyr. Appearances 
 
  Family tree 
 
@@ -32,9 +34,9 @@ Barra - cousin
 
 
 Selyse Fetus Jar Concept Art.jpg|Concept art of the fetus jars.
-\/gallery} data-rte-instance130814-133589349656cca687c081d srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Behind the scenes 
+\/gallery data-rte-instance130814-133589349656cca687c081d srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Behind the scenes 
 
-Staff writer Bryan Cogman came up with the idea of the stillborn fetuses being preserved in jars. Cogman said in an interview, It was a proud day for me as a writer when I walked on set and saw those magnificently nasty prop dead babies floating in those jars.http:\/\/www.hbo.com\/game-of-thrones\/episodes\/3\/25-kissed-by-fire\/interview\/bryan-cogman.html HBO: Game of Thrones: Interview With Bryan Cogman\/ref} data-rte-instance130814-133589349656cca687c081d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
+Staff writer Bryan Cogman came up with the idea of the stillborn fetuses being preserved in jars. Cogman said in an interview, It was a proud day for me as a writer when I walked on set and saw those magnificently nasty prop dead babies floating in those jars.http:\/\/www.hbo.com\/game-of-thrones\/episodes\/3\/25-kissed-by-fire\/interview\/bryan-cogman.html HBO: Game of Thrones: Interview With Bryan Cogman\/ref data-rte-instance130814-133589349656cca687c081d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In the A Song of Ice and Fire book series, there is no mention Selyse Baratheon having any stillborn sons. 
 

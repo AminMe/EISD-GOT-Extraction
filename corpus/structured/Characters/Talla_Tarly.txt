@@ -5,7 +5,9 @@ title=Talla tarly
 | family=Randyll tarly - fatherMelessa Tarly - motherSamwell Tarly - brother Dickon Tarly - brother Shireen Baratheon - second cousin
 | Allegiance=House Tarly 
 | Actor = Rebecca Benson
-}}}
+
+
+
 
  Melessa Tarly - mother 
 Samwell Tarly - brother 
@@ -13,7 +15,7 @@ Samwell Tarly - brother
 Shireen Baratheon - second cousin
 | Allegiance=House Tarly 
 | Actor = Rebecca Benson
-}}} data-rte-instance130814-93323504156cca671e79c7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-93323504156cca671e79c7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
 Talla Tarly is a characterin thesixth season. She isplayed by Rebecca Benson. Talla issister ofSamwell Tarly, and daughter of LordRandyll Tarly of Horn Hill. Biography 
 

@@ -2,7 +2,7 @@ House Wiberly is a noble house from Westeros.
 
 History
 Season 5
-Lord Wiberly sends a message to Lord Commander Jon Snow in which he agrees to send men to join the Night's Watch.\Sons of the Harpy\\/ref} data-rte-instance130814-160938498556cca9b09d731 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Lord Wiberly sends a message to Lord Commander Jon Snow in which he agrees to send men to join the Night's Watch.\Sons of the Harpy\\/ref data-rte-instance130814-160938498556cca9b09d731 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 Members
 Lord Wiberly, head of the house.
@@ -13,4 +13,4 @@ In the A Song of Ice and Fire novels, there is no mention of any House Wiberly.
 References
 
 
- &nbsp; Loading editor
+  Loading editor

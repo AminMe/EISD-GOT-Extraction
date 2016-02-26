@@ -7,7 +7,9 @@ title=Night's watchman
 |Family = 
 |place=
 |Actor patrick molloy
-|allegiance=The night's watch}}}
+|allegiance=The night's watch
+
+
 
  
 
@@ -21,7 +23,7 @@ A man of the Night's Watch is an unnamed minor character in the fourth season. H
 
 He is a member of the Night's Watch. Season 4 
 
-He brings a number of recruits to Castle Black, and lists their reasons for being sent to the Wall to one of his brothers.\Breaker of Chains\\/ref} data-rte-instance130814-123668059056cca72902b23 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+He brings a number of recruits to Castle Black, and lists their reasons for being sent to the Wall to one of his brothers.\Breaker of Chains\\/ref data-rte-instance130814-123668059056cca72902b23 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  References 
 

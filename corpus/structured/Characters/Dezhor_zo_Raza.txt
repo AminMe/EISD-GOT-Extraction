@@ -6,13 +6,15 @@ title=Dezhor zo raza
 |DeathEp = 
 |Allegiance = Great Masters
 |Status = Determinant 
-|Image = SOW Dezhor Scared.png}}}
+|Image = SOW Dezhor Scared.png
+
+
 
  Throat cut by Asher Forrester (player-determined)
 |DeathEp = 
 |Allegiance = Great Masters
 |Status = Determinant 
-|Image  SOW Dezhor Scared.png}}} data-rte-instance130814-29802534956cca73f671c7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Dezhor zo Raza is a wealthy citizen of Meereen and Beskha's former Master. Biography 
+|Image  SOW Dezhor Scared.png data-rte-instance130814-29802534956cca73f671c7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Dezhor zo Raza is a wealthy citizen of Meereen and Beskha's former Master. Biography 
 
  Background 
 

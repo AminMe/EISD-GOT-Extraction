@@ -10,7 +10,9 @@ title=Mallister supporter
 | place=
 | family=
 | allegiance=Night's watch
-| actor=Derek lord}}}
+| actor=Derek lord
+
+
 
  
 
@@ -24,7 +26,7 @@ A Mallister supporteris a member of the Night's Watch from the Shadow Tower. He 
 
 He is a brother of the Night's Watch stationed at the Shadow Tower. Season 5 
 
-He nominates Ser Denys Mallister to be the next Lord Commander of the Night's Watch.\The House of Black and White\\/ref} data-rte-instance130814-156612897356cca81c70136 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+He nominates Ser Denys Mallister to be the next Lord Commander of the Night's Watch.\The House of Black and White\\/ref data-rte-instance130814-156612897356cca81c70136 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  References 
 

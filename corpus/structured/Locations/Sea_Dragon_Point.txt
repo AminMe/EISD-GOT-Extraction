@@ -1,5 +1,5 @@
 
-Sea Dragon Point is a large peninsula in the North. It extends northwards, separating the Bay of Ice to the east from the Sunset Sea in the west. It is located west of the Wolfswood. The nearest major castle is Deepwood Motte.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/bear-island\/ HBO viewers guide, season 2 map, Bear Island entry\/ref} data-rte-instance130814-41798501656cca8e557f12 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Sea Dragon Point is a large peninsula in the North. It extends northwards, separating the Bay of Ice to the east from the Sunset Sea in the west. It is located west of the Wolfswood. The nearest major castle is Deepwood Motte.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/bear-island\/ HBO viewers guide, season 2 map, Bear Island entry\/ref data-rte-instance130814-41798501656cca8e557f12 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 History
 During the Greyjoy Rebellion, ironborn moored on Sea Dragon Point, although they were beaten back.
@@ -17,4 +17,4 @@ es:Punta Dragón Marino
 ru:Остриё Морского Дракона
 zh:海龙角
 
- &nbsp; Loading editor
+  Loading editor

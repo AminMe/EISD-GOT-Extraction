@@ -1,7 +1,7 @@
 {{Heraldry
 |image=Crow shield icon.png
 |link=Night's Watch
-}}
+
 {{Character
 |Title = Olly
 |Image = Olly.jpg
@@ -14,7 +14,7 @@
 |Culture = Northmen
 |Family = Guymon - Father Unnamed mother
 |Place=Unnamed village, the Gift
-|Actor  Brenock O'Connor|Titles  Steward}}
+|Actor  Brenock O'Connor|Titles  Steward
 Quote|For the Watch.|Olly after stabbing Jon Snow|Mother's Mercy
 Olly is a recurring character in the fourth, fifth and sixth seasons. He is played by guest star Brenock O'Connor and first appears in Breaker of Chains. He was originally a farm boy at the Gift, but flees to the Night's Watch after his village is attacked by wildlings and later fights alongside Jon Snow in the Battle of Castle Black. He eventually becomes a true member of the Night's Watch and is named as Jon's steward when Jon is elected the new Lord Commander, but ultimately betrays and fatally stabs Jon during the Mutiny at Castle Black after believing that Jon is showing mercy to his family's killers.
 Biography
@@ -23,13 +23,13 @@ Olly lived with his mother and father in a village at the Gift.
 
 Season 4
 thumb|left|Styr orders Olly to deliver a message.
-When Olly and his father are on their way home for dinner, their village is attacked by a group of wildlings. When his father is killed by Ygritte, his mother tells him to hide. He flees, and she is killed by Styr. Olly hides under a cart, but is caught by the Thenn warg. The warg brings him to Styr, who holds a blade to his throat. Styr tells Olly&nbsp;that he is going to eat his dead parents, and orders him to tell the men of the Night's Watch at Castle Black in an attempt to draw them out into the open. He then releases&nbsp;Olly, who reaches Castle Black and informs the men of the approaching wildlings.Breaker of Chains
+When Olly and his father are on their way home for dinner, their village is attacked by a group of wildlings. When his father is killed by Ygritte, his mother tells him to hide. He flees, and she is killed by Styr. Olly hides under a cart, but is caught by the Thenn warg. The warg brings him to Styr, who holds a blade to his throat. Styr tells Ollythat he is going to eat his dead parents, and orders him to tell the men of the Night's Watch at Castle Black in an attempt to draw them out into the open. He then releasesOlly, who reaches Castle Black and informs the men of the approaching wildlings.Breaker of Chains
 
-Olly&nbsp;stays at Castle Black, living amongst the brothers of the Night's Watch and wearing the black clothes of the Night's Watch. He later trains with them for the upcoming fight against the wildlings. Olly brags to the brothers about his archery skills, though only Grenn says he believes him, as well as promising to take him hunting soon. Oathkeeper
+Ollystays at Castle Black, living amongst the brothers of the Night's Watch and wearing the black clothes of the Night's Watch. He later trains with them for the upcoming fight against the wildlings. Olly brags to the brothers about his archery skills, though only Grenn says he believes him, as well as promising to take him hunting soon. Oathkeeper
 
 Olly greets Jon Snow, Grenn and Eddison Tollett as they return to Castle Black after coming from Craster's Keep. Jon pats him on the head as he greets the brothers.Mockingbird
 
-thumb|Olly after shooting Ygritte with an arrow.During the&nbsp;Battle of Castle Black, Olly is assigned to work the wooden lift system. As the battle rages on Samwell Tarly urges him to pick up a weapon and defend himself. Olly then spots Ygritte preparing to kill Jon Snow. Before she can shoot Jon, Olly uses a bow to kill Ygritte with an arrow through the heart, avenging his father in the process.The Watchers on the Wall After the arrival of&nbsp;Stannis Baratheon and his forces, Olly is among the black brothers that attend when the fallen brothers are burned in Castle Black's courtyard.The Children
+thumb|Olly after shooting Ygritte with an arrow.During theBattle of Castle Black, Olly is assigned to work the wooden lift system. As the battle rages on Samwell Tarly urges him to pick up a weapon and defend himself. Olly then spots Ygritte preparing to kill Jon Snow. Before she can shoot Jon, Olly uses a bow to kill Ygritte with an arrow through the heart, avenging his father in the process.The Watchers on the Wall After the arrival ofStannis Baratheon and his forces, Olly is among the black brothers that attend when the fallen brothers are burned in Castle Black's courtyard.The Children
 
 Season 5
 Olly remains at Castle Black and spars with Jon Snow in the training yard, alongside other new recruits. He has little experience with a sword and shield, but Jon does his best to teach Olly how to be a proper swordsman. Olly abruptly stops sparring when Melisandre arrives to fetch Jon. Later, Olly is present when Mance Rayder is executed by Stannis Baratheon for refusing to bend the knee.The Wars to Come
@@ -55,7 +55,7 @@ Behind the scenes
 Olly was invented for the TV series, but was originally just supposed to appear for one episode as a means for the garrison at Castle Black to learn that Tormund's group of wildlings are raiding villages in the Gift, to try to draw men away from Castle Black. Writer's assistant Dave Hill (who wrote the Histories &amp; Lore animated featurettes on the Blu rays for Seasons 2, 3, and 4) then suggested to Benioff and Weiss that Olly should then join the Night's Watch, because he has nowhere else to go. Hill also suggested that it would make dramatic sense if they make Olly the one who kills Ygritte during the Battle of Castle Black (in the books, it wasn't clear who fired the arrow that killed her, though Jon briefly believed that he had). Benioff and Weiss were so impressed with this suggestion that they promoted Hill to write an episode script in Season 5, where he gained more prominence by becoming Jon Snow's personal steward and later dealing the final blow to Jon in the mutiny at Castle Black.http://variety.com/gallery/photos-showrunners-impact-report/#!13/david-benioff-d-b-weiss/ 
 
 ​In the books
-​In&nbsp;the A Song of Ice and Fire novels, there is no character by this name. However, Jon takes another young black brother known as Satin,&nbsp;a former male whore from&nbsp;Oldtown,&nbsp;under his wing, as his own steward.
+​Inthe A Song of Ice and Fire novels, there is no character by this name. However, Jon takes another young black brother known as Satin,a former male whore fromOldtown,under his wing, as his own steward.
 
 In the novels, it wasn't clear who shot the arrow that mortally wounded Ygritte. When Jon Snow found her, for a frantic moment he feared that he was the one who shot her - but when he checked the arrow in her he recognized that the fletching on it was different from the arrows he was using. Ygritte dies in Jon Snow's arms, with essentially the same dialogue as in the TV series. Afterwards, Jon decides that he'd rather not know which of his sworn brothers fired the arrow that killed Ygritte, so he makes no attempt to check.
 

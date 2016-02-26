@@ -12,19 +12,21 @@ title=House hornwood
 | vassals=
 | age=
 | founder=
-| imagesize=250px}}}
+| imagesize=250px
+
+
 
  
 
 House Hornwood is a vassal house that holds fealty to House Stark of Winterfell. Their lands are southeast of Winterfell, located in a forested region. Their stronghold is a castle also called Hornwood. The Hornwood lands border the holdings of House Manderly to the south and House Bolton to the northeast. 
 
-The Hornwood sigil is a black moose head on an orange field. Their motto is Righteous in Wrath.\The Wolf and the Lion\\/ref} data-rte-instance130814-139670669456cca96ad3d72 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / They accompanied Robb Stark when he called his bannermen.\The Pointy End\\/ref} data-rte-instance130814-139670669456cca96ad3d72 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Image Gallery 
+The Hornwood sigil is a black moose head on an orange field. Their motto is Righteous in Wrath.\The Wolf and the Lion\\/ref data-rte-instance130814-139670669456cca96ad3d72 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / They accompanied Robb Stark when he called his bannermen.\The Pointy End\\/ref data-rte-instance130814-139670669456cca96ad3d72 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Image Gallery 
 
 
 House Hornwood tourney.jpg|The banner of House Hornwood at the Tournament|Tourney of the Hand in \The Wolf and the Lion\.
 House Hornwood.png|HBO viewers guide icon for House Hornwood.
 Hornwood heraldry in episode guide.png|House Hornwood heraldry, from the HBO in-episode guide.
-\/gallery} data-rte-instance=130814-139670669456cca96ad3d72 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-139670669456cca96ad3d72 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In A Song of Ice and Fire novels, House Hornwood is a loyal vassal of the Starks. House Bolton is said to have designs on their fertile lands. 
 

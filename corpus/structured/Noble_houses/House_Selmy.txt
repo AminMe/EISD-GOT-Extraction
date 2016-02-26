@@ -10,7 +10,9 @@ title=House selmy
 | allegiance=House baratheon
 | vassals=
 | age=
-| founder=}}}
+| founder=
+
+
 
  House Selmy is a vassal house from the Stormlands that holds fealty to House Baratheon of Storm's End. Known members Ser Barristan Selmy, known as Barristan the Bold, former Lord Commander of the Kingsguard. Since being dismissed by King Joffrey Baratheon,he tracked down Daenerys Targaryen and swore his loyalty to her. Slain when fighting the Sons of the Harpy. In the books 
 

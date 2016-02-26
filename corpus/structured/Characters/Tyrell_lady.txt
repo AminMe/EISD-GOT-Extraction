@@ -12,7 +12,9 @@ title=Tyrell lady
 | place=
 | allegiance=House tyrell
 | family=
-| actor=Sophie reid}}}
+| actor=Sophie reid
+
+
 
  
 

@@ -9,7 +9,9 @@ title=Mycah umber
 | allegiance=House umberThe Night's Watch
 | Family = Morag Umber - grandmotherHothor Umber - fatherAmarylis Umber - motherHarkon Umber - brotherLucan Umber - brotherGareth Umber - brotherJoseth Umber - brotherRegan Karstark - sisterCorin Umber - sister
 | Titles = 
-}}}
+
+
+
 
  
 
@@ -24,13 +26,13 @@ Joseth Umber - brother
 Regan Karstark - sister 
 Corin Umber - sister
 | Titles = 
-}}} data-rte-instance130814-210835501456cca796dc0ec classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Mycah Umber is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. He is one of the earliest recorded members of House Umber, and an ancient ancestor of the Greatjon. Biography 
+ data-rte-instance130814-210835501456cca796dc0ec classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Mycah Umber is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. He is one of the earliest recorded members of House Umber, and an ancient ancestor of the Greatjon. Biography 
 
  Background 
 
 Mycah Umber is an early member of House Umber. He was the second born son of Lord Hothor Umber and his wife Lady Amarylis Umber. He swore himself to the brotherhood of the Night's Watch at the age of twenty but died a violent death fifteen years later at Castle Black. Season 1 
 
-He has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms.\A Golden Crown\\/ref} data-rte-instance130814-210835501456cca796dc0ec classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+He has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms.\A Golden Crown\\/ref data-rte-instance130814-210835501456cca796dc0ec classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 Mycah Umber is referenced only in the TV adaptation of A Song of Ice and Fire and has no corresponding counterpart in the books. References 
 

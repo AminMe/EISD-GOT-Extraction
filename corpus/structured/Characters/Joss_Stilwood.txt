@@ -11,7 +11,9 @@ title=Joss stilwood
 | Allegiance=House Clegane
 | Family=
 | Actor=
-}}}
+
+
+
 
  (see below)\/small
 | Death=
@@ -19,7 +21,7 @@ title=Joss stilwood
 | Allegiance=House Clegane
 | Family=
 | Actor=
-}}} data-rte-instance130814-55714196256cca6de47f03 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-55714196256cca6de47f03 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -27,9 +29,9 @@ Joss Stilwood is a background character in the first and fourth season. He is pl
 
  Season 1 
 
-Joss Stilwood squires for Ser Gregor Clegane, the Mountain, in the Tourney of the Hand. After Ser Gregor is defeated in a joust by Ser Loras Tyrell, who was riding a mare in heat to upset Ser Gregor's stallion, he orders Joss to bring him his greatsword. Ser Gregor then beheads his horse in anger.\The Wolf and the Lion\\/ref} data-rte-instance130814-55714196256cca6de47f03 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 4 
+Joss Stilwood squires for Ser Gregor Clegane, the Mountain, in the Tourney of the Hand. After Ser Gregor is defeated in a joust by Ser Loras Tyrell, who was riding a mare in heat to upset Ser Gregor's stallion, he orders Joss to bring him his greatsword. Ser Gregor then beheads his horse in anger.\The Wolf and the Lion\\/ref data-rte-instance130814-55714196256cca6de47f03 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 4 
 
-Joss squires for Gregor when he faces Prince Oberyn Martell in the Second Trial by Combat of Tyrion Lannister.\The Mountain and the Viper\\/ref} data-rte-instance130814-55714196256cca6de47f03 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+Joss squires for Gregor when he faces Prince Oberyn Martell in the Second Trial by Combat of Tyrion Lannister.\The Mountain and the Viper\\/ref data-rte-instance130814-55714196256cca6de47f03 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  In the books 
 

@@ -1,13 +1,13 @@
 
 
-The Maidenvault is a structure within the Red Keep. It was built under orders of King Baelor Targaryen to imprison his sisters Daena, Elaena, and Rhaena. While under Targaryen custom Baelor was expected to marry one of his sisters, he had them all locked away in the tower due to his extremely zealous piety, claiming this would keep him safe from carnal temptations.The Red Keep (Histories &amp; Lore)\/ref} data-rte-instance130814-126262974756cca8d731be9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+The Maidenvault is a structure within the Red Keep. It was built under orders of King Baelor Targaryen to imprison his sisters Daena, Elaena, and Rhaena. While under Targaryen custom Baelor was expected to marry one of his sisters, he had them all locked away in the tower due to his extremely zealous piety, claiming this would keep him safe from carnal temptations.The Red Keep (Histories &amp; Lore)\/ref data-rte-instance130814-126262974756cca8d731be9 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 Image gallery
 
 Daena.png|Daena
 Elaena.png|Elaena
 Rhaena.png|Rhaena
-\/gallery} data-rte-instance=130814-126262974756cca8d731be9 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 /
+\/gallery data-rte-instance130814-126262974756cca8d731be9 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 /
 
 In the books
 In the A Song of Ice and Fire novels, the Maidenvault was so-called because of the three maiden princesses imprisoned there. It is a long, slate-roofed building located behind the royal sept within the Red Keep. Its entry has two tall carved doors. Due to their imprisonment, the three sisters Daena, Elaena, and Rhaena became popularly known as the Three Maidens in the Tower.
@@ -20,4 +20,4 @@ References
 
 
 
- &nbsp; Loading editor
+  Loading editor

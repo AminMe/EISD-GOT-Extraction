@@ -11,7 +11,9 @@ title=Dareon
 | place=The reach
 | allegiance=Night's watch
 | family=
-| actor=unidentified}}}
+| actor=unidentified
+
+
 
  
 
@@ -21,9 +23,9 @@ Dareon is a background character in the first season. He is played by an unident
 
  Season 1 
 
-Dareon is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Dareon is assigned to the Stewards and Maester Aemon sends him to Eastwatch-by-the-Sea, where he is to present himself to Borcas.\You Win or You Die\\/ref} data-rte-instance130814-168212422256cca706f305c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 3 
+Dareon is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Dareon is assigned to the Stewards and Maester Aemon sends him to Eastwatch-by-the-Sea, where he is to present himself to Borcas.\You Win or You Die\\/ref data-rte-instance130814-168212422256cca706f305c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 3 
 
-While fleeing back to the Wall, Samwell Tarly tells Gilly that it will be pleasant at Castle Black: Hobb the cook makes nice food, and Dareon often sings at meal-time.\The Climb\\/ref} data-rte-instance130814-168212422256cca706f305c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+While fleeing back to the Wall, Samwell Tarly tells Gilly that it will be pleasant at Castle Black: Hobb the cook makes nice food, and Dareon often sings at meal-time.\The Climb\\/ref data-rte-instance130814-168212422256cca706f305c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

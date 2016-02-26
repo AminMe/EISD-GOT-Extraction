@@ -1,7 +1,7 @@
 {{Heraldry
 |image=Bolton banner icon.png
 |link=House Bolton
-}}
+
 {{Settlement
 | Title=Winterfell
 | Image=Winterfell Exterior.jpg
@@ -15,15 +15,15 @@
 | Places=The Great KeepThe First KeepThe GodswoodThe Great HallThe cryptsBell TowerBroken TowerLibrary TowerThe SeptMaester's TurretHunter's GateEast GateThe winter town
 | Founding=
 | Age=8,000 years (according to myth)
-| Founder=Bran the Builder (according to myth)}}
+| Founder=Bran the Builder (according to myth)
 Template:Dialogue a-b|Reek|Will we go home now?|Ramsay|I believe we will; to our new home.|Reek and Ramsay Bolton.|The Mountain and the Viper
 
-thumb|right|200px|The location of [[Winterfell on the continent of Westeros.]]
-thumb|250px|Winterfell marked by name on the Boltons' map in [[Kill the Boy.]]
+thumb|right|200px|The location of Winterfell on the continent of Westeros.
+thumb|250px|Winterfell marked by name on the Boltons' map in Kill the Boy.
 
 Winterfell is the seat of House Bolton (formerly House Stark). It is a very large castle located at the center of the North, from where the head of House Stark rules over his people. A small Godswood is enclosed within the walls. It is the capital of the North under King Robb Stark. The castle is located alongside the Kingsroad as it makes its way from the Wall to the capital at King's Landing, more than a thousand miles to the south. It is situated atop hot springs which keep the castle warm even in the worst winters.http://viewers-guide.hbo.com/game-of-thrones/season1/#!/locations/winterfell/ HBO viewers guide, Season 1 map, Winterfell entry Winding tombs below the castle contain the remains of Stark kings and lords and record the history of the ancient family.Winter is Coming The castle has stood for millennia.http://viewers-guide.hbo.com/game-of-thrones/season2/#!/locations/winterfell/ HBO viewers guide, season 2 map, Winterfell entry
 
-The castle is put to the torch by Ramsay Snow after Theon Greyjoy was betrayed by his own crew. This burned out the wood portions of the castle, though the core stone structures remained fundamentally intact, as did the enclosed godswood.Mhysa&nbsp;After the fall of Moat Cailin, the&nbsp;Bolton army relocated to the ruined castle in order to restore it as the seat of the rulers of the North.The Mountain and the Viper
+The castle is put to the torch by Ramsay Snow after Theon Greyjoy was betrayed by his own crew. This burned out the wood portions of the castle, though the core stone structures remained fundamentally intact, as did the enclosed godswood.MhysaAfter the fall of Moat Cailin, theBolton army relocated to the ruined castle in order to restore it as the seat of the rulers of the North.The Mountain and the Viper
 
 History
 Background
@@ -69,7 +69,7 @@ Stark rule
 ** Brandon Stark, his eldest son, strangled to death during an attempt to save his father, by the order of the Mad King in King's Landing.
 ** Lord Eddard Stark, his second son, the Lord of Winterfell, Warden of the North and Lord Paramount of the North. He briefly served as the Hand of the King and Protector of the Realm to his long-time friend King Robert Baratheon. Executed under false charges of treason, at the order of the False King Joffrey Baratheon.
 *** His wife, Lady Catelyn Stark, betrayed and murdered at the Red Wedding.
-**** King Robb Stark, their eldest son and the new Lord of Winterfell&nbsp;and&nbsp;King in the North, betrayed and murdered at the Red Wedding.
+**** King Robb Stark, their eldest son and the new Lord of WinterfellandKing in the North, betrayed and murdered at the Red Wedding.
 ***** His direwolf, Greywind, shot to death at the Red Wedding.
 **** Princess Sansa Stark, their eldest daughter, last seen at Winterfell as Ramsay Bolton's wife.
 ***** Her direwolf, Lady, executed on the Kingsroad.
@@ -87,11 +87,11 @@ Stark rule
 * Theon Greyjoy, raised at Winterfell as Eddard Stark's ward and hostage for his father's good behavior. Abandoned the Stark cause and joined his father Balon in the War of the Five Kings. He took over Winterfell and installed himself as Prince of Winterfell until he was betrayed by his own crew shortly after. Now a captive of Ramsay Bolton at Winterfell.
 * Ser Rodrik Cassel, the master-of-arms at Winterfell, in charge of training fresh recruits with weapons. Executed by Theon Greyjoy.
 ** Jory Cassel, captain of the castle guard and nephew of Rodrik Cassel. Killed in King's Landing by Ser Jaime Lannister.
-* Luwin, the castle's&nbsp;Maester. Stabbed fatally by Dagmer and later mercy-killed at his own request by Osha.
+* Luwin, the castle'sMaester. Stabbed fatally by Dagmer and later mercy-killed at his own request by Osha.
 * Mordane, a septa and governess for Sansa and Arya Stark. Executed in King's Landing during the purge of the Stark household.
 * Old Nan, a former retainer and servant who retired. She told the Stark children stories about life in times gone by. Died of old age.
 ** Hodor, Old Nan's grandson or great-grandson, a simpleton stableboy. With Bran at the cave.
-* Osha, a captive wildling working as a servant. Last seen accompanying Rickon&nbsp;to Last Hearth.
+* Osha, a captive wildling working as a servant. Last seen accompanying Rickonto Last Hearth.
 
  Bolton rule 
 * Lord Roose Bolton, Lord of the Dreadfort, Lord of Winterfell, Warden of the North and Lord Paramount of the North.
@@ -101,7 +101,7 @@ Stark rule
 * Princess Sansa Stark, Ramsay's wife. Marriage arranged by Petyr Baelish.
 * Reek, formerly Theon Greyjoy, manservant and hostage of Ramsay.
 * Myranda, one of Ramsay's bedwarmers and lover. Pushed to her death from a catwalk by Reek after she threatened Sansa. 
-* Wolkan, the castle's&nbsp;new Maester.
+* Wolkan, the castle'snew Maester.
 
 
 Image gallery

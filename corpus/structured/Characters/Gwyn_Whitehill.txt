@@ -10,7 +10,9 @@ title=Gwyn whitehill
 House Forrester (player-determined)
 | Place=Highpoint
 | Family=Ludd Whitehill - fatherKarl Whitehill - brotherEbbert Whitehill - brotherTorrhen Whitehill - brotherGryff Whitehill - brotherAsher Forrester - former lover
-|Culture  Northmen|Actor  Laura Bailey}}}
+|Culture  Northmen|Actor  Laura Bailey
+
+
 
  
 House Forrester (player-determined)
@@ -21,7 +23,7 @@ Ebbert Whitehill - brother
 Torrhen Whitehill - brother 
 Gryff Whitehill - brother 
 Asher Forrester - former lover
-|Culture  Northmen|Actor  Laura Bailey} data-rte-instance130814-109069361756cca64070e5e classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+|Culture  Northmen|Actor  Laura Bailey data-rte-instance130814-109069361756cca64070e5e classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -64,7 +66,7 @@ TLL Gwyn Funeral.png
 TSITD Gwyn Meeting.png
 SOW Gwyn Stern.png
 SOW Whitehill Meeting.png
-\/gallery} data-rte-instance=130814-109069361756cca64070e5e srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
+\/gallery data-rte-instance130814-109069361756cca64070e5e srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
 
  
 

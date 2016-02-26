@@ -6,7 +6,9 @@ title=Baratheon soldier
 |death=Killed in the battle of winterfell
 |deathep=\Mother's mercy\
 |allegiance=House dragonstone
-|actor=unknown}}}
+|actor=unknown
+
+
 
  
 
@@ -18,10 +20,10 @@ This soldier is loyal to House Baratheon of Dragonstone, serving Stannis Barathe
 
 Following the burning of Stannis' daughter Shireen, this soldier discovers that Selyse Baratheon hanged herself in anguish over her death. He reports this to Stannis, and leads him to his wife's corpse. Once there, Stannis orders this soldier to cut Selyse down. 
 
-This soldier later participates in the Battle of Winterfell and is presumably killed by the Bolton army.\Mother's Mercy\\/ref} data-rte-instance130814-3124442856cca7d12a71a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+This soldier later participates in the Battle of Winterfell and is presumably killed by the Bolton army.\Mother's Mercy\\/ref data-rte-instance130814-3124442856cca7d12a71a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  References 
 
-} data-rte-instance130814-3124442856cca7d12a71a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+ data-rte-instance130814-3124442856cca7d12a71a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
   Loading editor

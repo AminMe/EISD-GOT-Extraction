@@ -10,4 +10,4 @@ See also
 ru:Ар Ной
 uk:Ар Ной
 
- &nbsp; Loading editor
+  Loading editor

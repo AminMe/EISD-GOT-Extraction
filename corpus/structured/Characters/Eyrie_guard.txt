@@ -5,7 +5,9 @@ title=Eyrie guard
 |status=alive
 |place=The vale arryn
 |allegiance=House arryn
-|actor=Paul kennedy}}}
+|actor=Paul kennedy
+
+
 
  An Eyrie Guard is an unnamed minor character in the fifth season. He is played by guest star Paul Kennedy and only appears in The House of Black and White. Biography 
 
@@ -13,7 +15,7 @@ title=Eyrie guard
 
 He is a guard in service to House Arryn who serves them at the Eyrie. Season 5 
 
-He accompanies Lord Petyr Baelish and Sansa Stark from Runestone. During their stay at an inn, he stands guard as Brienne of Tarth approaches them and tries to convince Sansa to allow her to be her protector. He attempts to stop her when she turns to leave, and she promptly knocks him out.\The House of Black and White\\/ref} data-rte-instance130814-205547006356cca80c296a3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+He accompanies Lord Petyr Baelish and Sansa Stark from Runestone. During their stay at an inn, he stands guard as Brienne of Tarth approaches them and tries to convince Sansa to allow her to be her protector. He attempts to stop her when she turns to leave, and she promptly knocks him out.\The House of Black and White\\/ref data-rte-instance130814-205547006356cca80c296a3 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

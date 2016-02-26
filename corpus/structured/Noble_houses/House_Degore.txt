@@ -12,7 +12,9 @@ title=House degore
 | religion=
 | age=
 | founder=
-}}}
+
+
+
 
  
 

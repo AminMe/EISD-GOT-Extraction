@@ -7,7 +7,9 @@ title=Mikken
 |Mentioned = \Lord Snow\
 |Status= Uncertain
 |Allegiance = House Stark
-|Actor = Boyd Rankin}}}
+|Actor = Boyd Rankin
+
+
 
  (see below)\/small
 |First = \Winter is Coming\
@@ -15,7 +17,7 @@ title=Mikken
 |Mentioned = \Lord Snow\
 |Status= Uncertain
 |Allegiance = House Stark
-|Actor  Boyd Rankin} data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Actor  Boyd Rankin data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -23,9 +25,9 @@ Mikken is a recurring background character in the first season. He is played unc
 
  Season 1 
 
-Mikken is seen in the background when Bran is practicing archery while his brothers watch (particularly in the close-up shot ofRickon'slaugh). Later Mikkenassembles with the Winterfell household to receive King Robert Baratheon. He stands behind Maester Luwin.\Winter is Coming\\/ref} data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Mikken forges the sword, Needle, for Jon Snow to give to his sister, Arya Stark.\The Kingsroad\\/ref} data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Eddard Stark finds Arya with the sword and recognizes Mikken's maker's mark on it.\Lord Snow\\/ref} data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+Mikken is seen in the background when Bran is practicing archery while his brothers watch (particularly in the close-up shot ofRickon'slaugh). Later Mikkenassembles with the Winterfell household to receive King Robert Baratheon. He stands behind Maester Luwin.\Winter is Coming\\/ref data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Mikken forges the sword, Needle, for Jon Snow to give to his sister, Arya Stark.\The Kingsroad\\/ref data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Eddard Stark finds Arya with the sword and recognizes Mikken's maker's mark on it.\Lord Snow\\/ref data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
 
- *\/nowiki} data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /Uncredited appearances Behind the scenes 
+ *\/nowiki data-rte-instance130814-118536922756cca6bf6e02e classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /Uncredited appearances Behind the scenes 
 
 Mikken is played by Boyd Rankin, who is an armorer and weapon smith for the series. In the books 
 

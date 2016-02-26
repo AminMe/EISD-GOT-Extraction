@@ -12,4 +12,4 @@ See also
 
 ru:Медовое Вино
 
- &nbsp; Loading editor
+  Loading editor

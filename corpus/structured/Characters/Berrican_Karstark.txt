@@ -9,7 +9,9 @@ title=Berrican karstark
 | allegiance=House karstark
 | family=Commard karstark - fatherRegan Karstark - motherBeric Karstark - grandfatherMara Karstark - grandmotherPetyr Karstark - brotherJon Karstark - brotherLaurence Karstark - brother
 | Titles =Lord 
-}}}
+
+
+
 
  
 
@@ -20,13 +22,13 @@ Petyr Karstark - brother
 Jon Karstark - brother 
 Laurence Karstark - brother
 | Titles =Lord 
-}}} data-rte-instance130814-65982150756cca7e109a7d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Berrican Karstark is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. He is one of the earliest recorded members of House Karstark, and an ancient ancestor of Lord Rickard Karstark. Biography 
+ data-rte-instance130814-65982150756cca7e109a7d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Berrican Karstark is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. He is one of the earliest recorded members of House Karstark, and an ancient ancestor of Lord Rickard Karstark. Biography 
 
  Background 
 
 Berrican Karstark was the first born son of Commard Karstark and his wife Regan, and heir to Karhold. His name is an amalgamation of his grandfather and mother's names. Season 1 
 
-He has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms.\A Golden Crown\\/ref} data-rte-instance130814-65982150756cca7e109a7d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+He has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms.\A Golden Crown\\/ref data-rte-instance130814-65982150756cca7e109a7d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 Berrican Karstark is referenced only in the TV adaptation of A Song of Ice and Fire and has no corresponding counterpart in the books. References 
 

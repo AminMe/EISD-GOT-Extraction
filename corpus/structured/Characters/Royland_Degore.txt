@@ -13,7 +13,9 @@ title=Royland degore
 | Culture= Northmen
 | Actor= Brian George
 |DeathEp = \The Ice Dragon\ (player-determined)
-}}}
+
+
+
 
  
 
@@ -35,7 +37,7 @@ House Whitehill (player-determined)
 | Culture= Northmen
 | Actor= Brian George
 |DeathEp = \The Ice Dragon\ (player-determined)
-}}} data-rte-instance130814-164633796356cca65f87b8c classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-164633796356cca65f87b8c classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -43,7 +45,7 @@ Royland Degore is the Master-at-Arms at Ironrath and a loyal servant to House Fo
 
  Background 
 
-Royland Degore joined Lord Forrester’s army after his family was murdered by Ironborn during Balon Greyjoy’s rebellion. Degore had a natural grasp of military tactics and strategy. As the story goes, Degore led a nighttime raid on Sea Dragon Point, where he cut the moorings of a dozen Greyjoy longships and burned the drifting ships to ash - along with all the Ironborn on board. Degore was given charge of a battalion and came to play a crucial role in the Siege of Pyke that ended the war. In the months that followed, King Robert awarded Royland a knighthood and Lord Forrester asked him to serve as Ironrath’s Master-at-Arms. Ser Royland still holds the position and is known for his military expertise… as well as his legendary temper.Royland Degore - Codex Entry\/ref} data-rte-instance130814-164633796356cca65f87b8c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /https:\/\/www.telltalegames.com\/gameofthrones\bout-forester\/ref} data-rte-instance130814-164633796356cca65f87b8c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Iron From Ice 
+Royland Degore joined Lord Forrester’s army after his family was murdered by Ironborn during Balon Greyjoy’s rebellion. Degore had a natural grasp of military tactics and strategy. As the story goes, Degore led a nighttime raid on Sea Dragon Point, where he cut the moorings of a dozen Greyjoy longships and burned the drifting ships to ash - along with all the Ironborn on board. Degore was given charge of a battalion and came to play a crucial role in the Siege of Pyke that ended the war. In the months that followed, King Robert awarded Royland a knighthood and Lord Forrester asked him to serve as Ironrath’s Master-at-Arms. Ser Royland still holds the position and is known for his military expertise… as well as his legendary temper.Royland Degore - Codex Entry\/ref data-rte-instance130814-164633796356cca65f87b8c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /https:\/\/www.telltalegames.com\/gameofthrones\bout-forester\/ref data-rte-instance130814-164633796356cca65f87b8c classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Iron From Ice 
 
 Royland is entering the great hall, arguing with Duncan Tuttle, about what to do with Gared, who had killed one Bolton and determinately one Whitehill for murdering his family. He affirms that now is the time that House Forrester needs to demonstrate its strength and reminds Duncan that the murders happened on their land, on their people, on Duncan's own family. Duncan, despite what happened to his family, disagrees, believing it's not the time to provoke the Whitehills, especially with Ramsay Snow coming to Ironrath to see them to bend the knee. Royland curses Ramsay Snow. 
 
@@ -106,7 +108,7 @@ SOW Whitehill Meeting.png
 SOW Royland Displeased.png
 ForresterArmyMarch.jpg
 NOV Royland Pissed.png
-\/gallery} data-rte-instance=130814-164633796356cca65f87b8c srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Quotes 
+\/gallery data-rte-instance130814-164633796356cca65f87b8c srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Quotes 
 
 Spoken by Royland Appearances 
 

@@ -11,7 +11,9 @@ title=Maron greyjoy
 | Place= Pyke
 | Allegiance=House Greyjoy
 | Family= Balon Greyjoy - fatherAlannys Greyjoy - motherRodrik Greyjoy - brotherYara Greyjoy - sisterTheon Greyjoy - brotherEuron Greyjoy - uncleVictarion Greyjoy - uncleAeron Greyjoy - uncle
-| Actor=}}}
+| Actor=
+
+
 
  \The Night Lands\
 | Aka=
@@ -28,15 +30,15 @@ Theon Greyjoy - brother
 Euron Greyjoy - uncle 
 Victarion Greyjoy - uncle 
 Aeron Greyjoy - uncle
-| Actor}}} data-rte-instance130814-25076746056cca6b0de7b4 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+| Actor data-rte-instance130814-25076746056cca6b0de7b4 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 Maron Greyjoy is an unseen character in Game of Thrones. He is deceased when the events of the series begin and is not expected to appear in the series. Maron is the son of Balon Greyjoy, the Lord Reaper of Pyke. He was killed fighting for his father in the Greyjoy Rebellion. Biography 
 
  Background 
 
- Maron was the second son of Balon Greyjoy and Alannys Harlaw. Balon is the head of House Greyjoy and the Lord Reaper of Pyke. Maron has two brothers, Rodrik and Theon who are respectively the oldest and the youngest, and a sister, Yara, who was born after Maron but before Theon. Maron became his father's heir after Rodrik died in battle but he too was later killed by a collapsing tower during the Siege of Pyke.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\ppendix\/greyjoy-rebellion\/ HBO viewers guide, season 2 appendices, Greyjoy Rebellion entry\/ref} data-rte-instance130814-25076746056cca6b0de7b4 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 1 
+ Maron was the second son of Balon Greyjoy and Alannys Harlaw. Balon is the head of House Greyjoy and the Lord Reaper of Pyke. Maron has two brothers, Rodrik and Theon who are respectively the oldest and the youngest, and a sister, Yara, who was born after Maron but before Theon. Maron became his father's heir after Rodrik died in battle but he too was later killed by a collapsing tower during the Siege of Pyke.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\ppendix\/greyjoy-rebellion\/ HBO viewers guide, season 2 appendices, Greyjoy Rebellion entry\/ref data-rte-instance130814-25076746056cca6b0de7b4 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 1 
 
-Tyrion wonders what Balon would make of Theon's loyalty to House Stark given that he is Balon's only surviving son.\Cripples, Bastards and Broken Things\\/ref} data-rte-instance130814-25076746056cca6b0de7b4 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family tree 
+Tyrion wonders what Balon would make of Theon's loyalty to House Stark given that he is Balon's only surviving son.\Cripples, Bastards and Broken Things\\/ref data-rte-instance130814-25076746056cca6b0de7b4 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Family tree 
 
  In the books 
 

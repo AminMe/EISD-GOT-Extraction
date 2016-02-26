@@ -10,7 +10,9 @@ title=left|40px the red keep right|40px
 | Places=Great HallMaegor's HoldfastTower of the HandWhite Sword TowerThe MaidenvaultTraitor's WalkBlack Cells
 | Founding=1 AL
 | Age=300 years (approx.)
-| Founder=Aegon I Targaryen, completed by Maegor I Targaryen}}}
+| Founder=Aegon I Targaryen, completed by Maegor I Targaryen
+
+
 
 The City Watch 
 House Lannister guard
@@ -26,7 +28,7 @@ Black Cells
 | Founding=1 AL
 | Age=300 years (approx.)
 | Founder=Aegon I Targaryen, 
- completed by Maegor I Targaryen} data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / The Red Keep is the residence of the King of the Andals and the First Men, his family and his court, located within King's Landing, the capital of the Seven Kingdoms. It dominates the skyline of the city, and serves as the city's primary fortress and redoubt. 
+ completed by Maegor I Targaryen data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / The Red Keep is the residence of the King of the Andals and the First Men, his family and his court, located within King's Landing, the capital of the Seven Kingdoms. It dominates the skyline of the city, and serves as the city's primary fortress and redoubt. 
 
 Located in the southeastern corner of King's Landing, the Red Keep overlooks Blackwater Bay and the Narrow Sea. It is currently the seat of King TommenBaratheon, and was formerly the seat of King Joffrey Baratheon, King Robert Baratheon,and before him the seat of the Targaryen kings. Specific Locations 
 
@@ -46,11 +48,11 @@ The White Sword Tower houses the chambers of the Kingsguard. The Maidenvault
 
 The Maidenvault was built under orders of King Baelor Targaryen to imprison his sisters Daena, Rhaena, and Elaena to prevent them from inciting any carnal thought in the pious king. The Godswood 
 
-The Red Keep's Godswood overlooks the Blackwater Rush. It has no weirwood as the Red Keep is not an ancient castle from the time the Old Gods of the Forest held sway south of the Neck.\And Now His Watch is Ended\\/ref} data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /\Two Swords\\/ref} data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Traitor's Walk 
+The Red Keep's Godswood overlooks the Blackwater Rush. It has no weirwood as the Red Keep is not an ancient castle from the time the Old Gods of the Forest held sway south of the Neck.\And Now His Watch is Ended\\/ref data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /\Two Swords\\/ref data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Traitor's Walk 
 
 The Traitor's Walk is an outer corridor on one of the sides of the Red Keep with view to one of its outer walls. The heads of criminals and traitors are placed on spikes over said wall, visible both to the exterior of the Red Keep and whoever passes through the corridor. 
 
-Following the arrest and execution of Ned Stark, his head and those of his entire household were placed on the wall beside the Traitor's Walk.\Fire and Blood\\/ref} data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The dungeons 
+Following the arrest and execution of Ned Stark, his head and those of his entire household were placed on the wall beside the Traitor's Walk.\Fire and Blood\\/ref data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The dungeons 
 
 The dungeons of the Red Keep are divided in four levels: On the upper level are cells with high narrow windows where common criminals are confined together. The second level has smaller, personal cells without windows for highborn captives and valuable hostages. The Black Cells are the third level. Prisoners accused of treason and other high crimes are kept within the Black Cells, as was the case of Ned Stark. Varys has access to the Black Cells, though he dons the disguise of a gaoler when entering. The fourth level is spoken of only in rumors. Once a man is taken here, he never sees the light of day again and is subjected to the most painful torments. Secret passages 
 
@@ -63,9 +65,9 @@ RedKeepFront.jpg|Frontal aerial view of the Red Keep
 GreatSeptExteriors.jpg|The Red Keep seen in the distance, from the western side of King's Landing
 Kimberly Pope Red Keep Concept Art I.jpg|Concept art of the Red Keep's vaults
 Dragon Skull Cave.jpg|One of the Red Keep's underground vaults, where the skulls of Targaryen dragons were dumped after Robert's Rebellion
-\/gallery} data-rte-instance=130814-183192314056cca85c03b51 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Behind the scenes 
+\/gallery data-rte-instance130814-183192314056cca85c03b51 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Behind the scenes 
 
-Production Designer Gemma Jackson said that the look of the floor in the Red Keep is based on the Pantheon in Rome.http:\/\/www.thedailybeast.com\rticles\/2011\/04\/04\/game-of-thrones-10-secrets-about-hbos-adaptation-of-a-song-of-ice-and-fire-by-george-rr-martin.html Gemma Jackson in The Daily Beast\/ref} data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Production Designer Gemma Jackson said that the look of the floor in the Red Keep is based on the Pantheon in Rome.http:\/\/www.thedailybeast.com\rticles\/2011\/04\/04\/game-of-thrones-10-secrets-about-hbos-adaptation-of-a-song-of-ice-and-fire-by-george-rr-martin.html Gemma Jackson in The Daily Beast\/ref data-rte-instance130814-183192314056cca85c03b51 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In A Song of Ice and Fire, the Red Keep is a major castle complex located at the south-eastern corner of the city of King's Landing, directly overlooking the Blackwater Rush and Blackwater Bay. It is built atop Aegon's High Hill, the tallest hill of the city, and affords a panoramic view of the rest of the city. It consists of a number of interconnected buildings, such as the main keep, a secondary castle called Maegor's Holdfast and the Tower of the Hand, the seat of the Hand of the King. White Sword Tower is the base of operations for the Kingsguard. The Red Keep is so-named due to the redstone bricks used to build it. 
 

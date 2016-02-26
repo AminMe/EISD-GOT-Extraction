@@ -1,7 +1,7 @@
 {{Heraldry
 |image=Bolton banner icon.png
 |link=House Bolton
-}}
+
 
 {{Region
 | Title=The North
@@ -26,7 +26,7 @@
 | Founding=
 | Age=
 | Founder=
-}}
+
 
 Quote|Ride 700 miles that way, you're still in the North. 400 miles that way. 300 miles that way. The North is larger than the other six kingdoms combined. And I am the Warden of the North. The North is mine.|Roose to Ramsay Bolton|The Mountain and the Viper
 
@@ -119,4 +119,4 @@ Bolton navbox
 
 de:Norden
 ru:Север
- &nbsp; Loading editor
+  Loading editor

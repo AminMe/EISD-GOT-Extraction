@@ -1,7 +1,7 @@
 {{Heraldry
 |image = House-Targaryen-Shield-Icon.PNG
 |link = House Targaryen
-}}
+
 
 {{Character
 | Title=Rhaegar Targaryen
@@ -18,7 +18,7 @@
 | Allegiance=House Targaryen
 | Family=Aerys II Targaryen - father/uncleRhaella Targaryen - motheruntAemon Targaryen - great-uncleDuncan Targaryen - uncleDaeron Targaryen - uncleViserys Targaryen - brother/cousinDaenerys Targaryen - sister/cousinElia Martell - wifeRhaenys Targaryen - daughterAegon Targaryen - sonRhaego - nephewDoran Martell - brother-in-lawOberyn Martell - brother-in-lawDrogo - brother-in-lawTrystane Martell - nephew-by-marriageSand Snakes - nieces-by-marriage
 | Actor=
-|Culture = Valyrian}}
+|Culture = Valyrian
 
 Quote|Rhaegar fought valiantly, Rhaegar fought nobly. And Rhaegar died.|Jorah Mormont|Walk of Punishment
 

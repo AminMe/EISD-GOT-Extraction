@@ -12,7 +12,9 @@ title=House dayne
 | age=
 | founder=
 | weapon=Dawn
-| imagesize=250px}}}
+| imagesize=250px
+
+
 
  
 
@@ -24,7 +26,7 @@ House Dayne's heraldry consists of a sword and a falling star, on a lavender fie
 
 
 BookOfBrothersDayne.jpg|Ser Arthur Dayne's entry in The Book of Brothers displays the sigil of House Dayne.
-\/gallery} data-rte-instance130814-13982057056cca9590a82a srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-13982057056cca9590a82a srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In the A Song of Ice and Fire novels, members of House Dayne are Stony Dornishmen, whose characteristics mostly resemble the rest of the Seven Kingdoms in look, customs and traditions (being composed of the same First Men/Andal mixture). Unlike the rest of the more Rhoynish-looking Dornishmen, however, they have pale skin with hair ranging from dark brown to pale blond and they often have violet eyes, though according to George R.R. Martin they are not of Valyrian descent. 
 

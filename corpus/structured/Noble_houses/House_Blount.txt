@@ -3,7 +3,9 @@ title=House blount
 |motto=
 |Seat = 
 |region=The crownlands
-|allegiance=House baratheon of king's landing}}}
+|allegiance=House baratheon of king's landing
+
+
 
  House Blount is a vassal house from the Crownlands. It holds fealty to House Baratheon of King's Landing. Members Ser Boros Blount, a knight of the Kingsguard. In the books 
 
@@ -11,4 +13,4 @@ In the A Song of Ice and Fire novels, House Blount is a vassal house sworn to th
 
  
 
-,placeholder:1} data-rte-instance130814-156286177656cca99f858ee classplaceholder placeholder-comment srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=comment / it:Casa Blount  Loading editor
+,placeholder:1 data-rte-instance130814-156286177656cca99f858ee classplaceholder placeholder-comment srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=comment / it:Casa Blount  Loading editor

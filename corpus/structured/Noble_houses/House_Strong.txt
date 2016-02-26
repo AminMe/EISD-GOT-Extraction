@@ -10,7 +10,9 @@ title=House strong
 | vassals=
 | age=
 | founder=
-|ImageSize =250 x 294px}}}
+|ImageSize =250 x 294px
+
+
 
  House Strong is an extinct noble house of the Riverlands. Their sigil was a tripartite pale blue, red, and green on white. 
 

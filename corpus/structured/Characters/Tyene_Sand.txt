@@ -3,7 +3,7 @@
 |rightimage=Sand mini shield.png
 |leftlink=House Martell
 |rightlink=Sand Snakes
-}}
+
 {{Character
 |Title = Tyene Sand
 |Season = 5, 6
@@ -16,7 +16,7 @@
 |Actor = Rosabell Laurenti Sellers
 |Culture  Dornishmen|Aka  
 |First = Sons of the Harpy
-|Appearances = 5 episodes (see below)}}
+|Appearances = 5 episodes (see below)
 Quote|You want a good girl, but you need the bad pussy.|Tyene Sand to Bronn|Mother's Mercy
 Tyene Sand is a recurring character in the fifth and sixth seasons, though she was alluded to in Season 4. She is played by Rosabell Laurenti Sellers and debuts in Sons of the Harpy.
 

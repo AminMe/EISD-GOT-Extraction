@@ -2,7 +2,7 @@ The Mother of Mountains is a mountain in Essos, located within sight of Vaes Dot
 
 History
 Season 1
-During his vow to take the Iron Throne for his unborn son, Rhaego, Khal Drogo swears by the Mother of Mountains.\You Win or You Die\\/ref} data-rte-instance130814-198170796556cca8c3894ea classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+During his vow to take the Iron Throne for his unborn son, Rhaego, Khal Drogo swears by the Mother of Mountains.\You Win or You Die\\/ref data-rte-instance130814-198170796556cca8c3894ea classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
  In the books 
 In A Song of Ice and Fire, the Mother of Mountains is a mountain sacred to the Dohtraki people, located within sight of Vaes Dothrak and a lake known as the Womb of the World, from which, according to myth, the first man emerged riding on the first horse. Only men are allowed to set foot on the Mother of Mountains.
@@ -17,4 +17,4 @@ In A Song of Ice and Fire, the Mother of Mountains is a mountain sacred to the D
 
 zh:圣母山
 
- &nbsp; Loading editor
+  Loading editor

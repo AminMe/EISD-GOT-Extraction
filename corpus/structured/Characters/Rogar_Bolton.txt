@@ -12,7 +12,9 @@ title=Rogar bolton
 | culture=Northmen
 | religion=Old gods of forest
 | actor=
-|Family  |mentionedHouse (histories lore)}}}
+|Family  |mentionedHouse (histories lore)
+
+
 
  
 

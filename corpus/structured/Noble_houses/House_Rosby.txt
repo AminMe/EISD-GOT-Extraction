@@ -12,7 +12,9 @@ title=House rosby
 | cadets=
 | age=
 | founder=
-| weapon=}}}
+| weapon=
+
+
 
  House Rosby is a vassal house sworn to House Baratheon of King's Landing. Their seat is the eponymous town of Rosby, located in the Crownlands, north of King's Landing. It holds fealty directly to the Iron Throne. Members Lord Gyles Rosby, an ever present figure in the court at the Red Keep. In the books 
 

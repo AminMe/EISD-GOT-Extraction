@@ -5,7 +5,9 @@ title=Captain of the archers
 |Status = uncertain
 |allegiance=House lannister
 |actor=Michael grennell
-}}}
+
+
+
 
  
 
@@ -19,7 +21,7 @@ The Captain of the Archers is an unnamed minor character in the second season. H
 
 The Captain of the Archers is a man sworn to House Lannister. Season 2 
 
-Blackwater\\.}} data-rte-instance130814-18035561256cca80a23020 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images0/Joffrey_terrified_2x09.jpg/revision/latest/scale-to-width-down/180?cb20120529031521 width180 height101 classimage thumb alignLeft withCaption data-image-nameJoffrey terrified 2x09.jpg data-image-keyJoffrey_terrified_2x09.jpg typeimage / He commands the archers at the Mud Gate during the Battle of the Blackwater, relaying orders from Tyrion Lannister. He begins volley firing when the forces of King Stannis Baratheon reach the shores of Blackwater Bay. Sandor Clegane threatens the Captain to ensure that his flaming arrows are kept away from him when he leads a sally through the gate. After Sandor retreats the Captain urges his men to fire more quickly. The battle is eventually won when a host of Lannister-Tyrell reinforcements arrive.\Blackwater (episode)|Blackwater\\/ref} data-rte-instance130814-18035561256cca80a23020 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Blackwater\\. data-rte-instance130814-18035561256cca80a23020 alt srchttp://vignette3.wikia.nocookie.net/gameofthrones/images0/Joffrey_terrified_2x09.jpg/revision/latest/scale-to-width-down/180?cb20120529031521 width180 height101 classimage thumb alignLeft withCaption data-image-nameJoffrey terrified 2x09.jpg data-image-keyJoffrey_terrified_2x09.jpg typeimage / He commands the archers at the Mud Gate during the Battle of the Blackwater, relaying orders from Tyrion Lannister. He begins volley firing when the forces of King Stannis Baratheon reach the shores of Blackwater Bay. Sandor Clegane threatens the Captain to ensure that his flaming arrows are kept away from him when he leads a sally through the gate. After Sandor retreats the Captain urges his men to fire more quickly. The battle is eventually won when a host of Lannister-Tyrell reinforcements arrive.\Blackwater (episode)|Blackwater\\/ref data-rte-instance130814-18035561256cca80a23020 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

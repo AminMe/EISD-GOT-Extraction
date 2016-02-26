@@ -4,7 +4,9 @@ title=Lannister messenger
 |appearances=\The pointy end\
 |status=alive
 |allegiance=House lannister
-|actor=Simon stewart}}}
+|actor=Simon stewart
+
+
 
  For similar articles see Lannister soldier. 
 
@@ -16,7 +18,7 @@ A Lannister messenger is an unnamed minor character in the first season. He is p
 
  Season 1 
 
-He is part of the Lannister army in the Riverlands and delivers news of the movements of the Stark army to Tywin Lannister.\The Pointy End\\/ref} data-rte-instance130814-62554423556cca817a96fd classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+He is part of the Lannister army in the Riverlands and delivers news of the movements of the Stark army to Tywin Lannister.\The Pointy End\\/ref data-rte-instance130814-62554423556cca817a96fd classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

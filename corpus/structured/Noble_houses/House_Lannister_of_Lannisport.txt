@@ -11,7 +11,9 @@ title=House lannister of lannisport
 | vassals=
 | age=
 | founder=
-|ImageSize = }}}
+|ImageSize = 
+
+
 
  
 

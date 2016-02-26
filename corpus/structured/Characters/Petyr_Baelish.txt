@@ -1,7 +1,7 @@
 {{Heraldry
 |image = House-Baelish-Main-Shield.PNG
 |link = House Baelish
-}}
+
 
 {{Character
 | Title = Petyr Baelish
@@ -17,7 +17,7 @@ Master of Coin (formerly)
 | Allegiance=House Baelish
 | Family = Great-GrandfatherGrandfatherFatherLysa Arryn - wifeRobin Arryn - stepsonHoster Tully - father-in-lawMinisa Tully - mother-in-lawCatelyn Stark - sister-in-lawEdmure Tully - brother-in-lawEddard Stark - brother-in-lawRoslin Frey - sister-in-lawRobb Stark - nephew by marriageSansa Stark - niece by marriageArya Stark - niece by marriageBran Stark - nephew by marriageRickon Stark - nephew by marriage
 | Actor = Aidan Gillen
-}}
+
 
 Quote|He would see this country burn if he could be king of the ashes.|Varys on Petyr Baelish|And Now His Watch is Ended
 
@@ -27,7 +27,7 @@ He betrayed Eddard Stark to side with House Lannister and King Joffrey Baratheon
 
 Biography
 Background
-thumb|left|[[Petyr's father (left) befriends Lord Hoster Tully during the War of the Ninepenny Kings.]]
+thumb|left|Petyr's father (left) befriends Lord Hoster Tully during the War of the Ninepenny Kings.
 Petyr Baelish is the head of House Baelish, and the lord of an extremely minor holding, so small it has neither name nor maester, located in a small area within the Fingers, a coastal region in the northeastern shores of the Vale of Arryn. He is currently House Baelish's only living member.
 
 House Baelish had very meager origins and no distinguished lineage: Petyr's great-grandfather was a lowly sellsword from Braavos who came to the Vale at the invitation of House Corbray. Petyr's grandfather was a poor hedge knight, who managed to earn a minor lordship of a few stony acres in the smallest peninsula of the Fingers.House Baelish (Histories &amp; Lore)
@@ -80,7 +80,7 @@ Tyrion meets with Littlefinger and outlines a plan to wed Myrcella Baratheon to 
 
 thumb|left|Petyr Baelish gives Ned's bones to Catelyn.Littlefinger reaches Catelyn at Renly Baratheon's camp in the Stormlands. He faces a frosty reception from Renly but nevertheless offers to betray the Lannisters and open the gates of King's Landing to Renly's army. He takes interest in Renly's new bride Margaery Tyrell and lets Margaery know that he is aware that it is a purely political marriage because of Renly's homosexuality.Garden of Bones He meets with Catelyn as planned and delivers Eddard's remains as a sign of good faith. She greets him with angry recriminations over his betrayal of Eddard and rejects his poorly timed advances. He delivers Tyrion's suggested exchange terms; Jaime for Sansa and Arya Stark. Littlefinger lies that the Lannisters have Arya in their custody. Renly is killed in mysterious circumstances and Littlefinger then approaches the Tyrells with a new proposal of alliance with Joffrey. This will allow Margaery Tyrell to remain a queen and provide Loras Tyrell vengeance on Stannis. He leaves the camp with them for Highgarden.The Ghost of Harrenhal Catelyn acts alone to free Jaime on returning to Robb's camp, just as Littlefinger suggested.The Prince of Winterfell
 
-[[File:Loras vengeance Renly.jpg|thumb|Petyr Baelish forging a new alliance with the Tyrells in The Ghost of Harrenhal.]]
+thumb|Petyr Baelish forging a new alliance with the Tyrells in The Ghost of Harrenhal.
 
 Littlefinger travels to Harrenhal to propose an alliance between House Lannister and House Tyrell to Lord Tywin Lannister.The Old Gods and the New Littlefinger is successful in negotiating with the Tyrells and the allied forces arrive in time to claim victory at the Battle of the Blackwater.Blackwater
 
@@ -89,10 +89,10 @@ Littlefinger is elevated to Lord of Harrenhal in reward for brokering the allian
 Season 3
 Baelish colludes with Sansa Stark that he plans to smuggle her out of the city on his ship when he leaves on an upcoming mission.Valar Dohaeris
 
-With his new position as Lord of Harrenhal, Littlefinger's status is elevated considerably, enough for him to leave his position as Master of Coin to Tyrion, purchase a ship and prepare to sail to the Eyrie with a marriage proposal to the widowed Lysa Arryn. However, knowing full well that Sansa could end up being a more politically powerful wife than Lysa, he plans to take her on his ship with him. Ros, now secretly working for Varys, discovers his intentions and informs Varys who promptly convinces Lady Olenna&nbsp;Tyrell to arrange a marriage between Sansa and Loras.Walk of Punishment
+With his new position as Lord of Harrenhal, Littlefinger's status is elevated considerably, enough for him to leave his position as Master of Coin to Tyrion, purchase a ship and prepare to sail to the Eyrie with a marriage proposal to the widowed Lysa Arryn. However, knowing full well that Sansa could end up being a more politically powerful wife than Lysa, he plans to take her on his ship with him. Ros, now secretly working for Varys, discovers his intentions and informs Varys who promptly convinces Lady OlennaTyrell to arrange a marriage between Sansa and Loras.Walk of Punishment
 
 Having been asked by Cersei to collect information on the Tyrells, Littlefinger orders one of his homosexual prostitutes, Olyvar, to act as Loras' squire and seduce him all the way to the bedroom. He does so and manages to get Loras to admit to the secret wedding plans. Olyvar relays this piece of information back to Littlefinger, who tests Sansa. When she declines her place on his ship, Baelish realizes Varys' plan and tips off Cersei and Tywin.Kissed by Fire
-thumb|left|Petyr Baelish sailing to the [[The Vale of Arryn.]]
+thumb|left|Petyr Baelish sailing to the The Vale of Arryn.
 
 Baelish deduces that it must have been Ros who betrayed him, so he gives her to King Joffrey, who tortures and kills her with his crossbow. In the throne room, Littlefinger confronts Varys about his foiled plot. Varys responds by telling him that he did what he did for the good of the realm to prevent it spiralling into chaos but Littlefinger counters him by asserting that he views chaos as the perfect scenario to climb further up the social ladder. His ship then departs for the Vale of Arryn.
 

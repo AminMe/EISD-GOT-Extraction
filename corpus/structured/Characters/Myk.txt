@@ -8,7 +8,9 @@ title=Myk
 | place=
 | allegiance=The night's watch
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -18,7 +20,7 @@ Myk is an unidentified background character in the first season. He is a newly m
 
  Season 1 
 
-Myk is present during the speech Lord Commander Jeor Mormont gives to the graduating recruits. Myk is assigned to the kitchens.\You Win or You Die\\/ref} data-rte-instance130814-3529149856cca7ead06ed classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Myk is present during the speech Lord Commander Jeor Mormont gives to the graduating recruits. Myk is assigned to the kitchens.\You Win or You Die\\/ref data-rte-instance130814-3529149856cca7ead06ed classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

@@ -3,7 +3,9 @@ title=House trant
 |Words = 
 |seat=
 |Region the stormlands
-|allegiance=House baratheon}}}
+|allegiance=House baratheon
+
+
 
  
 

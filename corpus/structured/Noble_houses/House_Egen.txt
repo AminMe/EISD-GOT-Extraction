@@ -1,7 +1,9 @@
 title=House egen
 |sigil=
 |Motto = 
-|regionThe vale of arryn|allegianceHouse arryn}}}
+|regionThe vale of arryn|allegianceHouse arryn
+
+
 
  House Egen is a noble house from the Vale of Arryn, sworn to House Arryn, the Lords of the Eyrie and Lords Paramount of the Vale. They blazon their arms with a yellow sun, white crescent moon, and silver star on blue chief above white. Their motto is By Day or Night. Known members Ser Vardis Egen, Captain of the Guards at the Eyrie. Slain in trial by combat by the sellsword Bronn while championing for Lord Robin Arryn. In the books 
 

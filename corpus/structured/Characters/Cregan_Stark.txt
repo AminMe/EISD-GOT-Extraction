@@ -14,7 +14,9 @@ title=Cregan stark
 | Actor=
 |Mentioned = \Oathkeeper\
 |Culture = Northmen
-|Religion = The Old Gods of the Forest}}}
+|Religion = The Old Gods of the Forest
+
+
 
  Lord Paramount of the North 
 Warden of the North
@@ -25,7 +27,7 @@ Warden of the North
 | Actor=
 |Mentioned = \Oathkeeper\
 |Culture = Northmen
-|Religion  The Old Gods of the Forest} data-rte-instance130814-2295527956cca6ae2a4df classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Religion  The Old Gods of the Forest data-rte-instance130814-2295527956cca6ae2a4df classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 Cregan Stark is an unseen character in Game of Thrones. He is long dead by the time of the series. He was a Lord of Winterfell and an ancestor of House Stark. Biography 
 
@@ -33,7 +35,7 @@ Cregan Stark is an unseen character in Game of Thrones. He is long dead by the t
 
 Cregan Stark once fought with Aemon Targaryen the Dragonknight, Prince of House Targaryen, member of the Kingsguard and one of the greatest swordsmen of his age, and was only barely defeated. Season 4 
 
-His name is mentioned within the entry of Aemon Targaryen in The Book of Brothers.\Oathkeeper\\/ref} data-rte-instance130814-2295527956cca6ae2a4df classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
+His name is mentioned within the entry of Aemon Targaryen in The Book of Brothers.\Oathkeeper\\/ref data-rte-instance130814-2295527956cca6ae2a4df classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In the A Song of Ice and Fire novels, Cregan Stark's background is the same. Aemon Targaryen afterwards remarked that he never met a finer swordsman. 
 

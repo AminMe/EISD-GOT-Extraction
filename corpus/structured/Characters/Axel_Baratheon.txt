@@ -3,7 +3,9 @@ title=Axel baratheon
 | season=1
 | mentioned=\A golden crown\
 | status=deceased
-| allegiance=House baratheon}}}
+| allegiance=House baratheon
+
+
 
  Axel Baratheon is an unseen character in Game of Thrones. He is not expected to appear in the series, being long dead by the time it starts. Biography 
 
@@ -11,7 +13,7 @@ title=Axel baratheon
 
 Axel Baratheon is an early member of House Baratheon, a descendent of Orys Baratheon and a distant ancestor of King Robert Baratheon and his brothers Stannis and Renly. Season 1 
 
-He has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms, which notes the fact that he, along with all of his ancestors and descendants were born black of hair.\A Golden Crown\\/ref} data-rte-instance130814-84858971556cca7ca8164d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+He has an entry in The Lineages and Histories of the Great Houses of the Seven Kingdoms, which notes the fact that he, along with all of his ancestors and descendants were born black of hair.\A Golden Crown\\/ref data-rte-instance130814-84858971556cca7ca8164d classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 Axel Baratheon is mentioned only in the TV adaptation of A Song of Ice and Fire and has no corresponding counterpart in the books. References 
 

@@ -12,7 +12,9 @@ title=House mudd
 | vassals=
 | cadets=
 | age=
-| founder=}}}
+| founder=
+
+
 
  
 

@@ -7,7 +7,9 @@ title=Ebbert whitehill
 |Family = Ludd Whitehill - fatherLady Whitehill - motherKarl Whitehill - brotherTorrhen Whitehill - brotherGwyn Whitehill - sisterGryff Whitehill - brother
 |Place = Highpoint
 |Culture = Northmen
-|Death =}}}
+|Death =
+
+
 
  Order of Maesters
 |Family = Ludd Whitehill - father 
@@ -18,7 +20,7 @@ Gwyn Whitehill - sister
 Gryff Whitehill - brother
 |Place = Highpoint
 |Culture = Northmen
-|Death }}} data-rte-instance130814-105141802156cca70050acc classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Death  data-rte-instance130814-105141802156cca70050acc classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -32,6 +34,6 @@ Ebbert is mentioned when Rodrik Forrester visits Highpoint and talks with Ebbert
 
 
 SOW Whitehill Tapestry.png|Ebbert on a tapestry of the Whitehill family.
-\/gallery} data-rte-instance130814-105141802156cca70050acc srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
+\/gallery data-rte-instance130814-105141802156cca70050acc srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
 
   Loading editor

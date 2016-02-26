@@ -1,7 +1,7 @@
 {{Heraldry
 |image=Mini harpy.png
 |link=Great Masters
-}}
+
 {{Character
 | Title=Oznak zo Pahl
 | Image=Oznak zo pahl.png
@@ -16,7 +16,7 @@
 | Allegiance=Great MastersHouse of Pahl
 | Family=
 | Actor=Daniel Naprous
-}}Quote|He says that we are an army of men without...man parts. He claims you are no woman at all, but a man who...hides his cock in his own asshole.|Missandei translates Oznak's insults to Daenerys Targaryen|Breaker of Chains
+Quote|He says that we are an army of men without...man parts. He claims you are no woman at all, but a man who...hides his cock in his own asshole.|Missandei translates Oznak's insults to Daenerys Targaryen|Breaker of Chains
 Oznak zo Pahl is a minor character in the fourth season. He is played by guest star Daniel Naprous and only appears in Breaker of Chains. He is the champion of Meereen.
 
  Biography 

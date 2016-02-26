@@ -2,7 +2,7 @@ The Black Cliffs are a series of cliffs on the northwest coast of Slaver's Bay.
 
 History
 Season 4
-When Daenerys Targaryen asks for the whereabouts of her largest dragon, Drogon, Grey Worm informs he was last seen flying over the Black Cliffs three days earlier.\The Children\\/ref} data-rte-instance130814-122333589356cca8d122737 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+When Daenerys Targaryen asks for the whereabouts of her largest dragon, Drogon, Grey Worm informs he was last seen flying over the Black Cliffs three days earlier.\The Children\\/ref data-rte-instance130814-122333589356cca8d122737 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
 In the books
 In the A Song of Ice and Fire novels, the Black Cliffs are a series of cliffs that are situated on the northwest coast of Slaver's Bay, south of the Painted Mountains. They lie between Tolos and the ruined city of Bhorash, south of the Demon Road.
@@ -15,4 +15,4 @@ References
 
 
 
- &nbsp; Loading editor
+  Loading editor

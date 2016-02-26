@@ -14,4 +14,4 @@ References
 it:Orkmont
 ru:Оркмонт
 
- &nbsp; Loading editor
+  Loading editor

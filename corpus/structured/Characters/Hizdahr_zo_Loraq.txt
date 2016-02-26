@@ -3,7 +3,7 @@
 |rightimage=House-Targaryen-Shield-Icon.PNG
 |leftlink=Great Masters
 |rightlink=House Targaryen
-}}
+
 
 {{Character
 | Title=Hizdahr zo Loraq
@@ -22,11 +22,11 @@
 | Allegiance=Great MastersHouse of LoraqHouse Targaryen
 | Family=Unnamed - fatherDaenerys Targaryen - betrothed (annulled)
 | Actor=Joel Fry
-|Culture = Ghiscari}}
+|Culture = Ghiscari
 
 Quote|What is done is done. You are the Queen and I am a servant of Meereen; a servant who does not wish to see its traditions eradicated.|Hizdahr zo Loraq|The Laws of Gods and Men
 
-Hizdahr zo Loraq is a recurring character in the fourth and fifth seasons. He is played by Joel Fry and debuts in Breaker of Chains. He is a former&nbsp;slave-trader from the city of Meereen, on the coast of Slaver's Bay, and a scion of the House of Loraq, an ancient and proud line of slavers.The Laws of Gods and Men
+Hizdahr zo Loraq is a recurring character in the fourth and fifth seasons. He is played by Joel Fry and debuts in Breaker of Chains. He is a formerslave-trader from the city of Meereen, on the coast of Slaver's Bay, and a scion of the House of Loraq, an ancient and proud line of slavers.The Laws of Gods and Men
 
 Biography
 Background
@@ -35,7 +35,7 @@ Hizdahr belongs to the ancient aristocratic House of Loraq, who have been one of
 Hizdahr zo Loraq is fluent in the Common Tongue of Westeros, which is not unusual for merchants in Essos, as they take part in long-distance trade.The Laws of Gods and Men
 
 Season 4
-thumb|left|Hizdahr at the Gates of Meereen.Hizdahr zo Loraq is the son of one of the many Great Masters. He, along with his father and the rest of Meereen's nobility,&nbsp;gather over the walls of the city when Daenerys Targaryen and her army appear before the city gates to lay siege to it.Breaker of Chains
+thumb|left|Hizdahr at the Gates of Meereen.Hizdahr zo Loraq is the son of one of the many Great Masters. He, along with his father and the rest of Meereen's nobility,gather over the walls of the city when Daenerys Targaryen and her army appear before the city gates to lay siege to it.Breaker of Chains
 
 His father is crucified in the aftermath of the siege, a matter which he later confronts her about personally. Hizdahr pleads to be allowed to bury him at the Temple of the Graces, to which she agrees, after learning that he had opposed the crucifixion of the slave children as an ill-conceived warning against Daenerys.The Laws of Gods and Men
 

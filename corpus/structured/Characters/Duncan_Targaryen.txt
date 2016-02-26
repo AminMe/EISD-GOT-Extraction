@@ -5,7 +5,9 @@ title=Duncan targaryen
 |Death = 259 ALPerished in the Tragedy at Summerhall
 |Place = King's Landing
 |Allegiance = House Targaryen
-|Family  Aegon V Targaryen - fatherAerys II Targaryen - brotherRhaella Targaryen - sisterDaeron Targaryen - brotherRhaegar Targaryen - nephewViserys Targaryen - nephewDaenerys Targaryen - nieceAemon Targaryen - uncleAerion Targaryen - uncle|Season  4|Mentioned  \Oathkeeper\|Culture  Valyrian}}}
+|Family  Aegon V Targaryen - fatherAerys II Targaryen - brotherRhaella Targaryen - sisterDaeron Targaryen - brotherRhaegar Targaryen - nephewViserys Targaryen - nephewDaenerys Targaryen - nieceAemon Targaryen - uncleAerion Targaryen - uncle|Season  4|Mentioned  \Oathkeeper\|Culture  Valyrian
+
+
 
  Prince of Dragonflies
 |Status = Deceased
@@ -21,11 +23,11 @@ Rhaegar Targaryen - nephew
 Viserys Targaryen - nephew 
 Daenerys Targaryen - niece 
 Aemon Targaryen - uncle 
-Aerion Targaryen - uncle|Season = 4|Mentioned  \Oathkeeper\|Culture  Valyrian} data-rte-instance=130814-67197887756cca6629f868 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets /Duncan Targaryen, also calledDuncan the Small or the Prince of Dragonflies​, is an unseen character in Game of Thrones. He is long dead by the time the series begins. Biography 
+Aerion Targaryen - uncle|Season  4|Mentioned  \Oathkeeper\|Culture  Valyrian data-rte-instance130814-67197887756cca6629f868 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets /Duncan Targaryen, also calledDuncan the Small or the Prince of Dragonflies​, is an unseen character in Game of Thrones. He is long dead by the time the series begins. Biography 
 
  Background 
 
-Duncan was the eldest son and heir of King Aegon V Targaryen. He was named in honor of his father's great friend Ser Duncan the Tall, who had also become Lord Commander of Aegon V's Kingsguard. He died alongside his father and his namesake in the Tragedy at Summerhall.\Oathkeeper\\/ref} data-rte-instance130814-67197887756cca6629f868 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 4 
+Duncan was the eldest son and heir of King Aegon V Targaryen. He was named in honor of his father's great friend Ser Duncan the Tall, who had also become Lord Commander of Aegon V's Kingsguard. He died alongside his father and his namesake in the Tragedy at Summerhall.\Oathkeeper\\/ref data-rte-instance130814-67197887756cca6629f868 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 4 
 
 He is mentioned in his namesake's entry in The Book of Brothers. ​Family tree 
 

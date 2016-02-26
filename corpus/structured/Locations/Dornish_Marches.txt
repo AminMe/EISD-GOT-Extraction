@@ -17,7 +17,9 @@ title=Dornish marches
 | Places=
 | Founding=
 | Age=
-| Founder=}}}
+| Founder=
+
+
 
 southern Stormlands, Westeros
 | Formerly=
@@ -36,13 +38,13 @@ southern Stormlands, Westeros
 | Places=
 | Founding=
 | Age=
-| Founder}}} data-rte-instance130814-199345243856cca8ac337d8 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / The Dornish Marches are an area of the southwestern Stormlands bordering Dorne, the Reach, and the Sea of Dorne. They are located in the northern end of the Red Mountains which separate Dorne from the rest of the continent. As a result they have a very cold, alpine climate. 
+| Founder data-rte-instance130814-199345243856cca8ac337d8 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / The Dornish Marches are an area of the southwestern Stormlands bordering Dorne, the Reach, and the Sea of Dorne. They are located in the northern end of the Red Mountains which separate Dorne from the rest of the continent. As a result they have a very cold, alpine climate. 
 
-Despite their name, they have been ruled from Storm's End ever since the Storm Kings of House Durrandon asserted their dominance over it against the Gardener Kings of the Reach and several Dornish houses. They are marches on the border that guards the Stormlands from Dornish attack.The Stormlands (Histories &amp; Lore)\/ref} data-rte-instance130814-199345243856cca8ac337d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+Despite their name, they have been ruled from Storm's End ever since the Storm Kings of House Durrandon asserted their dominance over it against the Gardener Kings of the Reach and several Dornish houses. They are marches on the border that guards the Stormlands from Dornish attack.The Stormlands (Histories &amp; Lore)\/ref data-rte-instance130814-199345243856cca8ac337d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
-The fighting for control over the Marches lasted until Dorne was brought under the rule of the Iron Throne through a marriage alliance one century before the War of the Five Kings.} data-rte-instance130814-199345243856cca8ac337d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+The fighting for control over the Marches lasted until Dorne was brought under the rule of the Iron Throne through a marriage alliance one century before the War of the Five Kings. data-rte-instance130814-199345243856cca8ac337d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
-The Storm lords from the Dornish Marches still maintain strong martial traditions after centuries of constant warfare, and produce some of the best fighters in the Seven Kingdoms, such as Lord Beric Dondarrion and Ser Barristan Selmy.} data-rte-instance130814-199345243856cca8ac337d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+The Storm lords from the Dornish Marches still maintain strong martial traditions after centuries of constant warfare, and produce some of the best fighters in the Seven Kingdoms, such as Lord Beric Dondarrion and Ser Barristan Selmy. data-rte-instance130814-199345243856cca8ac337d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
 House Dondarrion, House Caron, House Swann, and House Selmy are all Marcher Houses. In the books 
 

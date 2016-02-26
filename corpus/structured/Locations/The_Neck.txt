@@ -17,7 +17,9 @@ title=The neck
 | Places=Kingsroad
 | Founding=
 | Age=10,000 years (according to myth)
-| Founder=}}}
+| Founder=
+
+
 
 CrannogmenAndal
 | Military=
@@ -29,7 +31,7 @@ CrannogmenAndal
 | Places=Kingsroad
 | Founding=
 | Age=10,000 years (according to myth)
-| Founder}}} data-rte-instance130814-175147121156cca87488813 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / The Neck is a swamp and marsh-filled region of Westeros, located where the waters of the Bite, an inlet of the Shivering Sea, and Blazewater Bay, an inlet of the Sunset Sea, draw relatively close to one another, making it the narrowest part of the continent. The Neck is the southernmost part of the North, on the border with the Riverlands.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/moat-cailin\/ HBO viewers guide, season 2 map Moat Cailin entry\/ref} data-rte-instance130814-175147121156cca87488813 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Climate 
+| Founder data-rte-instance130814-175147121156cca87488813 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / The Neck is a swamp and marsh-filled region of Westeros, located where the waters of the Bite, an inlet of the Shivering Sea, and Blazewater Bay, an inlet of the Sunset Sea, draw relatively close to one another, making it the narrowest part of the continent. The Neck is the southernmost part of the North, on the border with the Riverlands.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/moat-cailin\/ HBO viewers guide, season 2 map Moat Cailin entry\/ref data-rte-instance130814-175147121156cca87488813 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Climate 
 
 The swamplands of the Neck are by far the largest in all of Westeros, making it a rather unique biome. It is the only place on the continent inhabited by a species of crocodilians, known as Lizard-lions (apparently so-named because they are reptiles the size of lions). Geography 
 

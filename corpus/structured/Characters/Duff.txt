@@ -4,7 +4,9 @@ title=Duff
 |first=\The sword in the darkness\
 |last=\The darkness\
 |status=uncertain
-|allegianceThe night's watch|titles}}}
+|allegianceThe night's watch|titles
+
+
 
  
 
@@ -14,7 +16,7 @@ Duff is a minor character in Game of Thrones: A Telltale Games Series. He is a b
 
  The Sword in the Darkness 
 
-At Castle Black, Jon Snow orders Wendel to make sure the quivers are full and the torches are dry while preparing for his raid of Craster's Keep. After talking to Gared Tuttle, Jon once again confronts Duff about the arrows.\The Sword in the Darkness\\/ref} data-rte-instance130814-103510237556cca7b5eed36 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+At Castle Black, Jon Snow orders Wendel to make sure the quivers are full and the torches are dry while preparing for his raid of Craster's Keep. After talking to Gared Tuttle, Jon once again confronts Duff about the arrows.\The Sword in the Darkness\\/ref data-rte-instance130814-103510237556cca7b5eed36 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  References 
 

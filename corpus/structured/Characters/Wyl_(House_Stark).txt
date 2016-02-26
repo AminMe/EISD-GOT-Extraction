@@ -9,7 +9,9 @@ title=Wyl
 |deathep\The place[[Winterfell
 | allegiance=House stark
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -19,7 +21,7 @@ Wyl is a character in the first season. He is a guardsman sworn to House Stark. 
 
  Season 1 
 
-Wyl travels south with Lord Eddard Stark when the latter is appointed Hand of the King. He accompanies Lord Stark to one of Petyr Baelish's brothels, and is speared by Lannister guardsmen on the orders of Ser Jaime.\The Wolf and the Lion\\/ref} data-rte-instance130814-175973271356cca7251fb04 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Wyl travels south with Lord Eddard Stark when the latter is appointed Hand of the King. He accompanies Lord Stark to one of Petyr Baelish's brothels, and is speared by Lannister guardsmen on the orders of Ser Jaime.\The Wolf and the Lion\\/ref data-rte-instance130814-175973271356cca7251fb04 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, Wyl is a young guardsman sworn to House Stark. He is killed differently than in the show: the Lannister guardmen pull him off his horse and use their swords to kill him. See also References 
 

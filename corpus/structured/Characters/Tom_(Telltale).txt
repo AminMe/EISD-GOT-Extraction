@@ -8,11 +8,13 @@ title=Tom
 |last=\[[The (player-determined)
 |appearances=5 episodes (see below)\/small
 |Actor = Yuri Lowenthal
-|Image = TID Tom Worried.png}}}
+|Image = TID Tom Worried.png
+
+
 
 (see below)\/small
 |Actor = Yuri Lowenthal
-|Image  TID Tom Worried.png}}} data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Image  TID Tom Worried.png data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -24,7 +26,7 @@ Tom is a character in Game of Thrones: A Telltale Games Series. He is a poor coa
 
 Tom visits Mira Forrester's room prior to her meeting with Margaery Tyrell to replace her coal. He asks Mira if she serves Lady Margaery, and reveals that he heard her arguing with Cersei Lannister about House Forrester near the Royal Sept earlier. He mentions that he hears all sorts of things as a coal boy, and leaves Mira's chambers. 
 
-Tom later appears after Mira's request for Margaery's help in supporting her house is denied.He offers to help Mira by providing information, saying that there are those in King's Landing who would be willing to support her.\Iron From Ice\\/ref} data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Lost Lords 
+Tom later appears after Mira's request for Margaery's help in supporting her house is denied.He offers to help Mira by providing information, saying that there are those in King's Landing who would be willing to support her.\Iron From Ice\\/ref data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Lost Lords 
 
 Tom appears at the beginning of the episode delivering a letter to Mira Forrester from her mother, requiring Margaery's influence to betroth Elaena Glenmore to Rodrik Forrester. 
 
@@ -32,13 +34,13 @@ Tom again appears at the end of the episode, hearing screaming he rushes to wher
 
 The player can then order Mira to attack Damien with the knife, thus killing him or running away, leaving Tom alone tofight with Damien , later , telling Mira in the next episode that he killed Damien with a rock . 
 
-Killing Damien will have the two engage in a conversation about how Tom found her hearing screaming, he then drags Damien's body away, knowing that he can get rid of the body to where no one will be able to find the corpse.\The Lost Lords\\/ref} data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Sword in the Darkness 
+Killing Damien will have the two engage in a conversation about how Tom found her hearing screaming, he then drags Damien's body away, knowing that he can get rid of the body to where no one will be able to find the corpse.\The Lost Lords\\/ref data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Sword in the Darkness 
 
 Sera and Mira walk through the gardens of King's Landing, discussing the upcoming wedding. Sera points out a lord she is planning to court and asks Mira to cover for her while she talks to him. During her absence Mira has the option of speaking with Tom about the Lannister guard, Damien. If she did not kill him, Tom admits that he succeeded in doing so and hid the body. 
 
-Tom later appears while Mira is trying to get into Tyrion's quarters to retrieve a royal decree. He climbs over the terrace and unlocks the room from the inside, then distracts Lannister guards with a fire while Mira opens Tyrion's strongbox. The two of them flee, and Tom insists that Mira burns the decree. If she does not, he is upset and tells her he risked his life so that it could be destroyed.\The Sword in the Darkness\\/ref} data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Sons of Winter 
+Tom later appears while Mira is trying to get into Tyrion's quarters to retrieve a royal decree. He climbs over the terrace and unlocks the room from the inside, then distracts Lannister guards with a fire while Mira opens Tyrion's strongbox. The two of them flee, and Tom insists that Mira burns the decree. If she does not, he is upset and tells her he risked his life so that it could be destroyed.\The Sword in the Darkness\\/ref data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Sons of Winter 
 
-Tom is seen looking out a window in the halls when he notices Mira walk by. Discreetly walking side by side, hoping to not look suspicious, Tom reveals to her that he found out Ludd Whitehill is sending a lot of gold to someone in King's Landing. Tom is suspicious of this and is convinced that Ludd is up to something - although he doesn't know what it could be. Tom suggests that Mira get herself into Tommen's coronation feast to speak to Lords Andros andMorgryn, the ironwood merchants hired by Lord Whitehill, in order to get more information. Tom makes his exit by warning Mira to be careful in her mission, saying that King's Landing tends to have it out for her.\Sons of Winter\\/ref} data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Ice Dragon 
+Tom is seen looking out a window in the halls when he notices Mira walk by. Discreetly walking side by side, hoping to not look suspicious, Tom reveals to her that he found out Ludd Whitehill is sending a lot of gold to someone in King's Landing. Tom is suspicious of this and is convinced that Ludd is up to something - although he doesn't know what it could be. Tom suggests that Mira get herself into Tommen's coronation feast to speak to Lords Andros andMorgryn, the ironwood merchants hired by Lord Whitehill, in order to get more information. Tom makes his exit by warning Mira to be careful in her mission, saying that King's Landing tends to have it out for her.\Sons of Winter\\/ref data-rte-instance130814-205864602556cca689ee060 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Ice Dragon 
 
 After Mira's dismissal from her service, Tom quickly informs Mira that she is now a person of interest by the guards after a rumor stated that she was luring men into her chambers to kill them. Tom also warns Mira that the guards are searching her room for evidence and the two try to discuss a plan to evade the guards. Soon, two guards appear, which prompts Tom to tell Mira to escape to a Collier store before he distracts the guards. 
 

@@ -12,14 +12,16 @@ title=Croft
 | allegiance=second sonsHouse Targaryen
 | Family=
 | Actor= Adam Leadbeater
-}}}
+
+
+
 
  
 
 House Targaryen
 | Family=
 | Actor= Adam Leadbeater
-}}} data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -33,7 +35,7 @@ He apparently was involved in a job with Asher Forrester, and afterwards the two
 
 After the Second Sons were pledged to Daenerys Targaryen, Croft went with them to Meereen following the Battle of Yunkai. Croft leads the Hellhounds in the Second Sons. The Lost Lords 
 
-Needing to hire an army of sellswords in order to fight back against House Whitehill, Asher suggests Croft, reasoning that Croft owes him a favor. Beskha responds that Croft probably hates Asher after their last job, but Asher promises to bring Croft to their side.\The Lost Lords\\/ref} data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Sword in the Darkness 
+Needing to hire an army of sellswords in order to fight back against House Whitehill, Asher suggests Croft, reasoning that Croft owes him a favor. Beskha responds that Croft probably hates Asher after their last job, but Asher promises to bring Croft to their side.\The Lost Lords\\/ref data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Sword in the Darkness 
 
 Asher, Beskha, and Malcolm Branfield reach Daenerys' camp. Malcolm or Beskha, depending on who you saved earlier in the episode, set off to find Croft. Malcolm asks how well Asher knows Croft, to which both Asher and Beskha respond 'too well'. Malcolm states he thought they were friends. Asher answers this, saying they are, in fact, 'Great friends.' 
 
@@ -43,7 +45,7 @@ Croft turns his attention back to Asher, ordering him to choose, or he'll cut of
 
 Malcolm asks that they could speak to Daenerys, but Croft responds that she's commanding a siege, her enemies are nailing up slave children, and her dragon went missing. Asher chuckles, asserting that he knows how to find the dragon. Croft shrugs this off, and is only convinced to grant Asher a meeting with Daenerys when he either shows him a dragon tooth or Malcolm's or Beskha's burns. He remarks that if Asher is lying, it'll cost him a lot more than whatever Asher chose earlier in the episode. 
 
-Later, Croft emerges from Daenerys's tent, and allows Asher to enter.\The Sword in the Darkness\/ref} data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Sons of Winter 
+Later, Croft emerges from Daenerys's tent, and allows Asher to enter.\The Sword in the Darkness\/ref data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Sons of Winter 
 
 Croft enters Daenerys's tent while Asher speaks with her. Asher is denied Croft's contingent of Second Sons by Daenerys. Daenerys orders Croft to see Asher's group leave, and his men move to do so. When Asher's services are offered to help the Seconds Sons in their raid on Meereen, Croft, surprised at Daenerys's interest in this, asks if she is really considering it. 
 
@@ -61,12 +63,12 @@ At this point, Asher can choose to either stop Beskha, stop Croft, or kill Dezho
 
 The group finally reaches the guard post. They scope out the East Watcher, and Croft explains that none of the guards can reach the beacon, otherwise the invasion will become a lot harder. He hands a telescope to Asher, asking for him not to drop it. While down at the gate, Croft asks Asher to keep a eye on her. Once the guards are dead, he informs them that one group must go on the wall and reach the other side while the other shoots the men on the wall. The player chooses which way they want to go, or let Croft decide. 
 
-Either way, they infiltrate into it killing many guards, and regroup outside the door of the hut. Croft sustains a knee injury, but shrugs it off. As Asher and Beskha move to get the other guards, Croft moves a barrel in front of the hut door, blocking escape for the guards. They return to Croft, who maintains guard at the hut door, in case they break through. Asher and Beskha pursue the other guards, where they can choose to follow Croft's plan to take out the guards on the wall or the ones in front of the harpy. Croft engages the guards that exit the hut as Asher and Beskha fight the other guards attempting to light the beacon. After killing the guards attempting to light the beacon, Asher and Beskha share a laugh before remembering Croft and shouting his name. They run towards the hut to find several dead bodies and Croft walking towards them. As the three hear the sounds of the uprising, Croft smiles, stating its starting.\Sons of Winter\/ref} data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / A Nest of Vipers 
+Either way, they infiltrate into it killing many guards, and regroup outside the door of the hut. Croft sustains a knee injury, but shrugs it off. As Asher and Beskha move to get the other guards, Croft moves a barrel in front of the hut door, blocking escape for the guards. They return to Croft, who maintains guard at the hut door, in case they break through. Asher and Beskha pursue the other guards, where they can choose to follow Croft's plan to take out the guards on the wall or the ones in front of the harpy. Croft engages the guards that exit the hut as Asher and Beskha fight the other guards attempting to light the beacon. After killing the guards attempting to light the beacon, Asher and Beskha share a laugh before remembering Croft and shouting his name. They run towards the hut to find several dead bodies and Croft walking towards them. As the three hear the sounds of the uprising, Croft smiles, stating its starting.\Sons of Winter\/ref data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / A Nest of Vipers 
 
-Asher, Malcolm, and Beskha enter Daenerys's tent where they briefly converse. Croft slips in and listens in on the conversation. Daenerys mentions the reports Croft gave her, and if Asher followed or didn't follow his orders. Daenerys also tells that Croft's Second Sons cannot be spared.\A Nest of Vipers\\/ref} data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+Asher, Malcolm, and Beskha enter Daenerys's tent where they briefly converse. Croft slips in and listens in on the conversation. Daenerys mentions the reports Croft gave her, and if Asher followed or didn't follow his orders. Daenerys also tells that Croft's Second Sons cannot be spared.\A Nest of Vipers\\/ref data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  References 
 
-} data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+ data-rte-instance130814-40694155056cca7238d508 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
 ru:Крофт  Loading editor

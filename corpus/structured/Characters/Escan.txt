@@ -8,7 +8,9 @@ title=Escan
 | place=
 | allegiance=The night's watch
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -16,7 +18,7 @@ Escan is an unidentified background character in the first season. He is a newly
 
  Season 1 
 
-Escan is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Escan is assigned to the Rangers.\You Win or You Die\\/ref} data-rte-instance130814-67525467356cca7c0ce5a0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Escan is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Escan is assigned to the Rangers.\You Win or You Die\\/ref data-rte-instance130814-67525467356cca7c0ce5a0 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

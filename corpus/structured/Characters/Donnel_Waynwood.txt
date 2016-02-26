@@ -8,7 +8,9 @@ title=Donnel waynwood
 |Allegiance = House WaynwoodHouse Arryn
 |Actor = Alisdair Simpson
 |Family = Anya Waynwood - mother
-}}}
+
+
+
 
  
 
@@ -20,7 +22,7 @@ Ser
 House Arryn
 |Actor = Alisdair Simpson
 |Family = Anya Waynwood - mother
-}}} data-rte-instance130814-156093493656cca6e16a2a7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-156093493656cca6e16a2a7 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -30,9 +32,9 @@ Donnel Waynwood is a recurring character in the fourth season. He is played by A
 
 Ser Donnel is a son of Lady Anya Waynwood, the current head of House Waynwood. Season 4 
 
-Ser Donnel is at the Gate when Lord Petyr Baelish and Sansa Stark arrive. Littlefinger introduces Sansa as his niece, Alayne. Donnel believes him and lets them pass.\First of His Name\\/ref} data-rte-instance130814-156093493656cca6e16a2a7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+Ser Donnel is at the Gate when Lord Petyr Baelish and Sansa Stark arrive. Littlefinger introduces Sansa as his niece, Alayne. Donnel believes him and lets them pass.\First of His Name\\/ref data-rte-instance130814-156093493656cca6e16a2a7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
-When Sandor Clegane and AryaStarkreaches the Bloody Gate and Donnelorders them to stop, Sandor tells him who they are expecting ransom for reuniting Arya with her auntLysa Arryn. After Donnelexplains that Lysa died three days ago, Sandor is left in shock while Arya bursts out in laughter, because of the irony.\The Mountain and the Viper\\/ref} data-rte-instance130814-156093493656cca6e16a2a7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+When Sandor Clegane and AryaStarkreaches the Bloody Gate and Donnelorders them to stop, Sandor tells him who they are expecting ransom for reuniting Arya with her auntLysa Arryn. After Donnelexplains that Lysa died three days ago, Sandor is left in shock while Arya bursts out in laughter, because of the irony.\The Mountain and the Viper\\/ref data-rte-instance130814-156093493656cca6e16a2a7 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  In the books 
 

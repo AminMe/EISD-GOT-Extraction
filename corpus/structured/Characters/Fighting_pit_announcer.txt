@@ -11,7 +11,9 @@ title=Fighting pit announcer
 | family=
 | allegiance=Great masters
 | actorNick boulton|cultureGhiscari
-|Religion = ghiscari religion}}}
+|Religion = ghiscari religion
+
+
 
  The fighting pit announcer is an unnamed minor character in the fifth season. He is played by Nick Boulton and only appears in The Dance of Dragons. Biography 
 

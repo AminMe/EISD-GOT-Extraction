@@ -3,7 +3,7 @@
 |leftlink=House Dayne
 |rightimage=Kingsguard shield icon.png
 |rightlink=Kingsguard
-}}
+
 
 {{Character
 | Title=Arthur Dayne
@@ -16,7 +16,7 @@
 | Allegiance=KingsguardHouse Dayne
 |Place = Starfall
 |Family = Beric Dayne - father
-|Culture = Dornishmen}}
+|Culture = Dornishmen
 
 Quote|Ser Arthur Dayne, the Sword of the Morning... led the attack on the Kingswood Brotherhood. Defeated the Smiling Knight in single combat.|King Joffrey Baratheon|Two Swords Arthur Dayne is a character in Game of Thrones. He is deceased when the events of the series begin, yet he appears in flashback form in the sixth season. Ser Arthur Dayne was a knight of House Dayne who bore the title of the Sword of the Morning and a member of the Kingsguard of Aerys II Targaryen.
 
@@ -29,7 +29,7 @@ Season 4
 While checking The Book of Brothers, King Joffrey Baratheon passingly reads through the entry on Ser Arthur Dayne, mentioning his leading of the attack on the Kingswood Brotherhood and his defeat of the Smiling Knight, one of its members, in single combat. The Book of Brothers also mentions he was granted temporary command over the Kingsguard after Lord Commander Gerold Hightower suffered injuries. He perished in Robert's Rebellion alongside Ser Gerold and Ser Oswell Whent at the Red Mountains of Dorne, fighting Lord Eddard Stark.Two Swords
 
 In the books
-In the A Song of Ice and Fire novels,&nbsp;Ser Arthur Dayne was a knight who had achieved legendary status by the time the events of the books take place. As the wielder of the greatsword Dawn, a blade said to have been forged from metal from the heart of a fallen star, he bears the title of the Sword of the Morning. He was a close friend of Prince Rhaegar Targaryen.
+In the A Song of Ice and Fire novels,Ser Arthur Dayne was a knight who had achieved legendary status by the time the events of the books take place. As the wielder of the greatsword Dawn, a blade said to have been forged from metal from the heart of a fallen star, he bears the title of the Sword of the Morning. He was a close friend of Prince Rhaegar Targaryen.
 
 It was Arthur Dayne who knighted Jaime Lannister as a reward for his valor at the battle against the Kingswood Brotherhood. Dayne himself slew an infamous member of the Brotherhood, a fearsome swordsman known as the Smiling Knight, in single combat. During their duel, the Smiling Knight's sword broke in half, and Dayne backed off to allow his foe to take a new weapon. The Smiling Knight remarked that he really wanted Dayne's own sword, to which Dayne replied, then you shall have it, Ser. When the fight resumed, Dayne killed him.
 
@@ -43,7 +43,7 @@ See also
 *AWOIAF (MAJOR spoilers from the books)
 
 References
-Reflist&nbsp;Template:Dayne navbox
+ReflistTemplate:Dayne navbox
 MadKingKingsguard
 DEFAULTSORT:Dayne, Arthur
 

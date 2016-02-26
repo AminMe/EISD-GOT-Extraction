@@ -8,7 +8,9 @@ title=Halder
 | place=
 | allegiance=Night's watch
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -20,7 +22,7 @@ Halder is an unidentified background character in the first season. He is a newl
 
  Season 1 
 
-Halder is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. He is assigned to the Builders.\You Win or You Die\\/ref} data-rte-instance130814-78971021056cca7828f75f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Halder is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. He is assigned to the Builders.\You Win or You Die\\/ref data-rte-instance130814-78971021056cca7828f75f classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

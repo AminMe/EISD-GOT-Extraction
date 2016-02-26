@@ -14,7 +14,9 @@ title=House thorne
 | age=
 | founder=
 | weapon=
-|ImageSize = }}}
+|ImageSize = 
+
+
 
  
 

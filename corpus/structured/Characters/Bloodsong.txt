@@ -7,7 +7,9 @@ title=Bloodsong
 |deathep=
 |Appearances = 1 2 episodes
 |status=determinated
-|actor=Paul nakauchi}}}
+|actor=Paul nakauchi
+
+
 
  
 
@@ -35,4 +37,4 @@ Spoken by Bloodsong Image Gallery
 NOV Bloodsong Waiting.png
 ForresterArmyMarch.jpg
 Bloodsong impales man on spear.png
-\/gallery} data-rte-instance130814-208541136056cca68a8ef19 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 /  Loading editor
+\/gallery data-rte-instance130814-208541136056cca68a8ef19 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 /  Loading editor

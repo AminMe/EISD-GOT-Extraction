@@ -13,7 +13,9 @@ title40px|left|linkHouse blackmont blackmont 40px|right|link=House blackmont
 |Culture= Dornishmen
 |Actor = Daniel Rabin
 |Family = 
-}}}
+
+
+
 
 (see below)\/small
 |Titles = Lord of Blackmont
@@ -25,11 +27,11 @@ title40px|left|linkHouse blackmont blackmont 40px|right|link=House blackmont
 |Culture= Dornishmen
 |Actor = Daniel Rabin
 |Family = 
-}}} data-rte-instance130814-156895254756cca753d656e classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Lord Blackmont is the head of House Blackmont, a vassal house of House Martell of DorneinWesteros. He is played by Daniel Rabin. Biography 
+ data-rte-instance130814-156895254756cca753d656e classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Lord Blackmont is the head of House Blackmont, a vassal house of House Martell of DorneinWesteros. He is played by Daniel Rabin. Biography 
 
  Season 4 
 
-Lord Blackmont is greeted by Master of CoinTyrion Lannister,outside of King's Landing, when the latter is sent to welcome Prince Oberyn Martell and his entourage of Dornish lords and knights. The two exchange greetings, in which Lord Blackmont reveals Prince Oberyn has arrived the previous night, before he and the rest of the envoy proceed to the Red Keep.\Two Swords\\/ref} data-rte-instance130814-156895254756cca753d656e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
+Lord Blackmont is greeted by Master of CoinTyrion Lannister,outside of King's Landing, when the latter is sent to welcome Prince Oberyn Martell and his entourage of Dornish lords and knights. The two exchange greetings, in which Lord Blackmont reveals Prince Oberyn has arrived the previous night, before he and the rest of the envoy proceed to the Red Keep.\Two Swords\\/ref data-rte-instance130814-156895254756cca753d656e classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearances 
 
  Book series 
 

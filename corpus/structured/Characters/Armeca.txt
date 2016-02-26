@@ -1,7 +1,7 @@
 {{Heraldry
 |image = House-Baelish-Main-Shield.PNG
 |link = House Baelish
-}}
+
 
 {{Character
 |Title=Armeca
@@ -14,7 +14,7 @@
 |Allegiance = Petyr Baelish
 |Place=Flea Bottom, King's Landing
 |Actor = Sahara Knite
-}}
+
 
 Quote|I like your nose. How many times did you break it?|Armeca to Bronn|Blackwater
 

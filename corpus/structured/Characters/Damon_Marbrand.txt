@@ -11,10 +11,12 @@ title=Damon marbrand
 | family=Addam marbrand (son)
 | place=Ashemark
 | allegiance=House marbrandHouse Lannister
-| Actor = }}}
+| Actor = 
+
+
 
  House Lannister
-| Actor  }}} data-rte-instance130814-162465708256cca7785598a classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Damon Marbrand is the Lord of Ashemark and the head of House Marbrand. He is a bannerman of House Lannister and the father of Ser Addam Marbrand. Biography 
+| Actor   data-rte-instance130814-162465708256cca7785598a classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Damon Marbrand is the Lord of Ashemark and the head of House Marbrand. He is a bannerman of House Lannister and the father of Ser Addam Marbrand. Biography 
 
  Season 2 
 

@@ -11,7 +11,9 @@ title=Steffon
 | place=
 | allegiance=
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -19,6 +21,6 @@ Steffon is a turnip-cart driver who travels between Winterfell and White Harbor.
 
  Season 1 
 
- At the outbreak of the War of the Five Kings, all of the men from Winterfell leave to fight in the conflict, so the prostitute Ros decides to relocate to King's Landing. She travels in the back of Steffon's turnip cart, and encounters Theon Greyjoy as she leaves. She explains that she is only taking the cart to White Harbor, where she will buy passage on a ship to King's Landing.\A Golden Crown\\/ref} data-rte-instance130814-47516691956cca780ac316 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / References 
+ At the outbreak of the War of the Five Kings, all of the men from Winterfell leave to fight in the conflict, so the prostitute Ros decides to relocate to King's Landing. She travels in the back of Steffon's turnip cart, and encounters Theon Greyjoy as she leaves. She explains that she is only taking the cart to White Harbor, where she will buy passage on a ship to King's Landing.\A Golden Crown\\/ref data-rte-instance130814-47516691956cca780ac316 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / References 
 
  de:Steffan  Loading editor

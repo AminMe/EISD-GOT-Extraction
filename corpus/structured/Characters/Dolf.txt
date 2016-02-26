@@ -8,7 +8,9 @@ title=Dolf
 | allegiance=Stone crows
 | family=Shagga - son
 | actor=
-|Culture = hill tribes}}}
+|Culture = hill tribes
+
+
 
  Dolf is a character mentioned in the first season episode The Pointy End. He is a member of the Stone Crows, one of the hill tribes of the Mountains of the Moon in the Vale of Arryn. He's the father of Shagga, current leader of the Stone Crows. In the books 
 

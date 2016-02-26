@@ -10,7 +10,9 @@ title=Sow's horn
 | founding=
 | age=
 | founder=
-}}}
+
+
+
 
  
 
@@ -18,7 +20,7 @@ Sow's Horn is a settlement in the Crownlands, the region directly sworn to the I
 
  Season 4 
 
-Sow's Horn and its location is marked on a map of the Crownlands that Ser Jorah Mormont is looking over.\The Mountain and the Viper\\/ref} data-rte-instance130814-190649883056cca938a9911 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Sow's Horn and its location is marked on a map of the Crownlands that Ser Jorah Mormont is looking over.\The Mountain and the Viper\\/ref data-rte-instance130814-190649883056cca938a9911 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 Sow's Horn is a small settlement that serves as an seat to House Hogg, a family of landed knights. It consists of a small village dominated by a towerhouse with thick walls. House Hogg is sworn to House Hayford, which controls the surrounding lands. Due to its proximity to the Riverlands and the frontline between the factions of the War of the Five Kings, Sow's Horn has seen its share of raiders and foragers. It was raided by foragers led by Ser Amory Lorch, sworn to House Lannister, despite its allegiance to House Baratheon of King's Landing. 
 

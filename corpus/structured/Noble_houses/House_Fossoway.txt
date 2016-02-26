@@ -4,7 +4,9 @@ title=House fossoway
 |Titles = lord of cider hall
 |seat=Cider hall
 |region=The reach
-|allegianceHouse tyrell|imageHouse fossoway.png}}}
+|allegianceHouse tyrell|imageHouse fossoway.png
+
+
 
  
 
@@ -12,9 +14,9 @@ House Fossoway is a vassal house from the Reach that holds fealty to House Tyrel
 
  Background 
 
-A member of House Fossoway fought in the Trial by seven of Duncan the Tall.\Justice of the Seven Kingdoms\\/ref} data-rte-instance130814-139690698256cca97b8bf24 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
+A member of House Fossoway fought in the Trial by seven of Duncan the Tall.\Justice of the Seven Kingdoms\\/ref data-rte-instance130814-139690698256cca97b8bf24 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Season 2 
 
-House Fossoway follows their liege lords, House Tyrell, in pledging support to Renly Baratheon's claim to the Iron Throne. Following the death of Renly, however, the Fossoways do not follow their Tyrell overlords and instead go over to Stannis. They participate in the Battle of the Blackwater.Season 2 Bluray: War of the Five Kings feature\/ref} data-rte-instance130814-139690698256cca97b8bf24 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+House Fossoway follows their liege lords, House Tyrell, in pledging support to Renly Baratheon's claim to the Iron Throne. Following the death of Renly, however, the Fossoways do not follow their Tyrell overlords and instead go over to Stannis. They participate in the Battle of the Blackwater.Season 2 Bluray: War of the Five Kings feature\/ref data-rte-instance130814-139690698256cca97b8bf24 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, House Fossoway of Cider Hall is commonly referred as the red-apple Fossoways, to differentiate them from the other branch of the house, the green apple Fossoways of New Barrel, who split from the red apples in 208 AL. After Stannis' defeat at the Battle of the Blackwater, they bend the knee to Joffrey. 
 

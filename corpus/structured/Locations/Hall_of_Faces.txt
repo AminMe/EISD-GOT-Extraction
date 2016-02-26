@@ -9,7 +9,9 @@ title=Hall of faces
 | founding=
 | age=
 | founder=
-}}}
+
+
+
 
  
 
@@ -19,12 +21,12 @@ The Hall of Faces lies within a large, secret chamber. It is created of stone, w
 
  Season 5 
 
-Upon passing the game of faces, Jaqen H'ghar brings Arya to the Hall of Faces. She realizes her work as an acolyte has prepared the bodies to have their faces skinned.\Unbowed, Unbent, Unbroken\\/ref} data-rte-instance130814-34800807556cca8521f9e4 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Image Gallery 
+Upon passing the game of faces, Jaqen H'ghar brings Arya to the Hall of Faces. She realizes her work as an acolyte has prepared the bodies to have their faces skinned.\Unbowed, Unbent, Unbroken\\/ref data-rte-instance130814-34800807556cca8521f9e4 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Image Gallery 
 
 
 Arya-and-Jaqen.jpg
 Arya_chamber_of_faces_s5.jpg
 hall of faces unbroken s5.jpg
-\/gallery} data-rte-instance=130814-34800807556cca8521f9e4 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-34800807556cca8521f9e4 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
   Loading editor

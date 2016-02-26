@@ -12,7 +12,9 @@ title=Ryon forrester
 | allegiance=House forresterHouse Whitehill (hostage; former)
 | Family=Gregor Forrester - fatherElissa Forrester - motherRodrik Forrester - brotherAsher Forrester - brotherMira Forrester - sisterEthan  Forrester - brotherTalia Forrester - sisterJosera Snow - bastard half-brotherElsera Snow - bastard half-sisterMalcolm Branfield - uncleThorren Forrester - paternal grandfatherTalia Branfield - maternal grandmotherLord Branfield - maternal grandfather
 |Actor= Louis Suc
-|Culture = Northmen}}}
+|Culture = Northmen
+
+
 
  
 
@@ -31,7 +33,7 @@ Thorren Forrester - paternal grandfather
 Talia Branfield - maternal grandmother 
 Lord Branfield - maternal grandfather
 |Actor= Louis Suc
-|Culture  Northmen} data-rte-instance130814-4911549256cca64e031a0 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Culture  Northmen data-rte-instance130814-4911549256cca64e031a0 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -39,7 +41,7 @@ Ryon Forrester is the youngest son of Lord Gregor Forrester and his wife, Elissa
 
  Background 
 
-The last of the Forrester children, Ryon grew up idolizing his elder siblings and spent many an hour chasingEthan and Talia through the grove. His youth has been pleasant and shielded from responsibility - but recently Ryon's innocence has begun to fade. When the war began, Ryon was too young to understand why Rodrik and his father were leaving home. But the grim realities of a House at war have been impossible to avoid and Ryon now asks questions for which his siblings have no answers.Ryon Forrester - Game Codex Entry\/ref} data-rte-instance130814-4911549256cca64e031a0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Iron From Ice 
+The last of the Forrester children, Ryon grew up idolizing his elder siblings and spent many an hour chasingEthan and Talia through the grove. His youth has been pleasant and shielded from responsibility - but recently Ryon's innocence has begun to fade. When the war began, Ryon was too young to understand why Rodrik and his father were leaving home. But the grim realities of a House at war have been impossible to avoid and Ryon now asks questions for which his siblings have no answers.Ryon Forrester - Game Codex Entry\/ref data-rte-instance130814-4911549256cca64e031a0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Iron From Ice 
 
 Ryon first appears in the forest just outside Ironrath playing hide and seek with his newly appointed lord brother Ethan Forrester and his sister Talia. Ryon cannot find Ethan and gets scared, having just lost his father and eldest brother, he fears he will lose Ethan too. 
 
@@ -69,9 +71,9 @@ IFI Ryon Happy.png
 TLL Ryon Funeral.png
 SOW Ryon Threatened.png|Ryon is held by Ludd Whitehill.
 SOW Ryon Scared.png
-\/gallery} data-rte-instance=130814-4911549256cca64e031a0 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-4911549256cca64e031a0 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
-} data-rte-instance130814-4911549256cca64e031a0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+ data-rte-instance130814-4911549256cca64e031a0 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
  
 

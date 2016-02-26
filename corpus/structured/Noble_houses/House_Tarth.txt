@@ -12,11 +12,13 @@ title= 'house tarth
 | age=
 | founder=
 | ancestral weapon=
-}}}
+
+
+
 
  
 
-Brienne of Tarth\ at the royal wedding\, wearing an outfit with an embroidery of the House Tarth sigil on the front.}} data-rte-instance130814-77408642256cca95b21f64 alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/7/7e/Brienne_costume_Purple_Wedding_2.jpg/revision/latest/scale-to-width-down/275?cb20150228005211 width275 height286 classimage thumb withCaption data-image-nameBrienne costume Purple Wedding 2.jpg data-image-keyBrienne_costume_Purple_Wedding_2.jpg typeimage / 
+Brienne of Tarth\ at the royal wedding\, wearing an outfit with an embroidery of the House Tarth sigil on the front. data-rte-instance130814-77408642256cca95b21f64 alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/7/7e/Brienne_costume_Purple_Wedding_2.jpg/revision/latest/scale-to-width-down/275?cb20150228005211 width275 height286 classimage thumb withCaption data-image-nameBrienne costume Purple Wedding 2.jpg data-image-keyBrienne_costume_Purple_Wedding_2.jpg typeimage / 
 
  
 
@@ -24,7 +26,7 @@ House Tarth is a vassal house that holds fealty to House Baratheon of Storm's En
 
 House Tarth is ruled by Lord Selwyn Tarth, a widower. His sole surviving child and heir is Brienne, whom he dotes on. Brienne, a tall and broad-shouldered woman, prefers the lifestyle of a warrior to that of a typical daughter of a noble house, and is skilled at arms. 
 
-House Tarth's heraldry consists of yellow suns on rose quartered with white crescents on azure. Their words are not known. Members Lord Selwyn Tarth, called the Evenstar, the head of the family and Lord of Evenfall Hall. Brienne of Tarth, his only surviving child and heir. Selwyn's other children, none of which lived past childhood.\High Sparrow (episode)|High Sparrow\\/ref} data-rte-instance130814-77408642256cca95b21f64 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+House Tarth's heraldry consists of yellow suns on rose quartered with white crescents on azure. Their words are not known. Members Lord Selwyn Tarth, called the Evenstar, the head of the family and Lord of Evenfall Hall. Brienne of Tarth, his only surviving child and heir. Selwyn's other children, none of which lived past childhood.\High Sparrow (episode)|High Sparrow\\/ref data-rte-instance130814-77408642256cca95b21f64 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
 With unspecified familiar relationship to the main branch there is also: Ser Endrew Tarth, a member of the Night's Watch. Family tree 
 
@@ -38,6 +40,6 @@ After Renly dies, it isn't clearly stated whom Lord Selwyn and House Tarth offic
 
  References 
 
-} data-rte-instance130814-77408642256cca95b21f64 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
+ data-rte-instance130814-77408642256cca95b21f64 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / 
 
 de:Haus Tarth ru:Тарты  Loading editor

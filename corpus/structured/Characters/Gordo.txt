@@ -8,7 +8,9 @@ title=Gordo
 | place=
 | allegiance=The night's watch
 | family=
-| actor=}}}
+| actor=
+
+
 
  
 
@@ -18,7 +20,7 @@ Gordo is an unidentified background character in the first season. He is a newly
 
  Season 1 
 
-Gordo is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Gordo is assigned to the stewards.\You Win or You Die\\/ref} data-rte-instance130814-109970366756cca75faf403 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+Gordo is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. Gordo is assigned to the stewards.\You Win or You Die\\/ref data-rte-instance130814-109970366756cca75faf403 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

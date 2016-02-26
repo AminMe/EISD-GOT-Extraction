@@ -9,7 +9,9 @@ title=Whitehill soldier 1
 | death\The allegiance[[House whitehill
 | family=
 | actor=
-| culture=Northmen}}}
+| culture=Northmen
+
+
 
  
 

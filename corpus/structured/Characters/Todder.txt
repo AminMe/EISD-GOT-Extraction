@@ -11,7 +11,9 @@ title=Todder
 | Place=
 | Allegiance=Night's Watch
 | Family=
-| Actor=Will O'Connell}}}
+| Actor=Will O'Connell
+
+
 
  
 
@@ -23,7 +25,7 @@ title=Todder
 | Place=
 | Allegiance=Night's Watch
 | Family=
-| ActorWill O'Connell} data-rte-instance130814-206476424856cca757d2587 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+| ActorWill O'Connell data-rte-instance130814-206476424856cca757d2587 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -33,18 +35,18 @@ Todder is a recurring character in the first, third, and fifth seasons. He is pl
 
  Season 1 
 
-Toad is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. He is assigned to the Builders.\You Win or You Die\\/ref} data-rte-instance130814-206476424856cca757d2587 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 3 
+Toad is present during the speech Lord Commander Jeor Mormont gave to the graduating recruits. He is assigned to the Builders.\You Win or You Die\\/ref data-rte-instance130814-206476424856cca757d2587 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 3 
 
-He alerts other members of the Watch of Jon Snow's return.\Mhysa\\/ref} data-rte-instance130814-206476424856cca757d2587 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 5 
+He alerts other members of the Watch of Jon Snow's return.\Mhysa\\/ref data-rte-instance130814-206476424856cca757d2587 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Season 5 
 
-Todder accompanies Jon Snow on his expedition to Hardhome. During the battle that ensues after the arrival of the Night's King, he attempts to dissuade Jon from staying behind to fight off the White Walkers, but Jon orders him to keep transporting Wildings to the ships.\Category:CharactersCategory:Season 1 CharactersCategory:Season 3 CharactersCategory:Season 5 CharactersCategory:Status: AliveCategory:Background CharactersCategory:Minor CharactersCategory:Characters from WesterosCategory:Builders of the Night's WatchHardhome (episode)|Hardhome\\/ref} data-rte-instance130814-206476424856cca757d2587 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / After the Night's King summons a new host of Wights, Toad pulls back to shore to allow Jon, Edd, Tormund and the last few fighters to jump aboard and escape the oncoming hoard and row away. Todder is then seen returning to Castle Black with Jon Snow, Eddison Tollett, Tormund and the rescued wildlings. Appearances 
+Todder accompanies Jon Snow on his expedition to Hardhome. During the battle that ensues after the arrival of the Night's King, he attempts to dissuade Jon from staying behind to fight off the White Walkers, but Jon orders him to keep transporting Wildings to the ships.\Category:CharactersCategory:Season 1 CharactersCategory:Season 3 CharactersCategory:Season 5 CharactersCategory:Status: AliveCategory:Background CharactersCategory:Minor CharactersCategory:Characters from WesterosCategory:Builders of the Night's WatchHardhome (episode)|Hardhome\\/ref data-rte-instance130814-206476424856cca757d2587 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / After the Night's King summons a new host of Wights, Toad pulls back to shore to allow Jon, Edd, Tormund and the last few fighters to jump aboard and escape the oncoming hoard and row away. Todder is then seen returning to Castle Black with Jon Snow, Eddison Tollett, Tormund and the rescued wildlings. Appearances 
 
  Image gallery 
 
 
 Night's Watchman 3x10.jpg|Todder standing watch at Castle Black
 Todder1 (Hardhome).PNG|Todder yelling to Jon.
-\/gallery} data-rte-instance=130814-206476424856cca757d2587 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-206476424856cca757d2587 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In the A Song of Ice and Fire novels, Todder is the son of a winesink owner. He is described as a short, ugly boy with an unpleasant voice. He has pig eyes, small and shiny. Instead of a Builder, Toad is made a Ranger. He's part of the group of friends that prevent Jon Snow from abandoning the Night's Watch when the latter flees to join Robb Stark on his march south to wage war against the Iron Throne. See also (spoilers from the books) References 
 

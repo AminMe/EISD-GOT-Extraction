@@ -4,7 +4,9 @@ title=Stableboy
 |Appearances \the pointy end\
 |status=deceased
 |allegiance=
-|Actor hugo culverhouse|death=Killed by arya stark}}}
+|Actor hugo culverhouse|death=Killed by arya stark
+
+
 
  A stableboy is an unnamed minor character in the first season. He is played by guest star Hugo Culverhouse and only appears in The Pointy End. Biography 
 
@@ -12,7 +14,7 @@ title=Stableboy
 
 He's a lowborn servant attending the stables in the Red Keep. Season 1 
 
-During the massacre of the Stark household, he tries to stop Arya Stark as she retrieves Needle from a baggage cart in the Red Keep. She stabs him in the belly, killing him.\The Pointy End\\/ref} data-rte-instance130814-7400036156cca7418e822 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+During the massacre of the Stark household, he tries to stop Arya Stark as she retrieves Needle from a baggage cart in the Red Keep. She stabs him in the belly, killing him.\The Pointy End\\/ref data-rte-instance130814-7400036156cca7418e822 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  In the books 
 

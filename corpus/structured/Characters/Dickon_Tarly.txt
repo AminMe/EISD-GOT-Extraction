@@ -12,14 +12,16 @@ title=Dickon tarly
 | allegiance=House tarly
 | family=Randyll tarly - fatherMelessa Tarly - motherSamwell Tarly - older brotherTalla Tarly - sisterShireen Baratheon - second cousin
 | Actor=Freddie Stroma
-|Religion = Faith of the Seven}}}
+|Religion = Faith of the Seven
+
+
 
  Melessa Tarly - mother 
 Samwell Tarly - older brother 
 Talla Tarly - sister 
 Shireen Baratheon - second cousin
 | Actor=Freddie Stroma
-|Religion  Faith of the Seven} data-rte-instance130814-4672038156cca62c6cd98 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Religion  Faith of the Seven data-rte-instance130814-4672038156cca62c6cd98 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 Dickon Tarly is a character in the sixth season. He is played by Freddie Stroma. Dickon is the younger brother of Samwell Tarly. He became their father Randyll Tarly's heir after he disinherited Samwell by forcing him to join the Night's Watch. Biography 
 

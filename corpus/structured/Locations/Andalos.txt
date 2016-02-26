@@ -1,5 +1,5 @@
 
-the Vale\.}} data-rte-instance130814-38341968556cca8865fd56 alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/c/c1/Andalos.png/revision/latest/scale-to-width-down/200?cb20120723003139 width200 height113 classimage thumb alignRight withCaption data-image-nameAndalos.png data-image-keyAndalos.png  typeimage /
+the Vale\. data-rte-instance130814-38341968556cca8865fd56 alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/c/c1/Andalos.png/revision/latest/scale-to-width-down/200?cb20120723003139 width200 height113 classimage thumb alignRight withCaption data-image-nameAndalos.png data-image-keyAndalos.png  typeimage /
 Andalos is a region on the continent of Essos, located on the coast between the Free Cities of Pentos and Braavos, west of the Rhoyne River. It is the ancestral home of the Andals, an ancient people who, according to tradition, invaded Westeros six thousand years ago and are the ancestors of most of the people living in the southern half of the continent.
 
 In the books
@@ -17,4 +17,4 @@ de:Andalos
 pl:Andalos
 ru:Холмы Андалов
 
- &nbsp; Loading editor
+  Loading editor

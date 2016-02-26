@@ -6,7 +6,9 @@ titles=Steward (player-determined)
 | Family=
 | Actor= Yuri Lowenthal
 |Culture = Northmen
-|Title = Erik}}}
+|Title = Erik
+
+
 
  
 
@@ -14,7 +16,7 @@ Night\u2019s Watch
 | Family=
 | Actor= Yuri Lowenthal
 |Culture = Northmen
-|Title  Erik}}} data-rte-instance130814-178319985456cca67382269 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Title  Erik data-rte-instance130814-178319985456cca67382269 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 

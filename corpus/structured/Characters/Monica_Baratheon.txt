@@ -7,7 +7,9 @@ title=Monica baratheon
 | allegiance=House velaryonHouse Baratheon
 | Family = Firstborn son of Orys Baratheon - husbandReginald Baratheon - sonFlynn Baratheon - sonPadraic Baratheon - sonSteffon Baratheon I - sonWilyam Baratheon - sonMychal Baratheon - brother-in-law
 | Titles =
-}}}
+
+
+
 
  House Baratheon
 | Family = Firstborn son of Orys Baratheon - husband 
@@ -19,13 +21,13 @@ Wilyam Baratheon - son
 Mychal Baratheon - brother-in-law 
 
 | Titles =
-}}} data-rte-instance130814-97159042756cca75cec8cd classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Monica Baratheon, nee Monica Velaryon is an unseen character in Game of Thrones. She is not expected to appear in the series, being long dead by the time it starts. She was a member of House Velaryon. Biography 
+ data-rte-instance130814-97159042756cca75cec8cd classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / Monica Baratheon, nee Monica Velaryon is an unseen character in Game of Thrones. She is not expected to appear in the series, being long dead by the time it starts. She was a member of House Velaryon. Biography 
 
  Background 
 
 Monica Velaryon was the wife of Orys Baratheon's firstborn son and mother of Reginald, Wilyam, Steffon, Padraic and Flynn Baratheon. Season 1 
 
-She is referenced in her husband's entry of The Lineages and Histories of the Great Houses of the Seven Kingdoms. The two married at Driftmark when he was seventeen.\A Golden Crown\\/ref} data-rte-instance130814-97159042756cca75cec8cd classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+She is referenced in her husband's entry of The Lineages and Histories of the Great Houses of the Seven Kingdoms. The two married at Driftmark when he was seventeen.\A Golden Crown\\/ref data-rte-instance130814-97159042756cca75cec8cd classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 Monica Velaryon is mentioned only in the TV adaptation of A Song of Ice and Fire and has no corresponding counterpart in the books. House Velaryon of Driftmark is a noble house from Blackwater Bay sworn to Dragonstone. References 
 

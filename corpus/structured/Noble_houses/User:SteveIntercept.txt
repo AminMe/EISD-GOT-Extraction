@@ -11,7 +11,9 @@ title=House kenway
 | Vassals=
 | Age=unknown
 | Founder=Lord Edward Kenway
-|Military = 30 armored cavalry, 1,500 archers (supporting infantry)  2,000 Guardsmen (defensive infantry)}}}
+|Military = 30 armored cavalry, 1,500 archers (supporting infantry)  2,000 Guardsmen (defensive infantry)
+
+
 
 Lord Reaper of Pyke 
 Son of the Sea Wind 
@@ -28,4 +30,4 @@ House Targaryen (formerly)
 | Founder=Lord Edward Kenway
 |Military = 30 armored cavalry, 
  1,500 archers (supporting infantry) 
- 2,000 Guardsmen (defensive infantry)}}} data-rte-instance130814-125507162956cca9b526347 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets /  Loading editor
+ 2,000 Guardsmen (defensive infantry) data-rte-instance130814-125507162956cca9b526347 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets /  Loading editor

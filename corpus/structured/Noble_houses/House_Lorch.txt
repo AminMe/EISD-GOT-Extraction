@@ -11,11 +11,13 @@ title=House lorch
 | vassals=
 | age=
 | founder=
-|ImageSize = }}}
+|ImageSize = 
+
+
 
  
 
-House Lorch is a knightly house of the Westerlands. They are sworn to House Lannister of Casterly Rock. Members Ser Amory Lorch, a knight in the service of Lord Tywin Lannister.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/lannister\/ HBO viewers guide, season 2 guide to houses, House Lannister entry\/ref} data-rte-instance130814-109345058656cca97ac564a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Poisoned by Jaqen H'ghar at Arya Stark's behest. History 
+House Lorch is a knightly house of the Westerlands. They are sworn to House Lannister of Casterly Rock. Members Ser Amory Lorch, a knight in the service of Lord Tywin Lannister.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/guide\/houses\/lannister\/ HBO viewers guide, season 2 guide to houses, House Lannister entry\/ref data-rte-instance130814-109345058656cca97ac564a classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Poisoned by Jaqen H'ghar at Arya Stark's behest. History 
 
  Season 2 
 
@@ -25,7 +27,7 @@ In the A Song of Ice and Fire novels, the only known members of House Lorch are 
 
 
 Amory 2x03.jpg|Ser Amory Lorch in \What is Dead May Never Die.\
-\/gallery} data-rte-instance=130814-109345058656cca97ac564a srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-109345058656cca97ac564a srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  See also (spoilers from the books) 
 

@@ -10,7 +10,9 @@ title=House harroway
 | vassals=
 | age=
 | founder=
-|ImageSize =250 px}}}
+|ImageSize =250 px
+
+
 
  
 

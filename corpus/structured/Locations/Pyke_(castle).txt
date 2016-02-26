@@ -10,19 +10,21 @@ title=Pyke
 | places=The great keepthe Bloody Keepthe Kitchen Keep
 | Founding=
 | Age=
-| Founder=}}}For the island see Pyke (island), for other uses see Pyke 
+| Founder=
+
+For the island see Pyke (island), for other uses see Pyke 
 
  the Bloody Keep 
 the Kitchen Keep
 | Founding=
 | Age=
-| Founder}}} data-rte-instance130814-149577967556cca8719bc16 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+| Founder data-rte-instance130814-149577967556cca8719bc16 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
-Pyke is the stronghold and seat of House Greyjoy, located on the island of the same name, which is one of the seven major Iron Islands. The castle is the regional capital of the Iron Islands as a whole. Pyke is an ancient stronghold and the cliff it was built on has been eroded by the sea leaving the towers standing on stone stacks. The towers are connected by swaying rope bridges. The rocky moss covered stone at its base is not suitable for ships landing so traffic to the island flows through the nearby harbor town Lordsport.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/pyke\/ HBO viewers guide, season 2 map, Pyke entry\/ref} data-rte-instance130814-149577967556cca8719bc16 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /\The Night Lands\\/ref} data-rte-instance130814-149577967556cca8719bc16 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+Pyke is the stronghold and seat of House Greyjoy, located on the island of the same name, which is one of the seven major Iron Islands. The castle is the regional capital of the Iron Islands as a whole. Pyke is an ancient stronghold and the cliff it was built on has been eroded by the sea leaving the towers standing on stone stacks. The towers are connected by swaying rope bridges. The rocky moss covered stone at its base is not suitable for ships landing so traffic to the island flows through the nearby harbor town Lordsport.http:\/\/viewers-guide.hbo.com\/game-of-thrones\/season2\/#!\/locations\/pyke\/ HBO viewers guide, season 2 map, Pyke entry\/ref data-rte-instance130814-149577967556cca8719bc16 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext /\The Night Lands\\/ref data-rte-instance130814-149577967556cca8719bc16 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
 Pyke is also the name given to bastards born on the Iron Islands. Notable residents of the castle King Balon Greyjoy, King of the Iron Islands, Lord Reaper of Pyke. Princess Yara Greyjoy, his only daughter. Victarion Greyjoy, Balon's brother, Captain of the Iron Fleet. Image Gallery 
 
-Pyke\ as it appears in the title sequence.}} data-rte-instance130814-149577967556cca8719bc16 alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/2/29/Pykeopening.png/revision/latest/scale-to-width-down/200?cb20150513165311 width200 height113 classimage thumb alignRight withCaption data-image-namePykeopening.png data-image-keyPykeopening.png typeimage / 
+Pyke\ as it appears in the title sequence. data-rte-instance130814-149577967556cca8719bc16 alt srchttp://vignette1.wikia.nocookie.net/gameofthrones/images/2/29/Pykeopening.png/revision/latest/scale-to-width-down/200?cb20150513165311 width200 height113 classimage thumb alignRight withCaption data-image-namePykeopening.png data-image-keyPykeopening.png typeimage / 
 Pykecastle3.jpg
 Kimberly Pope Pyke Concept Art VII.jpg|concept art
 Kimberly Pope Pyke Concept Art VI.jpg|concept art
@@ -31,7 +33,7 @@ Kimberly Pope Pyke Concept Art IV.jpg|concept art
 Kimberly Pope Pyke Concept Art III.jpg|concept art
 Kimberly Pope Pyke Concept Art II.jpg|concept art
 Kimberly Pope Pyke Concept Art I.jpg|concept art
-\/gallery} data-rte-instance=130814-149577967556cca8719bc16 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
+\/gallery data-rte-instance130814-149577967556cca8719bc16 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / In the books 
 
 In the A Song of Ice and Fire novels, Pyke is an ancient, storm-worn fortress built atop several rocky towers jutting out of the sea. It is connected to the main island by a treacherous-footed rope bridge, and defended by tall walls. 
 

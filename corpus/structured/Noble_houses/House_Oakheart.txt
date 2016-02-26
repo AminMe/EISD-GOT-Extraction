@@ -3,7 +3,9 @@ title=House oakheart
 |motto=\Our roots go deep\ 
 |seat=Old oak 
 |region=The reach
-|allegiance=House tyrell}}}
+|allegiance=House tyrell
+
+
 
  
 

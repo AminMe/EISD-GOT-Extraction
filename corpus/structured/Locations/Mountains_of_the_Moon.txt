@@ -13,4 +13,4 @@ See also
 de:Mondberge
 ru:Лунные горы
 
- &nbsp; Loading editor
+  Loading editor

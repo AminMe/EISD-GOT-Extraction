@@ -2,7 +2,9 @@ title=Wiberly
 |Season = 5
 |mentioned=\sons harpy\
 |status=alive
-|allegiance=House wiberly}}}
+|allegiance=House wiberly
+
+
 
  Lord Wiberly is an unseen character mentioned in the fifth season. Biography 
 
@@ -10,7 +12,7 @@ title=Wiberly
 
 Lord Wiberly is the head of House Wiberly. Season 5 
 
-Lord Wiberly sends a message to Lord Commander Jon Snow in which he agrees to send men to join the Night's Watch.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref} data-rte-instance130814-68459642856cca7fb98ebd classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
+Lord Wiberly sends a message to Lord Commander Jon Snow in which he agrees to send men to join the Night's Watch.\Sons of the Harpy (episode)|Sons of the Harpy\\/ref data-rte-instance130814-68459642856cca7fb98ebd classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / In the books 
 
 In the A Song of Ice and Fire novels, there is no mention of any House Wiberly. References 
 

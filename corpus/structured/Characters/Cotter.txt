@@ -14,7 +14,9 @@ title=Cotter
 |Place = Village near Hardhome
 |DeathEp = \The Ice Dragon\
 |Death = Given Nightshade by Gared to end his suffering or has heart taken out while still beating by Gared to help with Elsera's blood magic
-|Last = \The Ice Dragon\}}}
+|Last = \The Ice Dragon\
+
+
 
  
 
@@ -29,7 +31,7 @@ Cotter the Potato Thief
 |Place = Village near Hardhome
 |DeathEp = \The Ice Dragon\
 |Death = Given Nightshade by Gared to end his suffering or has heart taken out while still beating by Gared to help with Elsera's blood magic
-|Last  \The Ice Dragon\}}} data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Last  \The Ice Dragon\ data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -43,7 +45,7 @@ It's implied since arriving at the Wall, Cotter has had to spend a deal of time 
 
 When Gared Tuttle arrives at the Wall, he soon meets his brothers-in-training, Finn and Cotter, the three of them being trained by Frostfinger. Finn and Cotter both reveal why they were sent to the Wall and argue during Frostfinger's speech. During training, Cotter accidentally shoots himself in the toe with an arrow from his crossbow when he fails to reload it. Finn laughs at this and to get back at him, Cotter pick-pockets Finn's dagger. 
 
-When Finn realizes the dagger is missing he blames and attacks Finn, Gared is caught in the middle and ends up fighting Finn. Frostfinger is angry and explains the last thief he caught had his fingers chopped off. A man searches Cotter but finds nothing, as Gared leaves with Jon Snow, Cotter reveals he still has the dagger - hidden up his sleeve.\The Lost Lords\\/ref} data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Sword in the Darkness 
+When Finn realizes the dagger is missing he blames and attacks Finn, Gared is caught in the middle and ends up fighting Finn. Frostfinger is angry and explains the last thief he caught had his fingers chopped off. A man searches Cotter but finds nothing, as Gared leaves with Jon Snow, Cotter reveals he still has the dagger - hidden up his sleeve.\The Lost Lords\\/ref data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Sword in the Darkness 
 
 At the wall, Frostfinger assigns the new recruits positions in the Watch. If Gared defended Cotter, the latter will be pleased with him while Finn will be annoyed. Frostfinger tells the recruits that Finn and Gared are to be Rangers, while Cotter becomes a Builder. He tells the northerners to follow his lead to a weirwood tree beyond the Wall to take their vows. 
 
@@ -51,20 +53,20 @@ On the way to the tree, Jon is glad to see that Gared will become a ranger, but 
 
 Gared reunites with his Uncle Duncan. Once the visit is over, Finn and Cotter question him about their conversation, but Gared is secretive. The three of them celebrate becoming men of the Watch, entering the elevator to head for the top of the Wall. 
 
-Gared later walks over to Cotter and Finn and talks about going to Craster's. Cotter reveals that he took the North Grove map from him, while Finn walks off because of his disbelief of the North Grove, dismissing the grove as a children's story, but Cotter invites Gared into a quieter space and tells him he can help him find the Grove - Finn doesn't know how to sneak past giants or deal with Mammoths, but Cotter does because he is from the lands above the Wall; he is a Wildling who was caught stealing weapons below the Wall and passed himself off as a local. He begs Gared to keep his secret and in return he'll help him desert the Watch to find the North Grove.\The Sword in the Darkness\\/ref} data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Sons of Winter 
+Gared later walks over to Cotter and Finn and talks about going to Craster's. Cotter reveals that he took the North Grove map from him, while Finn walks off because of his disbelief of the North Grove, dismissing the grove as a children's story, but Cotter invites Gared into a quieter space and tells him he can help him find the Grove - Finn doesn't know how to sneak past giants or deal with Mammoths, but Cotter does because he is from the lands above the Wall; he is a Wildling who was caught stealing weapons below the Wall and passed himself off as a local. He begs Gared to keep his secret and in return he'll help him desert the Watch to find the North Grove.\The Sword in the Darkness\\/ref data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Sons of Winter 
 
 Cotter helps Gared escape his cell early in the episode, and leads him out of Castle Black, hanging back while Gared makes more daring maneuvers. The two encounter Finn if Gared made friends with him in the previous episode, Gared gets the choice to bring Finn along or refuse to. They then desert the Night's Watch. 
 
 A while after, Gared and Cotter (also Finn depending on your choices) run into a few Wildlings. Cotter gets stabbed in the shoulder with a spear, Gared can choose to stay hidden or help Cotter. Gared and Finn (if he's there) fight off the Wildlings, and one gets away. One takes off with the food and Gared can kill her. Gared picks Cotter up and they keep on moving. 
 
-They arrive at a hut and Cotter asks Gared to look around for water to drink. If Gared took the herbal poultice and bandages from Maester Ortengryn in Iron From Ice, he can use them to treat Cotter's wound. Gared searches a hut and a wildling named Sylvi points her spear at him, threatening to gut him like a fish. Cotter shows up and reveals that Sylvi is his sister, and that she can lead them to the North Grove.\Sons of Winter\\/ref} data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / A Nest of Vipers 
+They arrive at a hut and Cotter asks Gared to look around for water to drink. If Gared took the herbal poultice and bandages from Maester Ortengryn in Iron From Ice, he can use them to treat Cotter's wound. Gared searches a hut and a wildling named Sylvi points her spear at him, threatening to gut him like a fish. Cotter shows up and reveals that Sylvi is his sister, and that she can lead them to the North Grove.\Sons of Winter\\/ref data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / A Nest of Vipers 
 
-Cotter is first seen with his wound getting worse. Sylvi tells her brother that they must go south to join Mance Rayder. She refuses to go to the North Grove and Cotter says that he's come a long way. Gared can try to convince Cotter to convince Sylvi, but it doesn't work and Cotter says that maybe Sylvi is right. He is later seen yelling for help as the Wights attack. If Finn is there then Cotter and Gared run over to him and find that he has been killed during the fight. Cotter is sad to see him dead and Gared says they make for the North Grove. The three all agree and run away.\A Nest of Vipers\\/ref} data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Ice Dragon 
+Cotter is first seen with his wound getting worse. Sylvi tells her brother that they must go south to join Mance Rayder. She refuses to go to the North Grove and Cotter says that he's come a long way. Gared can try to convince Cotter to convince Sylvi, but it doesn't work and Cotter says that maybe Sylvi is right. He is later seen yelling for help as the Wights attack. If Finn is there then Cotter and Gared run over to him and find that he has been killed during the fight. Cotter is sad to see him dead and Gared says they make for the North Grove. The three all agree and run away.\A Nest of Vipers\\/ref data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Ice Dragon 
 
 Gared is faced with two choices: mercy kill Cotter by feeding him Nightshade or butcher him to remove his still-beating heart for a blood magic ritual. Appearances 
 
  References 
 
-} data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
+ data-rte-instance130814-209529107356cca6958aaa3 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / 
 
 ru:Коттер  Loading editor

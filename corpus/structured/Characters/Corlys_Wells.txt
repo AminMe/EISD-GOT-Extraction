@@ -6,12 +6,14 @@ title=Corlys wells
 |allegiance=House wellsThe Night's Watch
 |Titles = 
 |Place = Stoney Sept
-|Culture = }}}
+|Culture = 
+
+
 
  The Night's Watch
 |Titles = 
 |Place = Stoney Sept
-|Culture  }}} data-rte-instance130814-119845691556cca7ffd62d1 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Culture   data-rte-instance130814-119845691556cca7ffd62d1 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -21,7 +23,7 @@ Corlys Wells is a background character in Game of Thrones: A Telltale Games Seri
 
 Corlys Wells hails from Stoney Sept. The Sword in the Darkness 
 
-Corlys arrives at Castle Black alongside Errold Holt and Britt Warrick.\The Sword in the Darkness\\/ref} data-rte-instance130814-119845691556cca7ffd62d1 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
+Corlys arrives at Castle Black alongside Errold Holt and Britt Warrick.\The Sword in the Darkness\\/ref data-rte-instance130814-119845691556cca7ffd62d1 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearance 
 
  References 
 

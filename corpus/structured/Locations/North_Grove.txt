@@ -4,7 +4,9 @@ title=The north grove
 |rulers=House forrester
 |religion=Old gods of forest
 |founder=
-|Image = tid grove.png}}}
+|Image = tid grove.png
+
+
 
  
 
@@ -20,6 +22,6 @@ A few years prior to Gared's quest to find the North Grove, one of the ice-river
 
 
 NorthGroveMap.png|A map of the North Grove.
-\/gallery} data-rte-instance130814-202365435656cca873b7588 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
+\/gallery data-rte-instance130814-202365435656cca873b7588 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / 
 
   Loading editor

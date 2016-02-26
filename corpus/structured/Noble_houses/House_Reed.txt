@@ -12,7 +12,9 @@ title=House reed
 | age=
 | founder=
 | ancestral weapon=
-}}}
+
+
+
 
  House Reed of Greywater Watch is a vassal house that holds fealty to House Stark of Winterfell. House Reed isthe southern-most house of the North. They control the vast area of swampland and bog stretching across the narrowest part of the continent of Westeros, the Neck. The Reeds and their vassals are Crannogmen, a distinct off-shoot of the First Men who have adapted to living in the swamps of the Neck. 
 

@@ -13,7 +13,9 @@ title=Duncan tuttle
 |Death = Executed by Rodrik Forrester for treason\A Nest of Vipers\ (player-determined)Presumably slain by Whitehill soldiers during the Battle of Ironrath
 |DeathEp = \The Ice Dragon\ (player-determined)
 |Last =\The Ice Dragon\ (player-determined)
-}}}
+
+
+
 
  
 
@@ -34,7 +36,7 @@ Unnamed - niece
 Presumably slain by Whitehill soldiers during the Battle of Ironrath
 |DeathEp = \The Ice Dragon\ (player-determined)
 |Last =\The Ice Dragon\ (player-determined)
-}}} data-rte-instance130814-29084794556cca63054953 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-29084794556cca63054953 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -115,7 +117,7 @@ Duncan Tuttle.jpg|Duncan production picture
 IFI Duncan Courtyard.png
 IFI Pre-Release 6.png|Duncan, seen while Ethan decides Erik's punishment.
 SOW Duncan Neutral.png
-\/gallery} data-rte-instance=130814-29084794556cca63054953 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
+\/gallery data-rte-instance130814-29084794556cca63054953 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / References 
 
  
 

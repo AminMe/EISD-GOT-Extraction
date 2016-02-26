@@ -6,7 +6,9 @@ title=Frey soldier 2
 | death=Slain by sandor clegane
 | allegiance=House frey
 | actor=Michael liebmann
-| deathep=\Mhysa\}}}
+| deathep=\Mhysa\
+
+
 
  
 

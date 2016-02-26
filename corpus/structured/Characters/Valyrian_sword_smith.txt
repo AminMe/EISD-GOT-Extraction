@@ -4,7 +4,9 @@ title=Valyrian sword smith
 |appearances=\Two swords\
 |status=alive
 |place=Volantis
-|Actor = tommy dunne}}}
+|Actor = tommy dunne
+
+
 
  A​Valyrian sword smithis a minor character in the fourth season. He is played by weapons master Tommy Dunne and only appears in Two Swords. Biography 
 
@@ -12,7 +14,7 @@ title=Valyrian sword smith
 
 Established on Volantis, he is the most skilled smith in the known world. He is one of only three smiths in the world who can re-work Valyrian steel. Season 4 
 
-At the request of Tywin Lannister he travels to King's Landing and melts down House Stark's Valyrian steel greatsword Ice into two smaller swords. Tywin gives one of these to his son Jaime, and the other to his grandson, King Joffrey.\Two Swords\\/ref} data-rte-instance130814-177443021856cca78adcccb classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
+At the request of Tywin Lannister he travels to King's Landing and melts down House Stark's Valyrian steel greatsword Ice into two smaller swords. Tywin gives one of these to his son Jaime, and the other to his grandson, King Joffrey.\Two Swords\\/ref data-rte-instance130814-177443021856cca78adcccb classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Appearance 
 
  Behind the scenes 
 

@@ -6,7 +6,9 @@ title=House glenmore
 |seat=Rillwater crossing
 |region=The north
 |allegiance=House ryswell
-}}}
+
+
+
 
  
 
@@ -31,7 +33,7 @@ Ramsay Snow flays Arthur Glenmore and sends the guard home. Elaena becomes very 
 
 
 TSITD Glenmore Keep.png|Glenmore Keep seen on a map of the North.
-\/gallery} data-rte-instance130814-172850681056cca9601572e srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Family Tree 
+\/gallery data-rte-instance130814-172850681056cca9601572e srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / Family Tree 
 
  References 
 

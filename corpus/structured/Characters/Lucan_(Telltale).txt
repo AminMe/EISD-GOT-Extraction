@@ -5,7 +5,9 @@ title=Lucan
 |status=alive
 |allegiance=House lannister
 |actor=Fabio tassone
-|appearances=4 episodes}}}
+|appearances=4 episodes
+
+
 
  
 

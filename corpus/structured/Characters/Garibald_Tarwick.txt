@@ -7,11 +7,13 @@ title=Garibald tarwick
 |titles=Lord
 |Allegiance = house tarwickSealord of Braavos (formerly)
 |Family = Sera Durwell - betrothed (player-determined)
-|Actor =Rob Rackstraw}}}
+|Actor =Rob Rackstraw
+
+
 
 Sealord of Braavos (formerly)
 |Family = Sera Durwell - betrothed (player-determined)
-|Actor Rob Rackstraw} data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Actor Rob Rackstraw data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
  
 
@@ -19,11 +21,11 @@ Garibald Tarwick is the Lord of House Tarwick. He appears in Game of Thrones: A 
 
  Background 
 
-Garibald was present at the Tourney at Lannisport, where they danced all evening, drank wine from their helmets, and enjoyed food. He considers himself a traveler, having once fought for the Sealord of Braavos, lived in Volantis for a time, traveled to Slaver's Bay once, which he describes as 'sweaty'.\Sons of Winter\\/ref} data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Sword in the Darkness 
+Garibald was present at the Tourney at Lannisport, where they danced all evening, drank wine from their helmets, and enjoyed food. He considers himself a traveler, having once fought for the Sealord of Braavos, lived in Volantis for a time, traveled to Slaver's Bay once, which he describes as 'sweaty'.\Sons of Winter\\/ref data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Sword in the Darkness 
 
 Lord Tarwick was invited to the royal wedding. While there, he is seen conversing with Lord Morgryn before talking to Sera Durwell, who hoped to marry a suitable noble. 
 
-Later, on their way to the throne room, Sera describes Garibald to Mira Forrester, stating he has a funny accent.\The Sword in the Darkness\\/ref} data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Sons of Winter 
+Later, on their way to the throne room, Sera describes Garibald to Mira Forrester, stating he has a funny accent.\The Sword in the Darkness\\/ref data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Sons of Winter 
 
 Lord Tarwick is accompanied to Tommen's coronation feast by Sera, joking along. Once Sera sees Mira, she tells Tarwick she will meet him inside, and he goes in. 
 
@@ -35,11 +37,11 @@ If Mira eavesdrops on Sera and Tarwick, she can hear Sera telling a joke to Tarw
 
 When Andros yells at Mira for talking with Lyman Lannister, Tarwick looks on concerned. With Lady Margaery Tyrell's arrival, and Sera joining her, Garibald comforts her on the scene she just caused. Mira states she can handle Lord Andros, but Tarwick responds that it was Lyman he was worried about. Mira is confused about this, and tries to press further, but Tarwick admits it is not a story fit for a maiden's ears. 
 
-Mira wishes to learn more, so Tarwick asks about Sera's family. He notes how her name, Sera Durwell, is interesting because the last Durwells went extinct 200 years ago. He asks Mira what she could tell him about her family. Mira can either lie to Lord Tarwick, mentioning that she met the Durwells while she was at Highgarden, or admit that Sera is a bastard and that the Tyrells renamed her. He then tells Mira about how Lyman Lannister was involved in an accident at the tourney at Lannisport, where he fell from his horse and need milk of the poppy for weeks to keep him from screaming, and he continues to drink it to this day. He states that he learned it from Andros, whose mouth is bigger than the Blackwater. If Mira lied, Tarwick states that he has some arrangements to make. If Mira revealed the truth, he instead states he has some arrangements to undo.\Sons of Winter\\/ref} data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / A Nest of Vipers 
+Mira wishes to learn more, so Tarwick asks about Sera's family. He notes how her name, Sera Durwell, is interesting because the last Durwells went extinct 200 years ago. He asks Mira what she could tell him about her family. Mira can either lie to Lord Tarwick, mentioning that she met the Durwells while she was at Highgarden, or admit that Sera is a bastard and that the Tyrells renamed her. He then tells Mira about how Lyman Lannister was involved in an accident at the tourney at Lannisport, where he fell from his horse and need milk of the poppy for weeks to keep him from screaming, and he continues to drink it to this day. He states that he learned it from Andros, whose mouth is bigger than the Blackwater. If Mira lied, Tarwick states that he has some arrangements to make. If Mira revealed the truth, he instead states he has some arrangements to undo.\Sons of Winter\\/ref data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / A Nest of Vipers 
 
 If you lied to Tarwick, Sera mentions that now that he and she are discussing marriage, she can't risk being associated with Mira, and that Mira knows how much Sera needs the marriage. 
 
-If you told the truth to Tarwick, Sera will instead mention that now Garibald is refusing to talk to her, she cannot risk being associated with Mira because Margaery is her only protection without Garibald.\A Nest of Vipers\\/ref} data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Ice Dragon 
+If you told the truth to Tarwick, Sera will instead mention that now Garibald is refusing to talk to her, she cannot risk being associated with Mira because Margaery is her only protection without Garibald.\A Nest of Vipers\\/ref data-rte-instance130814-141947175056cca6cd0d35d classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / The Ice Dragon 
 
 Tarwick appears in this episode if Mira lied to him about Sera's parentage and refused Morgryn's marriage proposal. He attends Mira's execution alongside Sera and watches as she is beheaded. Appearances 
 

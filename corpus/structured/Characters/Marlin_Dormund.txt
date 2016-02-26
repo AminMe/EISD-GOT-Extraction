@@ -11,14 +11,16 @@ title=Marlin dormund
 | family=
 | place=
 | allegiance=House dormundHouse Stark
-| Actor = }}}
+| Actor = 
+
+
 
 House Stark
-| Actor  }}} data-rte-instance130814-84501373656cca79cc7b7e classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Marlin Dormund is a northern lord and the head of House Dormund. He is a bannerman of House Stark. Biography 
+| Actor   data-rte-instance130814-84501373656cca79cc7b7e classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / Marlin Dormund is a northern lord and the head of House Dormund. He is a bannerman of House Stark. Biography 
 
  Season 2 
 
-Due to Ser Amory Lorch's nigh-illiteracy, a letter from Tywin Lannister to Lord Damon Marbrand is sent instead to Lord Marlin.\The Old Gods and the New\\/ref} data-rte-instance130814-84501373656cca79cc7b7e classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
+Due to Ser Amory Lorch's nigh-illiteracy, a letter from Tywin Lannister to Lord Damon Marbrand is sent instead to Lord Marlin.\The Old Gods and the New\\/ref data-rte-instance130814-84501373656cca79cc7b7e classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / In the books 
 
 In the A Song of Ice and Fire novels, there is no mention of any character named Marlin Dormund or House Dormund. References 
 

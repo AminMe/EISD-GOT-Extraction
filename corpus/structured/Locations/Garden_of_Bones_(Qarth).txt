@@ -17,4 +17,4 @@ References
 
 
 
- &nbsp; Loading editor
+  Loading editor

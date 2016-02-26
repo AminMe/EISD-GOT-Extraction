@@ -9,7 +9,9 @@ title=Vardis egen
 |Death = Killed by Bronn in a duel
 |DeathEp = \A Golden Crown\
 |Allegiance = House ArrynHouse Egen
-|Actor = Brendan McCormack}}}
+|Actor = Brendan McCormack
+
+
 
  (see below)\/small
 |Titles = Ser 
@@ -19,7 +21,7 @@ Captain of the Guards
 |DeathEp = \A Golden Crown\
 |Allegiance = House Arryn 
 House Egen
-|Actor  Brendan McCormack} data-rte-instance130814-206029134556cca6497d9d8 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
+|Actor  Brendan McCormack data-rte-instance130814-206029134556cca6497d9d8 classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typedouble-brackets / 
 
 Ser Vardis Egen is a recurring character in the first season. He is played by Brendan McCormack and debuts in The Wolf and the Lion.Ser Vardis Egen is the captain of the guards at the Eyrie. In the trial by combat, he is the champion for Lysa Arrynand is killed by Bronn, who fights for Tyrion. Biography 
 
@@ -27,9 +29,9 @@ Ser Vardis Egen is a recurring character in the first season. He is played by Br
 
 Vardis Egen was captain of Jon Arryn's personal guard in King's Landing and then became captain of the guards in the Eyriefor Robin Arryn and his mother, Lysa Arryn. He is a knight of some reputation, but is no longer a young man. Season 1 
 
-Vardis leads the group of knights who meet Catelyn Stark and her prisoner Tyrion Lannisterbefore she enters the Eyrie.\The Wolf and the Lion\\/ref} data-rte-instance130814-206029134556cca6497d9d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Lysa orders Tyrion imprisoned in the sky cells. After having spent quite some time in a sky cell,Tyrionfinally claims that he wants to confess his crimes and then demands a trial by combat. Though many men, including Lord Eon Hunter and a Knight of House Lynderly, offer to fight as Lysa's champion, she asks Ser Vardis to represent House Arryn. At first he says that fighting Tyrion would be unfair, but Vardis accepts when Tyrion asks that he be represented by a champion. The sellsword Bronn offers to be Tyrion's champion. Vardis fights dressed in full metal armor and carrying a large and heavy wooden shield. His speed and dexterity were easily outmatched by Bronn, who wore only a leather armored shirt. During the course of the fight, Bronn throws things into Ser Vardis' path and even trips him, while quickly dodging and weaving to avoid Vardis' attacks. Ultimately Bronn tires out the more heavily armored knight, severely injuring him with a quick slash and disarming him. 
+Vardis leads the group of knights who meet Catelyn Stark and her prisoner Tyrion Lannisterbefore she enters the Eyrie.\The Wolf and the Lion\\/ref data-rte-instance130814-206029134556cca6497d9d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Lysa orders Tyrion imprisoned in the sky cells. After having spent quite some time in a sky cell,Tyrionfinally claims that he wants to confess his crimes and then demands a trial by combat. Though many men, including Lord Eon Hunter and a Knight of House Lynderly, offer to fight as Lysa's champion, she asks Ser Vardis to represent House Arryn. At first he says that fighting Tyrion would be unfair, but Vardis accepts when Tyrion asks that he be represented by a champion. The sellsword Bronn offers to be Tyrion's champion. Vardis fights dressed in full metal armor and carrying a large and heavy wooden shield. His speed and dexterity were easily outmatched by Bronn, who wore only a leather armored shirt. During the course of the fight, Bronn throws things into Ser Vardis' path and even trips him, while quickly dodging and weaving to avoid Vardis' attacks. Ultimately Bronn tires out the more heavily armored knight, severely injuring him with a quick slash and disarming him. 
 
- Bronn waits for Lysa Arryn to call for mercy, but she does not respond, so he stabs Vardis in the neck and pushes him through the Moon Door in the center of the throne room, sending him down a thousand-foot drop. Lysa snaps angrily to Bronn that he didn't fight with honor. The sellsword agrees, before pointing to the Moon Door and noting that Ser Vardis did.\A Golden Crown\\/ref} data-rte-instance130814-206029134556cca6497d9d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
+ Bronn waits for Lysa Arryn to call for mercy, but she does not respond, so he stabs Vardis in the neck and pushes him through the Moon Door in the center of the throne room, sending him down a thousand-foot drop. Lysa snaps angrily to Bronn that he didn't fight with honor. The sellsword agrees, before pointing to the Moon Door and noting that Ser Vardis did.\A Golden Crown\\/ref data-rte-instance130814-206029134556cca6497d9d8 classplaceholder placeholder-ext src=data:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw typeext / Appearances 
 
  In the books 
 
@@ -41,6 +43,6 @@ In the book, Bronn kills Vardis without pushing him out of the Moon Door (which 
 Vale knights.jpg|Ser Vardis leads a column of Knights flying the banner of House Arryn through the Vale. Promotional image from \The Wolf and the Lion\. 
 Tyrion, Cat and Vardis at the Eyrie.jpg|Ser Vardis and Catelyn Stark present Tyrion Lannister at the Eyrie. Promotional image from \The Wolf and the Lion\.
 Vardis Egen.jpeg|Ser Vardis prepares to duel Bronn.
-\/gallery} data-rte-instance=130814-206029134556cca6497d9d8 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw class=media-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / See also Ser Vardis Egen at A Wiki of Ice and Fire. References 
+\/gallery data-rte-instance130814-206029134556cca6497d9d8 srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw classmedia-placeholder image-gallery alignLeft typeimage-gallery height185 width=185 / See also Ser Vardis Egen at A Wiki of Ice and Fire. References 
 
  de:Vardis Egen ru:Вардис Иген  Loading editor

@@ -12,7 +12,9 @@ title=House yronwood
 | cadets=
 | age=
 | founder=
-| weapon=}}}
+| weapon=
+
+
 
  
 
@@ -22,7 +24,7 @@ Yronwood is pronounced iron wood, being simply spelled with a Y instead of an I.
 
  Background 
 
- Known members Edgar Yronwood, a former Lord of Yronwood.Poisons (Histories &amp; Lore)\/ref} data-rte-instance130814-159045492356cca98c765f6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / ​In the books 
+ Known members Edgar Yronwood, a former Lord of Yronwood.Poisons (Histories &amp; Lore)\/ref data-rte-instance130814-159045492356cca98c765f6 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / ​In the books 
 
 ​In the A Song of Ice and Fire novels, House Yronwood of Yronwood is the most powerful house in Dorne after the Martells. Yronwood Castle is the last fortress defending the Boneway: this is reflected in their title Warden of the Stone Way. The Yronwoods were kings in Dorne before the arrival of the Rhoynar, and the head of the house continues to hold the self-styled title The Bloodroyal. 
 

@@ -6,7 +6,9 @@ title=Lord branfield
 | Status= Deceased
 | Allegiance=House BranfieldHouse Targaryen
 | Family=Talia Branfield - wifeElissa Forrester - daughterMalcolm Branfield - sonRodrik Forrester - grandsonAsher Forrester - grandsonMira Forrester - granddaughterEthan Forrester - grandsonTalia Forrester - granddaughterRyon Forrester - grandsonGregor Forrester - son-in-lawThorren Forrester - brother-in-law
-}}}
+
+
+
 
 \The Lost Lords\
 | Appearances=
@@ -24,7 +26,7 @@ Talia Forrester - granddaughter
 Ryon Forrester - grandson 
 Gregor Forrester - son-in-law 
 Thorren Forrester - brother-in-law
-}}} data-rte-instance130814-203515156456cca7e42a8fe classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
+ data-rte-instance130814-203515156456cca7e42a8fe classplaceholder placeholder-double-brackets srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=double-brackets / 
 
  
 
@@ -34,9 +36,9 @@ Lord Branfield was the head of House Branfield, and father to Elissa and Malcolm
 
 Lord Branfield was a Targaryen loyalist and fought for the crown during Robert's Rebellion. During the rebellion, he, along with most of his children, were slain. His daughter, Elissa, who married Gregor Forrester, and Malcolm managed to survive. Iron From Ice 
 
-In the codex, it's mentioned that Lord Branfield tried to marry Malcolm off several times, unsuccessfully.Malcolm Branfield - Game Codex Entry\/ref} data-rte-instance130814-203515156456cca7e42a8fe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Lost Lords 
+In the codex, it's mentioned that Lord Branfield tried to marry Malcolm off several times, unsuccessfully.Malcolm Branfield - Game Codex Entry\/ref data-rte-instance130814-203515156456cca7e42a8fe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / The Lost Lords 
 
-During the wake for Ethan and Gregor Forrester, Elissa recalls that her father's house was once mighty like House Forrester but it fell because of his loyalty to the Targaryens.\The Lost Lords\\/ref} data-rte-instance130814-203515156456cca7e42a8fe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family Tree 
+During the wake for Ethan and Gregor Forrester, Elissa recalls that her father's house was once mighty like House Forrester but it fell because of his loyalty to the Targaryens.\The Lost Lords\\/ref data-rte-instance130814-203515156456cca7e42a8fe classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext / Family Tree 
 
  References 
 

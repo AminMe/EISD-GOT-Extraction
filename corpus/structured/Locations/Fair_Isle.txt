@@ -1,5 +1,5 @@
 
-Fair Isle is an island of the Sunset Sea, located near the coast of the Westerlands. The island is the site of Faircastle. During the Greyjoy Rebellion, Stannis Baratheon destroyed the Iron Fleet in a battle off the coast of Fair Isle.Complete Guide to Westeros\/ref} data-rte-instance130814-141092192656cca93053818 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
+Fair Isle is an island of the Sunset Sea, located near the coast of the Westerlands. The island is the site of Faircastle. During the Greyjoy Rebellion, Stannis Baratheon destroyed the Iron Fleet in a battle off the coast of Fair Isle.Complete Guide to Westeros\/ref data-rte-instance130814-141092192656cca93053818 classplaceholder placeholder-ext srcdata:image/gif;base64,R0lGODlhAQABAIABAAAAAP///yH5BAEAAAEALAAAAAABAAEAQAICTAEAOw type=ext /
 
  In the books 
 In the A Song of Ice and Fire novels, Fair Isle is controlled by House Farman, vassals of House Lannister.
@@ -13,4 +13,4 @@ References
 ru:Светлый остров
 zh:仙女岛
 
- &nbsp; Loading editor
+  Loading editor
